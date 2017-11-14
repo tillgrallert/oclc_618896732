@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xml:id="oclc_618896732-div_8"
+     next="oclc_618896732-div_9"
+     prev="oclc_618896732-div_7">
+   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/"
+              xmlns:html="http://www.w3.org/1999/xhtml"
+              xmlns:opf="http://www.idpf.org/2007/opf"
+              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
+              xml:id="teiHeader_1.d2e6">
+      <fileDesc xml:id="fileDesc_1.d2e8">
+         <titleStmt xml:id="titleStmt_1.d2e10">
+            <title xml:id="title_1.d2e12">معجم المطبوعات العربية والمعربة</title>
+            <title type="sub" xml:id="title_2.d2e15">TEI edition</title>
+            <author ref="http://viaf.org/viaf/49375370" xml:id="author_1.d2e18">
+               <persName xml:lang="ar" xml:id="persName_1.d2e20">
+                  <forename xml:id="forename_1.d2e22">يوسف</forename> بن <forename xml:id="forename_2.d2e25">اليان</forename> 
+                  <surname xml:id="surname_1.d2e28">سركيس</surname>
+               </persName>
+            </author>
+            <respStmt xml:lang="en" xml:id="respStmt_1.d2e33">
+                    <resp xml:lang="en" xml:id="resp_1.d2e35">Transcription</resp>
+                    <orgName xml:id="org_MS" xml:lang="en">المكتبة الشاملة</orgName>
+                </respStmt>
+                <respStmt xml:lang="en" xml:id="respStmt_2.d2e42">
+                    <resp xml:lang="en" xml:id="resp_2.d2e44">TEI edition</resp>
+                    <persName xml:id="pers_TG" xml:lang="en">Till Grallert</persName>
+                </respStmt>
+         </titleStmt>
+         <publicationStmt xml:id="publicationStmt_1.d2e52">
+            <p xml:id="p_1.d2e54">Unpulished TEI edition</p>
+         </publicationStmt>
+         <sourceDesc xml:id="sourceDesc_1.d2e58">
+        <!--<p>
+          <dc:title xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">معجم المطبوعات العربية والمعربة</dc:title>
+          <dc:creator opf:role="aut" xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">اليان سركيس</dc:creator>
+          <dc:publisher xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">http://shamela.ws</dc:publisher>
+          <dc:language xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">ar</dc:language>
+          <dc:identifier id="BookID" opf:scheme="UUID" xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">urn:uuid:b7863ffc9dd21946d047a19af8388308</dc:identifier>
+        </p>-->
+            <biblStruct xml:lang="ar" xml:id="biblStruct_1.d2e62">
+               <monogr xml:id="monogr_1.d2e64">
+                  <title level="m" xml:id="title_3.d2e66">معجم المطبوعات العربية والمعربة</title>
+                  <title level="m" type="sub" xml:id="title_4.d2e69">هو شامل لأسماء الكتب المطبوعة في الأقطار الشرقية والغربية مع ذكر أسماء مؤلفيها ولمعة من ترجمتهم وذلك من يوم ظهور الطباعة إلى نهاية السنة الهجرية 1339 الموافقة لسنة 1919 ميلادية </title>
+                  <author ref="http://viaf.org/viaf/49375370" xml:id="author_2.d2e72">
+                     <persName xml:lang="ar" xml:id="persName_3.d2e74">
+                        <forename xml:id="forename_3.d2e76">يوسف</forename> بن <forename xml:id="forename_4.d2e79">اليان</forename> 
+                        <surname xml:id="surname_2.d2e82">سركيس</surname>
+                     </persName>
+                  </author>
+                  <imprint xml:id="imprint_1.d2e87">
+                     <publisher xml:id="publisher_1.d2e89">
+                        <orgName xml:id="orgName_2.d2e91">مكتبة الثقافة الدينية</orgName>
+                     </publisher>
+                     <pubPlace xml:id="pubPlace_1.d2e95">
+                        <placeName xml:id="placeName_1.d2e97">القاهرة</placeName>
+                     </pubPlace>
+                     <date when="1928" xml:id="date_1.d2e101">1928</date>
+                  </imprint>
+               </monogr>
+               <idno type="oclc" xml:id="idno_1.d2e106">618896732</idno>
+               <idno type="oclc" xml:id="idno_2.d2e109">903540031</idno>
+               <idno type="oclc" xml:id="idno_3.d2e112">4771134946</idno>
+               <idno type="oclc" xml:id="idno_4.d2e115">4770616851</idno>
+               <idno type="oclc" xml:id="idno_5.d2e119">4771201424</idno>
+               <idno type="oclc" xml:id="idno_6.d2e122">4770859717</idno>
+               <idno type="oclc" xml:id="idno_7.d2e125">4770623004</idno>
+               <idno type="oclc" xml:id="idno_8.d2e128">4771076478</idno>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xml:lang="en" xml:id="encodingDesc_1.d2e134">
+        <samplingDecl xml:id="samplingDecl_1.d2e136">
+            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242"
+                    xml:lang="en"
+                    xml:id="ref_1.d2e140">
+                  <foreign xml:lang="ar-Latn-x-ijmes" xml:id="foreign_1.d2e142">al-maktabat al-shāmila</foreign>
+               </ref>. It is important to note that the information on page numbers recorded in <att xml:id="att_1.d2e146">n</att> on <tag xml:id="tag_1.d2e149">pb ed="print"</tag> correspond to the original printed edition.</p>
+            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139"
+                    xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958"
+                    xml:id="ref_3.d2e158">vol. 2</ref>.</p>
+        </samplingDecl>
+      </encodingDesc>
+      <revisionDesc xml:id="revisionDesc_1.d2e164">
+         <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
+      </revisionDesc>
+  </teiHeader>
+   <text xml:lang="ar">
+      <body>
+         <div xmlns:dc="http://purl.org/dc/elements/1.1/"
+              xmlns:html="http://www.w3.org/1999/xhtml"
+              xmlns:opf="http://www.idpf.org/2007/opf"
+              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
+              xml:id="div_23.d2e34786"
+              type="section">
+            <head xml:id="head_21.d2e34788">حرف الذال</head>
+            <p xml:id="p_5421.d2e34791">الذبياني <hi rend="quotation-marks" xml:id="hi_1286.d2e34793"> النابغة </hi> (604 م) هو زياد بن معاوية من ذبيان من قيس ويكنى امامة 
+          <note type="footnote" xml:id="note_617.d2e34796">
+                  <p xml:id="p_5421.d2e34798">(1) W.</p>
+                  <p xml:id="p_5422.d2e34801">Guirgas etlgn.</p>
+                  <p xml:id="p_5423.d2e34804">Kratchkovsky الاغاني 9 ص 161 إلى 177 الشعر والشعراء 70 و 126 الجمهرة 52 خزانة الادب 287 1 (*)</p>
+               </note>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P915.xhtml"
+                   ed="print"
+                   n="909"
+                   xml:id="pb_461.d2e34808"/>وانما سمي النابغة لقوله: وحلت في بني القين بن جسر * وقد نبغت لنا منهم شؤون والنابغة كان خاصا بالنعمان بن المنذر صاحب الحيرة ومن ندمائه وأهل ندمائه وأهل انسه وهو من الطبقة الاولى المقدمين على سائر الشعراء.</p>
+            <p xml:id="p_5425.d2e34811">روي أن عمر بن الخطاب سأل معشر غطفان من الذي يقول: اتيتك عاريا خلقا ثيابي * على خرق تظن به الظنون قالوا النابغة.</p>
+            <p xml:id="p_5426.d2e34814">قال ذاك أشعر شعرائكم كان يضرب له قبة من أدم بسوق عكاظ فتأتيه الشعراء فتعرض عليه اشعارها.</p>
+            <p xml:id="p_5427.d2e34817">وأول من أنشده الاعشى ثم حسان بن ثابت ثم انشدته الشعراء وأنشدته خنساء بنت عمرو بن الشريد ووقعت العداوة بينه وبين المنخل الشاعر فوشى به إلى النعمان فهرب النابغة إلى بني غسان ونزل بعمرو بن الحارث</p>
+            <p xml:id="p_5428.d2e34821">الاصغر ملك الغساسنة فمدحه وما زال مقيما عنده حتى مات ديوان (النابغة الذبياني) طبعة جديدة موسومة بالتوضيح والبيان عن شعر النابغة ذبيان.</p>
+            <p xml:id="p_5429.d2e34824">عني بنشره محمد افندي أدهم صاحب مكتبة الرشاد قال في مقدمته انه مأخوذ عن نسخة مخطوطة قديمة العهد وعن نسخ من طبع أوروبا وهو بالشكل الكامل والقصائد المنقولة عن رواية الاصمعي مشروحة كلها شرحا حسنا مصر 1910 م ص 116 وطبع في مجموع مشتمل على خمسة دواوين من أشعار العرب أنظر شعراء العرب مجموع مشتمل الخ وطبع في المجلة الاسيوية الفرنسية سنة 1868 ومعه ترجمة فرنسية باعتناء الاستاذ ديرنبرغ الذهبي <hi rend="quotation-marks" xml:id="hi_1287.d2e34826"> شمس الدين </hi> (748 673 هـ) أبو عبد الله محمد بن احمد بن عثمان بن قايماز شمس الدين الذهبي الدمشقي الفارقي الشافعي 
+          <note type="footnote" xml:id="note_618.d2e34829">
+                  <p xml:id="p_5429.d2e34831">فوات الوفيات 183 2 الدرر الكامنة 96 2 شذرات الذهب 395 3 المنهل الصافي 107.</p>
+                  <p xml:id="p_5430.d2e34834">طبقات السبكي 216 3 طبقات الحفاظ 89 3.</p>
+                  <p xml:id="p_5431.d2e34837">الفوائد البهية 12 بالتعليقات.</p>
+                  <p xml:id="p_5432.d2e34840">جلاء العينين 21.</p>
+                  <p xml:id="p_5433.d2e34843">مفتاح السعادة 216 (*)</p>
+               </note>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P916.xhtml"
+                   ed="print"
+                   n="910"
+                   xml:id="cb_455.d2e34847"/>ولد بدمشق ودرس الحديث من صغره ورحل في طلبه</p>
+            <p xml:id="p_5435.d2e34850">حتى اتقنه.</p>
+            <p xml:id="p_5436.d2e34853">ثم انتقل إلى مصر وقرأ فيها العلوم الشرعية سمع من خلائق يزيدون على ألف ومائتين وأخذ الفقه عن الكمال الزملكاني وابن قاضي شهبه ولما عاد إلى دمشق عين أستاذا للحديث في مسجد أم صالح ثم في المدرسة الاشرفية وغيرها: سمع من الجمع الكثير وما زال يخدم هذا الفن (الحديث) إلى أن رسخت فيه قدمه وتعب الليل والنهار وما تعب لسانه وقلمه.</p>
+            <p xml:id="p_5437.d2e34856">وضربت باسمه الامثال وقام بدمشق يرحل إليه من سائر البلاد وتناويه السؤالات من كل ناد.</p>
+            <p xml:id="p_5438.d2e34859">اطنب فيه السبكي ثم قال: وهو على الخصوص سيدي ومعتمدي وله علي من الجميل ما أخجل وجهي وأملا يدي.</p>
+            <p xml:id="p_5439.d2e34863">جزاه الله عني افضل الجزاء.</p>
+            <p xml:id="p_5440.d2e34866">وقال البرزالي في معجمه: رجل فاضل صحيح المذهب.</p>
+            <p xml:id="p_5441.d2e34869">اشتغل وحصل ورحل وكتب الكثير.</p>
+            <p xml:id="p_5442.d2e34872">وقال ابن شاكر الكتبي في ترجمته: حافظ لا يجاري.</p>
+            <p xml:id="p_5443.d2e34875">ولاحظ لا يبارى.</p>
+            <p xml:id="p_5444.d2e34878">اتقن الحديث ورجاله.</p>
+            <p xml:id="p_5445.d2e34882">ونظر علله وأحواله.</p>
+            <p xml:id="p_5446.d2e34885">وعرف تراجم الناس وأزال الابهام في تواريخهم والالباس.</p>
+            <p xml:id="p_5447.d2e34888">جمع الكثير.</p>
+            <p xml:id="p_5448.d2e34891">ونفع الجم الغفير.</p>
+            <p xml:id="p_5449.d2e34894">وأكثر من التصنيف ووفر بالاختصار مؤنة التطويل في التأليف اه له تاريخ الاسلام في اثنى عشر مجلدا أربى فيه على من تقدمه بتحرير أخبار المحدثين خصوصا وقطعه من سنة سبعمائة واختصر منه مختصرات كثيرة منها العبر وسير</p>
+            <p xml:id="p_5450.d2e34897">النبلاء وملخص التاريخ قدر نصفه وطبقات الحفاظ وطبقات القراء والاشارة وغير ذلك وقد عدد صاحب المنهل الصافي مؤلفاته.</p>
+            <p xml:id="p_5451.d2e34901">كانت وفاته بدمشق 1 تجريد أسماء الصحابة تلخيص أسد الغابة أوله: الحمد لله العلي الاعلى ذكر فيه أن كتاب ابن الاثير (أي اسد الغابة) نفيس مستقصى لاسماء الصحابة الذين ذكروا في الكتب الاربعة..وهو كتاب ابن منده وكتاب ابي نعيم وكتاب أبي موسى الاصبهانيين وكتاب ابن عبد البر 
+          <gap resp="#org_MS" xml:id="gap_25.d2e34903"/>
+          قال وزدت انا طائفة من الصحابة الذين نزلوا حمص الخ جزء 2 حيدر آباد سنة 1315 عدد صحائف الجزئين 828 (*)
+
+          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P917.xhtml"
+                   ed="print"
+                   n="911"
+                   xml:id="pb_462.d2e34905"/>
+          2 تذكرة الحفاظ (أو) تذكرة حفاظ الحديث جزء 4 حيدر آباد (دون تاريخ) 3 تذهيب تهذيب الكمال في أسماء الرجال (رجال الحديث) أنظر خلاصة تذهيب التهذيب لاحمد ابن عبد الله الخزرجي 4 دول الاسلام وصل به إلى سنة 715 وذيله السخاوي إلى سنة 744 جزء 2 حيدر آباد 1333 5 رسالة في الرواة الثقاة المتكلم فيهم بما لا يوجب ردهم مصر 1324 وفي مجموعة رقم 60 6 الطب النبوي وفي كشف الظنون لجلال الدين</p>
+            <p xml:id="p_5452.d2e34908">السيوطي.</p>
+            <p xml:id="p_5453.d2e34911">ولكن ينافيه ما بآخر النسخة الخطية المودوعة في دار الكتب المصرية (الفهرست جزء 6 ص 23) وهو مرتب على ثلاثة فنون (1) في قواعد الطب (2) في الادوية والاغذية (3) في علاج الامراض طبع حجر مصر (دون تاريخ) نحو 1861 م وبهامشه: تسهيل المنافع في الطب والحكمه لابراهيم بن أبي بكر الازرق وطبعت ترجمته باللغة الفرنسية في الجزائر سنة 1860 7 طبقات الحفاظ لخصه جلال الدين السيوطي وزاد عليه أنظر السيوطي: طبقات الحفاظ 8 كتاب العلو للعلي الغفار في صحيح الاخبار وسقيمها طبع على نفقة محمد افندي ناصيف عن نسخة مطبوعة طبعا حجريا في الهند <choice xml:id="choice_1036.d2e34913">
+                  <abbr xml:id="abbr_1036.d2e34915">مط</abbr>
+                  <expan xml:id="expan_1036.d2e34918">مطبعة</expan>
+               </choice> المنار 1332 ص 356 9 المشتبه في اسماء الرجال (رجال الحديث) ويسمى أيضا مشتبه النسبة أوله: الحمد لله الذي لم يتخذ ولدا ولم يكن له شريك الخ قال: علقت فيه كلام الحافظ عبد الغني بن سعيد الازدي وابن ماكولا وابن نقطة وابي علاء الفرضي وغيرهم لكن اعتمد فيه على ضبط القلم فكثر فيه الغلط والتحريف (كشف الظنون) ليدن 1863.</p>
+            <p xml:id="p_5454.d2e34923">وطبع بعناية الاستاذ دي يونغ الهولندي ليدن 1881 ص 612 و 12
+
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P918.xhtml"
+                   ed="print"
+                   n="912"
+                   xml:id="cb_456.d2e34925"/>
+          10 ميزان الاعتدال في نقد الرجال</p>
+            <p xml:id="p_5455.d2e34928">وهو كتاب جامع لنقد رواة الآثار حاو لتراجم ائمة الاخبار مع ايجاز العبارات وايفاء الاشارات.</p>
+            <p xml:id="p_5456.d2e34931">وقال في كشف الظنون: هو كتاب جليل في ايضاح نقلة العلم النبوي ألفه بعد كتابه المغني وزاد عليه زيادات حسنة من الرواة المذكورين في الكتاب المذيل على الكامل لابن عدي ورتبه على حروف المعجم لكناو 1884 و 1301 جزء 3 <choice xml:id="choice_1037.d2e34933">
+                  <abbr xml:id="abbr_1037.d2e34935">مط</abbr>
+                  <expan xml:id="expan_1037.d2e34938">مطبعة</expan>
+               </choice> السعادة 1325.</p>
+            <p xml:id="p_5457.d2e34944">الذهبي الشافعي (مصطفى) (1280) مصطفى بن السيد حنفي بن حسن الذهبي المصري مولدا ومنشأ أخذ عن العلامة الدمنهوري والفضل الفضالي وعليهما تخرج وعن الحبر القويسني والنور الشنواتي وغيرهما حتى برع في أكثر الفنون وشاع فضله في سائر الاقطار وتصدر للاقراء والتدريس إلى أن توفي 1 رسالة في تحرير الدرهم والمثقال والرطل والمثقال وهي رسالة صغيرة ألفها سنة 1272 طبع حجر <choice xml:id="choice_1038.d2e34946">
+                  <abbr xml:id="abbr_1038.d2e34948">مط</abbr>
+                  <expan xml:id="expan_1038.d2e34951">مطبعة</expan>
+               </choice> محمد أنسي 1283 ص 15 وطبعت قبلا على الحجر بمصر سنة 1282 ومعها: 2 الرسالة الذهبية في المسائل الدقيقة المنهجية (فقه شافعي) ويليها رسالة له في تحرير الدرهم والمثقال</p>
+            <p xml:id="p_5458.d2e34956">والرطل والمكيال ثم 3 رسالة في المناسخة 4 رسالة في تفسير غريب القرآن العظيم (رتبه على حروف المعجم) طبع حجر (دون تاريخ) 
+          <note type="footnote" xml:id="note_619.d2e34958">
+                  <p xml:id="p_5458.d2e34960">ترجمة في اخر رسائله المطبوعة والمذكورة رقم 2 و 3 (*)</p>
+               </note>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P919.xhtml"
+                   ed="print"
+                   n="913"
+                   xml:id="pb_463.d2e34964"/>ذو الفقار * أبو الحسن احمد ذو الفقار ذو الرمة أبو الحارس غيلان بن عقبة بن مسعود المعروف بذي الرمة (117 77) كان من أشعر أهل زمانه.</p>
+            <p xml:id="p_5460.d2e34967">وكان مربوع القامة قصيرا ذميما بليغ الكلام لسنا.</p>
+            <p xml:id="p_5461.d2e34970">قال جرير في وصفه.</p>
+            <p xml:id="p_5462.d2e34973">انه أخذ من ظريف الشعر وحسنه ما لا يسبقه إليه أحد ديوان شعر ذي الرمة وهو غيلان بن عقبة العدوي عني بتصحيحه وتنقيحه كارليل هنري هيس مكارتني طبع على نفقة كلية كمبريج في مطبعة الكلية 1919 - 1337 ص 676 عدا الفهارس والذيل</p>
+         </div>
+      </body>
+   </text>
+</TEI>
