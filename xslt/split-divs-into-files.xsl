@@ -7,6 +7,8 @@
     
     <xsl:output method="xml" encoding="UTF-8" indent="yes" omit-xml-declaration="no"/>
     
+    <!-- this stylesheet divides a TEI XML file into smaller files along the <div> children of  <body> and links them together by means of XPointers-->
+    
     <xsl:variable name="v_file-name-base">
         <xsl:value-of select="substring-before(base-uri(),'.TEIP5')"/>
     </xsl:variable>
