@@ -48,14 +48,14 @@
                <monogr xml:id="monogr_1.d2e64">
                   <title level="m" xml:id="title_3.d2e66">معجم المطبوعات العربية والمعربة</title>
                   <title level="m" type="sub" xml:id="title_4.d2e69">هو شامل لأسماء الكتب المطبوعة في الأقطار الشرقية والغربية مع ذكر أسماء مؤلفيها ولمعة من ترجمتهم وذلك من يوم ظهور الطباعة إلى نهاية السنة الهجرية 1339 الموافقة لسنة 1919 ميلادية </title>
-                   <idno type="oclc" xml:id="idno_1.d2e106">618896732</idno>
-               <idno type="oclc" xml:id="idno_2.d2e109">903540031</idno>
-               <idno type="oclc" xml:id="idno_3.d2e112">4771134946</idno>
-               <idno type="oclc" xml:id="idno_4.d2e115">4770616851</idno>
-               <idno type="oclc" xml:id="idno_5.d2e119">4771201424</idno>
-               <idno type="oclc" xml:id="idno_6.d2e122">4770859717</idno>
-               <idno type="oclc" xml:id="idno_7.d2e125">4770623004</idno>
-               <idno type="oclc" xml:id="idno_8.d2e128">4771076478</idno>
+                   <idno type="OCLC" xml:id="idno_1.d2e106">618896732</idno>
+               <idno type="OCLC" xml:id="idno_2.d2e109">903540031</idno>
+               <idno type="OCLC" xml:id="idno_3.d2e112">4771134946</idno>
+               <idno type="OCLC" xml:id="idno_4.d2e115">4770616851</idno>
+               <idno type="OCLC" xml:id="idno_5.d2e119">4771201424</idno>
+               <idno type="OCLC" xml:id="idno_6.d2e122">4770859717</idno>
+               <idno type="OCLC" xml:id="idno_7.d2e125">4770623004</idno>
+               <idno type="OCLC" xml:id="idno_8.d2e128">4771076478</idno>
                   <author ref="http://viaf.org/viaf/49375370" xml:id="author_2.d2e72">
                      <persName xml:lang="ar" xml:id="persName_3.d2e74">
                         <forename xml:id="forename_3.d2e76">يوسف</forename> بن <forename xml:id="forename_4.d2e79">اليان</forename> 
