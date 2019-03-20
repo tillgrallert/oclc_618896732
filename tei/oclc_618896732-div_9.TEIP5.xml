@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -340,7 +338,8 @@
                         <hi rend="quotation-marks" xml:id="hi_1297.d2e35275">جورج</hi>
                         (1) التقدمة الزكية لتعليم اللغة الفرنساوية والتركية</p>
                     <p xml:id="p_5513.d2e35279">بطرسبرج 1828 - 1829 جزء 2 الراسي 
-                        <hi rend="quotation-marks" xml:id="hi_1298.d2e35281">سامي افندي يواكيم</hi>(1927 م) من أدباء سوريا المقيمين في البرازيل الواجبات تهذيبي اجتماعي
+                        <hi rend="quotation-marks" xml:id="hi_1298.d2e35281">سامي افندي يواكيم</hi>
+                        (1927 م) من أدباء سوريا المقيمين في البرازيل الواجبات تهذيبي اجتماعي
                         قدمه هدية معنوية إلى والده يواكيم مسعود الراسي وقسمه إلى بابين الاول
                         الواجبات العامة والثاني الواجبات الافرادية الخاصة ببعض الافراد دون غيرهم سان
                         باولو (برازيل) 1911 ص 174 راغب باشا (1176 هـ) هو الوزير محمد باشا المعروف
@@ -378,7 +377,8 @@
                             <abbr>مط</abbr>
                             <expan>مطبعة</expan></choice>المصرية 1915
                         ص 132 راغب 
-                        <hi rend="quotation-marks" xml:id="hi_1299.d2e35308">ميخائيل</hi>العزوبة والزواج 
+                        <hi rend="quotation-marks" xml:id="hi_1299.d2e35308">ميخائيل</hi>
+                        العزوبة والزواج 
                         <placeName>مصر</placeName>
                         الراغب الاصفهاني (502 هـ) 
                         <note type="footnote" xml:id="note_626.d2e35311">
@@ -495,14 +495,16 @@
                                 الآتي بعده (*)</p>
                         </note>
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P931.xhtml" ed="print" n="925" xml:id="pb_469.d2e35457"/>الرافعي 
-                        <hi rend="quotation-marks" xml:id="hi_1307.d2e35459">عبد الكريم بن محمد</hi>(623 هـ) سواد العينين في مناقب الغوث أبي العلمين (احمد الرفاعي) بولاق
+                        <hi rend="quotation-marks" xml:id="hi_1307.d2e35459">عبد الكريم بن محمد</hi>
+                        (623 هـ) سواد العينين في مناقب الغوث أبي العلمين (احمد الرفاعي) بولاق
                         1301 ص 31 تنبيه: في طبقات السبكي جزء 5 ص 119 ذكر ترجمة: أبو القاسم عبد
                         الكريم بن محمد بن عبد الكريم ابن الفضل بن الحسين بن الحسن القزويني
                         الرافعي.</p>
                     <p xml:id="p_5532.d2e35463">وفي مفتاح السعادة جزء 443 1 وجزء 213 2 ترجمة أبي
                         القاسم غير انه لا ذكر في هاتين الترجمتين لكتاب سواد العينين المنسوب إليه ولم
                         يمكني تحقيق ذلك ولهذا لم أت بترجمته في هذا المحل الرافعي 
-                        <hi rend="quotation-marks" xml:id="hi_1308.d2e35465">محمد بدر الدين الخلوتي</hi>بديع التحبير شرح ترجمان التحبير (بلاغة) 
+                        <hi rend="quotation-marks" xml:id="hi_1308.d2e35465">محمد بدر الدين الخلوتي</hi>
+                        بديع التحبير شرح ترجمان التحبير (بلاغة) 
                         <choice xml:id="choice_1056.d2e35468">
                             <abbr xml:id="abbr_1056.d2e35470">مط</abbr>
                             <expan xml:id="expan_1056.d2e35473">مطبعة</expan></choice>العلمية 1313 ص 107</p>
@@ -894,7 +896,8 @@
                         الدين الرملي (
                         <placeName>مصر</placeName>
                         1286) الرشيدي 
-                        <hi rend="quotation-marks" xml:id="hi_1337.d2e35964">احمد (افندي) الحكيم</hi>(1282 هـ) ااحمد افندي بن حسن بن علي الرشيدي المصري من نوابغ مدرسة الطب
+                        <hi rend="quotation-marks" xml:id="hi_1337.d2e35964">احمد (افندي) الحكيم</hi>
+                        (1282 هـ) ااحمد افندي بن حسن بن علي الرشيدي المصري من نوابغ مدرسة الطب
                         المصرية.</p>
                     <p xml:id="p_5570.d2e35968">كان من جملة الذين سافروا في الارسالية الاولى إلى
                         أوروبا ولما عاد إلى القاهرة عين أستاذا للطبيعيات في المدرسة الطبية وأخذ في
@@ -943,25 +946,38 @@
                         ابن عرفة الوافية (فقه مالك) طبع حجر فاس 1316 ص 400 </p>
                 </div>
                 <div type="item">
-                    <head> <persName> <surname>الرصافي</surname> <hi rend="quotation-marks" xml:id="hi_1340.d2e35999"> <forename>معروف</forename> <roleName rend="brackets" type="title">افندي</roleName></hi> </persName> </head>
+                    <head>
+                        <persName>
+                            <surname>الرصافي</surname>
+                            <hi rend="quotation-marks" xml:id="hi_1340.d2e35999">
+                                <forename>معروف</forename>
+                                <roleName rend="brackets" type="title">افندي</roleName>
+                            </hi>
+                        </persName>
+                    </head>
                     <p>الشاعر البغدادي 
                         <listBibl>
-                            <bibl>1 دفع الهجنة في ارتضاح اللكنة ذكر فيه الالفاظ العربية التي
-                                استعملها الترك في غير معناها استانة 1331 ص 111 </bibl>
                             <bibl>
-                                2 
+                                1 دفع الهجنة في ارتضاح اللكنة ذكر فيه الالفاظ العربية التي استعملها الترك في غير معناها 
+                                <placeName>استانة</placeName>
+                                1331 ص 111 </bibl>
+                            <bibl>2 
                                 <title level="m">ديوان الرصافي</title>
-                                ويعرف ب
+                                ويعرف ب 
                                 <title level="m">الرصافيات</title>
-                                تولي طبع قصائدها وتبويبها وتفسير ألفاظها
+                                تولي طبع قصائدها وتبويبها وتفسير ألفاظها 
                                 <editor>
-                                    <persName>محيي الدين افندي
-                                    الخياط</persName></editor>و
+                                    <persName>
+                                        <forename>محيي الدين</forename>
+                                        <roleName type="title">افندي</roleName>
+                                        <surname>الخياط</surname></persName>
+                                </editor>و 
                                 <editor>
-                                    <persName>الشيخ مصطفى
-                                        الغلائيني</persName></editor>ورتب على أربعة أبواب 1 في
-                                الكونيات 2 في الاجتماعيات 3 في التاريخيات 4 في الوصفيات وقدم له
-                                مقدمة بليغة في الشعر بنوع عام وشعر الرصافي وشعراء عصره بنوع خاص
+                                    <persName ref="viaf:265101315">
+                                        <roleName type="honorific">الشيخ</roleName>
+                                        <forename>مصطفى</forename>
+                                        <surname>الغلائيني</surname></persName>
+                                </editor>ورتب على أربعة أبواب 1 في الكونيات 2 في الاجتماعيات 3 في التاريخيات 4 في الوصفيات وقدم له مقدمة بليغة في الشعر بنوع عام وشعر الرصافي وشعراء عصره بنوع خاص 
                                 <placeName>بيروت</placeName>
                                 <date when="1910">1910</date>
                                 - 
@@ -1169,7 +1185,8 @@
                             <abbr xml:id="abbr_1091.d2e36219">مط</abbr>
                             <expan xml:id="expan_1091.d2e36222">مطبعة</expan></choice>المعارف 1290 26 المعادن النافعة لتدبير معايش الخلايق في علم
                         المعادن تأليف المعلم فرارد معرب بولاق 1248 ص 47 وكتب في أوله اسم المعرب 
-                        <hi rend="quotation-marks" xml:id="hi_1347.d2e36226">بدوي رافع الطحطاوي</hi>27 مقدمة وطنية مصريه بولاق 1283 28 مناهج الالباب المصرية في مباهج
+                        <hi rend="quotation-marks" xml:id="hi_1347.d2e36226">بدوي رافع الطحطاوي</hi>
+                        27 مقدمة وطنية مصريه بولاق 1283 28 مناهج الالباب المصرية في مباهج
                         الآداب العصرية كتاب حوى ضروبا من الآداب وصنوفا</p>
                     <p xml:id="p_5613.d2e36230">من السياسات وفنون الصناعات بولاق 1286 ص 291 
                         <choice xml:id="choice_1092.d2e36232">
@@ -1250,7 +1267,8 @@
                         <hi rend="quotation-marks" xml:id="hi_1352.d2e36315">العظم رفيق بك</hi>
                         الرقعي * عبد الرحمن
                         الرقعي الرقي 
-                        <hi rend="quotation-marks" xml:id="hi_1353.d2e36318">ابراهيم</hi>* الرخجي 
+                        <hi rend="quotation-marks" xml:id="hi_1353.d2e36318">ابراهيم</hi>
+                        * الرخجي 
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P955.xhtml" ed="print" n="949" xml:id="pb_481.d2e36321"/>
                         الركالي طاهر ابن الشيخ عبد
                         الرحيم بن علي الركالي الداغستاني الحسيني بارقة السيوف الداغستانية في بعض
@@ -1421,7 +1439,8 @@
                         .</p>
                     <p xml:id="p_5652.d2e36510">وفي الاستانة 1315 ضمن مجموعة في انصاف الشرح المذكور
                         رهبه 
-                        <hi rend="quotation-marks" xml:id="hi_1361.d2e36512">جرجى ابراهيم</hi>نزهة الطلب في علم المغاني والطرب  
+                        <hi rend="quotation-marks" xml:id="hi_1361.d2e36512">جرجى ابراهيم</hi>
+                        نزهة الطلب في علم المغاني والطرب  
                         <note type="footnote" xml:id="note_638.d2e36515">
                             <p xml:id="p_5652.d2e36517">ابن خلكان 418 1 مفتاح السعادة 142 1 (*)</p></note>
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P961.xhtml" ed="print" n="955" xml:id="pb_484.d2e36521"/>قسمه على اثنين وعشرين فصلا
