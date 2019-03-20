@@ -947,7 +947,7 @@
                 </div>
                 <div type="item">
                     <head>
-                        <persName>
+                        <persName ref="viaf:14924300">
                             <surname>الرصافي</surname>
                             <hi rend="quotation-marks" xml:id="hi_1340.d2e35999">
                                 <forename>معروف</forename>
@@ -967,7 +967,7 @@
                                 <title level="m">الرصافيات</title>
                                 تولي طبع قصائدها وتبويبها وتفسير ألفاظها 
                                 <editor>
-                                    <persName>
+                                    <persName ref="viaf:4812503">
                                         <forename>محيي الدين</forename>
                                         <roleName type="title">افندي</roleName>
                                         <surname>الخياط</surname></persName>
