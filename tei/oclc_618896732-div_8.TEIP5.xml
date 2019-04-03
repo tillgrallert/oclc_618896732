@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="oclc_618896732-div_8"
-     next="oclc_618896732-div_9"
-     prev="oclc_618896732-div_7">
-   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="teiHeader_1.d2e6">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="oclc_618896732-div_8" next="oclc_618896732-div_9" prev="oclc_618896732-div_7">
+   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="teiHeader_1.d2e6">
       <fileDesc xml:id="fileDesc_1.d2e8">
          <titleStmt xml:id="titleStmt_1.d2e10">
             <title xml:id="title_1.d2e12">معجم المطبوعات العربية والمعربة</title>
@@ -77,28 +64,19 @@
       </fileDesc>
       <encodingDesc xml:lang="en" xml:id="encodingDesc_1.d2e134">
         <samplingDecl xml:id="samplingDecl_1.d2e136">
-            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242"
-                    xml:lang="en"
-                    xml:id="ref_1.d2e140">
+            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242" xml:lang="en" xml:id="ref_1.d2e140">
                   <foreign xml:lang="ar-Latn-x-ijmes" xml:id="foreign_1.d2e142">al-maktabat al-shāmila</foreign>
                </ref>. It is important to note that the information on page numbers recorded in <att xml:id="att_1.d2e146">n</att> on <tag xml:id="tag_1.d2e149">pb ed="print"</tag> correspond to the original printed edition.</p>
-            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139"
-                    xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958"
-                    xml:id="ref_3.d2e158">vol. 2</ref>.</p>
+            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164">
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
    <text xml:lang="ar">
       <body>
-         <div xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="div_23.d2e34786"
-              type="section">
+         <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="div_23.d2e34786" type="section">
             <head xml:id="head_21.d2e34788">حرف الذال</head>
             <p xml:id="p_5421.d2e34791">الذبياني <hi rend="quotation-marks" xml:id="hi_1286.d2e34793"> النابغة </hi> (604 م) هو زياد بن معاوية من ذبيان من قيس ويكنى امامة 
           <note type="footnote" xml:id="note_617.d2e34796">
@@ -106,10 +84,7 @@
                   <p xml:id="p_5422.d2e34801">Guirgas etlgn.</p>
                   <p xml:id="p_5423.d2e34804">Kratchkovsky الاغاني 9 ص 161 إلى 177 الشعر والشعراء 70 و 126 الجمهرة 52 خزانة الادب 287 1 (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P915.xhtml"
-                   ed="print"
-                   n="909"
-                   xml:id="pb_461.d2e34808"/>وانما سمي النابغة لقوله: وحلت في بني القين بن جسر * وقد نبغت لنا منهم شؤون والنابغة كان خاصا بالنعمان بن المنذر صاحب الحيرة ومن ندمائه وأهل ندمائه وأهل انسه وهو من الطبقة الاولى المقدمين على سائر الشعراء.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P915.xhtml" ed="print" n="909" xml:id="pb_461.d2e34808"/>وانما سمي النابغة لقوله: وحلت في بني القين بن جسر * وقد نبغت لنا منهم شؤون والنابغة كان خاصا بالنعمان بن المنذر صاحب الحيرة ومن ندمائه وأهل ندمائه وأهل انسه وهو من الطبقة الاولى المقدمين على سائر الشعراء.</p>
             <p xml:id="p_5425.d2e34811">روي أن عمر بن الخطاب سأل معشر غطفان من الذي يقول: اتيتك عاريا خلقا ثيابي * على خرق تظن به الظنون قالوا النابغة.</p>
             <p xml:id="p_5426.d2e34814">قال ذاك أشعر شعرائكم كان يضرب له قبة من أدم بسوق عكاظ فتأتيه الشعراء فتعرض عليه اشعارها.</p>
             <p xml:id="p_5427.d2e34817">وأول من أنشده الاعشى ثم حسان بن ثابت ثم انشدته الشعراء وأنشدته خنساء بنت عمرو بن الشريد ووقعت العداوة بينه وبين المنخل الشاعر فوشى به إلى النعمان فهرب النابغة إلى بني غسان ونزل بعمرو بن الحارث</p>
@@ -122,10 +97,7 @@
                   <p xml:id="p_5432.d2e34840">جلاء العينين 21.</p>
                   <p xml:id="p_5433.d2e34843">مفتاح السعادة 216 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P916.xhtml"
-                   ed="print"
-                   n="910"
-                   xml:id="cb_455.d2e34847"/>ولد بدمشق ودرس الحديث من صغره ورحل في طلبه</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P916.xhtml" ed="print" n="910" xml:id="cb_455.d2e34847"/>ولد بدمشق ودرس الحديث من صغره ورحل في طلبه</p>
             <p xml:id="p_5435.d2e34850">حتى اتقنه.</p>
             <p xml:id="p_5436.d2e34853">ثم انتقل إلى <placeName>مصر</placeName> وقرأ فيها العلوم الشرعية سمع من خلائق يزيدون على ألف ومائتين وأخذ الفقه عن الكمال الزملكاني وابن قاضي شهبه ولما عاد إلى <placeName>دمشق</placeName> عين أستاذا للحديث في مسجد أم صالح ثم في المدرسة الاشرفية وغيرها: سمع من الجمع الكثير وما زال يخدم هذا الفن (الحديث) إلى أن رسخت فيه قدمه وتعب الليل والنهار وما تعب لسانه وقلمه.</p>
             <p xml:id="p_5437.d2e34856">وضربت باسمه الامثال وقام بدمشق يرحل إليه من سائر البلاد وتناويه السؤالات من كل ناد.</p>
@@ -146,10 +118,7 @@
           <gap resp="#org_MS" xml:id="gap_25.d2e34903"/>
           قال وزدت انا طائفة من الصحابة الذين نزلوا حمص الخ جزء 2 حيدر آباد سنة 1315 عدد صحائف الجزئين 828 (*)
 
-          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P917.xhtml"
-                   ed="print"
-                   n="911"
-                   xml:id="pb_462.d2e34905"/>
+          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P917.xhtml" ed="print" n="911" xml:id="pb_462.d2e34905"/>
           2 تذكرة الحفاظ (أو) تذكرة حفاظ الحديث جزء 4 حيدر آباد (دون تاريخ) 3 تذهيب تهذيب الكمال في أسماء الرجال (رجال الحديث) أنظر خلاصة تذهيب التهذيب لاحمد ابن عبد الله الخزرجي 4 دول الاسلام وصل به إلى سنة 715 وذيله السخاوي إلى سنة 744 جزء 2 حيدر آباد 1333 5 رسالة في الرواة الثقاة المتكلم فيهم بما لا يوجب ردهم <placeName>مصر</placeName> 1324 وفي مجموعة رقم 60 6 الطب النبوي وفي كشف الظنون لجلال الدين</p>
             <p xml:id="p_5452.d2e34908">السيوطي.</p>
             <p xml:id="p_5453.d2e34911">ولكن ينافيه ما بآخر النسخة الخطية المودوعة في دار الكتب المصرية (الفهرست جزء 6 ص 23) وهو مرتب على ثلاثة فنون (1) في قواعد الطب (2) في الادوية والاغذية (3) في علاج الامراض طبع حجر <placeName>مصر</placeName> (دون تاريخ) نحو 1861 م وبهامشه: تسهيل المنافع في الطب والحكمه لابراهيم بن أبي بكر الازرق وطبعت ترجمته باللغة الفرنسية في الجزائر سنة 1860 7 طبقات الحفاظ لخصه جلال الدين السيوطي وزاد عليه أنظر السيوطي: طبقات الحفاظ 8 كتاب العلو للعلي الغفار في صحيح الاخبار وسقيمها طبع على نفقة محمد افندي ناصيف عن نسخة مطبوعة طبعا حجريا في الهند <choice xml:id="choice_1036.d2e34913">
@@ -158,10 +127,7 @@
                </choice> المنار 1332 ص 356 9 المشتبه في اسماء الرجال (رجال الحديث) ويسمى أيضا مشتبه النسبة أوله: الحمد لله الذي لم يتخذ ولدا ولم يكن له شريك الخ قال: علقت فيه كلام الحافظ عبد الغني بن سعيد الازدي وابن ماكولا وابن نقطة وابي علاء الفرضي وغيرهم لكن اعتمد فيه على ضبط القلم فكثر فيه الغلط والتحريف (كشف الظنون) ليدن 1863.</p>
             <p xml:id="p_5454.d2e34923">وطبع بعناية الاستاذ دي يونغ الهولندي ليدن 1881 ص 612 و 12
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P918.xhtml"
-                   ed="print"
-                   n="912"
-                   xml:id="cb_456.d2e34925"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P918.xhtml" ed="print" n="912" xml:id="cb_456.d2e34925"/>
           10 ميزان الاعتدال في نقد الرجال</p>
             <p xml:id="p_5455.d2e34928">وهو كتاب جامع لنقد رواة الآثار حاو لتراجم ائمة الاخبار مع ايجاز العبارات وايفاء الاشارات.</p>
             <p xml:id="p_5456.d2e34931">وقال في كشف الظنون: هو كتاب جليل في ايضاح نقلة العلم النبوي ألفه بعد كتابه المغني وزاد عليه زيادات حسنة من الرواة المذكورين في الكتاب المذيل على الكامل لابن عدي ورتبه على حروف المعجم لكناو 1884 و 1301 جزء 3 <choice xml:id="choice_1037.d2e34933">
@@ -176,10 +142,7 @@
           <note type="footnote" xml:id="note_619.d2e34958">
                   <p xml:id="p_5458.d2e34960">ترجمة في اخر رسائله المطبوعة والمذكورة رقم 2 و 3 (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P919.xhtml"
-                   ed="print"
-                   n="913"
-                   xml:id="pb_463.d2e34964"/>ذو الفقار * أبو الحسن احمد ذو الفقار ذو الرمة أبو الحارس غيلان بن عقبة بن مسعود المعروف بذي الرمة (117 77) كان من أشعر أهل زمانه.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P919.xhtml" ed="print" n="913" xml:id="pb_463.d2e34964"/>ذو الفقار * أبو الحسن احمد ذو الفقار ذو الرمة أبو الحارس غيلان بن عقبة بن مسعود المعروف بذي الرمة (117 77) كان من أشعر أهل زمانه.</p>
             <p xml:id="p_5460.d2e34967">وكان مربوع القامة قصيرا ذميما بليغ الكلام لسنا.</p>
             <p xml:id="p_5461.d2e34970">قال جرير في وصفه.</p>
             <p xml:id="p_5462.d2e34973">انه أخذ من ظريف الشعر وحسنه ما لا يسبقه إليه أحد ديوان شعر ذي الرمة وهو غيلان بن عقبة العدوي عني بتصحيحه وتنقيحه كارليل هنري هيس مكارتني طبع على نفقة كلية كمبريج في مطبعة الكلية 1919 - 1337 ص 676 عدا الفهارس والذيل</p>

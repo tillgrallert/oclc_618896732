@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="oclc_618896732-div_4"
-     next="oclc_618896732-div_5"
-     prev="oclc_618896732-div_3">
-   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="teiHeader_1.d2e6">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="oclc_618896732-div_4" next="oclc_618896732-div_5" prev="oclc_618896732-div_3">
+   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="teiHeader_1.d2e6">
       <fileDesc xml:id="fileDesc_1.d2e8">
          <titleStmt xml:id="titleStmt_1.d2e10">
             <title xml:id="title_1.d2e12">معجم المطبوعات العربية والمعربة</title>
@@ -77,28 +64,19 @@
       </fileDesc>
       <encodingDesc xml:lang="en" xml:id="encodingDesc_1.d2e134">
         <samplingDecl xml:id="samplingDecl_1.d2e136">
-            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242"
-                    xml:lang="en"
-                    xml:id="ref_1.d2e140">
+            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242" xml:lang="en" xml:id="ref_1.d2e140">
                   <foreign xml:lang="ar-Latn-x-ijmes" xml:id="foreign_1.d2e142">al-maktabat al-shāmila</foreign>
                </ref>. It is important to note that the information on page numbers recorded in <att xml:id="att_1.d2e146">n</att> on <tag xml:id="tag_1.d2e149">pb ed="print"</tag> correspond to the original printed edition.</p>
-            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139"
-                    xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958"
-                    xml:id="ref_3.d2e158">vol. 2</ref>.</p>
+            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164">
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
    <text xml:lang="ar">
       <body>
-         <div xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="div_17.d2e24844"
-              type="section">
+         <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="div_17.d2e24844" type="section">
             <head xml:id="head_15.d2e24846">حرف الثاء</head>
             <p xml:id="p_4094.d2e24849">ثابت بن جابر الفهمي * تأبط شرا ثابت بن قره (211 - 288) أبو الحسن ثابت بن قره بن هرون بن ثابت بن كرايان بن ابراهيم بن كرايان بن مارينوس ابن مالاجريوس - الحاسب الحكيم الصابئ الحراني كان في مبدأ امره صيرفيا بحران.</p>
             <p xml:id="p_4095.d2e24852">ثم انتقل إلى <placeName>بغداد</placeName> واشتغل بعلوم الاوائل فمهر فيها في علم الطب.</p>
@@ -107,10 +85,7 @@
           <note type="footnote" xml:id="note_459.d2e24860">
                   <p xml:id="p_4097.d2e24862">ابن خلكان 1 - 124 عيون الانبا 1 - 215 ابن العبرى 265 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P660.xhtml"
-                   ed="print"
-                   n="654"
-                   xml:id="cb_327.d2e24866"/>من العلم مقدار عشرين تأليفا (1) وكان من أعيان عصره في الفضائل الا انه جرى بينه وبين أهل مذهبه أشياء انكروها عليه في المذهب فرافعوه إلى رئيسهم.</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P660.xhtml" ed="print" n="654" xml:id="cb_327.d2e24866"/>من العلم مقدار عشرين تأليفا (1) وكان من أعيان عصره في الفضائل الا انه جرى بينه وبين أهل مذهبه أشياء انكروها عليه في المذهب فرافعوه إلى رئيسهم.</p>
             <p xml:id="p_4099.d2e24870">فأنكر عليه مقالته فمنعه من دخول الهيكل فتاب ورجع عن ذلك.</p>
             <p xml:id="p_4100.d2e24873">ثم عاد بعد مدة إلى تلك المقالة فمنعوه من الدخول إلى المجمع فخرج من حران ونزل كفرتوما وأقام بها مدة إلى أن</p>
             <p xml:id="p_4101.d2e24876">قدم محمد بن موسى من بلاد الروم راجعا إلى <placeName>بغداد</placeName> فرآه فاضلا فصيحا فاستصحبه إلى <placeName>بغداد</placeName> وانزله في داره ووصله بالخليفة (المعتضد) فادخله في جملة المنجمين.</p>
@@ -123,24 +98,18 @@
           <note type="footnote" xml:id="note_460.d2e24897">
                   <p xml:id="p_4106.d2e24899">(1) عدله صاحب طبقات الاطباء اكثر من مائه مصنف (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P661.xhtml"
-                   ed="print"
-                   n="655"
-                   xml:id="pb_334.d2e24903"/>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P661.xhtml" ed="print" n="655" xml:id="pb_334.d2e24903"/>
                <hi style="color:red;" xml:id="hi_818.d2e24905">1 - </hi>الجامعة الوطنية} 2 - قصة علي وبعض كتاباته} وهما كتابان جمع فيهما المؤلف بعض مقالات دينية وأدبية واجتماعية وسياسية وصدر الاول منهما برسم فتاة في ريعان الصبا وهي سلفي ابنته الوحيدة عاجلها سهم القضا في الرابعة عشر من عمرها - <placeName>بيروت</placeName> 1909 ثابت <hi rend="quotation-marks" xml:id="hi_819.d2e24908"> الدكتور ايوب </hi> 1 - آفة الشرق - رسالة بعث بها إلى الدكتور رضا توفيق بك - <placeName>بيروت</placeName> 1910 ص 19 2 - عبرة وذكرى (أو) كلمة حول الدستور مجموع مقالات في المذاهب السياسية وانه لا دخل للاديان في ترقي نوع الانسان - نشرت قبلا في جريدتي الوطن والثبات - <placeName>بيروت</placeName> 1909 م ثابت <hi rend="quotation-marks" xml:id="hi_820.d2e24911"> خطار </hi> خطار ثابت ثابت <hi rend="quotation-marks" xml:id="hi_821.d2e24915"> خليل بك </hi> مدير مطبعة السودان ومكتبتها بالخرطوم سابقا ومدير</p>
             <p xml:id="p_4108.d2e24919">جريدة المقطم حالا ولد في دير القمر (لبنان) نحو سنة 1871 وتخرج من كلية الامر كان ببيروت مسرات الحياة - ترجمه عن اللورد افبري <choice xml:id="choice_682.d2e24921">
                   <abbr xml:id="abbr_682.d2e24923">مط</abbr>
                   <expan xml:id="expan_682.d2e24926">مطبعة</expan>
-               </choice> السودان خرطوم 1904 و 1908 ص 259 (نشر تباعا في جريدة الخرطوم ثم على حدة وترجم هذا الكتاب مرة أخرى بقلم وديع البستاني (1) ثابت <hi rend="quotation-marks" xml:id="hi_822.d2e24930"> عبد الفتاح </hi> واجبات العمدة القضائية والادارية - <placeName>مصر</placeName> 
+               </choice> السودان خرطوم 1904 و 1908 ص 259 (نشر تباعا في جريدة <tei:title level="j" change="#d2e166">الخرطوم</tei:title> ثم على حدة وترجم هذا الكتاب مرة أخرى بقلم وديع البستاني (1) ثابت <hi rend="quotation-marks" xml:id="hi_822.d2e24930"> عبد الفتاح </hi> واجبات العمدة القضائية والادارية - <placeName>مصر</placeName> 
           <note type="footnote" xml:id="note_461.d2e24933">
                   <p xml:id="p_4108.d2e24935">(1) كتب المترجم اسمه في أول طبعة نشرت بالخرطوم خ.</p>
                   <p xml:id="p_4109.d2e24938">ث.</p>
                   <p xml:id="p_4110.d2e24941">وقال انه اول كتاب طبع ونشر في بلاد السودان (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P662.xhtml"
-                   ed="print"
-                   n="656"
-                   xml:id="cb_328.d2e24945"/>ثابت وانطاكي دليل <placeName>مصر</placeName> والسودان - <placeName>مصر</placeName> 1905 ص 560 الثعالبي (350 - 429) أبو منصور عبد الملك بن محمد بن اسماعيل الثعالبي النيسابوري قال ابن بسام صاحب الذخيرة في حقه: كان في وقته راعي تلعات العلم.</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P662.xhtml" ed="print" n="656" xml:id="cb_328.d2e24945"/>ثابت وانطاكي دليل <placeName>مصر</placeName> والسودان - <placeName>مصر</placeName> 1905 ص 560 الثعالبي (350 - 429) أبو منصور عبد الملك بن محمد بن اسماعيل الثعالبي النيسابوري قال ابن بسام صاحب الذخيرة في حقه: كان في وقته راعي تلعات العلم.</p>
             <p xml:id="p_4112.d2e24948">وجامع اشتات النثر والنظم.</p>
             <p xml:id="p_4113.d2e24951">رأس المؤلفين في زمانه.</p>
             <p xml:id="p_4114.d2e24954">وامام المصنفين بحكم اقرانه.</p>
@@ -158,10 +127,7 @@
                   <p xml:id="p_4123.d2e24990">الانباري 436 ابن خلكان 1 - 365 روضات الجنات 462.</p>
                   <p xml:id="p_4124.d2e24993">مفتاح السعادة 1 - 187 (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P663.xhtml"
-                   ed="print"
-                   n="657"
-                   xml:id="pb_335.d2e24997"/>والدرر (كشف الظنون) .</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P663.xhtml" ed="print" n="657" xml:id="pb_335.d2e24997"/>والدرر (كشف الظنون) .</p>
             <p xml:id="p_4126.d2e25000">مع شروح لمحمد افندي صادق عنبر - <choice xml:id="choice_683.d2e25002">
                   <abbr xml:id="abbr_683.d2e25004">مط</abbr>
                   <expan xml:id="expan_683.d2e25007">مطبعة</expan>
@@ -179,10 +145,7 @@
                   <expan xml:id="expan_686.d2e25043">مطبعة</expan>
                </choice> الظاهر 1326 ص 559 9 - خاص الخاص - وفيه مواضيع شعرية ونثرية - أودع فيه من عيون الغرر وفصوص الكتب ما يكاد يخرج من حد الاعجاب إلى حد الاعجاز ورتبه على ثمانية أبواب تونس 1293 - عني بتصحيحه الشيخ محمود السمكري.
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P664.xhtml"
-                   ed="print"
-                   n="658"
-                   xml:id="cb_329.d2e25047"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P664.xhtml" ed="print" n="658" xml:id="cb_329.d2e25047"/>
           أوله: أما بعد حمدا لله جل ذكره على ألائه الخ - <choice xml:id="choice_687.d2e25049">
                   <abbr xml:id="abbr_687.d2e25051">مط</abbr>
                   <expan xml:id="expan_687.d2e25054">مطبعة</expan>
@@ -201,10 +164,7 @@
                   <p xml:id="p_4132.d2e25094">(1) وفي دار الكتب المصرية: الفوائد والقلائد ويسمى الفوائد والقلائد.</p>
                   <p xml:id="p_4133.d2e25097">مخطوط تأليف أبي سعيد نشوان الحميري (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P665.xhtml"
-                   ed="print"
-                   n="659"
-                   xml:id="pb_336.d2e25101"/>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P665.xhtml" ed="print" n="659" xml:id="pb_336.d2e25101"/>
                <hi rend="quotation-marks" xml:id="hi_825.d2e25103"> أبي العباس </hi> 
                <choice xml:id="choice_690.d2e25107">
                   <abbr xml:id="abbr_690.d2e25109">مط</abbr>
@@ -223,10 +183,7 @@
             <p xml:id="p_4139.d2e25148">وهي عبارة عن ثمانية أبواب قصيرة أودعها صاحبها حكما بليغة مسجعة في حسن سياسة النفس - <placeName>بيروت</placeName> 1900 24 - من غاب عنه المطرب - يشتمل على منتخبات من الشعر والحكم في الخط والبلاغة والربيع الخ.</p>
             <p xml:id="p_4140.d2e25151">باعتناء
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P666.xhtml"
-                   ed="print"
-                   n="660"
-                   xml:id="cb_330.d2e25153"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P666.xhtml" ed="print" n="660" xml:id="cb_330.d2e25153"/>
           محمد اللبابيدي - <choice xml:id="choice_693.d2e25155">
                   <abbr xml:id="abbr_693.d2e25157">مط</abbr>
                   <expan xml:id="expan_693.d2e25160">مطبعة</expan>
@@ -237,10 +194,7 @@
                <hi style="color:red;" xml:id="hi_827.d2e25173">29 - </hi>يتيمة الدهر في شعراء أهل العصر - أولها: الحمد لله خير ما بدئ به الكلام وختم - قسمها إلى أربعة اقسام كل قسم منها يشتمل على أبواب وفصول القسم الاول في محاسن أشعار آل حمدان وشعرائها وغيرهم من أهل الشام وما يجاورها ومصر والموصل ولمع من أخبارهم القسم الثاني في محاسن اشعار أهل العراق وانشاء الدولة الديلمية من طبقات الافاضل وما يتعلق بها من أخبارهم ونوادرهم القسم الثالث في محاسن أشعار اهل الجبال وفارس وجرجان وطبرستان من رؤساء الدولة الديلمية وكتابها وقضائها وشعرائها وسائر فضلائها وما يضاف إليها من أخبارهم وغرر الفاظهم.</p>
             <p xml:id="p_4143.d2e25178">القسم الرابع في محاسن أهل خراسان وما وراء النهر من انشاء الدولة السامانية - جزء 4 ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الحنفية <placeName>دمشق</placeName> 1303
 
-          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P667.xhtml"
-                   ed="print"
-                   n="661"
-                   xml:id="pb_337.d2e25180"/>
+          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P667.xhtml" ed="print" n="661" xml:id="pb_337.d2e25180"/>
           الثعالبي <hi rend="quotation-marks" xml:id="hi_828.d2e25182"> عبد الرحمن </hi> (785 - 875 هـ) عبد الرحمن بن محمد بن مخلوف الثعالبي الجعفري المالكي الاشعري ولد بمحل سكنى والديه في وادي يسر الذي بينه وبين مدينة الجزائر مسافة مرحلة وأصله من وطن الثعالبة في عمالة الجزائر بأفريقية - ذكره السخاوي في</p>
             <p xml:id="p_4144.d2e25186">الضوء اللامع وقال كان اماما علامة الخ وترجمه احمد بابا التنبكتي في كفاية المحتاج وقد اثنى عليه جماعة من شيوخه - رحل في طلب العلم ودخل بجاية وكان عمدة قرأنه بها.</p>
             <p xml:id="p_4145.d2e25189">ثم ارتحل إلى المشرق فلقي بمصر الشيخ ولي الدين العراقي فأخذ عنه علوما جمة ثم لقي بمكة بعض المحدثين ورجع إلى الديار المصرية ومنها إلى تونس فمكث بها سنة ثم رجع إلى مدينة الجزائر وفيها نشر علمه الغزير وله غير المصنفات المطبوعة: الذهب الابريز في غريب القرآن العزيز وكتاب المراثي وروضة الازهار ونزهة الاخبار والانوار المضيئة الجامع بين الحقيقة والشريعة وغير ذلك توفي بمدينة الجزائر وفيها ضريحه يزار 1 - الجواهر الحسان في تفسير القرآن - أوله الحمد لله رب العالمين.</p>
@@ -256,10 +210,7 @@
                      <expan xml:id="expan_696.d2e25222">المطبعة</expan>
                   </choice> الثعالية</orgName> بالجزائر 1324 ص 168
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P668.xhtml"
-                   ed="print"
-                   n="662"
-                   xml:id="cb_331.d2e25227"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P668.xhtml" ed="print" n="662" xml:id="cb_331.d2e25227"/>
           ثعلب (200 - 291) أبو العباس احمد بن يحيى بن زيد بن يسار النحوي الشيباني بالولاء المعروف بثعلب امام الكوفيين في النحو واللغة والثقة والديانة سمع ابن الاعرابي والزبير بن بكار وابن الانباري وغيرهم.</p>
             <p xml:id="p_4148.d2e25230">وكان ابن الاعرابي إذا شك في شئ قال له: ما تقول يا أبا العباس في هذا ثقة بغزارة حفظه قال ثعلب في ترجمة حاله: رأيت المأمون لما قدم من خراسان وذلك في سنة 204 وقد خرج من باب الحديد وهو يريد قصر الرصافة والناس صفان إلى المصلى قال فكان أبي قد حملني على يده فلما مر المأمون رفعني على يده فقال لي هذا المأمون وهذه سنة أربع.</p>
             <p xml:id="p_4149.d2e25234">فحفظت ذلك عنه إلى الساعة وكان سني يومئذ اربع سنين وقال أيضا: ابتدأت بالنظر في العربية والشعر واللغة في سنة ست عشرة وحذقت العربية وحفظت كتب الفراء كلها حتى لم يشذ عني حرف منها ولي خمس وعشرون سنة.</p>
@@ -269,10 +220,7 @@
           <note type="footnote" xml:id="note_464.d2e25245">
                   <p xml:id="p_4152.d2e25247">الفهرست 74 معجم الادباء 2 - 133 ابن خلكان 1 - 36 الانباري 293 بغية الوعاه 172 روضات الجنات 1 - 56 مفتاح السعادة 1 - 145 (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P669.xhtml"
-                   ed="print"
-                   n="663"
-                   xml:id="pb_338.d2e25251"/>للاستاذ فون برث Von J.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P669.xhtml" ed="print" n="663" xml:id="pb_338.d2e25251"/>للاستاذ فون برث Von J.</p>
             <p xml:id="p_4154.d2e25254">Barth ليبسيك 1876 ص 63 - 75 - مع شرح عليه لابي سهل الهروي ولعبد اللطيف البغدادي <placeName>مصر</placeName> 9 / 1285 - وطبع مع شرحه التلويح في شرح الفصيح لابي سهل الهروي على نسخة قرأها الشيخ احمد عمر المحمصاني على نسخة</p>
             <p xml:id="p_4155.d2e25257">الشيخ محمد محمود التركيزي الشنقيطي <placeName>مصر</placeName> 1325 ص 188 - وطبع في مجموعة الطرف الادبية لطلاب العلوم العربية (<placeName>مصر</placeName> 1325) - أنظر الخانجي الحلبي <hi rend="quotation-marks" xml:id="hi_829.d2e25259"> محمد أمين </hi> - ولفصيح ثعلب ذيل أملاه الشيخ موفق الدين عبد اللطيف البغدادي - أنظر الهروي <hi rend="quotation-marks" xml:id="hi_830.d2e25262"> أبو سهل </hi> 2 - قواعد الشعر - عن أبي العباس احمد بن يحيى ثعلب رواية أبي عبد الله محمد بن عمران بن موسى المرزباني - معه ملحوظات لموسيو سكاباريلي باللغة الايطالية ليدن 1890 ص 42 (1) الثعلبي (427 هـ) أبو إسحق احمد بن محمد بن ابراهيم النيسابوري المعروف بالثعلبي صاحب التفسير والعرائس في قصص الانبياء كان اماما كبيرا حافظا للغة بارعا في العربية روي عن أبي طاهر ابن خزيمة وأبي محمد المخلدي.</p>
             <p xml:id="p_4156.d2e25267">أخذ عنه (أبو الحسن) الواحدي (بغية الوعاه) قال ابن السمعاني يقال له الثعلبي والثعالبي وهو لقب لا نسب 1 - العرائس - ويعرف بعرائس المجالس في قصص الانبياء - أوله: الحمد لله حق حمده الخ - قال هذا كتاب يشتمل على قصص الانبياء المذكورة في القرآن 
@@ -280,10 +228,7 @@
                   <p xml:id="p_4156.d2e25271">(1) قال زبدان في أداب اللغة جزء 1 - 106 انه طبع بمصر سنة 1323 شرح ديوان زهير لثعلب.</p>
                   <p xml:id="p_4157.d2e25274">فاظنه وهما الا انه طبع بمصر في السنة المذكورة شرح ديوان للاعلم الشنتمري وهو الذي طبع قبلا في ليدن - أنظر الاعلم الشنتمري معجم الادباء 2 - 104 - ابن خلكان 1 - 26 طبقات السكي 3 - 23 - طبقات الاسدي ورقة 21 بغية الوعاه 154 - روضات الجنات 1 - 68 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P670.xhtml"
-                   ed="print"
-                   n="664"
-                   xml:id="cb_332.d2e25278"/>بالشرح والبيان - بولاق 1286 ص 353 - <placeName>مصر</placeName> 1297 ص 429 ومصر 1298 <choice xml:id="choice_697.d2e25280">
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P670.xhtml" ed="print" n="664" xml:id="cb_332.d2e25278"/>بالشرح والبيان - بولاق 1286 ص 353 - <placeName>مصر</placeName> 1297 ص 429 ومصر 1298 <choice xml:id="choice_697.d2e25280">
                   <abbr xml:id="abbr_697.d2e25282">مط</abbr>
                   <expan xml:id="expan_697.d2e25285">مطبعة</expan>
                </choice> محمد مصطفى 1301 بهامشه مختصر روض الرياحين في مناقب الصالحين لليافعي <choice xml:id="choice_698.d2e25289">

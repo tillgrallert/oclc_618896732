@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="oclc_618896732-div_25"
-     next="oclc_618896732-div_26"
-     prev="oclc_618896732-div_24">
-   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="teiHeader_1.d2e6">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="oclc_618896732-div_25" next="oclc_618896732-div_26" prev="oclc_618896732-div_24">
+   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="teiHeader_1.d2e6">
       <fileDesc xml:id="fileDesc_1.d2e8">
          <titleStmt xml:id="titleStmt_1.d2e10">
             <title xml:id="title_1.d2e12">معجم المطبوعات العربية والمعربة</title>
@@ -77,37 +64,25 @@
       </fileDesc>
       <encodingDesc xml:lang="en" xml:id="encodingDesc_1.d2e134">
         <samplingDecl xml:id="samplingDecl_1.d2e136">
-            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242"
-                    xml:lang="en"
-                    xml:id="ref_1.d2e140">
+            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242" xml:lang="en" xml:id="ref_1.d2e140">
                   <foreign xml:lang="ar-Latn-x-ijmes" xml:id="foreign_1.d2e142">al-maktabat al-shāmila</foreign>
                </ref>. It is important to note that the information on page numbers recorded in <att xml:id="att_1.d2e146">n</att> on <tag xml:id="tag_1.d2e149">pb ed="print"</tag> correspond to the original printed edition.</p>
-            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139"
-                    xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958"
-                    xml:id="ref_3.d2e158">vol. 2</ref>.</p>
+            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164">
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
    <text xml:lang="ar">
       <body>
-         <div xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="div_53.d2e70574"
-              type="section">
+         <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="div_53.d2e70574" type="section">
             <head xml:id="head_46.d2e70576">حرف الهاء</head>
             <p xml:id="p_9668.d2e70579">هابخت <hi rend="quotation-marks" xml:id="hi_2958.d2e70581"> مكسيمليانوس </hi> (1775 - 1839) كان مدرسا للغة العربية بالمدرسة العظمى الملكية البروسيانية البرسلاوية وكان مولده بمدينة برسلا وجاء باريس في عهد دي ساسى ودرس عليه وعلى الاب رفائيل المصرى اللغة العربية نشر كتابا أطلعت عليه بخزانة العالم الاديب محمود بك السبع المستشار الان في محكمة الاستئناف الاهلية وهو من نوادر الكتب جنأ الفواكه والاثمار في جمع بعض مكاتيب الاحباب الاحرار من عدة أمصار وأقطار وهي مترجمة إلى اللغة اللاتينيه - طبع في برسلاو سنة 1824 وفي الكتاب معجم للالفاظ العربية مع ترجمتها إلى اللاتينية وهذه المكاتيب بلغة أهل <placeName>مصر</placeName> والشام</p>
             <p xml:id="p_9669.d2e70585">ومراكش وأكثرها مكتوبة في أيام حروب نابوليون الاول.</p>
             <p xml:id="p_9670.d2e70588">وجمع هذا المستشرق نخبة من أمثال الميداني وهو أول من طبع في أوروبا كتاب ألف ليلة وليلة فباشر به سنة
 
-          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1893.xhtml"
-                   ed="print"
-                   n="1887"
-                   xml:id="pb_950.d2e70590"/>
+          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1893.xhtml" ed="print" n="1887" xml:id="pb_950.d2e70590"/>
           1825 وطبع منه ثمانية أجزاء قبل وفاته.</p>
             <p xml:id="p_9671.d2e70593">الهادي بن المهدي شرح (الهادي بن المهدي) على منظومة غرر الفرائد - (حكمة) فرغ من الشرح سنة 1261 - طبع في العجم 1298 هارون بن عبد الرازق * البنجاوي هاشم بن عبد العزيز (الشيخ) أبو عبد الله هاشم بن عبد العزيز المحمدي الشافعي الاشعري القادري الهرري الفتح الرحماني في الصلوة على أشرف النوع الانساني سيدنا محمد مصطفى العدناني - <choice xml:id="choice_2501.d2e70595">
                   <abbr xml:id="abbr_2501.d2e70597">مط</abbr>
@@ -118,10 +93,7 @@
                </choice> الانكليزية</p>
             <p xml:id="p_9672.d2e70615">الاميركانيه 1913 ص 476 الهاشمي <hi rend="quotation-marks" xml:id="hi_2959.d2e70617"> احمد </hi> (الشيخ) احمد بن ابراهيم بن مصطفى الهاشمي ينتهي نسبه إلى الامام الحسين رضه مراقب مدارس فيكتوريا الانكليزية بالقاهرة المولود سنة 1295 وهو من تلامذة الامام الشيخ محمد عبده
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1894.xhtml"
-                   ed="print"
-                   n="1888"
-                   xml:id="cb_944.d2e70620"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1894.xhtml" ed="print" n="1888" xml:id="cb_944.d2e70620"/>
                <hi style="color:red;" xml:id="hi_2960.d2e70622">1 - </hi>
           اسلوب الحكيم في منهج الانشا القويم يتضمن مقالات انشائية شرعية أدبية وفلسفية وتاريخية الخ بحيث بلغ عددها 117 مقالة قصيرة - الطبعة الثالثة <choice xml:id="choice_2503.d2e70625">
                   <abbr xml:id="abbr_2503.d2e70627">مط</abbr>
@@ -137,10 +109,7 @@
                </choice> السعادة (دون تاريخ) ص 144 الهاشمي عبد الله بن اسمعيل " (من أهل القرن الرابع للهجرة) كان من أمراء بنى العباس معروفا بالنسك والورع وكان عبد المسيح بن اسحق الكندي صديقه شديد التمسك بالنصرانية وكان في خدمة الخليفة - فكتب الهاشمي إليه يدعوه إلى الاسلام وأذن له أن يرد عليه.</p>
             <p xml:id="p_9674.d2e70659">وقد ورد ذكر عبد المسيح ورسالته في كتاب الاثار الباقية للبيروني قال: كذلك حكي عبد المسيح بن اسحق الكندى النصراني عنهم (أي الصابئة) في جوابه على كتاب عبد
 
-          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1895.xhtml"
-                   ed="print"
-                   n="1889"
-                   xml:id="pb_951.d2e70661"/>
+          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1895.xhtml" ed="print" n="1889" xml:id="pb_951.d2e70661"/>
           الله بن اسمعيل الهاشمي رسالة (عبد الله بن اسمعيل الهاشمي) - إلى عبد المسيح بن اسحق الكندي يدعوه بها إلى الاسلام ورسالة (عبد المسيح بن اسحق الكندى) يرد بها عليه ويدعوه إلى النصرانية - لندن 1885 ص 272 - ومصر 1910 وتكرر طبعه في <choice xml:id="choice_2506.d2e70663">
                   <abbr xml:id="abbr_2506.d2e70665">مط</abbr>
                   <expan xml:id="expan_2506.d2e70668">مطبعة</expan>
@@ -151,17 +120,11 @@
             <p xml:id="p_9678.d2e70683">(1) رسالة أيها الولد للغزالي (2) أطواق الذهب للزمخشري (3) القصيدة التائية لابن الفارض (4) ميقات الصلاة في سبعة أوقات بالعربي والالماني ويانا 1844 ص 56 و 37 و 37 وترجم إلى الالمانية عدة كتب عربية.</p>
             <p xml:id="p_9679.d2e70686">وحرر مع غيره من الاساتذة مجلة مخزن الكنوز المشرقية في ويانا من سنة 1809 إلى 1818 هتون <hi rend="quotation-marks" xml:id="hi_2962.d2e70688"> (الدكتور) شارل تنيلر </hi> جوامع العلم الرياض - في علم الحساب - معرب
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1896.xhtml"
-                   ed="print"
-                   n="1890"
-                   xml:id="cb_945.d2e70691"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1896.xhtml" ed="print" n="1890" xml:id="cb_945.d2e70691"/>
           عن اللغة الانكليزية - كلكتة 1835 ص 166 الهجرسي * أبو الفتوح محمد بن خليل الهده * محمد بن الحسين الهده هرتمن <hi rend="quotation-marks" xml:id="hi_2963.d2e70693"> مرتين </hi> كان وكيلا لقنصل دولة المانيا في <placeName>بيروت</placeName> ثم عين أستاذا للغة العربية في برلين قانون التجارة الالماني العام - <placeName>بيروت</placeName> 1887 الهراوي <hi rend="quotation-marks" xml:id="hi_2964.d2e70696"> (الدكتور) حسى </hi> طبيب مركز طنطا الضعف التناسلي في الرجال - أو الارنحاء وعلاجه مترجم عن الانكليزية - طبعة ثانية ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الرحمانية (دون تاريخ) ص 88 الهراوى <hi rend="quotation-marks" xml:id="hi_2965.d2e70699"> عباس (افندي) </hi> الحشرات الضارة بالقطن - رسالة استخرها من كتاب للمستر فاتشر ناصر لمدرسة الزراعة فيها وصف لتاريخ حياة هذه الحشرات وطرق ابادتها <placeName>مصر</placeName> 1911.</p>
             <p xml:id="p_9680.d2e70703">هرمس المثلث أو الثالث (الحكيم) Hermes Trismegistus قال القفطى في أخبار العلماء: هذا هو هرمس الثالث
 
-          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1897.xhtml"
-                   ed="print"
-                   n="1891"
-                   xml:id="pb_952.d2e70705"/>
+          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1897.xhtml" ed="print" n="1891" xml:id="pb_952.d2e70705"/>
           وهو الذي يسمي المثلث بالحكمة لانه جاء ثالث الهراسة الحكماه والبابلي هو الثاني.</p>
             <p xml:id="p_9681.d2e70708">وهذا رجل من حكماء <placeName>مصر</placeName> بعد الطوفان.</p>
             <p xml:id="p_9682.d2e70711">وكان فيلسوفا جوالا في البلاد قديم العهد عالما بالبلاد ونصبها وطبائع أهلها.</p>
@@ -173,10 +136,7 @@
                   <p xml:id="p_9685.d2e70728">(1) ذكر صاحب كشف الظنون كتاب <hi rend="quotation-marks" xml:id="hi_2967.d2e70730"> خافية في علم الحرف </hi> مختصرات منسوبة إلى أفلاطون وسامور الهندي أوله الحمد لله الذى خلق الانسان الخ والامام جعفر الصادق بن محمد الباقر المتوفي سنة 148 ذكر البسطامي انه جعل فيه الباب الكبير اب ت ث الخ والباب صغير مصوب ومقلوب وهرمس اه.</p>
                   <p xml:id="p_9686.d2e70734">(*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1898.xhtml"
-                   ed="print"
-                   n="1892"
-                   xml:id="cb_946.d2e70738"/>الهرندي <hi rend="quotation-marks" xml:id="hi_2968.d2e70740"> أبو حفص عمر </hi> الاصداف والدرر - (أدب) عنى بنشره أديب نظمي - <choice xml:id="choice_2507.d2e70743">
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1898.xhtml" ed="print" n="1892" xml:id="cb_946.d2e70738"/>الهرندي <hi rend="quotation-marks" xml:id="hi_2968.d2e70740"> أبو حفص عمر </hi> الاصداف والدرر - (أدب) عنى بنشره أديب نظمي - <choice xml:id="choice_2507.d2e70743">
                   <abbr xml:id="abbr_2507.d2e70745">مط</abbr>
                   <expan xml:id="expan_2507.d2e70748">مطبعة</expan>
                </choice> الحفنية <placeName>دمشق</placeName> 1303 ص 28 هرون المرجاني * المرجاني القازاني الهروي <hi rend="quotation-marks" xml:id="hi_2969.d2e70752"> أبو اسماعيل </hi> (396 - 481) شيخ الاسلام عبد الله بن محمد بن علي الانصاري الهروي الحنبلي الصوفي الحافظ الحبر البحر العارف املم الحنابلة شيخ الاسلام أبو اسماعيل الهروي مؤلف منازل السائرين وذم الكلام وغيرهما (ديوان الاسلام)</p>
@@ -192,18 +152,12 @@
           <note type="footnote" xml:id="note_1146.d2e70785">
                   <p xml:id="p_9690.d2e70787">يتيمة الدهر 3 - 226 (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1899.xhtml"
-                   ed="print"
-                   n="1893"
-                   xml:id="pb_953.d2e70791"/>الهروي <hi rend="quotation-marks" xml:id="hi_2971.d2e70794"> أبو عبيد </hi> * ابن سلام الهروي القاري * ملا علي القاري الهروي <hi rend="quotation-marks" xml:id="hi_2972.d2e70797"> مير زاهد </hi> محمد ميرزاهد بن محمد أسلم الهروي (المتوفي</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1899.xhtml" ed="print" n="1893" xml:id="pb_953.d2e70791"/>الهروي <hi rend="quotation-marks" xml:id="hi_2971.d2e70794"> أبو عبيد </hi> * ابن سلام الهروي القاري * ملا علي القاري الهروي <hi rend="quotation-marks" xml:id="hi_2972.d2e70797"> مير زاهد </hi> محمد ميرزاهد بن محمد أسلم الهروي (المتوفي</p>
             <p xml:id="p_9692.d2e70801">بكابل سنة 1101) 1 - حاشية (مير زاهد) على شرح جلال الدين الدواني على تهذيب المنطق - طبع ضمن مجموعة رقم 90 - وفي قازان 1888 م 2 - شرح على رسالة التصورات والتصديقات لقطب الدين الرازي - طبع ضمن مجموعة رقم 100 هشام بن بشر الكلبي * ابن الكلبي (الدكتور) هفنر DR.</p>
             <p xml:id="p_9693.d2e70805">A.</p>
             <p xml:id="p_9694.d2e70808">Haffner البلغة في شذور اللغة - أنظر شيخو (الاب) وعنى الاستاذ هفنر بنشر بعض تآليف الاصمعي - أنظر الاصمعي هلال الصابئ * الصابئ الهلالي <hi rend="quotation-marks" xml:id="hi_2973.d2e70810"> أبو العباس احمد بن عبد العزيز </hi> 1 - اضاءة الادموس ورياضة النفوس - من اصطلاح صاحب القاموس - فاس 1323 ص 37 وطبع دون تاريخ ص 50 2 - الزواهر الافقية في شرح الجواهر المنطقية -
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1900.xhtml"
-                   ed="print"
-                   n="1894"
-                   xml:id="cb_947.d2e70813"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1900.xhtml" ed="print" n="1894" xml:id="cb_947.d2e70813"/>
           لابي محمد عبد السلام بن الطيب القادرى - فاس 1313 ص 352 3 - شرح على خطبة سيدي خليل -</p>
             <p xml:id="p_9695.d2e70816">بهامشه حاشية على اللقاني على مختصر خليل - فاس 1309 ص 288 الهلالي الحموي (1235 - 1311) (الشيخ) محمد بن الشيخ هلال بن محمود بن مصطفى مفتي حماه سابقا ابن الشيخ اسمعيل ملا زاده الشهير بالهلالي ولد بحماه ونشأ بها وقرأ النحو والمنطق على ابراهيم افندي المالكي من علماء حماه.</p>
             <p xml:id="p_9696.d2e70819">وقرأ الفقه وغيره من العلوم الدينية على عمه الشيخ زهير.</p>
@@ -214,10 +168,7 @@
           <note type="footnote" xml:id="note_1147.d2e70837">
                   <p xml:id="p_9700.d2e70839">ترجمته في مقدمة ديوانه (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1901.xhtml"
-                   ed="print"
-                   n="1895"
-                   xml:id="pb_954.d2e70843"/>ومعه ترجمة فرنسية ثم ترجمة لاتينية بالحرف الواحد - باريس 1819 ص 9 و 300 (1) وطبع في بولاق بدون الترجمة سنة 1242 2 - منتخبات عربية - جزء أول - باريس 1834 ص 7 و 341 الهمذاني <hi rend="quotation-marks" xml:id="hi_2975.d2e70845"> احمد </hi> * ابن الفقيه الهمذاني <hi rend="quotation-marks" xml:id="hi_2976.d2e70848"> بديع الزمان </hi> (398) أبو الفضل احمد بن الحسين بن يحيى بن سعيد الهمذاني الحافظ المعروف ببديع الزمان صاحب الرسائل الرائقة والمقامات الفائقة وعلى منواله نسج الحريري مقاماته واحتذى حذوه واقتفى اثره واعترف في خطبته بفضله وانه الذى أرشده إلى ذلك المنهج.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1901.xhtml" ed="print" n="1895" xml:id="pb_954.d2e70843"/>ومعه ترجمة فرنسية ثم ترجمة لاتينية بالحرف الواحد - باريس 1819 ص 9 و 300 (1) وطبع في بولاق بدون الترجمة سنة 1242 2 - منتخبات عربية - جزء أول - باريس 1834 ص 7 و 341 الهمذاني <hi rend="quotation-marks" xml:id="hi_2975.d2e70845"> احمد </hi> * ابن الفقيه الهمذاني <hi rend="quotation-marks" xml:id="hi_2976.d2e70848"> بديع الزمان </hi> (398) أبو الفضل احمد بن الحسين بن يحيى بن سعيد الهمذاني الحافظ المعروف ببديع الزمان صاحب الرسائل الرائقة والمقامات الفائقة وعلى منواله نسج الحريري مقاماته واحتذى حذوه واقتفى اثره واعترف في خطبته بفضله وانه الذى أرشده إلى ذلك المنهج.</p>
             <p xml:id="p_9702.d2e70852">وهو أحد الفضلاء الفصحاء وله الرسائل البديعه والنظم المليح وسكن هراة من بلاد خراسان (ابن خلكان) وصفه صاحب اليتيمة قال ما ملخصه: هو بديع الزمان ومعجزة همذان.</p>
             <p xml:id="p_9703.d2e70855">من لم يلف نظيره في ذكاء القريحة وسرعة الخاطر وشرف الطبع وصفاء الذهن وقوة</p>
             <p xml:id="p_9704.d2e70858">النفس.</p>
@@ -230,10 +181,7 @@
                   <p xml:id="p_9709.d2e70878">(1) Anthologie arabe ou choix de poesies arabes 1819 inedites par Jean Humbert.</p>
                   <p xml:id="p_9710.d2e70881">Paris معجم الادباء 1 - 94 ابن خلكان 671 يتيمة الدهر 4 - 167 روضات الجنات 1 - 66 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1902.xhtml"
-                   ed="print"
-                   n="1896"
-                   xml:id="cb_948.d2e70885"/>الآفاق وحين أربى سنه على الاربعين توفاه الله وقيل انه عرض له داء السكتة فعجل دفنه وانه أفاق في قبره وسمع صوته بالليل ونبش فوجد أنه قد مات وقد قبض على لحيته فقامت نوادب الادب ورثته الافاضل بالفضائل.</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1902.xhtml" ed="print" n="1896" xml:id="cb_948.d2e70885"/>الآفاق وحين أربى سنه على الاربعين توفاه الله وقيل انه عرض له داء السكتة فعجل دفنه وانه أفاق في قبره وسمع صوته بالليل ونبش فوجد أنه قد مات وقد قبض على لحيته فقامت نوادب الادب ورثته الافاضل بالفضائل.</p>
             <p xml:id="p_9712.d2e70888">اه 1 - ديوان بديع الزمان الهمذاني - نقله ملتزم طبعه محمد افندي شكري المكي من نسخة احمد باشا تيمور على نسخة بخط الشيخ محمد محمود بن التلاميذ التركزى</p>
             <p xml:id="p_9713.d2e70891">الشنقيطى - وأضاف إليها جملة قصائد وأبهات من كتاب يتيمة الدهر لم تكن موجودة في النسختين المتقدمتين - <choice xml:id="choice_2510.d2e70893">
                   <abbr xml:id="abbr_2510.d2e70895">مط</abbr>
@@ -253,10 +201,7 @@
                   <p xml:id="p_9717.d2e70935">J.</p>
                   <p xml:id="p_9718.d2e70938">Prender Gast</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1903.xhtml"
-                   ed="print"
-                   n="1897"
-                   xml:id="pb_955.d2e70942"/>الهمذاني <hi rend="quotation-marks" xml:id="hi_2977.d2e70944"> أبو نصر </hi> (عين القضاة) أبو نصر محمد بن عبد الرحمن الهمذاني - نبغ سنة 966 هـ السبعيات في مواعظ البريات - ألفه على ترتيب كتابه.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1903.xhtml" ed="print" n="1897" xml:id="pb_955.d2e70942"/>الهمذاني <hi rend="quotation-marks" xml:id="hi_2977.d2e70944"> أبو نصر </hi> (عين القضاة) أبو نصر محمد بن عبد الرحمن الهمذاني - نبغ سنة 966 هـ السبعيات في مواعظ البريات - ألفه على ترتيب كتابه.</p>
             <p xml:id="p_9720.d2e70948">أوله الحمد لله الملك الجبار - قال أعلم ان الله سبحانه وتعالى زين الاشياء السبعة بالسبعة ثم زين السبعة عنده خطرا عظيما ومحلا جسيما.</p>
             <p xml:id="p_9721.d2e70951">فاجبت أن اجمع كتابا على سبعة مجالس - تونس 1280 ص 114 - فاس 1295 ص 217 وطبع بهامش المجالس السنية في الكلام على الاربعين النووية لاحمد الفشني الهمذاني الحسن بن احمد، * ابن الحائك الهمذاني <hi rend="quotation-marks" xml:id="hi_2978.d2e70953"> عبد الرحمن بن عيسى </hi> (320) كاتب بكر بن عبد العزيز بن أبي دلف وكان شاعرا كاتبا (الفهرست 137) الالفاظ الكتابية - طبع باعتناء الاب لويس شيخو نقلا عن ثلاث نسخ خطية أحداها كتبت في البلاد المصرية سنة 571 هـ - <choice xml:id="choice_2513.d2e70956">
                   <abbr xml:id="abbr_2513.d2e70958">مط</abbr>
@@ -264,10 +209,7 @@
                </choice> اليسوعيين <placeName>بيروت</placeName> 1885 و 1898 ص 339 وهي الطبعة السابعة - وطبع</p>
             <p xml:id="p_9722.d2e70966">نعمان الالوسي في الاستانة 1302 ص 132 وقد دعاه بالغلط <hi rend="quotation-marks" xml:id="hi_2979.d2e70968"> كتاب الفاظ الاشباه والنظائر </hi> ونسبه سهوا لعبد الرحمن الانباري - أنظر انتقاد كتب زيدان ص 140 ومجلة المقتبس سنة 1330 الهمذاني <hi rend="quotation-marks" xml:id="hi_2980.d2e70971"> علي </hi> (786 هـ) على بن شهاب الدين محمد الحسينى أوراد فتحية - لكناو 1257
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1904.xhtml"
-                   ed="print"
-                   n="1898"
-                   xml:id="cb_949.d2e70974"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1904.xhtml" ed="print" n="1898" xml:id="cb_949.d2e70974"/>
           الهمش <hi rend="quotation-marks" xml:id="hi_2981.d2e70976"> منصور </hi> الغزري اللبناني المقامة الغزيرية والقافية الحماسية - <placeName>بيروت</placeName> 1872 ص 40 همام <hi rend="quotation-marks" xml:id="hi_2982.d2e70979"> جرجس </hi> (شاعر الاطفال) (1856 - 1921) هو جرجس بن نجم بن همام عطايا صليبا صاحب المدارج ولد في قرية الشوير من ضهور لبنان وتلقى دروسه الاولى في كتابها.</p>
             <p xml:id="p_9723.d2e70983">وكان منذ حداثته مولعا بفك الاحاجي الرياضية.</p>
             <p xml:id="p_9724.d2e70986">وفي سنة 1870 تنبه له الدكتور لمسدن مفتش المدارس الانكليزية فارسله على نفقته إلى مدرسة سوق الغرب لاستيفاء دروسه فلم يلبث أن صار أستاذا سنة</p>
@@ -278,10 +220,7 @@
             <p xml:id="p_9729.d2e71002">وفي 5 يوليو سنة 1921 لبى دعوة ربه ودفن في قريته الشوير.</p>
             <p xml:id="p_9730.d2e71005">ونقشت على قبره هذه الابيات التي نظمها مدة اعتلاله:
 
-          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1905.xhtml"
-                   ed="print"
-                   n="1899"
-                   xml:id="pb_956.d2e71007"/>
+          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1905.xhtml" ed="print" n="1899" xml:id="pb_956.d2e71007"/>
           كاني وقد أسيت في اللحد ثاويا * وقولي أصحابي وأهلي بواكيا يذوبون من فرط الكابة والاسى * ويسقون من ماء العيون ترابيا أقول لهم والبين قد جال بيننا *</p>
             <p xml:id="p_9731.d2e71011">سيبعثني ربي ويحيى عظاميا ويجمعني بمن أحب فنلتقي * ونحرز في دار الخلود الامانيا 10 / 6 / 1929 ج.</p>
             <p xml:id="p_9732.d2e71014">ي.</p>
@@ -301,10 +240,7 @@
                   <expan xml:id="expan_2516.d2e71054">مطبعة</expan>
                </choice> المعارف دون تاريخ
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1906.xhtml"
-                   ed="print"
-                   n="1900"
-                   xml:id="cb_950.d2e71058"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1906.xhtml" ed="print" n="1900" xml:id="cb_950.d2e71058"/>
           (الانسة) هند عمون كريمة اسكندر بك عمون الاصولي والكاتب الشهير تاريخ <placeName>مصر</placeName> - مقسوم إلى قسمين الاول تاريخ <placeName>مصر</placeName> القديم من أول عهد التاريخ حتي سنة 640 بعد المسيح الثاني تاريخ <placeName>مصر</placeName> الحديث - الطبعة الاولى <choice xml:id="choice_2517.d2e71060">
                   <abbr xml:id="abbr_2517.d2e71062">مط</abbr>
                   <expan xml:id="expan_2517.d2e71065">مطبعة</expan>
@@ -322,19 +258,13 @@
             <p xml:id="p_9739.d2e71104">
                <hi style="color:red;" xml:id="hi_2986.d2e71106">1 - </hi>جواب في رد ما أحدثه العامة في هذه الازمنة في صلاة العيدين - من ايقاعهم لها في المساجد جماعة كلما صلت جماعة خلفتها أخري - فاس دون تاريخ ص 14
 
-          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1907.xhtml"
-                   ed="print"
-                   n="1901"
-                   xml:id="pb_957.d2e71109"/>
+          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1907.xhtml" ed="print" n="1901" xml:id="pb_957.d2e71109"/>
                <hi style="color:red;" xml:id="hi_2987.d2e71111">2 - </hi>
           حاشية على شرح محمد التاودي للامية الزقاق بهامشها الشرح المذكور.</p>
             <p xml:id="p_9740.d2e71115">فاس 1321 ص 412 و 1327 ص 412 3 - شرح لوثائق محمد بن احمد بن حمدون بناني فاس 1321 ص 326 هوتسما (Houtsma) Martijn Theodor 1 - فهرست الكتب الشرقية المحفوظة في اكادمية ليدن - (الجزء السادس) 2 - فهرست الكتب العربية والتركية الموجودة عند الموسيو بريل صاحب مكتبة ليدن - جزء 2 ليدن 1886 و 1889 وعني بنشر الكتب الآتية: (1) تاريخ اليعقوبي (2) كتاب الاضداد لابي بكر الانباري (أنظر ابن الانباري) (3) زبدة النصرة ونخبة العصرة لعماد الدين الكاتب</p>
             <p xml:id="p_9741.d2e71118">الاصبهاني هوداس (Houdas) Octave من علماء المشرقيات الفرنسيس المولود سنة 1840 كان أستاذا في مدرسة اللغات الشرقية في باريس وسمى مفتشا لعموم مدارس الجزائر وكان عضوا في شورى المعارف العمومية وفي اللجنة التاريخية بقسم تاريخ المغرب وغير ذلك 1 - طرف مغربية - انتخبها من كتبة أهل المغرب ولها معجم في آخرها - باريس 1891 ص 4 و 130 و 121
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1908.xhtml"
-                   ed="print"
-                   n="1902"
-                   xml:id="cb_951.d2e71120"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1908.xhtml" ed="print" n="1902" xml:id="cb_951.d2e71120"/>
                <hi style="color:red;" xml:id="hi_2988.d2e71122">2 - </hi>
           مجموعة مكاتيب مخطوطة - علي القاعدة المغربية تشتمل على 109 رسالة طبع حجر بمعاونة الموسيو دلفين ولها شروح ومعجم بآخرها.</p>
             <p xml:id="p_9742.d2e71126">الجزائر 1891 ص 8 و 168 و 110 (1) وعنى الاستاذ هوداس بنشر الكتب الآتي ذكرها (1) تاريخ السودان للشيخ عبد الرحمن بن عامر السعدي (2) تذكرة النسيان في أخبار ملوك السودان له أيضا أنظر: السعدي <hi rend="quotation-marks" xml:id="hi_2989.d2e71128"> عبد الرحمن </hi> (3) تاريخ الفتاش في أخبار البلدان والجيوش واكابر الناس - أنظر الفع محمود كعت</p>
@@ -345,19 +275,13 @@
                   <p xml:id="p_9745.d2e71146">(1) - Recueil de lettres Arabes magribiennes ac - compagnees de notes et d ' un vocabulaire) en collabo (ration avec Mr.</p>
                   <p xml:id="p_9746.d2e71149">Delphin الخطط الجديدة 2 - 11 (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1909.xhtml"
-                   ed="print"
-                   n="1903"
-                   xml:id="pb_958.d2e71153"/>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1909.xhtml" ed="print" n="1903" xml:id="pb_958.d2e71153"/>
                <hi style="color:red;" xml:id="hi_2991.d2e71155">1 - </hi>مختصر من كتاب روض الرياحين في مناقب</p>
             <p xml:id="p_9748.d2e71159">الصالحين - لليافعي - ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الكاستلية 1281 ص 131 ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> العلمية 1315 2 - المطالع النصرية للمطابع المصرية في الاصول الخطية - مرتب على مقدمة ومقصد وخاتمة - بولاق 1275 و 1302 ص 152 - ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الخيرية 1304 - طبعة ثانية يتقدمها تقريظات للافاضل الازهرية على الكتاب - بولاق 1302 ص 224 ولنصر الهوريني: <hi rend="quotation-marks" xml:id="hi_2992.d2e71161"> ترجمه ابن خلكان </hi> جمعها من عدة كتب في آخر الجزء الثاني من كتاب وفيات الاعيان لابن خلكان الهيثمي (735 - 807) (الحافظ) نور الدين أبو الحسن على بن أبي بكر ابن سليمان بن أبي بكر الهيثمي القاهري الشافعي ولد بالقاهرة ونشأ بها وكان عجيبا في الدين والتقوى والزهد والاقبال على العلم والعبادة والمحبة للحديث وأهله وحدث بالكثير.</p>
             <p xml:id="p_9749.d2e71165">أخذ الناس عنه وأكثروا مجمع الزوائد ومنبع الفوائد - (حديث) جمع فيه روائد الكتب الستة من مسند احمد بن حنبل والبزاز وأبي يعلي الموصلي والمعاجم الثلاثة للطبراني وصار كتابا حافلا في ستة مجلدات كبار (كشف الظنون) طبع من هذا الكتاب جزء واحد على نفقة صديق</p>
             <p xml:id="p_9750.d2e71168">حسن خان بهادر في دهلي سنة 1308 ص 228 أوله الحمد لله الذي فضل أرباب العلوم وانصارها واعزهم عزا كبيرا..له مقدمة وترجمة المؤلف بقلم محمد عبد المجيد بن أسد على الفاروقي الدهلوي ومن هذا الكتاب أجزاء مخطوطة غير كاملة محفوظة في دار الكتب المصرية
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1910.xhtml"
-                   ed="print"
-                   n="1904"
-                   xml:id="cb_952.d2e71170"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1910.xhtml" ed="print" n="1904" xml:id="cb_952.d2e71170"/>
           (الانسة) هيلانه البارودي الحقائق الجسمية والدقائق الصحية - <choice xml:id="choice_2520.d2e71172">
                   <abbr xml:id="abbr_2520.d2e71174">مط</abbr>
                   <expan xml:id="expan_2520.d2e71177">مطبعة</expan>

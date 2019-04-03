@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="oclc_618896732-div_16"
-     next="oclc_618896732-div_17"
-     prev="oclc_618896732-div_15">
-   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="teiHeader_1.d2e6">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="oclc_618896732-div_16" next="oclc_618896732-div_17" prev="oclc_618896732-div_15">
+   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="teiHeader_1.d2e6">
       <fileDesc xml:id="fileDesc_1.d2e8">
          <titleStmt xml:id="titleStmt_1.d2e10">
             <title xml:id="title_1.d2e12">معجم المطبوعات العربية والمعربة</title>
@@ -77,28 +64,19 @@
       </fileDesc>
       <encodingDesc xml:lang="en" xml:id="encodingDesc_1.d2e134">
         <samplingDecl xml:id="samplingDecl_1.d2e136">
-            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242"
-                    xml:lang="en"
-                    xml:id="ref_1.d2e140">
+            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242" xml:lang="en" xml:id="ref_1.d2e140">
                   <foreign xml:lang="ar-Latn-x-ijmes" xml:id="foreign_1.d2e142">al-maktabat al-shāmila</foreign>
                </ref>. It is important to note that the information on page numbers recorded in <att xml:id="att_1.d2e146">n</att> on <tag xml:id="tag_1.d2e149">pb ed="print"</tag> correspond to the original printed edition.</p>
-            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139"
-                    xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958"
-                    xml:id="ref_3.d2e158">vol. 2</ref>.</p>
+            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164">
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
    <text xml:lang="ar">
       <body>
-         <div xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="div_33.d2e47569"
-              type="section">
+         <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="div_33.d2e47569" type="section">
             <head xml:id="head_29.d2e47571">حرف الظاء</head>
             <p xml:id="p_7034.d2e47574">ظافر المالكي الازهري محمد البشير اليواقيت الثمينة في أعيان مذهب عالم المدينة وهو في تراجم المتأخرين من علماء المالكية - أوله: الحمد لمن جعل العلماء هداة الامم الخ - الجزء الاول فقط</p>
             <p xml:id="p_7035.d2e47577">ينتهى إلى  
@@ -106,16 +84,13 @@
           - مات المؤلف قبل اتمامه - <choice xml:id="choice_1528.d2e47582">
                   <abbr xml:id="abbr_1528.d2e47584">مط</abbr>
                   <expan xml:id="expan_1528.d2e47587">مطبعة</expan>
-               </choice> الملاجئ العباسية 5 / 1324 ص 261 ظافر المدني محمد بن الاستاذ محمد بن حمزه ظافر المدني النور الساطع والبرهان القاطع - (في الطريقة الشاذلية) <placeName>مصر</placeName> 1310 ص 62 ظافر الياس وكيل مجلة المقتطف في الدقهلية 
+               </choice> الملاجئ العباسية 5 / 1324 ص 261 ظافر المدني محمد بن الاستاذ محمد بن حمزه ظافر المدني النور الساطع والبرهان القاطع - (في الطريقة الشاذلية) <placeName>مصر</placeName> 1310 ص 62 ظافر الياس وكيل مجلة <tei:title level="j" change="#d2e166">المقتطف</tei:title> في الدقهلية 
           <note type="footnote" xml:id="note_829.d2e47591">
                   <p xml:id="p_7035.d2e47593">(1) , La litterature Syriaque par Rubens Duval 200.</p>
                   <p xml:id="p_7036.d2e47596">1907) * (me ed 3.</p>
                   <p xml:id="p_7037.d2e47599">pp Paris</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1262.xhtml"
-                   ed="print"
-                   n="1256"
-                   xml:id="cb_628.d2e47603"/>روض الرياحين فيما كتب قبل الثلاثين - وهو مجموعة مقالات ادبية فكاهية اجتماعية ادرجت في المقطم بين سنتى 1911 - 1912 الجزء الاول - <choice xml:id="choice_1529.d2e47605">
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1262.xhtml" ed="print" n="1256" xml:id="cb_628.d2e47603"/>روض الرياحين فيما كتب قبل الثلاثين - وهو مجموعة مقالات ادبية فكاهية اجتماعية ادرجت في المقطم بين سنتى 1911 - 1912 الجزء الاول - <choice xml:id="choice_1529.d2e47605">
                   <abbr xml:id="abbr_1529.d2e47607">مط</abbr>
                   <expan xml:id="expan_1529.d2e47610">مطبعة</expan>
                </choice> المقتطف 1912 ص 165 ظاهر خير الله * امين ظاهر خير الله ظاهر خير الله * الشويري <hi rend="quotation-marks" xml:id="hi_1890.d2e47615"> ظاهر خير الله </hi> الظاهري * ابن شاهين ظريفه <hi rend="quotation-marks" xml:id="hi_1891.d2e47618"> مشيل افندي </hi> مدرس الرياضة والطبيعة في المدرسة السعيدية الثانوية ومن خريجي جامعة برستول بانكلترا 1 - التمرينات الهندسية - لطلاب المدارس الثانوية</p>

@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="oclc_618896732-div_22"
-     next="oclc_618896732-div_23"
-     prev="oclc_618896732-div_21">
-   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="teiHeader_1.d2e6">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="oclc_618896732-div_22" next="oclc_618896732-div_23" prev="oclc_618896732-div_21">
+   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="teiHeader_1.d2e6">
       <fileDesc xml:id="fileDesc_1.d2e8">
          <titleStmt xml:id="titleStmt_1.d2e10">
             <title xml:id="title_1.d2e12">معجم المطبوعات العربية والمعربة</title>
@@ -77,37 +64,25 @@
       </fileDesc>
       <encodingDesc xml:lang="en" xml:id="encodingDesc_1.d2e134">
         <samplingDecl xml:id="samplingDecl_1.d2e136">
-            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242"
-                    xml:lang="en"
-                    xml:id="ref_1.d2e140">
+            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242" xml:lang="en" xml:id="ref_1.d2e140">
                   <foreign xml:lang="ar-Latn-x-ijmes" xml:id="foreign_1.d2e142">al-maktabat al-shāmila</foreign>
                </ref>. It is important to note that the information on page numbers recorded in <att xml:id="att_1.d2e146">n</att> on <tag xml:id="tag_1.d2e149">pb ed="print"</tag> correspond to the original printed edition.</p>
-            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139"
-                    xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958"
-                    xml:id="ref_3.d2e158">vol. 2</ref>.</p>
+            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164">
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
    <text xml:lang="ar">
       <body>
-         <div xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="div_41.d2e59812"
-              type="section">
+         <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="div_41.d2e59812" type="section">
             <head xml:id="head_37.d2e59814">حرف اللام</head>
             <p xml:id="p_8493.d2e59817">اللاذقي <hi rend="quotation-marks" xml:id="hi_2509.d2e59819"> الياس صالح </hi> * صالح <hi rend="quotation-marks" xml:id="hi_2510.d2e59822"> الياس </hi>
             </p>
             <p xml:id="p_8494.d2e59826">اللاذقي (الشيخ) مصطفى * المحمودي اللاذقي لار <hi rend="quotation-marks" xml:id="hi_2511.d2e59828"> برهان الدين </hi> برهان الدين لار محمد الحسيني اليمني شرح قسم الكلام من التهذيب - (أو) شرح تهذيب الكلام - ألفه سنة 1015 - هند (دون تاريخ) ص 154
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1590.xhtml"
-                   ed="print"
-                   n="1584"
-                   xml:id="cb_792.d2e59831"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1590.xhtml" ed="print" n="1584" xml:id="cb_792.d2e59831"/>
           اللاري (979) (المولي) مصلح الدين محمد بن صلاح اللاري الانصاري وكتب بعضهم: عبد الغفور اللاري الانصاري وكتب أيضا: المولى محمد بن صلاح بن جلال بن كمال بن محمد اللغوي السعدي العبادي الشافعي المشهور بملا مصطلح الدين اللاري ولد في اللار وهي مملكة بين الهند وشيراز واشتغل بالدرس وذهب إلى بلاد الهند.</p>
             <p xml:id="p_8495.d2e59834">ثم قامت بها الفتن فخرج قاصدا بلاد الروم حتى وصل قسطنطينية.</p>
             <p xml:id="p_8496.d2e59837">فاجتمع بمن فيها من الافاضل وباحث معهم.</p>
@@ -121,10 +96,7 @@
           <note type="footnote" xml:id="note_1008.d2e59862">
                   <p xml:id="p_8503.d2e59864">العقد المنظوم في ذكر أفاضل الروم 2 - 393 ذيل الشقائق النعمانية ص 169 (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1591.xhtml"
-                   ed="print"
-                   n="1585"
-                   xml:id="pb_799.d2e59868"/>لاز أغلى <hi rend="quotation-marks" xml:id="hi_2512.d2e59870"> الحاج حسن </hi> النزهة الخيرية في موافقة شهور الاعاجم للشهور القمرية - بالتقويم لسنة 1297 - وهو</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1591.xhtml" ed="print" n="1585" xml:id="pb_799.d2e59868"/>لاز أغلى <hi rend="quotation-marks" xml:id="hi_2512.d2e59870"> الحاج حسن </hi> النزهة الخيرية في موافقة شهور الاعاجم للشهور القمرية - بالتقويم لسنة 1297 - وهو</p>
             <p xml:id="p_8505.d2e59874">تقويم رأيت منه إلى السنة الثامنة طبع ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> التونسية سنة 1298 لاز <hi rend="quotation-marks" xml:id="hi_2513.d2e59876"> محمد افندي </hi> * محمد افندي لاز لافوانتي القنطري <hi rend="quotation-marks" xml:id="hi_2514.d2e59879"> أميليو </hi> (Lafuente J.</p>
             <p xml:id="p_8506.d2e59883">Al - Cantara) Emilio (1827 - 1876) 1 - أخبار مجموعة في فتح الاندلس وذكر أمرائها والحروب الواقعة بينهم.</p>
             <p xml:id="p_8507.d2e59886">ومعها ترجمة باللغة الاسبانية وملحوظات لجامعها - مدريد 1867 2 - كتابات عربية في تاريخ غرناطة - مدريد 1859 ص 242 لامنس <hi rend="quotation-marks" xml:id="hi_2515.d2e59888"> (الاب) هنري </hi> أحد علماء المشرقيات البلجيكي - المرسل اليسوعي نزيل <placeName>بيروت</placeName> ومصر وكان استاذا للاسفار القديمة في كلية رومية 1 - الالفاظ الفرنسية المشتقة من العربية - <choice xml:id="choice_2016.d2e59891">
@@ -146,10 +118,7 @@
                   <expan xml:id="expan_2020.d2e59938">مطبعة</expan>
                </choice> اليسوعيين سنة..ص 64
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1592.xhtml"
-                   ed="print"
-                   n="1586"
-                   xml:id="cb_793.d2e59942"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1592.xhtml" ed="print" n="1586" xml:id="cb_793.d2e59942"/>
           لاندبرج * لندبرج اللاهوري <hi rend="quotation-marks" xml:id="hi_2517.d2e59944"> امام الدين </hi> تصريح في شرح تشريح (الافلاك) - وهو شرح تشريح الافلاك لبهاء الدين العاملي - دهلى 1294 ص 36 اللاهيجي * اللهيجي اللبابيدي <hi rend="quotation-marks" xml:id="hi_2518.d2e59947"> احمد </hi> البيروتي ذيل قانون أصول المحاكمات الحقوقية الموقتة نقله من اللسان التركي - <placeName>بيروت</placeName> 1911 ص 53 اللبابيدي الدمشقي <hi rend="quotation-marks" xml:id="hi_2519.d2e59951"> (الشيخ) احمد بن مصطفى </hi> (1318) لطائف اللغة - وهو يشتمل على غريب اللغات اللطيفة المعاني.</p>
             <p xml:id="p_8509.d2e59955">الدقيقة المباني على كثير من الامثال والحكم.</p>
             <p xml:id="p_8510.d2e59959">جمعه مؤلفه من كتب اللغة الموثوق بها كالقاموس وفقه اللغة ومزهر السيوطي والاشباه والنظائر <placeName>أستانة</placeName> 1311 ص 248 - وقيل لي أنه طبع بمصر سنة 1321 لكنى لم أتحقق ذلك اللبان</p>
@@ -160,20 +129,14 @@
           <note type="footnote" xml:id="note_1009.d2e59976">
                   <p xml:id="p_8511.d2e59978">(1) وفى رواية انه تلميذ عبد الحكيم السيالكوتى لا ابنه (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1593.xhtml"
-                   ed="print"
-                   n="1587"
-                   xml:id="pb_800.d2e59982"/>عبد الحكيم بن شمس الدين السيالكوتي الهندي وهو حاشية على التلويح لسعد الدين التفتازاني - ضمن مجموعة رقم 6 (هند 1279) اللبني <hi rend="quotation-marks" xml:id="hi_2521.d2e59984"> جعفر بن أبي بكر </hi> الحنفي المكي دفع الشدة بجواز تأخير الافاقي الاحرام إلى جده <placeName>أستانة</placeName> 1327 ص 8 لبيد العامري (675 م) هو أبو عقيل لبيد بن ربيعة بن مالك بن جعفر العامري الصحابي الجليل وهو من المخضرمين الذين أدركوا الجاهلية والاسلام.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1593.xhtml" ed="print" n="1587" xml:id="pb_800.d2e59982"/>عبد الحكيم بن شمس الدين السيالكوتي الهندي وهو حاشية على التلويح لسعد الدين التفتازاني - ضمن مجموعة رقم 6 (هند 1279) اللبني <hi rend="quotation-marks" xml:id="hi_2521.d2e59984"> جعفر بن أبي بكر </hi> الحنفي المكي دفع الشدة بجواز تأخير الافاقي الاحرام إلى جده <placeName>أستانة</placeName> 1327 ص 8 لبيد العامري (675 م) هو أبو عقيل لبيد بن ربيعة بن مالك بن جعفر العامري الصحابي الجليل وهو من المخضرمين الذين أدركوا الجاهلية والاسلام.</p>
             <p xml:id="p_8513.d2e59988">وتوفي في أول خلافة معاوية بن أبي سفيان شاعر معدود من الشعراء المجيدين والفرسان المشهورين</p>
             <p xml:id="p_8514.d2e59991">ومن المعمرين.</p>
             <p xml:id="p_8515.d2e59994">وأسلم لبيد وحسن اسلامه وهو القائل ألا كل شئ ما خلا الله باطل 1 - ديوان لبيد العامري - رواية الطوسي - طبع بعناية الشيخ يوسف ضياء الدين الخالدي المقدسي في ويانا 1297 - 1880 ص 151 وطبع قطعة ثانية من ديوان لبيد بعناية الدكتور هوبر وتصحيح الاستاذ بروكلمان في ليدن 1891 وعليها ملاحظات باللغة الالمانية 2 - معلقة لبيد - أنظر شعراء العرب لتمان <hi rend="quotation-marks" xml:id="hi_2522.d2e59996"> انو </hi> (..) قصص في اللغة العربية الدارجة - احتوت على 
           <note type="footnote" xml:id="note_1010.d2e59999">
                   <p xml:id="p_8515.d2e60001">الاغاني 14 ص 93 إلى 102 الشعر والشعراء 148 المستطرف 2 - 43 الجمهرة 63 خزانة الادب 1 - 337 () * (Litmann) Enno</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1594.xhtml"
-                   ed="print"
-                   n="1588"
-                   xml:id="cb_794.d2e60005"/>35 فكاهة في اللغة العربية السائرة في نواحي <placeName>القدس</placeName> رواها له بعض الاهلين - ليدن 1905 ص 273 لحد صعب خاطر جغرافية لبنان - <choice xml:id="choice_2022.d2e60007">
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1594.xhtml" ed="print" n="1588" xml:id="cb_794.d2e60005"/>35 فكاهة في اللغة العربية السائرة في نواحي <placeName>القدس</placeName> رواها له بعض الاهلين - ليدن 1905 ص 273 لحد صعب خاطر جغرافية لبنان - <choice xml:id="choice_2022.d2e60007">
                   <abbr xml:id="abbr_2022.d2e60009">مط</abbr>
                   <expan xml:id="expan_2022.d2e60012">مطبعة</expan>
                </choice> الحميدية <placeName>بيروت</placeName> 1909 ص 88 اللحمي <hi rend="quotation-marks" xml:id="hi_2523.d2e60016"> محمد بن ابراهيم </hi> ابن الرامي التونسي</p>
@@ -182,10 +145,7 @@
           <note type="footnote" xml:id="note_1011.d2e60032">
                   <p xml:id="p_8518.d2e60034">نفح الطيب جزء 3 و 4 - ابن خلدون جزء 7 ص 332 إلى 336 وخبر مقتله ص 341 من الجزء المذكور - الدرر الكامنة جزء 2 ورقة 98 - المنهل الصافي 3 - 187 - معلمة الاسلام ص 1 جزء 422 (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1595.xhtml"
-                   ed="print"
-                   n="1589"
-                   xml:id="pb_801.d2e60038"/>الحكيم المشهور يحيى بن هذيل وأخذ عنه العلوم الفلسفية وبرز في الطب وانتحل الادب وأخذ عن أشياخه وامتلا حوض السلطان من نظمه ونثره مع انتقاء الجيد منه وبلغ في الشعر والترسل حيث لا يجاري فيهما وامتدح السلطان أبا الحجاج من ملوك بنى الاحمر وملا الدولة بمدائحه وانتشرت في الآفاق قدماه فرقاه السلطان إلى خدمته (ابن خلدون) وبعد موت السلطان أبي الحجاج سنة 755 أفرد ابن الخطيب بوزارته كما كان لابيه.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1595.xhtml" ed="print" n="1589" xml:id="pb_801.d2e60038"/>الحكيم المشهور يحيى بن هذيل وأخذ عنه العلوم الفلسفية وبرز في الطب وانتحل الادب وأخذ عن أشياخه وامتلا حوض السلطان من نظمه ونثره مع انتقاء الجيد منه وبلغ في الشعر والترسل حيث لا يجاري فيهما وامتدح السلطان أبا الحجاج من ملوك بنى الاحمر وملا الدولة بمدائحه وانتشرت في الآفاق قدماه فرقاه السلطان إلى خدمته (ابن خلدون) وبعد موت السلطان أبي الحجاج سنة 755 أفرد ابن الخطيب بوزارته كما كان لابيه.</p>
             <p xml:id="p_8520.d2e60041">وأتى ابن الخطيب سفيرا إلى السلطان أبي عنان.</p>
             <p xml:id="p_8521.d2e60044">فأحسن إليه العطا وأكرمه.</p>
             <p xml:id="p_8522.d2e60047">ولما استولى السلطان أبو العباس على البلد الجديد دار ملكه واستقل بسلطانه وشى وزيره سليمان بن داود بلسان الدين ابن الخطيب فألقى في السجن ثم دس سليمان بن داود إليه لبعض الاوغار من حاشيته بقتله فطرقوا السجن ليلا وقتلوه خنقا ومن غريب ما حكي عن صاحب الترجمة انه كان يملى في وقت واحد على سبعة انفس من انشائه بأمور مختلفة لا يجف لواحد منهم قلم.</p>
@@ -193,10 +153,7 @@
             <p xml:id="p_8524.d2e60053">له من التصانيف غير المطبوعة: التاج المحلى في أدباء المئة الثامنة والاكليل الزاهر فيمن فضل عند نظم التاج</p>
             <p xml:id="p_8525.d2e60057">من الجواهر وطرفة العصر في دولة بني نصر وديوان الشعر وحمل الجمهور على السنن والمشر والتعريف بالحب الشريف في الطب ونفاضة الجراب في علالة الاغتراب ومن مخطوطاته في مكتبة الاسكوريال بمدريد الكتب الآتية: 1 - كناسة الدكان بعد انتقال السكان 2 - رقم الحول في نظم الدول 3 - لمحة البدرية في الدولة النصرية 4 - السحر والشعر 5 - معيار الاختيار 6 - أوصاف الناس في التواريخ والصلات 7 - ريحانة الكتاب 8 - خطرة الطيف في رحلة الشتاء والصيف
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1596.xhtml"
-                   ed="print"
-                   n="1590"
-                   xml:id="cb_795.d2e60059"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1596.xhtml" ed="print" n="1590" xml:id="cb_795.d2e60059"/>
                <hi style="color:red;" xml:id="hi_2526.d2e60061">9 - </hi>
           ريحانة الكتاب ونجعة المنتاب 10 - مجموعة فيها رسائل مختلفة 1 - الاحاطة في أخبار غرناطة - هو معجم تاريخي لمشاهير غرناطة طبع منه جزءان فقط باعتناء شركة طبع الكتب العربية جزء 2 <placeName>مصر</placeName> 1319 وهو غير كامل وأسماء الاعلام فيه غير مضبوطة 2 - الاختيار في ذكر المعاهد والديار - فاس 1325 ص 54 - طبع حروف وقرأت أسم هذا</p>
             <p xml:id="p_8526.d2e60065">الكتاب في محل آخر <hi rend="quotation-marks" xml:id="hi_2527.d2e60067"> معيار الاختيار في ذكر المعاهد والديار </hi> وهي أشبه بمقامات وضعت على لسان مدن الاندلس - وكان قد نشر نبذة منها الاستاذ ملر في مونيخ سنة 1866 (وقال جرجي زيدان في تاريخ آداب اللغة جزء 3 ص 217 انه ترجم بعضها إلى الاسبانية وطبع في مدريد سنة 1861 وفي غرناطة سنة 1872) والعهدة علي الراوي 3 - اعمال الاعلام فيمن بويع قبل الاحتلام من ملوك الاسلام وما يتعلق بذلك من الكلام - أوله: الحمد لله الذي بدأ الخلق ثم يعيد - يدخل الكتاب في جزئين الاول في تواريخ الخلفاء ودول المشرق والمماليك البحرية والدولة العلوية بمكة والمدينة والثانى يختص بالاندلس وما يحاوره من الممالك (1) طبع منه القسم المختص بالمغرب - بالرما (ايطاليا) سنة 1910 (ولم يطبع كله كما وهم جرجي زيدان في تاريخ الآداب العربية جزء 3 ص 217) 4 - الحلل الموشية في ذكر الاخبار المراكشية عنى بتصحيحه السيد بشير النورتي وفي مقدمته ترجمة المؤلف - تونس 1911 - 1329 ص 144 و 18 (2) 
@@ -204,10 +161,7 @@
                   <p xml:id="p_8526.d2e60072">(1) موجود منه نسخة خطية كاملة في الجزائر في الكتبخانة الوطنية ونسخة كتبت سنة 1247 هـ في الخزانة التيمورية (2) جاء في معلمة الاسلام ان هذا الكتاب منسوب وهما لابن</p>
                   <p xml:id="p_8527.d2e60075">الخطيب <hi rend="quotation-marks" xml:id="hi_2528.d2e60077"> لسان الدين </hi> (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1597.xhtml"
-                   ed="print"
-                   n="1591"
-                   xml:id="pb_802.d2e60082"/>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1597.xhtml" ed="print" n="1591" xml:id="pb_802.d2e60082"/>
                <hi style="color:red;" xml:id="hi_2529.d2e60084">5 - </hi>رقم الحلل في نظم الدول - أرجوزة - تونس 1316 ص 124 6 - معيار الاختيار - أنظر رقم 2 الاختيار 7 - المقالة المسماة بمقنعة السائل في المرض الهائل وفيه وصف طاعون غرناطة سنة 749 - طبعت مع ترجمة إلى اللغة الالمانية باعتناء الاستاذ ملر في مونيخ 1863 ص 40 لطفي باشا وزير السلطان سليمان قانون بني عثمان - المعروف بآصف نامه.</p>
             <p xml:id="p_8529.d2e60088">عنى بنشره الاب لويس شيخو - أنظر شيخو: قانون بتي عثمان لطفي الراهب <hi rend="quotation-marks" xml:id="hi_2530.d2e60090"> لطف الله افندي </hi> الموظف بنظارة المالية فلسفة الاخلاق والعلوم - رتب على أربعة أبواب 1 في الاداب الاخلاقية 2 في واجبات الانسان نحو نفسه 3 في واجبات الانسان نحو الغير 4 في ممهدات الاخلاق وآفاتها - <placeName>مصر</placeName> 1914؟ لطفي <hi rend="quotation-marks" xml:id="hi_2531.d2e60093"> محمد </hi> * جمعه <hi rend="quotation-marks" xml:id="hi_2532.d2e60096"> محمد لطفي </hi> اللطفي الحسيني <hi rend="quotation-marks" xml:id="hi_2533.d2e60099"> محمد سعد الدين افندي </hi>
             </p>
@@ -216,10 +170,7 @@
                   <expan xml:id="expan_2023.d2e60110">مطبعة</expan>
                </choice> الادبية <placeName>بيروت</placeName> 1297 ص 176
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1598.xhtml"
-                   ed="print"
-                   n="1592"
-                   xml:id="cb_796.d2e60114"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1598.xhtml" ed="print" n="1592" xml:id="cb_796.d2e60114"/>
           لطيف يعقوب شكيب أحد تلامذة جمعية نيويورك العلمية الدر النظيم في فن التنويم - جعله تقدمة لبوغوص نوبار باشا - <choice xml:id="choice_2024.d2e60116">
                   <abbr xml:id="abbr_2024.d2e60118">مط</abbr>
                   <expan xml:id="expan_2024.d2e60121">مطبعة</expan>
@@ -241,10 +192,7 @@
                   <p xml:id="p_8540.d2e60174">الخطط الجديدة 15 - 16 اليواقيت الثمينة 85 (..) خلاصة الاثر 2 - 416.</p>
                   <p xml:id="p_8541.d2e60177">الخطط 15 - 17 (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1599.xhtml"
-                   ed="print"
-                   n="1593"
-                   xml:id="pb_803.d2e60181"/>اتحاف المريد شرح جوهرة التوحيد - (لوالده) أنظر الامير الكبير المالكي: حاشية على اتحاف المريد.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1599.xhtml" ed="print" n="1593" xml:id="pb_803.d2e60181"/>اتحاف المريد شرح جوهرة التوحيد - (لوالده) أنظر الامير الكبير المالكي: حاشية على اتحاف المريد.</p>
             <p xml:id="p_8543.d2e60184">لقمان الحكيم " ولقد أتينا لقمان الحكمة أن أشكر لله ومن يشكر</p>
             <p xml:id="p_8544.d2e60187">فانما يشكر لنفسه ومن كفر فأن الله غنى حميد " وإذ قال لقمان لابنه وهو يعظه يا بنى لا تشرك بالله إن الشرك لظلم عظيم (سورة لقمان) قيل أن أول من وصف بالحكمة كان لقمان وكان في زمان داود النبي ومنه أخذ امبيذ وقليس (ابن العبري) وقال بعضهم انه كان نوبيا وأن اسم ايسوب الفيلسوف اليوناني Atieupas أي الحبشي Ethiopien منتحل من لقمان الحبشي - وجاء في المثنوي لجلال الدين البلخي بعض الحكايات عن لقمان ترى مثالها في سيرة أيسوب وفى مروج الذهب للمسعودي: هو لقمان بن عنقاء أبن مريد بن هارون وكان نوبيا مولى للقين بن حسر ولد على عشر سنين من ملك داود عليه السلام وكان عبدا صالحا فمن الله عزوجل عليه بالحكمة.</p>
             <p xml:id="p_8545.d2e60190">ولم يزل باقيا في الارض مظهرا للحكمة والزهد في هذا العالم إلى أيام يونس ابن متى حين أرسل إلى أهل نينوى من بلاد الموصل اه.</p>
@@ -256,10 +204,7 @@
                   <p xml:id="p_8549.d2e60207">(1)) * (F.</p>
                   <p xml:id="p_8550.d2e60210">Erpenii</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1600.xhtml"
-                   ed="print"
-                   n="1594"
-                   xml:id="cb_797.d2e60214"/>موسوما بكتاب <hi rend="quotation-marks" xml:id="hi_2536.d2e60216"> لقمان الحكيم أبو أنعم </hi> (1) ومعه ترجمة باللغه الفرنسيه ومقالة عن لقمان الحكيم بقلم مارسل مدبر المطبعة المذكورة (2) وفى آخره ذكر تاريخ الطبع كما يأتي: بمصر المحروسة - طبع بمطبعة الفرنساوية العربية على يد يوحنا يوسف مارسل ورئيس المطبعة سنة 1214 يعنى سنة 8 من أقامة الجمهور الفرنساوى وطبع ثانية في باريس 1803 م باللغة الفرنسية ص 154 وباعتناء كوسان دى پرسفال (3) باريس 1819 ص 23 وطبع منتخبات من أمثال لقمان الحكيم باعتناء الموسيو فريتاغ (4) وفى بون 1823 ص 6 و 88 ومعه نبذة من كتاب الفخري وموسوما بأمثال لقمان الحكيم - بتصحيحه على النسخة المحفوظه في الكتبخانة الملكية بباريس باعتناء شيار (5) ومعه ترجمة فرنسية درسدن - ليبسيك 1831 ص 57 و 16 و 1839 طبعة ثانية و 1850 طبعة ثالثة ومعه ترجمة فرنسية وتعليقات بقلم الاستاذين ل.</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1600.xhtml" ed="print" n="1594" xml:id="cb_797.d2e60214"/>موسوما بكتاب <hi rend="quotation-marks" xml:id="hi_2536.d2e60216"> لقمان الحكيم أبو أنعم </hi> (1) ومعه ترجمة باللغه الفرنسيه ومقالة عن لقمان الحكيم بقلم مارسل مدبر المطبعة المذكورة (2) وفى آخره ذكر تاريخ الطبع كما يأتي: بمصر المحروسة - طبع بمطبعة الفرنساوية العربية على يد يوحنا يوسف مارسل ورئيس المطبعة سنة 1214 يعنى سنة 8 من أقامة الجمهور الفرنساوى وطبع ثانية في باريس 1803 م باللغة الفرنسية ص 154 وباعتناء كوسان دى پرسفال (3) باريس 1819 ص 23 وطبع منتخبات من أمثال لقمان الحكيم باعتناء الموسيو فريتاغ (4) وفى بون 1823 ص 6 و 88 ومعه نبذة من كتاب الفخري وموسوما بأمثال لقمان الحكيم - بتصحيحه على النسخة المحفوظه في الكتبخانة الملكية بباريس باعتناء شيار (5) ومعه ترجمة فرنسية درسدن - ليبسيك 1831 ص 57 و 16 و 1839 طبعة ثانية و 1850 طبعة ثالثة ومعه ترجمة فرنسية وتعليقات بقلم الاستاذين ل.</p>
             <p xml:id="p_8552.d2e60220">وه.</p>
             <p xml:id="p_8553.d2e60223">هليوت باريس 1847 وص 3 و 102 - وبتصحيحه على عدة نسخ خطية باعتناء الموسيو ديرنبرغ برلين ولندن طبع ليبسيك 1850 ص 68 - وبها ترجمة أمثال لقمان بالفرنساوية وملحوظات مبدوءة بمقدمة في الكلام على لقمان وأصل هذه الامثال بباريس ومعه قاموس للمفردات باعتناء الموسيو شربونو باريس 1847 و 1888 و 1893 ص 93 - ومعها ترجمة لاتينيه مدريد 1784 ص 20 و 49 وأمثال اللقمان في تهذيب اللسان في اللغات التركية والفارسية والعربية والفرنسية ترجمة اسكندر افندي <placeName>أستانة</placeName> 1292 ص 70 و 16 
           <note type="footnote" xml:id="note_1015.d2e60225">
@@ -273,10 +218,7 @@
                   <p xml:id="p_8560.d2e60249">Freytag (5)) * (C.</p>
                   <p xml:id="p_8561.d2e60252">Schier</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1601.xhtml"
-                   ed="print"
-                   n="1595"
-                   xml:id="pb_804.d2e60256"/>اللكنوي <hi rend="quotation-marks" xml:id="hi_2537.d2e60258"> أبو الحسنات </hi> (1264 - 1304 هـ) (الشيخ) أبو الحسنات محمد عبد الحي بن الحافظ محمد عبد الحليم بن محمد أمين اللكنوى الانصاري الايوبي قال في الفوائد في ترجمة نفسه: ولدت أنا في سنة 1264 في بلدة باندة حين كان والدى مدرسا هناك وشرعت من سن خمس بحفظ القرآن وفرغت منه في سن عشر وفي أثنائه تعلمت الخط وقرأت بعض الكتب الفارسية وشرعت في سن الحادية عشر في تحصيل العلوم ففرغت منه حين كان عمرى سبع عشرة سنة وقرأت جميع العلوم على حضرة الوالد المرحوم وبعض كتب الهيئة على حضرة مولانا محمد نعمة الله المتوفي سنة 1290 ومن ذلك السن اشتغلت.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1601.xhtml" ed="print" n="1595" xml:id="pb_804.d2e60256"/>اللكنوي <hi rend="quotation-marks" xml:id="hi_2537.d2e60258"> أبو الحسنات </hi> (1264 - 1304 هـ) (الشيخ) أبو الحسنات محمد عبد الحي بن الحافظ محمد عبد الحليم بن محمد أمين اللكنوى الانصاري الايوبي قال في الفوائد في ترجمة نفسه: ولدت أنا في سنة 1264 في بلدة باندة حين كان والدى مدرسا هناك وشرعت من سن خمس بحفظ القرآن وفرغت منه في سن عشر وفي أثنائه تعلمت الخط وقرأت بعض الكتب الفارسية وشرعت في سن الحادية عشر في تحصيل العلوم ففرغت منه حين كان عمرى سبع عشرة سنة وقرأت جميع العلوم على حضرة الوالد المرحوم وبعض كتب الهيئة على حضرة مولانا محمد نعمة الله المتوفي سنة 1290 ومن ذلك السن اشتغلت.</p>
             <p xml:id="p_8563.d2e60262">وبلغت تصانيفى المدونة التامة إلى الآن معقولا ومنقولا إلى أربع وأربعين وكثير منها لم بتم إلى الآن ولينظر أساميها في النافع ورزقت حج البيت الحرام وزيارة قبر النبي مرتين - اه.</p>
             <p xml:id="p_8564.d2e60265">
                <hi style="color:red;" xml:id="hi_2538.d2e60267">1 - </hi>الآثار المرفوعة في الاخبار الموضوعة - (حديث) هند 1324 ضمن مجموعة 2 - آكام النفائس في أداء الاذكار بلسان فارس (أصول) - في مجموعة رقم 5 3 - ابراز الغي الدافع في شفاء العي - وهو انتقاد</p>
@@ -284,18 +226,12 @@
           <note type="footnote" xml:id="note_1016.d2e60274">
                   <p xml:id="p_8565.d2e60276">الفوائد البهية 248 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1602.xhtml"
-                   ed="print"
-                   n="1596"
-                   xml:id="cb_798.d2e60280"/>وهو شرح على ضابطة انتاج الاشكال لسعد الدين التفتازاني - في مجموعة رقم 97 7 - تحفة الاخبار في احياء سنة سيد الابرار - (حديث) هند 1288 ص 31 8 - تدوير الفلك في حصول الجماعة بالجن والفلك (فقه حنفى) - طبع حجر هند 1299 ص 8 9 - تذكرة الراشد برد تبصرة الناقد - وهو انتقاد على صدق حسن خان لكناهور 1301 10 - ترويح الجنان بتشريح حكم شرب الدخان في مجموعة رقم 90 11 - التعليق العجيب على متن التهذيب - (منطق) في مجموعة رقم 90</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1602.xhtml" ed="print" n="1596" xml:id="cb_798.d2e60280"/>وهو شرح على ضابطة انتاج الاشكال لسعد الدين التفتازاني - في مجموعة رقم 97 7 - تحفة الاخبار في احياء سنة سيد الابرار - (حديث) هند 1288 ص 31 8 - تدوير الفلك في حصول الجماعة بالجن والفلك (فقه حنفى) - طبع حجر هند 1299 ص 8 9 - تذكرة الراشد برد تبصرة الناقد - وهو انتقاد على صدق حسن خان لكناهور 1301 10 - ترويح الجنان بتشريح حكم شرب الدخان في مجموعة رقم 90 11 - التعليق العجيب على متن التهذيب - (منطق) في مجموعة رقم 90</p>
             <p xml:id="p_8567.d2e60283">
                <hi style="color:red;" xml:id="hi_2539.d2e60285">12 - </hi>التعليق الممجد على موطأ الامام محمد - وهو الامام محمد بن حسن الشيباني - طبع مع كتاب موطأ الامام محمد الشيباتي (هند 1292) 13 - حل المغلق في بحث المجهول المطلق - (منطق) في مجموعة رقم 99 14 - خير الخبر في أذان خير البشر - (حديث) في مجموعة الهند 1320 15 - الرفع والتكميل في الجرح والتعديل - هند (دون تاريخ) 16 - زجر الناس على انكار أثر ابن عباس - وهي رسالة في تحقيق أثر ابن عباس في تفسير قوله تعالى: (الله الدى خلق سبع سموات ومن الارض مثلهن) الآية طبعت ضمن مجموعة - الهند 1337 17 - سياحة الفكر في الجهد بالذكر - (حديث) .</p>
             <p xml:id="p_8568.d2e60289">الهند 1320 ضمن مجمدعة 18 - الفوائد البهية في تراجم الحنفية - لخصه من
 
-          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1603.xhtml"
-                   ed="print"
-                   n="1597"
-                   xml:id="pb_805.d2e60291"/>
+          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1603.xhtml" ed="print" n="1597" xml:id="pb_805.d2e60291"/>
           طبقات محمود بن سليمان الكفوى المسماة بكتائب أعلام الاخيار وزاد عليه بقوله: قال الجامع فرغ منه سنة 1292 - وعلى الهامش: التعليقات السنية على الفوائد البهية - فرغ من هذه التعليقات سنة 1293 - طبع حجر لكناهور 1293 و 1304 - قازان 1903 م ص 324</p>
             <p xml:id="p_8569.d2e60294">طبع حروف <choice xml:id="choice_2026.d2e60296">
                   <abbr xml:id="abbr_2026.d2e60298">مط</abbr>
@@ -310,10 +246,7 @@
                   <expan xml:id="expan_2027.d2e60329">مطبعة</expan>
                </choice> العلمية بالمدينة 1330
 
-          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1604.xhtml"
-                   ed="print"
-                   n="1598"
-                   xml:id="cb_799.d2e60333"/>
+          <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1604.xhtml" ed="print" n="1598" xml:id="cb_799.d2e60333"/>
           اللكنوي <hi rend="quotation-marks" xml:id="hi_2541.d2e60335"> محمد عبد الحليم </hi> (1239 - 1285) (الشيخ) محمد عبد الحليم بن محمد أمين الله اللكنوى الانصاري 1 - الاقوال الاربعة في رد الشبهات الموردة - وهي شرح لرد الشبهات الاربعة التي في سلم العلوم.</p>
             <p xml:id="p_8575.d2e60339">وشرحه لمحمد حسن (منطق) ضمن مجموعة رقم 99 2 - حاشية على شرح نفيس بن عوض - (طب) أنظر نفيس بن عوض 3 - قمر الاقمار على نور الانوار شرح المنار - وهي حاشية على نور الانوار في شرح المنار للشيخ جيون طبعت بهامش كشف الاسرار شرح المصنف على المنار لابي البركات النسفى (بولاق 1316) وضمن مجموعة رقم 4 ورقم 5 4 - معين الغائصين في رد المغالطين - ضمن مجموعة رقم 2 لان <hi rend="quotation-marks" xml:id="hi_2542.d2e60341"> ادورد ويليام </hi> (1801 - 1876) اشتهر بمعجمه الكبير العربي الانكليزي الذى دعاه:</p>
             <p xml:id="p_8576.d2e60345">مد اللغة - جمع فيه باصلاحات مختصرة كل ما جاء في معاجم العرب وكتبهم اللغوية فنشر منه سته مجلدات في لندن 76 / 1863 ولما مات ألحق به حفيده <hi rend="quotation-marks" xml:id="hi_2543.d2e60347"> لان بول </hi> بقية مسوداته بثلثة مجلدات لندن 1893 ونقل المترجم إلى الاتجليزية كتاب ألف ليلة وليلة وله مصنفات بالانكليزية عن أحوال الشرق العربي وغير ذلك لندبرج Comte C.</p>
@@ -323,10 +256,7 @@
                   <p xml:id="p_8578.d2e60358">w.</p>
                   <p xml:id="p_8579.d2e60361">Lane</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1605.xhtml"
-                   ed="print"
-                   n="1599"
-                   xml:id="pb_806.d2e60365"/>ولقب نفسه في احدى مجموعاته: الشيخ عمر السويدي 1 - أمثال أهل بر الشام (1) أو الامثال السائرة والاقوال الدائرة عند أولاد العرب - ليدن 1883 2 - طرف عربية - الطرفة الاولى تشتمل على أربع مؤلفات عدد صفحاتها 191 وفيها (1) رسالة التنبيه على غلط الجاهل والنبيه لابن كمال باشا (2) لعب العرب بالميسر في الجاهلية الاولى.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1605.xhtml" ed="print" n="1599" xml:id="pb_806.d2e60365"/>ولقب نفسه في احدى مجموعاته: الشيخ عمر السويدي 1 - أمثال أهل بر الشام (1) أو الامثال السائرة والاقوال الدائرة عند أولاد العرب - ليدن 1883 2 - طرف عربية - الطرفة الاولى تشتمل على أربع مؤلفات عدد صفحاتها 191 وفيها (1) رسالة التنبيه على غلط الجاهل والنبيه لابن كمال باشا (2) لعب العرب بالميسر في الجاهلية الاولى.</p>
             <p xml:id="p_8581.d2e60369">نقلا عن تفسير الشيخ برهان الدين أبو إسحق ابراهيم بن عمر البقاعي الشافعي (3) نشوة الارتياح في بيان حقيقة الميسر والفداح للسيد مرتضي الزبيدي ضمنها شرح عبارات البقاعي مع ايضاح ما أغفله (4) ديوان ابن محجن الثقفى وشرحه لابي هلال</p>
             <p xml:id="p_8582.d2e60372">العسكري - وفي آخر الطرفة الاولى فهرست الكلمات المشروحة في ديوان أبي محجن وزهير ابن أبي سلمى الطرفة الثانية تحتوى على ديوان أو قصيدة زهير بن أبي سلمى التي مطلعها: أمن أم أو في دمنة لم تكلم.</p>
             <p xml:id="p_8583.d2e60375">مع شروح للاعلم الشنتمرى ص 82 3 - قصة باسم الحداد وهرون الرشيد - وهي مكتوبة على اللسان العامي المصرى والسورى - ومعها ترجمة وشروح - ليدن 1888 ص 18 و 116 4 - قصص عربية جديدة - جمعها وترجمها إلى اللغه الفرنسية غليوم سبيتا بك (2) ومعه فهرست للكنت لندبرج.</p>
@@ -337,10 +267,7 @@
                   <p xml:id="p_8586.d2e60388">VOI.</p>
                   <p xml:id="p_8587.d2e60391">l 1883 Province de Syrie , section de Scyda - Leide - Paris (2)) * (Guillaume Spitta Bey</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1606.xhtml"
-                   ed="print"
-                   n="1600"
-                   xml:id="cb_800.d2e60395"/>وعني المترجم بطبع كتاب الفتح القدسي لعماد الدين</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1606.xhtml" ed="print" n="1600" xml:id="cb_800.d2e60395"/>وعني المترجم بطبع كتاب الفتح القدسي لعماد الدين</p>
             <p xml:id="p_8589.d2e60398">الكاتب الاصبهاني اللهيجي (أو) اللاهيجي <hi rend="quotation-marks" xml:id="hi_2544.d2e60400"> عبد الرزاق </hi> شوارق الالهام - وهو شرح على تجريد الكلام لنصير الدين الطوسي - أنظر الطوسى " نصير الدين: تجريد الكلام: (الدكتور) لوريا طبيب بالقاهرة أمراض القلب - المتأتية من الروماتزم.</p>
             <p xml:id="p_8590.d2e60404"><placeName>مصر</placeName> 1911.</p>
             <p xml:id="p_8591.d2e60408">(الدكتور) لويس <hi rend="quotation-marks" xml:id="hi_2545.d2e60410"> ادوين </hi> الامريكاني - استاذ في كلية الاميركان ببيروت كيمياء الهواء والماء - وما يتعلق بهما من الاصول الكيماوية - <choice xml:id="choice_2028.d2e60413">
@@ -349,10 +276,7 @@
                </choice> الاميركان؟ ييروت 1879 ص 104 اللؤلؤي الزركشي (932) أبو عبد الله محمد بن ابراهيم الزركشي تاريخ الدولتين الموحدية والحفصية - تونس 1289 ص 155 الليثي السمرقندي * السمرقندي <hi rend="quotation-marks" xml:id="hi_2546.d2e60422"> أبو القاسم </hi> لومسدن <hi rend="quotation-marks" xml:id="hi_2547.d2e60425"> ماتيو </hi> (Lumsden) M المستشرق الانكليزي الذى بذل عنايته في تجهيز مطبعة</p>
             <p xml:id="p_8592.d2e60429">كلكته بالهند ونشر فيها المطبوعات العربية الاتية: مقامات الحريري سنة 1809 - نفحة اليمن لاحمد الشرواني 1811 - مختصر المعاني للقزويني وشرح المعلقات وقاموس المحيط للفيروزآبادي وكتب أخرى أوسعت شهرة تلك المطبعة
 
-          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1607.xhtml"
-                   ed="print"
-                   n="1601"
-                   xml:id="pb_807.d2e60431"/>
+          <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1607.xhtml" ed="print" n="1601" xml:id="pb_807.d2e60431"/>
           ليس <hi rend="quotation-marks" xml:id="hi_2548.d2e60433"> ويليام ناسو </hi> (Lees) William Nassau (1889) المستشرق الارلندي - كان مقدما على جمعية بنغال الاسيوية.</p>
             <p xml:id="p_8593.d2e60437">ورث عن خفه ماثيو لومسدن حبه للاداب العربية فاهتم بنشر التآليف الاتية: 1 - تاريخ الخلفاء للسيوطي - 2 - نوادر القليوبي - 3 - القرآن الشريف مع تفسيره الكشاف - عن حقائق التنزيل للزمخشري 4 - فتوح الشام للواقدي - 5 - فتوح الشام للازدي البصري - 6 - كشاف اصطلاحات الفنون والعلوم للتهانوى 7 - نخبة الفكر في مصطلح أهل الاثر - لابن حجر العسقلاني</p>
          </div>

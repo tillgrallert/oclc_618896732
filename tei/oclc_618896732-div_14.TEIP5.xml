@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:tei="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xml:id="oclc_618896732-div_14"
-     next="oclc_618896732-div_15"
-     prev="oclc_618896732-div_13">
-   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="teiHeader_1.d2e6">
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rawgit.com/tillgrallert/tei-boilerplate-arabic-editions/online/xslt-boilerplate/teibp_parameters.xsl"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+  schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="oclc_618896732-div_14" next="oclc_618896732-div_15" prev="oclc_618896732-div_13">
+   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="teiHeader_1.d2e6">
       <fileDesc xml:id="fileDesc_1.d2e8">
          <titleStmt xml:id="titleStmt_1.d2e10">
             <title xml:id="title_1.d2e12">معجم المطبوعات العربية والمعربة</title>
@@ -77,37 +64,25 @@
       </fileDesc>
       <encodingDesc xml:lang="en" xml:id="encodingDesc_1.d2e134">
         <samplingDecl xml:id="samplingDecl_1.d2e136">
-            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242"
-                    xml:lang="en"
-                    xml:id="ref_1.d2e140">
+            <p xml:lang="en" xml:id="p_2.d2e138">The edition is based on the digital transcripts (HTML files wrapped in ePub) available from <ref target="http://shamela.ws/index.php/book/1242" xml:lang="en" xml:id="ref_1.d2e140">
                   <foreign xml:lang="ar-Latn-x-ijmes" xml:id="foreign_1.d2e142">al-maktabat al-shāmila</foreign>
                </ref>. It is important to note that the information on page numbers recorded in <att xml:id="att_1.d2e146">n</att> on <tag xml:id="tag_1.d2e149">pb ed="print"</tag> correspond to the original printed edition.</p>
-            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139"
-                    xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958"
-                    xml:id="ref_3.d2e158">vol. 2</ref>.</p>
+            <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164">
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
    <text xml:lang="ar">
       <body>
-         <div xmlns:dc="http://purl.org/dc/elements/1.1/"
-              xmlns:html="http://www.w3.org/1999/xhtml"
-              xmlns:opf="http://www.idpf.org/2007/opf"
-              xmlns:xd="http://www.pnp-software.com/XSLTdoc"
-              xml:id="div_31.d2e46113"
-              type="section">
+         <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="div_31.d2e46113" type="section">
             <head xml:id="head_27.d2e46115">حرف الضاد</head>
             <p xml:id="p_6864.d2e46118">الضبى <hi rend="quotation-marks" xml:id="hi_1810.d2e46120"> احمد بن يحيى </hi> * ابن عميرة الضبى 
           <note type="footnote" xml:id="note_801.d2e46123">
                   <p xml:id="p_6864.d2e46125">ترجمته في اول ديوانه (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1226.xhtml"
-                   ed="print"
-                   n="1220"
-                   xml:id="cb_610.d2e46129"/>الضبى <hi rend="quotation-marks" xml:id="hi_1811.d2e46131"> المفضل </hi> * المفضل الضبى الضحاك الشيباني (287) الحافظ أبو بكر احمد بن محمد بن عمرو النبيل أبي عاصم الضحاك الشيباني الظاهري ولي قضاء أصبهان ست عشرة سنة وذهبت كتبه في البصرة في فتنة الزنج فأعاد من حفظه خمسين ألف حديث ونقل عن ابن الاعرابي في طبقات النساك انه كان يحفظ لشقيق البلخي ألف مسألة وكان ظاهري المذهب لا يقول بالقياس..كتاب الديات - رواية الشيخ المنقذ شمس الدين</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1226.xhtml" ed="print" n="1220" xml:id="cb_610.d2e46129"/>الضبى <hi rend="quotation-marks" xml:id="hi_1811.d2e46131"> المفضل </hi> * المفضل الضبى الضحاك الشيباني (287) الحافظ أبو بكر احمد بن محمد بن عمرو النبيل أبي عاصم الضحاك الشيباني الظاهري ولي قضاء أصبهان ست عشرة سنة وذهبت كتبه في البصرة في فتنة الزنج فأعاد من حفظه خمسين ألف حديث ونقل عن ابن الاعرابي في طبقات النساك انه كان يحفظ لشقيق البلخي ألف مسألة وكان ظاهري المذهب لا يقول بالقياس..كتاب الديات - رواية الشيخ المنقذ شمس الدين</p>
             <p xml:id="p_6866.d2e46135">محمد بن محمد بن جوارش الصالحي عن جماعة من العلماء (فقه الظاهرية) <choice xml:id="choice_1472.d2e46137">
                   <abbr xml:id="abbr_1472.d2e46139">مط</abbr>
                   <expan xml:id="expan_1472.d2e46142">مطبعة</expan>
@@ -115,10 +90,7 @@
           <note type="footnote" xml:id="note_802.d2e46152">
                   <p xml:id="p_6866.d2e46154">تذكرة الحفاظ للذهبي (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1227.xhtml"
-                   ed="print"
-                   n="1221"
-                   xml:id="pb_617.d2e46158"/>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1227.xhtml" ed="print" n="1221" xml:id="pb_617.d2e46158"/>
             </p>
          </div>
       </body>
