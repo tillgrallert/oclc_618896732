@@ -71,7 +71,7 @@
                     .</p>
             </samplingDecl>
         </encodingDesc>
-        <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+        <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
             <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
         </revisionDesc>
     </teiHeader>
@@ -824,7 +824,7 @@
                         <choice xml:id="choice_1078.d2e35881">
                             <abbr xml:id="abbr_1078.d2e35883">مط</abbr>
                             <expan xml:id="expan_1078.d2e35886">مطبعة</expan></choice>المنار 1335 ص 44 6 شبهات النصارى وحجج الاسلام وهو رد على ابحاث
-                        المجتهدين وبشائر مجلة <tei:title level="j" change="#d2e164">السلام</tei:title> ومجلة الجامعة 
+                        المجتهدين وبشائر مجلة <tei:title level="j" change="#d2e164">السلام</tei:title> ومجلة <tei:title level="j" change="#d2e169">الجامعة</tei:title> 
                         <choice xml:id="choice_1079.d2e35890">
                             <abbr xml:id="abbr_1079.d2e35892">مط</abbr>
                             <expan xml:id="expan_1079.d2e35895">مطبعة</expan></choice>المنار 1322 7 عقيدة الصلب والفدا وفيه نظرية الدكتور محمود افندي

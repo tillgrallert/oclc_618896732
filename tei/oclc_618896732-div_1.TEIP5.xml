@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -94,7 +94,7 @@
                 <div type="entry" xml:id="div_4.d2e426">
                     <head xml:id="head_4.d2e428">آصاف <hi rend="quotation-marks" xml:id="hi_4.d2e430"> اسكندر </hi>
                </head>
-                    <p xml:id="p_52.d2e434">مدير المطبعة العمومية وجريدة المحاكم بالقاهرة </p>
+                    <p xml:id="p_52.d2e434">مدير المطبعة العمومية وجريدة <tei:title level="j" change="#d2e171">المحاكم</tei:title> بالقاهرة </p>
                     <p xml:id="p_53.d2e437">عني بطبع كتاب الاعجاز والايجاز للثعالبي مع شرحه (ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> العمومية 1897 م ص 304) وديوان أبي نواس مشروحا غريبه ببقلم محمود افندي واصف. (ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> العمومية 1898 ص 439) </p>
                 </div>
                 <div type="entry" xml:id="div_5.d2e441">

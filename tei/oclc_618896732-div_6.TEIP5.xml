@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -292,7 +292,7 @@
                     <p xml:id="p_4598.d2e28322">امين الحداد وعبده افندي بدران.</p>
                     <p xml:id="p_4599.d2e28325">ثم قضت حال الصحافة بتعطيل الجريدة.</p>
                     <p xml:id="p_4600.d2e28328">فجاء القاهرة وانشأها اسبوعية.</p>
-                    <p xml:id="p_4601.d2e28331">ثم عاد إلى الاسكندرية وتولي تحرير مجلة انيس الجليس وجريدة السلام.</p>
+                    <p xml:id="p_4601.d2e28331">ثم عاد إلى الاسكندرية وتولي تحرير مجلة انيس الجليس وجريدة <tei:title level="j" change="#d2e171">السلام</tei:title>.</p>
                     <p xml:id="p_4602.d2e28334">وكان يحرر الجريدتين وجريدته وهو لا ينقطع عن تأليف الروايات وترجمتها.</p>
                     <p xml:id="p_4603.d2e28338">وقد لقي بعضها أقبالا ونجاحا كرواية السيد للشاعر كرنيل الفرنساوي من تعريبه ورواية البخيل ورواية المهدي أصيب بمرض فمات قبل ان يتم الثانية والثلاثين من عمره  <note type="footnote" xml:id="note_519.d2e28340">
                         <p xml:id="p_4603.d2e28342">تراجم مشاهير الشرق 2 - 325 تاريخ الآداب العربية 2 - 142 (*)</p> 

@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -98,7 +98,7 @@
                </choice> العمومية 1871 ص 79 الفاخورى <hi rend="quotation-marks" xml:id="hi_2197.d2e53612"> أمين </hi> الصيدلي البيروتي الفلسفة الصغيرة الكبيرة في العلم والتربية والدين - <placeName>بيروت</placeName> 1986 ص 24 الفاخوري <hi rend="quotation-marks" xml:id="hi_2198.d2e53615"> (الشيخ) عبد الباسط </hi> نزيل <placeName>بيروت</placeName> تحفة الانام مختصر تاريخ الاسلام - <placeName>بيروت</placeName> 1320 ص 286 وذكر له كتاب الكفاية (في الفقه الشافعي) بفهرس</p>
             <p xml:id="p_7669.d2e53619">الكتبخانة الظاهرية بدمشق لكنى لم أتحقق محل طبعه ولم أطالع ذكره في محل آخر 
           <note type="footnote" xml:id="note_913.d2e53621">
-                  <p xml:id="p_7669.d2e53623">مجلة المشرق 3 - 606 (*)</p>
+                  <p xml:id="p_7669.d2e53623">مجلة <tei:title level="j" change="#d2e171">المشرق</tei:title> 3 - 606 (*)</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1430.xhtml" ed="print" n="1424" xml:id="cb_712.d2e53627"/>الفاخوري <hi rend="quotation-marks" xml:id="hi_2199.d2e53629"> عمر (افندي) </hi> كيف ينهض العرب - <choice xml:id="choice_1798.d2e53632">
                   <abbr xml:id="abbr_1798.d2e53634">مط</abbr>
@@ -328,7 +328,7 @@
             <p xml:id="p_7759.d2e54310">ثم تعلم اللغة الايطالية ودرس التصريف والنحو على الشيخ سليمان الحلبي المعروف بالنحوي ثم اشتغل في علم المعاني والبيان والعروض والقوافي والبديع.</p>
             <p xml:id="p_7760.d2e54313">ثم أتقن الفلسفة واللاهوت 
           <note type="footnote" xml:id="note_923.d2e54315">
-                  <p xml:id="p_7760.d2e54317">مجلة المشرق السنة السابعة ص 49 - تاريخ سوريا عدد 1071 - كتاب المستطرفات في حياة جرمانوس فرحات (*)</p>
+                  <p xml:id="p_7760.d2e54317">مجلة <tei:title level="j" change="#d2e171">المشرق</tei:title> السنة السابعة ص 49 - تاريخ سوريا عدد 1071 - كتاب المستطرفات في حياة جرمانوس فرحات (*)</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1448.xhtml" ed="print" n="1442" xml:id="cb_721.d2e54321"/>على الخوري بطرس التولادي وترهب سنة 1693 وأقام مدة في دير القديسة مورا باهدن.</p>
             <p xml:id="p_7762.d2e54324">ثم سافر إلى ايطاليا وأسبانيا وصقلية وبحث عن بعض الكتب النادرة وانتخب أسقفا على أبرشية <placeName>حلب</placeName> سنة 1725 وأنشأ في المدينة المذكورة مكتبة تعرف بالمكتبة المارونية وفيها بعض المخطوطات العربية النفيسة.</p>

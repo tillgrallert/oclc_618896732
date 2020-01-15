@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -207,7 +207,7 @@
                   <abbr xml:id="abbr_2513.d2e70958">مط</abbr>
                   <expan xml:id="expan_2513.d2e70961">مطبعة</expan>
                </choice> اليسوعيين <placeName>بيروت</placeName> 1885 و 1898 ص 339 وهي الطبعة السابعة - وطبع</p>
-            <p xml:id="p_9722.d2e70966">نعمان الالوسي في الاستانة 1302 ص 132 وقد دعاه بالغلط <hi rend="quotation-marks" xml:id="hi_2979.d2e70968"> كتاب الفاظ الاشباه والنظائر </hi> ونسبه سهوا لعبد الرحمن الانباري - أنظر انتقاد كتب زيدان ص 140 ومجلة المقتبس سنة 1330 الهمذاني <hi rend="quotation-marks" xml:id="hi_2980.d2e70971"> علي </hi> (786 هـ) على بن شهاب الدين محمد الحسينى أوراد فتحية - لكناو 1257
+            <p xml:id="p_9722.d2e70966">نعمان الالوسي في الاستانة 1302 ص 132 وقد دعاه بالغلط <hi rend="quotation-marks" xml:id="hi_2979.d2e70968"> كتاب الفاظ الاشباه والنظائر </hi> ونسبه سهوا لعبد الرحمن الانباري - أنظر انتقاد كتب زيدان ص 140 ومجلة <tei:title level="j" change="#d2e171">المقتبس</tei:title> سنة 1330 الهمذاني <hi rend="quotation-marks" xml:id="hi_2980.d2e70971"> علي </hi> (786 هـ) على بن شهاب الدين محمد الحسينى أوراد فتحية - لكناو 1257
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1904.xhtml" ed="print" n="1898" xml:id="cb_949.d2e70974"/>
           الهمش <hi rend="quotation-marks" xml:id="hi_2981.d2e70976"> منصور </hi> الغزري اللبناني المقامة الغزيرية والقافية الحماسية - <placeName>بيروت</placeName> 1872 ص 40 همام <hi rend="quotation-marks" xml:id="hi_2982.d2e70979"> جرجس </hi> (شاعر الاطفال) (1856 - 1921) هو جرجس بن نجم بن همام عطايا صليبا صاحب المدارج ولد في قرية الشوير من ضهور لبنان وتلقى دروسه الاولى في كتابها.</p>

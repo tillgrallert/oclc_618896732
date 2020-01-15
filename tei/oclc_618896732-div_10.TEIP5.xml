@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -513,7 +513,7 @@
             <p xml:id="p_5876.d2e38017"><placeName>أستانة</placeName> 1218 ص 326 و 1224 ص 385 و 1265 ص 292 4 رسالة ذكر فيها ما بقي من أبواب التصريف (صرف) في مجموعة رقم 72 (1281)
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P999.xhtml" ed="print" n="993" xml:id="pb_503.d2e38019"/>
-          4 الفوائد الشافية على اعراب الكافية وهو شرح على كافية ابن الحاجب الاستانة موسومة <hi rend="quotation-marks" xml:id="hi_1420.d2e38021"> كافيه معربي </hi> أو معرب الكافية 1200 و 1235 و 1260 و 1268 و 1270 وبمط عالم <placeName>أستانة</placeName> 1307 ص 416 5 معرب الاظهار أنظر أعلاه حل أسرار الاخيار رقم 2 زينيه <hi rend="quotation-marks" xml:id="hi_1421.d2e38024"> خليل بن باسيلا اللبناني </hi> منشئ مجلة <tei:title level="j" change="#d2e166">الراوي</tei:title> بمصر ومجلة المصور</p>
+          4 الفوائد الشافية على اعراب الكافية وهو شرح على كافية ابن الحاجب الاستانة موسومة <hi rend="quotation-marks" xml:id="hi_1420.d2e38021"> كافيه معربي </hi> أو معرب الكافية 1200 و 1235 و 1260 و 1268 و 1270 وبمط عالم <placeName>أستانة</placeName> 1307 ص 416 5 معرب الاظهار أنظر أعلاه حل أسرار الاخيار رقم 2 زينيه <hi rend="quotation-marks" xml:id="hi_1421.d2e38024"> خليل بن باسيلا اللبناني </hi> منشئ مجلة <tei:title level="j" change="#d2e166">الراوي</tei:title> بمصر ومجلة <tei:title level="j" change="#d2e171">المصور</tei:title></p>
             <p xml:id="p_5877.d2e38028">1 طرفة الطرف فيما دار بين بعض مكاتبي التقدم والمقتطف <choice xml:id="choice_1154.d2e38030">
                   <abbr xml:id="abbr_1154.d2e38032">مط</abbr>
                   <expan xml:id="expan_1154.d2e38035">مطبعة</expan>

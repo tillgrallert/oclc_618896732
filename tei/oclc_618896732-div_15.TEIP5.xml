@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -504,7 +504,7 @@
             <p xml:id="p_7026.d2e47481">وأحكم في أصول اللغتين العربية والتركية.</p>
             <p xml:id="p_7027.d2e47484">فبرز فيها شعرا ونثرا حتى صار من أعظم الكتبة المعدودين في عصره.</p>
             <p xml:id="p_7028.d2e47488">وطاف مرات كثيرة في آسيا وافريفيا وشرق أوروبا وفي نواحي عام 1880 م سكن القسطنطينية وأخذ يحرر في صحفها الشهيرة وانشأ سنة 1884 مجلة <tei:title level="j" change="#d2e166">الانسان</tei:title> التي حولها بعد ذلك إلى جريدة.</p>
-            <p xml:id="p_7029.d2e47491">ثم سافر إلى القطر المصري حيث اصدر جريدة <tei:title level="j" change="#d2e166">النيل</tei:title> ومجلة الشمس ومجلة الزراعة ومجلة المعارف وكانت وفاته في القسطنطينية 1 - ثمرات الحياة - ديوان أوله: الحمد لله الذي جعل من الشعر حكمة ومن البيان سحرا الخ رتبه على أربعة وعشرين بابا وخاتمة - <choice xml:id="choice_1524.d2e47493">
+            <p xml:id="p_7029.d2e47491">ثم سافر إلى القطر المصري حيث اصدر جريدة <tei:title level="j" change="#d2e166">النيل</tei:title> ومجلة <tei:title level="j" change="#d2e171">الشمس</tei:title> ومجلة <tei:title level="j" change="#d2e171">الزراعة</tei:title> ومجلة <tei:title level="j" change="#d2e171">المعارف</tei:title> وكانت وفاته في القسطنطينية 1 - ثمرات الحياة - ديوان أوله: الحمد لله الذي جعل من الشعر حكمة ومن البيان سحرا الخ رتبه على أربعة وعشرين بابا وخاتمة - <choice xml:id="choice_1524.d2e47493">
                   <abbr xml:id="abbr_1524.d2e47495">مط</abbr>
                   <expan xml:id="expan_1524.d2e47498">مطبعة</expan>
                </choice> الوطن 9 / 1300 2 - الحق روح الفضيلة - رسالة فلسفية طبعت بمصر..3 - خط الاشارات - رسالة في اشارات الكتابة في اللغة كالنقط وغيرها - <choice xml:id="choice_1525.d2e47502">

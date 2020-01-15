@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -1672,7 +1672,7 @@
                   <abbr xml:id="abbr_1742.d2e52330">مط</abbr>
                   <expan xml:id="expan_1742.d2e52333">مطبعة</expan>
                </choice> المدارس الملكية 1290 عورا <hi rend="quotation-marks" xml:id="hi_2129.d2e52337"> ميخائيل </hi> (1855 - 1906 م) (..) ميخائيل بن جرجس بن ميخائيل بن المعلم حنا ابن المعلم ميخائيل بن ابراهيم بن حنا بن ميخائيل عورا منشئ جريدة <tei:title level="j" change="#d2e166">الحقوق</tei:title> في باريس ومؤسس مجلة <tei:title level="j" change="#d2e166">الحضارة</tei:title></p>
-            <p xml:id="p_7530.d2e52341">وجريدة البيان 
+            <p xml:id="p_7530.d2e52341">وجريدة <tei:title level="j" change="#d2e171">البيان</tei:title> 
           <note type="footnote" xml:id="note_898.d2e52343">
                   <p xml:id="p_7530.d2e52345">أنظر: الشيرازي <hi rend="quotation-marks" xml:id="hi_2130.d2e52347"> أبو الحسن الشريف </hi>.</p>
                   <p xml:id="p_7531.d2e52351">الجوهرة السنية في مناقب حسين افندي عوده الحكيم بدمشق الشام (..) تاريخ الصحافة العربية 2 - 304 (*)</p>
@@ -1682,7 +1682,7 @@
             <p xml:id="p_7534.d2e52361">تاريخية الغرض منها التنويه بقدر الكرام وفلاح مساعيهم وخذل اللئام وابطال أمانيهم - <choice xml:id="choice_1743.d2e52363">
                   <abbr xml:id="abbr_1743.d2e52365">مط</abbr>
                   <expan xml:id="expan_1743.d2e52368">مطبعة</expan>
-               </choice> البيان 1885 - 1302 ص 123 (الشيخ) عوض حاشية - (أو) تقرير الشيخ عوض على الخطيب الشربينى (فقه شافعي) طبع بهامش الاقناع بحل الفاظ أبي شجاع للشيخ محمد الخطيب الشربينى (<placeName>مصر</placeName> 1293) عوض <hi rend="quotation-marks" xml:id="hi_2131.d2e52372"> احمد افندي حافظ </hi> ابن الشيخ عوض عبد الحاقظ يتصل نسبهم بأشراف المغاربة نزلوا <placeName>مصر</placeName> في أوائل حكم المماليك ولد احمد سنة 1291 وهو من كتاب هذا العصر وصاحب جريدة <tei:title level="j" change="#d2e166">المنبر</tei:title> وكان محررا في جريدة <tei:title level="j" change="#d2e166">المؤيد</tei:title> (عن جواهر الادب لاحمد الهاشمي ومجلة الهلال سنة 13)
+               </choice> البيان 1885 - 1302 ص 123 (الشيخ) عوض حاشية - (أو) تقرير الشيخ عوض على الخطيب الشربينى (فقه شافعي) طبع بهامش الاقناع بحل الفاظ أبي شجاع للشيخ محمد الخطيب الشربينى (<placeName>مصر</placeName> 1293) عوض <hi rend="quotation-marks" xml:id="hi_2131.d2e52372"> احمد افندي حافظ </hi> ابن الشيخ عوض عبد الحاقظ يتصل نسبهم بأشراف المغاربة نزلوا <placeName>مصر</placeName> في أوائل حكم المماليك ولد احمد سنة 1291 وهو من كتاب هذا العصر وصاحب جريدة <tei:title level="j" change="#d2e166">المنبر</tei:title> وكان محررا في جريدة <tei:title level="j" change="#d2e166">المؤيد</tei:title> (عن جواهر الادب لاحمد الهاشمي ومجلة <tei:title level="j" change="#d2e171">الهلال</tei:title> سنة 13)
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1399.xhtml" ed="print" n="1393" xml:id="pb_703.d2e52375"/>
                <hi style="color:red;" xml:id="hi_2132.d2e52377">1 - </hi>
