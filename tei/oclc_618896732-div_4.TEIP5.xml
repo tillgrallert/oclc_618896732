@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>title level="j"</tag>.</change><change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>title level="j"</tag>.</change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -100,10 +100,10 @@
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P661.xhtml" ed="print" n="655" xml:id="pb_334.d2e24903"/>
                <hi style="color:red;" xml:id="hi_818.d2e24905">1 - </hi>الجامعة الوطنية} 2 - قصة علي وبعض كتاباته} وهما كتابان جمع فيهما المؤلف بعض مقالات دينية وأدبية واجتماعية وسياسية وصدر الاول منهما برسم فتاة في ريعان الصبا وهي سلفي ابنته الوحيدة عاجلها سهم القضا في الرابعة عشر من عمرها - <placeName>بيروت</placeName> 1909 ثابت <hi rend="quotation-marks" xml:id="hi_819.d2e24908"> الدكتور ايوب </hi> 1 - آفة الشرق - رسالة بعث بها إلى الدكتور رضا توفيق بك - <placeName>بيروت</placeName> 1910 ص 19 2 - عبرة وذكرى (أو) كلمة حول الدستور مجموع مقالات في المذاهب السياسية وانه لا دخل للاديان في ترقي نوع الانسان - نشرت قبلا في جريدتي الوطن والثبات - <placeName>بيروت</placeName> 1909 م ثابت <hi rend="quotation-marks" xml:id="hi_820.d2e24911"> خطار </hi> خطار ثابت ثابت <hi rend="quotation-marks" xml:id="hi_821.d2e24915"> خليل بك </hi> مدير مطبعة السودان ومكتبتها بالخرطوم سابقا ومدير</p>
-            <p xml:id="p_4108.d2e24919">جريدة <tei:title level="j" change="#d2e171">المقطم</tei:title> حالا ولد في دير القمر (لبنان) نحو سنة 1871 وتخرج من كلية الامر كان ببيروت مسرات الحياة - ترجمه عن اللورد افبري <choice xml:id="choice_682.d2e24921">
+            <p xml:id="p_4108.d2e24919">جريدة <title level="j" change="#d2e171">المقطم</title> حالا ولد في دير القمر (لبنان) نحو سنة 1871 وتخرج من كلية الامر كان ببيروت مسرات الحياة - ترجمه عن اللورد افبري <choice xml:id="choice_682.d2e24921">
                   <abbr xml:id="abbr_682.d2e24923">مط</abbr>
                   <expan xml:id="expan_682.d2e24926">مطبعة</expan>
-               </choice> السودان خرطوم 1904 و 1908 ص 259 (نشر تباعا في جريدة <tei:title level="j" change="#d2e166">الخرطوم</tei:title> ثم على حدة وترجم هذا الكتاب مرة أخرى بقلم وديع البستاني (1) ثابت <hi rend="quotation-marks" xml:id="hi_822.d2e24930"> عبد الفتاح </hi> واجبات العمدة القضائية والادارية - <placeName>مصر</placeName> 
+               </choice> السودان خرطوم 1904 و 1908 ص 259 (نشر تباعا في جريدة <title level="j" change="#d2e166">الخرطوم</title> ثم على حدة وترجم هذا الكتاب مرة أخرى بقلم وديع البستاني (1) ثابت <hi rend="quotation-marks" xml:id="hi_822.d2e24930"> عبد الفتاح </hi> واجبات العمدة القضائية والادارية - <placeName>مصر</placeName> 
           <note type="footnote" xml:id="note_461.d2e24933">
                   <p xml:id="p_4108.d2e24935">(1) كتب المترجم اسمه في أول طبعة نشرت بالخرطوم خ.</p>
                   <p xml:id="p_4109.d2e24938">ث.</p>

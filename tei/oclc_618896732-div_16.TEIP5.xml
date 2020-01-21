@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>title level="j"</tag>.</change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -84,7 +84,7 @@
           - مات المؤلف قبل اتمامه - <choice xml:id="choice_1528.d2e47582">
                   <abbr xml:id="abbr_1528.d2e47584">مط</abbr>
                   <expan xml:id="expan_1528.d2e47587">مطبعة</expan>
-               </choice> الملاجئ العباسية 5 / 1324 ص 261 ظافر المدني محمد بن الاستاذ محمد بن حمزه ظافر المدني النور الساطع والبرهان القاطع - (في الطريقة الشاذلية) <placeName>مصر</placeName> 1310 ص 62 ظافر الياس وكيل مجلة <tei:title level="j" change="#d2e166">المقتطف</tei:title> في الدقهلية 
+               </choice> الملاجئ العباسية 5 / 1324 ص 261 ظافر المدني محمد بن الاستاذ محمد بن حمزه ظافر المدني النور الساطع والبرهان القاطع - (في الطريقة الشاذلية) <placeName>مصر</placeName> 1310 ص 62 ظافر الياس وكيل مجلة <title level="j" change="#d2e166">المقتطف</title> في الدقهلية 
           <note type="footnote" xml:id="note_829.d2e47591">
                   <p xml:id="p_7035.d2e47593">(1) , La litterature Syriaque par Rubens Duval 200.</p>
                   <p xml:id="p_7036.d2e47596">1907) * (me ed 3.</p>

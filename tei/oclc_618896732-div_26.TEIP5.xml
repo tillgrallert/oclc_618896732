@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>title level="j"</tag>.</change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -124,7 +124,7 @@
             <p xml:id="p_9764.d2e71318">(1) G.</p>
             <p xml:id="p_9765.d2e71322">H.</p>
             <p xml:id="p_9766.d2e71325">A.</p>
-            <p xml:id="p_9767.d2e71328">Ewald (2) Niebuhr (3) أنظر المقالة التى نشرها مؤلف هذا المعجم بشأن كتاب فتوح الشام للواقدي في مجلة <tei:title level="j" change="#d2e166">المشرق</tei:title> السنة العاشرة ص 936 وقد ذكرها جرجي زيدان في كتابه تاريخ الاداب العربية جزء 2 ص 146 انما اغفل ذكر اسم ناشرها (*)
+            <p xml:id="p_9767.d2e71328">Ewald (2) Niebuhr (3) أنظر المقالة التى نشرها مؤلف هذا المعجم بشأن كتاب فتوح الشام للواقدي في مجلة <title level="j" change="#d2e166">المشرق</title> السنة العاشرة ص 936 وقد ذكرها جرجي زيدان في كتابه تاريخ الاداب العربية جزء 2 ص 146 انما اغفل ذكر اسم ناشرها (*)
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1915.xhtml" ed="print" n="1909" xml:id="pb_961.d2e71330"/>
                <hi style="color:red;" xml:id="hi_2999.d2e71332">11 - </hi>
@@ -309,7 +309,7 @@
                <choice xml:id="choice_2539.d2e71849">
                   <abbr xml:id="abbr_2539.d2e71851">مط</abbr>
                   <expan xml:id="expan_2539.d2e71854">مطبعة</expan>
-               </choice> المؤيد 1330 ص 32 ويتهوس (Whitehouse) Frederik Cope خطاب - فيما ببحر يوسف من بلاد الفيوم ادرج في مجلة <tei:title level="j" change="#d2e166">المعهد</tei:title> العلمي المصري وترجم إلى الفرنسية <placeName>مصر</placeName> 1303 الويدينى (خواجه) مصطفى (افندي) الويدينى أو الوديني تقرير المرآة - وهو شرح على مرآة الاصول لملا خسرو - ألفه في أثناء تدريسه تسهيلا للطالبين وتيسيرا للراغبين - <choice xml:id="choice_2540.d2e71858">
+               </choice> المؤيد 1330 ص 32 ويتهوس (Whitehouse) Frederik Cope خطاب - فيما ببحر يوسف من بلاد الفيوم ادرج في مجلة <title level="j" change="#d2e166">المعهد</title> العلمي المصري وترجم إلى الفرنسية <placeName>مصر</placeName> 1303 الويدينى (خواجه) مصطفى (افندي) الويدينى أو الوديني تقرير المرآة - وهو شرح على مرآة الاصول لملا خسرو - ألفه في أثناء تدريسه تسهيلا للطالبين وتيسيرا للراغبين - <choice xml:id="choice_2540.d2e71858">
                   <abbr xml:id="abbr_2540.d2e71860">مط</abbr>
                   <expan xml:id="expan_2540.d2e71863">مطبعة</expan>
                </choice> محرم افندي البوسنوي استانة 1297 ص 639 (الدكتور) ويلمار (أو) فيلمار منتخبات من مثلثات قطرب - ومعها ترجمتها باللغة اللاتينية - ماربرج 1857 ص 7 و 66

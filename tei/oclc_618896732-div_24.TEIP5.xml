@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><tei:change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tei:tag>title level="j"</tei:tag>.</tei:change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>title level="j"</tag>.</change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -102,7 +102,7 @@
                   <expan xml:id="expan_2426.d2e68794">مطبعة</expan>
                </choice> عبد الرازق 1304 <placeName>مصر</placeName> 1306 و 1316 6 - جواهر النصوص في حل كلمات الفصوص أوله الحمد لله الذي بذاته ثبتت الاعيان وبصفاته تفضلت الاكوان - بهامشه شرح منلا عبد الرحمن الجامي على فصوص الحكم للشيخ الاكبر ابن العربي (تصوف) - الجزء الاول ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الزمان 1304 الجزء الثاني ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الشرفية 1323.</p>
             <p xml:id="p_9472.d2e68799">
-               <hi style="color:red;" xml:id="hi_2862.d2e68801">7 - </hi>الحديقة الندية شرح الطريقة المحمدية - وهو شرح الطريقة المحمدية للبيركلي (تصوف) جزء 2 طبع حجر <placeName>مصر</placeName> 1862 م - استانة 1290 8 - الحضرة الانسية في الرحلة القدسية - وصف بها رحلته من <placeName>دمشق</placeName> إلى <placeName>القدس</placeName> سنة 1101 كان الفراغ من تصنيفها في 8 ذي الحجة سنة 1101 وقف علي طبعها ديمتري أفندي نقولا صاحب مجلة <tei:title level="j" change="#d2e166">الفكاهة</tei:title> وأحد محرري الاخلاص.</p>
+               <hi style="color:red;" xml:id="hi_2862.d2e68801">7 - </hi>الحديقة الندية شرح الطريقة المحمدية - وهو شرح الطريقة المحمدية للبيركلي (تصوف) جزء 2 طبع حجر <placeName>مصر</placeName> 1862 م - استانة 1290 8 - الحضرة الانسية في الرحلة القدسية - وصف بها رحلته من <placeName>دمشق</placeName> إلى <placeName>القدس</placeName> سنة 1101 كان الفراغ من تصنيفها في 8 ذي الحجة سنة 1101 وقف علي طبعها ديمتري أفندي نقولا صاحب مجلة <title level="j" change="#d2e166">الفكاهة</title> وأحد محرري الاخلاص.</p>
             <p xml:id="p_9473.d2e68805">
                <choice xml:id="choice_2427.d2e68807">
                   <abbr xml:id="abbr_2427.d2e68809">مط</abbr>
@@ -230,7 +230,7 @@
                   <abbr xml:id="abbr_2439.d2e69151">مط</abbr>
                   <expan xml:id="expan_2439.d2e69154">مطبعة</expan>
                </choice> الارزجونيه 1900 نجيب (بك) الجندي منظر أوروبا العجيب وملخص رحلات نجيب <placeName>مصر</placeName>.</p>
-            <p xml:id="p_9512.d2e69159">نجيب (افندي) الحاج مكاتب جريدة <tei:title level="j" change="#d2e166">الليفنت</tei:title> هرالد بالقسطنطينية ومحرر جريدة أبي الهول
+            <p xml:id="p_9512.d2e69159">نجيب (افندي) الحاج مكاتب جريدة <title level="j" change="#d2e166">الليفنت</title> هرالد بالقسطنطينية ومحرر جريدة أبي الهول
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1853.xhtml" ed="print" n="1847" xml:id="pb_930.d2e69161"/>
           في الزوايا جنايا (أو) كشف أسرار اليهود - تأليف جورج كورنيليان - معرب - أول خطبة الترجمة الحمد لله الذي علم الانسان ما لم يعلم وكشف له من الاسرار مالا يحيط به قلم..<placeName>مصر</placeName> 1310 - 1893 نجيب سمعان نوار البهية في المطالعة العربية - جزء 2..نجيب شقرا (بك) أفوكاتو أمام محكمتي الاستئناف الاهلية ولمختلطة المسئولية المدنية - (شرائع) جزء أول فقط - <choice xml:id="choice_2440.d2e69163">
@@ -286,7 +286,7 @@
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1856.xhtml" ed="print" n="1850" xml:id="cb_925.d2e69300"/>النخلي المكي شيخ احمد بن محمد النخلي المكي الشافعي</p>
             <p xml:id="p_9527.d2e69304">بغية الطالبين لبيان المشايخ المحققين المعتمدين حيدر آباد..ص 84 ندى احمد (بك) * احمد (بك) ندى النديم <hi rend="quotation-marks" xml:id="hi_2895.d2e69306"> عبد الله </hi> (1261 - 1314) عبد الله بن مصباح بن ابراهيم ينتهى نسبه إلى الشريف الادريسي الشافعي الاسكندري ولد بالاسكندرية وحفظ القرآن الكريم قبل أن يبلغ التاسعة وأدخله أبوه مدرسة جامع الشيخ ابراهيم باشا فقرأ على أكابر الاشياخ واتقن فقه الشافعي والاصول وعلوم الادب اللسانية وهو في سن المراهقة.</p>
             <p xml:id="p_9528.d2e69310">فاخذ من ذلك الحين يقول الشعر الرقيق والنثر المسجوع المحكم فسارت الامثال ببدائع آدابه وتسابق بلغاء الكتاب والشعراء إلى مطارحته أنشأ المترجم مدرسة لتعليم الايتام وكان مديرا لها ثم اشتغل بالتحرير السياسي على الاسلوب الحديث وأنشأ عدة جرائد.</p>
-            <p xml:id="p_9529.d2e69313">وفي أيام الثورة العرابية قضى عشر سنوات مختبئا في مديرية الغربية ثم نفي إلى يافا وعاد إلى الاسكندرية بعد صدور العفو ومنها سافر إلى القسطنطينية وعين مفتشا للمطبوعات بالباب العالي وداهمته المنية وقبل سفره إلى القسطنطينية انشأ في <placeName>مصر</placeName> جريدة <tei:title level="j" change="#d2e166">الاستاذ</tei:title> تحت ادارة أخيه عبد الفتاح النديم</p>
+            <p xml:id="p_9529.d2e69313">وفي أيام الثورة العرابية قضى عشر سنوات مختبئا في مديرية الغربية ثم نفي إلى يافا وعاد إلى الاسكندرية بعد صدور العفو ومنها سافر إلى القسطنطينية وعين مفتشا للمطبوعات بالباب العالي وداهمته المنية وقبل سفره إلى القسطنطينية انشأ في <placeName>مصر</placeName> جريدة <title level="j" change="#d2e166">الاستاذ</title> تحت ادارة أخيه عبد الفتاح النديم</p>
             <p xml:id="p_9530.d2e69316">
                <hi style="color:red;" xml:id="hi_2896.d2e69318">1 - </hi>سلافة النديم في منتخبات السيد عبد الله النديم وهي مجموعة من اشعارة البليغة ورسائله الادبية البديعة عني بجمعها شقيقه عبد الفتاح وصديقه محمود أفندي واصف - جزء 1 <placeName>مصر</placeName> 1897 ص 132 وجزء 2 ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> 
           <note type="footnote" xml:id="note_1123.d2e69321">
@@ -353,7 +353,7 @@
           <note type="footnote" xml:id="note_1128.d2e69493">
                   <p xml:id="p_9553.d2e69495">ابن قطلوبغا رقم 283 - الفوائد البهية 216 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1862.xhtml" ed="print" n="1856" xml:id="cb_928.d2e69499"/>نسيم (أفندي) ملول 1 - أسرار اليهود - في الدفاع عن اليهود وديانتهم الجزء الاول - <placeName>مصر</placeName> 1911 م 2 - كتاب <placeName>مصر</placeName> وسورية - وهي مجموعة مقالات أدرجت في جريدة <tei:title level="j" change="#d2e166">النصير</tei:title> البيروتية - <placeName>بيروت</placeName> 1912</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1862.xhtml" ed="print" n="1856" xml:id="cb_928.d2e69499"/>نسيم (أفندي) ملول 1 - أسرار اليهود - في الدفاع عن اليهود وديانتهم الجزء الاول - <placeName>مصر</placeName> 1911 م 2 - كتاب <placeName>مصر</placeName> وسورية - وهي مجموعة مقالات أدرجت في جريدة <title level="j" change="#d2e166">النصير</title> البيروتية - <placeName>بيروت</placeName> 1912</p>
             <p xml:id="p_9555.d2e69502">نسيم نوفل * نوفل نسيم (افندي) (الشيخ) نشابة الدر الثمين في تجويد الكتاب المبين - <placeName>دمشق</placeName> 1310 النشار سراج الدين أبو حفص عمر بن قاسم بن محمد المصري الانصاري - المشهور بالنشار (نبغ في سنة 900) المكرر فيما تواتر من القرآات السبع وتحرر وبهامشه كتاب الصافي لابي عبد الله محمد بن شر؟ ح بن احمد المقري (في القراآت) مكة 1306 الميمنية 1326 النشار الشربينى (الشيخ) محمد النشار الشربيني الشافعي الحلوتي مدرس اللغة العربية بمدرسة الناصرية بالقاهرة 1 - التحفة السنية على الرساله الباجورية - وهي حاشية على رسالة الباجوري.</p>
             <p xml:id="p_9556.d2e69505">أولها الحمد لله الواحد الاحد الفرد الصمد.</p>
             <p xml:id="p_9557.d2e69508">وفي آخرها جملة تغاريظ نثرا ونظما لبعض أكابر علماء العصر - <placeName>مصر</placeName> 1301.</p>
@@ -459,11 +459,11 @@
                   <abbr xml:id="abbr_2467.d2e69810">مط</abbr>
                   <expan xml:id="expan_2467.d2e69813">مطبعة</expan>
                </choice> الموئد <placeName>مصر</placeName> 1324 ص.</p>
-            <p xml:id="p_9581.d2e69818">نقاش <hi rend="quotation-marks" xml:id="hi_2923.d2e69820"> جان (بك) </hi> هو ابن نقولا افندي نقاش الاتي ذكره وصاحب امتياز جريدة <tei:title level="j" change="#d2e166">المصباح</tei:title> والمحامي في <placeName>بيروت</placeName> مغني المتداعين عن المحامين - جزء 2 <placeName>بيروت</placeName> 1895.</p>
-            <p xml:id="p_9582.d2e69824">النقاش <hi rend="quotation-marks" xml:id="hi_2924.d2e69826"> سليم بن خليل </hi> (1883) من أسرة النقاش المشهورة في <placeName>بيروت</placeName> ابن خليل شقيق مارون ونقولا نقاش الاتي ذكرهما - توطن الاسكندرية وكان فيها منشئ جريدة <tei:title level="j" change="#d2e166">المحروسة</tei:title> <placeName>مصر</placeName> للمصريين - وفيه حوادث الفتنة العرابية وهو 9 أجزاء صدر منه: الجزء الرابع إلى السادس في ولاية توفيق باشا إلى انقضاء الثورة العرابية الجزء السابع إلى التاسع - في محاكمة العرابيين <choice xml:id="choice_2468.d2e69829">
+            <p xml:id="p_9581.d2e69818">نقاش <hi rend="quotation-marks" xml:id="hi_2923.d2e69820"> جان (بك) </hi> هو ابن نقولا افندي نقاش الاتي ذكره وصاحب امتياز جريدة <title level="j" change="#d2e166">المصباح</title> والمحامي في <placeName>بيروت</placeName> مغني المتداعين عن المحامين - جزء 2 <placeName>بيروت</placeName> 1895.</p>
+            <p xml:id="p_9582.d2e69824">النقاش <hi rend="quotation-marks" xml:id="hi_2924.d2e69826"> سليم بن خليل </hi> (1883) من أسرة النقاش المشهورة في <placeName>بيروت</placeName> ابن خليل شقيق مارون ونقولا نقاش الاتي ذكرهما - توطن الاسكندرية وكان فيها منشئ جريدة <title level="j" change="#d2e166">المحروسة</title> <placeName>مصر</placeName> للمصريين - وفيه حوادث الفتنة العرابية وهو 9 أجزاء صدر منه: الجزء الرابع إلى السادس في ولاية توفيق باشا إلى انقضاء الثورة العرابية الجزء السابع إلى التاسع - في محاكمة العرابيين <choice xml:id="choice_2468.d2e69829">
                   <abbr xml:id="abbr_2468.d2e69831">مط</abbr>
                   <expan xml:id="expan_2468.d2e69834">مطبعة</expan>
-               </choice> جريدة <tei:title level="j" change="#d2e166">المحروسة</tei:title> بالاسكندرية 1302 - 1884 (1) 
+               </choice> جريدة <title level="j" change="#d2e166">المحروسة</title> بالاسكندرية 1302 - 1884 (1) 
           <note type="footnote" xml:id="note_1134.d2e69838">
                   <p xml:id="p_9582.d2e69840">(1) أما الاجزاء الاولى منه الاول إلى الثالث فلا وجود لها</p>
                   <p xml:id="p_9583.d2e69843">وقد أشار المؤلف إلى أنها ستصدر بعد الفراغ من طبع الاجزاء الستة (أي الرابع إلى التاسع) مستوعبة تاريخ <placeName>مصر</placeName> على عهد محمد علي باشا وابراهيم وعباس واسمعيل وغير ذلك.</p>
