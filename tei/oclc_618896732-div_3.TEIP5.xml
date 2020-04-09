@@ -70,51 +70,51 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>title level="j"</tag>.</change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2020-04-09" who="#pers_TG" xml:id="d2e171" xml:lang="en">Added automated <tei:att xml:lang="en">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en">tei:text</tei:gi> and had no existing <tei:att xml:lang="en">xml:id</tei:att> following the pattern "name()_generate-id()".</change><change when="2019-04-02" who="#pers_TG" xml:lang="en" change="#d2e171" xml:id="change_1.d2e165">Automatically marked up references to periodicals with <tag change="#d2e171" xml:id="tag_2.d2e167">title level="j"</tag>.</change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
-   <text xml:lang="ar">
-      <body>
+   <text xml:lang="ar" change="#d2e171" xml:id="text_1.d2e176">
+      <body change="#d2e171" xml:id="body_1.d2e178">
          <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="div_16.d2e23731" type="section">
             <head xml:id="head_14.d2e23733">حرف التاء</head>
             <p xml:id="p_3907.d2e23736">تأبط شرا (530 ميلادية) هو ثابت بن جابر بن سفيان الفهمي وكنيته أبو زهير كان أسمع العرب وأبصرهم وأكيدهم وكان أعدى رجل ينظر إلى الظبأ فينتقي على نظره اثمنها ثم يجري خلفه فلا يفوته حتى يأخذه فيذبحه بسيفه ثم يشويه فيأكله وفي تلقيبه بتأبط شرا أربعة أقوال والمشهور منها انه تأبط سيفا وخرج وقيل لامه اين هو فقالت لا أدرى: تأبط شرا وخرج.</p>
             <p xml:id="p_3908.d2e23739">وترجمته مذكورة في كتاب الاغاني بحكايات كثيرة يتعجب منها العقل لغرابتها: قصيدة في أخذ الثأر وسفك الدما طبعت في لوند (اسوج) 1883 وباعتنا الاستاذ اهلورد غريفسوالد 1859</p>
             <p xml:id="p_3909.d2e23742">تاج الشريعة * المحبوبي </p></div>
-<div type="entry"><head><persName><surname>تادروس</surname> <hi rend="quotation-marks" xml:id="hi_747.d2e23744">رفله افندي </hi></persName></head>
-<p> البيانات الجلية لمديرية القليوبية <choice xml:id="choice_661.d2e23747">
+<div type="entry" change="#d2e171" xml:id="div_2.d2e194"><head change="#d2e171" xml:id="head_2.d2e195"><persName change="#d2e171" xml:id="persName_4.d2e196"><surname change="#d2e171" xml:id="surname_3.d2e197">تادروس</surname> <hi rend="quotation-marks" xml:id="hi_747.d2e23744">رفله افندي </hi></persName></head>
+<p change="#d2e171" xml:id="p_7.d2e203"> البيانات الجلية لمديرية القليوبية <choice xml:id="choice_661.d2e23747">
                   <abbr xml:id="abbr_661.d2e23749">مط</abbr>
                   <expan xml:id="expan_661.d2e23752">مطبعة</expan>
                </choice> التوفيق 1898 تادروس </p></div>
-<div type="entry"><head><persName><surname>شنوده</surname> <hi rend="quotation-marks" xml:id="hi_748.d2e23756">اسكندر افندي </hi></persName></head>
-<p> هو تادروس بك شنوده المنقباوي صاحب جريدة <placeName>مصر</placeName> المولود باسيوط سنة 1857 تاريخ الامة القبطية وكنيستها تأليف الانسة 
+<div type="entry" change="#d2e171" xml:id="div_3.d2e215"><head change="#d2e171" xml:id="head_3.d2e216"><persName change="#d2e171" xml:id="persName_5.d2e217"><surname change="#d2e171" xml:id="surname_4.d2e218">شنوده</surname> <hi rend="quotation-marks" xml:id="hi_748.d2e23756">اسكندر افندي </hi></persName></head>
+<p change="#d2e171" xml:id="p_8.d2e224"> هو تادروس بك شنوده المنقباوي صاحب جريدة <placeName change="#d2e171" xml:id="placeName_2.d2e226">مصر</placeName> المولود باسيوط سنة 1857 تاريخ الامة القبطية وكنيستها تأليف الانسة 
           <note type="footnote" xml:id="note_441.d2e23759">
                   <p xml:id="p_3909.d2e23761">الاغاني جزء 18 ص 209 إلى 218 الشعر والشعراء 741 خزانة الادب 66 1 (*)</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P631.xhtml" ed="print" n="625" xml:id="pb_319.d2e23765"/>ا.</p>
             <p xml:id="p_3911.d2e23768">ل.</p>
-            <p xml:id="p_3912.d2e23772">بتشر الانكليزية (1) معرب جزء 4 <placeName>مصر</placeName> 1901 </p></div>
-<div type="entry"><head><persName><surname>تادروس</surname> <hi rend="quotation-marks" xml:id="hi_749.d2e23774">رمزي افندي </hi></persName></head>
-<p> أحد محرري جريدة <placeName>مصر</placeName> 1 الاقباط في القرن العشرين يبحث في نشؤ الامه القبطية وأحوالها الاجتماعية والدينية والعلمية الخ وأفرد فيه بابا للاوقاف القبطية.</p>
-            <p xml:id="p_3913.d2e23778"><placeName>مصر</placeName> 1910 ص 184 2 حاضر الحبشه ومستقبلها مع رسوم <placeName>مصر</placeName> ص 171 3 الدنيا والآخرة <choice xml:id="choice_662.d2e23780">
+            <p xml:id="p_3912.d2e23772">بتشر الانكليزية (1) معرب جزء 4 <placeName change="#d2e171" xml:id="placeName_3.d2e243">مصر</placeName> 1901 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_4.d2e247"><head change="#d2e171" xml:id="head_4.d2e248"><persName change="#d2e171" xml:id="persName_6.d2e249"><surname change="#d2e171" xml:id="surname_5.d2e250">تادروس</surname> <hi rend="quotation-marks" xml:id="hi_749.d2e23774">رمزي افندي </hi></persName></head>
+<p change="#d2e171" xml:id="p_12.d2e256"> أحد محرري جريدة <placeName change="#d2e171" xml:id="placeName_4.d2e258">مصر</placeName> 1 الاقباط في القرن العشرين يبحث في نشؤ الامه القبطية وأحوالها الاجتماعية والدينية والعلمية الخ وأفرد فيه بابا للاوقاف القبطية.</p>
+            <p xml:id="p_3913.d2e23778"><placeName change="#d2e171" xml:id="placeName_5.d2e263">مصر</placeName> 1910 ص 184 2 حاضر الحبشه ومستقبلها مع رسوم <placeName change="#d2e171" xml:id="placeName_6.d2e266">مصر</placeName> ص 171 3 الدنيا والآخرة <choice xml:id="choice_662.d2e23780">
                   <abbr xml:id="abbr_662.d2e23782">مط</abbr>
                   <expan xml:id="expan_662.d2e23785">مطبعة</expan>
                </choice> رعمسيس 1913 تادروس وهي * وهبي التادفي * ابن يحيى الربعي</p>
             <p xml:id="p_3914.d2e23790">تامر ملاط * ملاط التاودي * محمد التاودي </p></div>
-<div type="entry"><head><persName><surname>التبريزي</surname> <hi rend="quotation-marks" xml:id="hi_750.d2e23792">الخطيب </hi></persName></head>
-<p> (502 421 هـ) يحيى بن علي بن الحسن بن محمد بن موسى ابن الخطيب أبو زكريا الشيباني النحوي اللغوي احد أئمة اللغة سافر في طلب العلم إلى الاقطار وقرأ على عبد القاهر الجرجاني وابن سهيل البيضاوي وبالبصرة على كثيرين من العلماء وسمع بها الحديث وكتب الادب 
+<div type="entry" change="#d2e171" xml:id="div_5.d2e282"><head change="#d2e171" xml:id="head_5.d2e283"><persName change="#d2e171" xml:id="persName_7.d2e284"><surname change="#d2e171" xml:id="surname_6.d2e285">التبريزي</surname> <hi rend="quotation-marks" xml:id="hi_750.d2e23792">الخطيب </hi></persName></head>
+<p change="#d2e171" xml:id="p_15.d2e291"> (502 421 هـ) يحيى بن علي بن الحسن بن محمد بن موسى ابن الخطيب أبو زكريا الشيباني النحوي اللغوي احد أئمة اللغة سافر في طلب العلم إلى الاقطار وقرأ على عبد القاهر الجرجاني وابن سهيل البيضاوي وبالبصرة على كثيرين من العلماء وسمع بها الحديث وكتب الادب 
           <note type="footnote" xml:id="note_442.d2e23795">
                   <p xml:id="p_3914.d2e23797">(1) قالت المؤلفة في مقدمة كتابها: ان بحث الباحثيين المدققين ثبت ان اعتاب المصريين الاصليين إلى لان هم الاقباط المسيحيون وانها استعانت بكتاب ساويرس اسقف الاشمونيين الذي كتب تاريخ الكنيسة القبطية في القرن العاشر وأتمه ميخائيل أسقف طانيس إلى حد سنة 1243 م الانباري 443 ابن خلكان 307 2 أبوالفدا 224 3 بغية الوعاه 413 دفتاح السعادة 175 1 (*)</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P632.xhtml" ed="print" n="626" xml:id="cb_313.d2e23801"/>على هلال الصابئ وابن السراج وأبي الطيب الطبري وعلى غيرهم وكان يد من شرب الخمر والناس يقراؤون عليه تصانيفه وهو سكران.</p>
             <p xml:id="p_3916.d2e23804">كتب بخطه كثيرا من كتب الادب ودواوين الاشعار وله في اعراب القرآن كتاب</p>
             <p xml:id="p_3917.d2e23807">سماه الملخص في أربعة مجلدات.</p>
-            <p xml:id="p_3918.d2e23810">وشرح اللمع لابن جني وشرح الحماسة وديوان المتنبي وأبي تمام الطائي وسقط الزند والمفضليات والسبع المعلقات وغيرها سافر من تبريز إلى المعرة لقصد أبي العلاء المعري ودخل <placeName>مصر</placeName> في عنفوان شبابه وقرأ بها على طاهر بن بابشاذ ثم عاد إلى <placeName>بغداد</placeName> واستوطنها إلى الممات 1 تهذيب اصلاح المنطق أوله: أما بعد حمد الله والصلاة على نبيه محمد وآله.</p>
+            <p xml:id="p_3918.d2e23810">وشرح اللمع لابن جني وشرح الحماسة وديوان المتنبي وأبي تمام الطائي وسقط الزند والمفضليات والسبع المعلقات وغيرها سافر من تبريز إلى المعرة لقصد أبي العلاء المعري ودخل <placeName change="#d2e171" xml:id="placeName_7.d2e310">مصر</placeName> في عنفوان شبابه وقرأ بها على طاهر بن بابشاذ ثم عاد إلى <placeName change="#d2e171" xml:id="placeName_8.d2e313">بغداد</placeName> واستوطنها إلى الممات 1 تهذيب اصلاح المنطق أوله: أما بعد حمد الله والصلاة على نبيه محمد وآله.</p>
             <p xml:id="p_3919.d2e23814">قال في أوله: لما رأيت ميل أكثر الناس إلى كتاب اصلاح المنطق لابي يوسف يعقوب المعروف بابن السكيت دون غيره من كتب اللغة ورأيت فيه تكرارا كثيرا ورأيت الابيات التي استشهد بها في بعضها خلل وأكثرها يحتاج إلى التفسير استعنت بالله تعالى على كتبه وحذف المكرر وتبيين ما يشكل في بعض المواضع منه.</p>
             <p xml:id="p_3920.d2e23817">عنى بطبعه بعد مقابلته على النسخ الخطية الموجودة بدار الكتب الخديوية وصدر بكلمة لناشر </p></div>
-<div type="entry"><head><persName><surname>الكتاب</surname> <hi rend="quotation-marks" xml:id="hi_751.d2e23819">صالح علي </hi></persName></head>
-<p> محاسب ري السودان بالخرطوم.</p>
-            <p xml:id="p_3921.d2e23823">ويليه ترجمة ابن السكيت (مؤلف اصلاح المنطق) وأبي زكريا الخطيب التبريزي (صاحب كتاب تهذيب اصلاح المنطق) وذلك نقلا عن كتاب تهذيب الالفاظ لابن السكيت المطبوع في <placeName>بيروت</placeName> بعناية الاب لويس شيخو جزء 2 <choice xml:id="choice_663.d2e23825">
+<div type="entry" change="#d2e171" xml:id="div_6.d2e325"><head change="#d2e171" xml:id="head_6.d2e326"><persName change="#d2e171" xml:id="persName_8.d2e327"><surname change="#d2e171" xml:id="surname_7.d2e328">الكتاب</surname> <hi rend="quotation-marks" xml:id="hi_751.d2e23819">صالح علي </hi></persName></head>
+<p change="#d2e171" xml:id="p_22.d2e334"> محاسب ري السودان بالخرطوم.</p>
+            <p xml:id="p_3921.d2e23823">ويليه ترجمة ابن السكيت (مؤلف اصلاح المنطق) وأبي زكريا الخطيب التبريزي (صاحب كتاب تهذيب اصلاح المنطق) وذلك نقلا عن كتاب تهذيب الالفاظ لابن السكيت المطبوع في <placeName change="#d2e171" xml:id="placeName_9.d2e339">بيروت</placeName> بعناية الاب لويس شيخو جزء 2 <choice xml:id="choice_663.d2e23825">
                   <abbr xml:id="abbr_663.d2e23827">مط</abbr>
                   <expan xml:id="expan_663.d2e23830">مطبعة</expan>
                </choice> السعادة 1907 1325 (1)</p>
@@ -125,25 +125,25 @@
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P633.xhtml" ed="print" n="627" xml:id="pb_320.d2e23846"/>3 شرح على ديوان اشعار الحماسة التي اختارها من اشعار العرب العربي أبو تمام حبيب بن أوس العطائي أشعر شعراء الاسلام جزء 4 بولاق 1296 وطبع قبلا في بون (أوربا) أنظر أبو تمام الطائي 4 شرح المعلقات وضم إليها لامية الاعشى ودالية النابغة الدبياني وبائية عبيد بن الابرص وشرحها جميعها.</p>
             <p xml:id="p_3925.d2e23849">ويعرف بشرح القصائد العشر كلكته 1894 ص 164 و 7 </p></div>
-<div type="entry"><head><persName><surname>التبزيزي</surname> <hi rend="quotation-marks" xml:id="hi_752.d2e23851">الخطيب العمري </hi></persName></head>
-<p> الشيخ ولي الدين أو ولي الله أبو عبد الله محمد بن عبد الله الخطيب العمري التبريزي (من علماء القرن الثامن للهجرة) 1 الاكمال في أسماء الرجال أوله ربي وفقني للتتميم والتكميل اللهم بك نستعين وعليك نتوكل الخ</p>
+<div type="entry" change="#d2e171" xml:id="div_7.d2e369"><head change="#d2e171" xml:id="head_7.d2e370"><persName change="#d2e171" xml:id="persName_9.d2e371"><surname change="#d2e171" xml:id="surname_8.d2e372">التبزيزي</surname> <hi rend="quotation-marks" xml:id="hi_752.d2e23851">الخطيب العمري </hi></persName></head>
+<p change="#d2e171" xml:id="p_28.d2e378"> الشيخ ولي الدين أو ولي الله أبو عبد الله محمد بن عبد الله الخطيب العمري التبريزي (من علماء القرن الثامن للهجرة) 1 الاكمال في أسماء الرجال أوله ربي وفقني للتتميم والتكميل اللهم بك نستعين وعليك نتوكل الخ</p>
             <p xml:id="p_3926.d2e23855">طبع مع كتاب مشكاة المصابيح الآتي 2 مشكاة المصابيح (الذي فيه لفتح أبواب الشريعة مفاتيح.</p>
             <p xml:id="p_3927.d2e23859">كمل فيه مصابيح السنة للبغوي وذيل أبوابه.</p>
             <p xml:id="p_3928.d2e23862">فرغ من جمعه سنة 737 طبع على الحجر بطرسبرج 9 / 1898 جزء 2 وفي قازان (روسيا) 1909 فيه مقدمة في العلوم والحديث لعبد الحق الدهلوي بمبئ 1 / 1270 و 1282 ص 576 و 1289 ص 492 و 1307 ص 584 وطبع باسم: مشكوة المصابيح مع ما عليه من الحواشي المفيدة المعتبرة التي اخذت من اسفار متعددة وشروح مستندة للعلامة زكي الدين الشهير بعبد العظيم منذري ويتلوها الاكمال في أسماء الرجال دهلى 2 / 1300 ص 576 و 1890 ص 574 و 61 وباسم: مشكوة المصابيح مع الاكمال في اسماء الرجال وعليها شروح وحواش كلكته 1319 ص 583 و 33 وطبعت مشكاة المصابيح بهامش مرقاة المفاتيح لملا على القاري
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P634.xhtml" ed="print" n="628" xml:id="cb_314.d2e23864"/>
           وترجم هذا الكتاب إلى اللغة الانكليزية وطبع في كلكته سنة 1809 </p></div>
-<div type="entry"><head><persName><surname>التبريزي</surname> <hi rend="quotation-marks" xml:id="hi_753.d2e23866">ألطف علي بن احمد </hi></persName></head>
-<p> شرح بانت سعاد طبع مع كتاب السامي في الاسامي للميداني (العجم 1294)</p>
-            <p xml:id="p_3929.d2e23870"></p></div>
-<div type="entry"><head><persName><surname>التبريزي</surname> <hi rend="quotation-marks" xml:id="hi_754.d2e23872">محمد </hi></persName></head>
-<p> الحنفي ميزان الادب وهو شرح آداب البحث لعضد الدين الايجي أنظر تعليقات الكلنبوي على ميزان الادب (استانة 1234) التتائي * محمد بن ابراهيم التتائي </p></div>
-<div type="entry"><head><persName><surname>التجاني</surname> <hi rend="quotation-marks" xml:id="hi_755.d2e23875">احمد </hi></persName></head>
-<p> * </p></div>
-<div type="entry"><head><persName><surname>التيجاني</surname> <hi rend="quotation-marks" xml:id="hi_756.d2e23878">احمد </hi></persName></head>
-<p> </p></div>
-<div type="entry"><head><persName><surname>التجيبي</surname> <hi rend="quotation-marks" xml:id="hi_757.d2e23881">أبو العباس </hi></persName></head>
-<p> (549 أو 550 هـ) أبو العباس احمد بن معد بن عيسى بن وكيل التجيبي الاندلسي ويعرف بالاقليشي اخذ العربية والادب عن ابي محمد البطليوسي وسمع الحديث من صهره ابن يعيش والحافظ ابي بكر بن العربي وابي الوليد بن الدباغ.</p>
+<div type="entry" change="#d2e171" xml:id="div_8.d2e392"><head change="#d2e171" xml:id="head_8.d2e393"><persName change="#d2e171" xml:id="persName_10.d2e394"><surname change="#d2e171" xml:id="surname_9.d2e395">التبريزي</surname> <hi rend="quotation-marks" xml:id="hi_753.d2e23866">ألطف علي بن احمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_32.d2e401"> شرح بانت سعاد طبع مع كتاب السامي في الاسامي للميداني (العجم 1294)</p>
+            <p xml:id="p_3929.d2e23870"/></div>
+<div type="entry" change="#d2e171" xml:id="div_9.d2e406"><head change="#d2e171" xml:id="head_9.d2e407"><persName change="#d2e171" xml:id="persName_11.d2e408"><surname change="#d2e171" xml:id="surname_10.d2e409">التبريزي</surname> <hi rend="quotation-marks" xml:id="hi_754.d2e23872">محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_34.d2e415"> الحنفي ميزان الادب وهو شرح آداب البحث لعضد الدين الايجي أنظر تعليقات الكلنبوي على ميزان الادب (استانة 1234) التتائي * محمد بن ابراهيم التتائي </p></div>
+<div type="entry" change="#d2e171" xml:id="div_10.d2e418"><head change="#d2e171" xml:id="head_10.d2e419"><persName change="#d2e171" xml:id="persName_12.d2e420"><surname change="#d2e171" xml:id="surname_11.d2e421">التجاني</surname> <hi rend="quotation-marks" xml:id="hi_755.d2e23875">احمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_35.d2e427"> * </p></div>
+<div type="entry" change="#d2e171" xml:id="div_11.d2e430"><head change="#d2e171" xml:id="head_11.d2e431"><persName change="#d2e171" xml:id="persName_13.d2e432"><surname change="#d2e171" xml:id="surname_12.d2e433">التيجاني</surname> <hi rend="quotation-marks" xml:id="hi_756.d2e23878">احمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_36.d2e439"> </p></div>
+<div type="entry" change="#d2e171" xml:id="div_12.d2e443"><head change="#d2e171" xml:id="head_12.d2e444"><persName change="#d2e171" xml:id="persName_14.d2e445"><surname change="#d2e171" xml:id="surname_13.d2e446">التجيبي</surname> <hi rend="quotation-marks" xml:id="hi_757.d2e23881">أبو العباس </hi></persName></head>
+<p change="#d2e171" xml:id="p_37.d2e452"> (549 أو 550 هـ) أبو العباس احمد بن معد بن عيسى بن وكيل التجيبي الاندلسي ويعرف بالاقليشي اخذ العربية والادب عن ابي محمد البطليوسي وسمع الحديث من صهره ابن يعيش والحافظ ابي بكر بن العربي وابي الوليد بن الدباغ.</p>
             <p xml:id="p_3930.d2e23885">ورحل وحج وجاور بمكة سنين وسمع من ابي الفتح الكروخي وحدث.</p>
             <p xml:id="p_3931.d2e23888">وكان عالما بالحديث واللغة والعربية عاقلا مضطلعا من الادب والورع والمعرفة بعلوم شتى والزهد والاقبال.</p>
             <p xml:id="p_3932.d2e23891">صنف شرح الاسماء الحسنى بشرح الباقيات الصالحات.</p>
@@ -157,10 +157,10 @@
                   <abbr xml:id="abbr_664.d2e23913">مط</abbr>
                   <expan xml:id="expan_664.d2e23916">مطبعة</expan>
                </choice> الاعلام 1302 ص 8 </p></div>
-<div type="entry"><head><persName><surname>التجيبي</surname> <hi rend="quotation-marks" xml:id="hi_758.d2e23920">أبو القاسم </hi></persName></head>
-<p> * الزقاق التجيبي الكندي * </p></div>
-<div type="entry"><head><persName><surname>الكندي</surname> <hi rend="quotation-marks" xml:id="hi_759.d2e23923">أبو عمر </hi></persName></head>
-<p> تدمري زاده محمد دريش نقيب الاشراف بالبلاد الرومية (من علماء القرن الرابع عشر) الاسعاف لنقيب السادة الاشراف (رسالة في النحو) أتم تأليفها سنة 1299 <choice xml:id="choice_665.d2e23926">
+<div type="entry" change="#d2e171" xml:id="div_13.d2e491"><head change="#d2e171" xml:id="head_13.d2e492"><persName change="#d2e171" xml:id="persName_15.d2e493"><surname change="#d2e171" xml:id="surname_14.d2e494">التجيبي</surname> <hi rend="quotation-marks" xml:id="hi_758.d2e23920">أبو القاسم </hi></persName></head>
+<p change="#d2e171" xml:id="p_45.d2e500"> * الزقاق التجيبي الكندي * </p></div>
+<div type="entry" change="#d2e171" xml:id="div_14.d2e503"><head change="#d2e171" xml:id="head_14.d2e504"><persName change="#d2e171" xml:id="persName_16.d2e505"><surname change="#d2e171" xml:id="surname_15.d2e506">الكندي</surname> <hi rend="quotation-marks" xml:id="hi_759.d2e23923">أبو عمر </hi></persName></head>
+<p change="#d2e171" xml:id="p_46.d2e512"> تدمري زاده محمد دريش نقيب الاشراف بالبلاد الرومية (من علماء القرن الرابع عشر) الاسعاف لنقيب السادة الاشراف (رسالة في النحو) أتم تأليفها سنة 1299 <choice xml:id="choice_665.d2e23926">
                   <abbr xml:id="abbr_665.d2e23928">مط</abbr>
                   <expan xml:id="expan_665.d2e23931">مطبعة</expan>
                </choice> العلمية 1312 ص 15 التراقي * المولي التراقي تربكي أو تربكه (Thorbeeke) Heinrich علم الآداب العربية سنين طويلة في كليتي هيدلبرج وهال واعتنى بنشر الكتب الآتية:</p>
@@ -168,41 +168,41 @@
             <p xml:id="p_3938.d2e23939">أنظر الحريري 2 كتاب الملاحن لابن دريد.</p>
             <p xml:id="p_3939.d2e23942">أنظر ابن دريد 3 الجزء الاول من المفضليات.</p>
             <p xml:id="p_3940.d2e23946">أنظر المفضل الضبي 4 الرسالة العامة في كلام العامة لميخائيل الصباغ </p></div>
-<div type="entry"><head><persName><surname>أنظر</surname> <hi rend="quotation-marks" xml:id="hi_760.d2e23948">ميخائيل الصباغ </hi></persName></head>
-<p> واعتنى بنشر تاريخ الطبري مع غيره من المستشرقين 5 ترجمة سعديا لنشيد الانشاد (وهو جزء من التوراة)
+<div type="entry" change="#d2e171" xml:id="div_15.d2e536"><head change="#d2e171" xml:id="head_15.d2e537"><persName change="#d2e171" xml:id="persName_17.d2e538"><surname change="#d2e171" xml:id="surname_16.d2e539">أنظر</surname> <hi rend="quotation-marks" xml:id="hi_760.d2e23948">ميخائيل الصباغ </hi></persName></head>
+<p change="#d2e171" xml:id="p_51.d2e545"> واعتنى بنشر تاريخ الطبري مع غيره من المستشرقين 5 ترجمة سعديا لنشيد الانشاد (وهو جزء من التوراة)
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P636.xhtml" ed="print" n="630" xml:id="cb_315.d2e23951"/>
           الترجمان </p></div>
-<div type="entry"><head><persName><surname>الميورقي</surname> <hi rend="quotation-marks" xml:id="hi_761.d2e23953">عبد الله بن عبد الله </hi></persName></head>
-<p> (من أبناء القرن التاسع للهجرة) تحفة الاريب في الرد على أهل الصليب كان من أفاضل النصارى ولما أسلم أراد أن يبين اباطيل نواميسم.</p>
-            <p xml:id="p_3941.d2e23957">فبدأ بذكر بلده ومنشئه ثم رحلته ودخوله في الاسلام في عصر أبي العباس احمد صاحب تونس وابنه تونس وابنه فارس عبد العزيز وبين مقصود الكتاب في تسعة أبواب وفرغ سنة 823 هـ (كشف الظنون) تونس 1290 <placeName>مصر</placeName> 1895 ص 68 تردي الاب اعسطينوس تردي اليسوعي (Tardy) Augustinus حلية الطلاب في علم الحساب طبعة رابعة</p>
-            <p xml:id="p_3942.d2e23960">ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> اليسوعيين <placeName>بيروت</placeName> 1895 التركزي ابن التلاميذ * </p></div>
-<div type="entry"><head><persName><surname>الشنقيطي</surname> <hi rend="quotation-marks" xml:id="hi_762.d2e23962">محمد محمود </hi></persName></head>
-<p> </p></div>
-<div type="entry"><head><persName><surname>التركي</surname> <hi rend="quotation-marks" xml:id="hi_763.d2e23965">احمد بن مراد </hi></persName></head>
-<p> مناسك الحاج 1318 ص 36 تركي (أو) </p></div>
-<div type="entry"><head><persName><surname>الترك</surname> <hi rend="quotation-marks" xml:id="hi_764.d2e23968">نيقولا </hi></persName></head>
-<p> (1838 1763 م) نيقولا الترك بن يوسف اسطنبولي (1) (أو) نيقولا 
+<div type="entry" change="#d2e171" xml:id="div_16.d2e550"><head change="#d2e171" xml:id="head_16.d2e551"><persName change="#d2e171" xml:id="persName_18.d2e552"><surname change="#d2e171" xml:id="surname_17.d2e553">الميورقي</surname> <hi rend="quotation-marks" xml:id="hi_761.d2e23953">عبد الله بن عبد الله </hi></persName></head>
+<p change="#d2e171" xml:id="p_52.d2e559"> (من أبناء القرن التاسع للهجرة) تحفة الاريب في الرد على أهل الصليب كان من أفاضل النصارى ولما أسلم أراد أن يبين اباطيل نواميسم.</p>
+            <p xml:id="p_3941.d2e23957">فبدأ بذكر بلده ومنشئه ثم رحلته ودخوله في الاسلام في عصر أبي العباس احمد صاحب تونس وابنه تونس وابنه فارس عبد العزيز وبين مقصود الكتاب في تسعة أبواب وفرغ سنة 823 هـ (كشف الظنون) تونس 1290 <placeName change="#d2e171" xml:id="placeName_10.d2e564">مصر</placeName> 1895 ص 68 تردي الاب اعسطينوس تردي اليسوعي (Tardy) Augustinus حلية الطلاب في علم الحساب طبعة رابعة</p>
+            <p xml:id="p_3942.d2e23960">ب<choice change="#d2e171" xml:id="choice_6.d2e570"><abbr change="#d2e171" xml:id="abbr_6.d2e571">مط</abbr><expan change="#d2e171" xml:id="expan_6.d2e573">مطبعة</expan></choice> اليسوعيين <placeName change="#d2e171" xml:id="placeName_11.d2e576">بيروت</placeName> 1895 التركزي ابن التلاميذ * </p></div>
+<div type="entry" change="#d2e171" xml:id="div_17.d2e580"><head change="#d2e171" xml:id="head_17.d2e581"><persName change="#d2e171" xml:id="persName_19.d2e582"><surname change="#d2e171" xml:id="surname_18.d2e583">الشنقيطي</surname> <hi rend="quotation-marks" xml:id="hi_762.d2e23962">محمد محمود </hi></persName></head>
+<p change="#d2e171" xml:id="p_55.d2e589"> </p></div>
+<div type="entry" change="#d2e171" xml:id="div_18.d2e593"><head change="#d2e171" xml:id="head_18.d2e594"><persName change="#d2e171" xml:id="persName_20.d2e595"><surname change="#d2e171" xml:id="surname_19.d2e596">التركي</surname> <hi rend="quotation-marks" xml:id="hi_763.d2e23965">احمد بن مراد </hi></persName></head>
+<p change="#d2e171" xml:id="p_56.d2e602"> مناسك الحاج 1318 ص 36 تركي (أو) </p></div>
+<div type="entry" change="#d2e171" xml:id="div_19.d2e605"><head change="#d2e171" xml:id="head_19.d2e606"><persName change="#d2e171" xml:id="persName_21.d2e607"><surname change="#d2e171" xml:id="surname_20.d2e608">الترك</surname> <hi rend="quotation-marks" xml:id="hi_764.d2e23968">نيقولا </hi></persName></head>
+<p change="#d2e171" xml:id="p_57.d2e614"> (1838 1763 م) نيقولا الترك بن يوسف اسطنبولي (1) (أو) نيقولا 
           <note type="footnote" xml:id="note_445.d2e23971">
-                  <p xml:id="p_3942.d2e23973">(1) كذا وجدت اسمه في المجلة الفرنساوية المطبوعة في القاهرة ايام تملك نابليون الديار المصرية وفيها قصيدة له في انتصار بونابرت قال في آخرها: وقنوح <placeName>مصر</placeName> كان في * صفر وأمر الله صار وبيوم سبث فيه قد * ارخت تم الانتصار (سنة 1212 هـ) قال ناشر هذه القصيدة: نقولا الترك ابن يوسف L ' auteur de cette ode se nomme ; il est natifde Beyrouth et m ' a semble reunir اسطنبولي des connaissances litteraires infiniment plus etendues.</p>
+                  <p xml:id="p_3942.d2e23973">(1) كذا وجدت اسمه في المجلة الفرنساوية المطبوعة في القاهرة ايام تملك نابليون الديار المصرية وفيها قصيدة له في انتصار بونابرت قال في آخرها: وقنوح <placeName change="#d2e171" xml:id="placeName_12.d2e620">مصر</placeName> كان في * صفر وأمر الله صار وبيوم سبث فيه قد * ارخت تم الانتصار (سنة 1212 هـ) قال ناشر هذه القصيدة: نقولا الترك ابن يوسف L ' auteur de cette ode se nomme ; il est natifde Beyrouth et m ' a semble reunir اسطنبولي des connaissances litteraires infiniment plus etendues.</p>
                   <p xml:id="p_3943.d2e23976">) * (que je n ' ai trouve jusqu , ici dans aucun hommedu pays</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P637.xhtml" ed="print" n="631" xml:id="pb_322.d2e23980"/>ابن يوسف الترك (أو) نقولا التركي كان أصل والده من القسطنطينية ثم سكن دير القمر حيث ولد ابنه نقولا.</p>
             <p xml:id="p_3945.d2e23983">فنشأ المترجم في حجر والده وكان منذ</p>
             <p xml:id="p_3946.d2e23986">حداثته محبا للاداب ولم يزل يتعاطى النظم والنثر إلى أن نال فيها نصيبا صالحا.</p>
             <p xml:id="p_3947.d2e23989">ونبغ في الشعر بجودة قريحته دون الدرس على أستاذ يلقنه والعلم يرشده ولهذا في شعره ضعف.</p>
-            <p xml:id="p_3948.d2e23993">وقد خدم الامير بشير الشهابي زمنا طويلا وله في مدحه قصائد كثيرة (1) ثم جاء <placeName>مصر</placeName> وعين مع فئة من السوريين كميخائيل الصباغ وغيره كاتبا للحملة الفرنساوية أيام دخول نابليون الاول القطر المصري له مصنفات منها تاريخ الامبراطور نابليون الآتي ذكره وتاريخ آخر ضمنه أخبار احمد الجزار لا يزال مخطوطا وله ديوان شعر منه نسخه مخطوطة في المكتبة الشرقية عند الآباء اليسوعيين في <placeName>بيروت</placeName> ونسخة أخرى في الخزانة التيمورية وبها أيضا احدى عشر مقالة ونظم بعض مزامير داود النبي ونسخة أخرى في خزانة الاديب قبلان عبد الله كرامة بالقاهرة وقال الاستاذ هوار في </p></div>
-<div type="entry"><head><persName><surname>كتابه</surname> <hi rend="quotation-marks" xml:id="hi_765.d2e23995">الآداب العربية ص 406 </hi></persName></head>
-<p> أن نقولا فقد البصر في آخر عمره فكانت ابنته ورده تستنسخ له الاشعار وهو يلقنها لها كانت وفاته في دير القمر 1 تملك جمهور الفرنساوية الاقطار المصرية والبلاد الشامية وهو يتضمن ذكر مقتل الملك لويس السادس عشر سنة 1792 (والاصح سنة 1793) ويتلوه حروب نابليون بونابرته مدة ثلاثة أعوام ابتداؤها من شهر محرم الحرام سنة 1213 هـ وآخرها شهر ربيع</p>
+            <p xml:id="p_3948.d2e23993">وقد خدم الامير بشير الشهابي زمنا طويلا وله في مدحه قصائد كثيرة (1) ثم جاء <placeName change="#d2e171" xml:id="placeName_13.d2e642">مصر</placeName> وعين مع فئة من السوريين كميخائيل الصباغ وغيره كاتبا للحملة الفرنساوية أيام دخول نابليون الاول القطر المصري له مصنفات منها تاريخ الامبراطور نابليون الآتي ذكره وتاريخ آخر ضمنه أخبار احمد الجزار لا يزال مخطوطا وله ديوان شعر منه نسخه مخطوطة في المكتبة الشرقية عند الآباء اليسوعيين في <placeName change="#d2e171" xml:id="placeName_14.d2e645">بيروت</placeName> ونسخة أخرى في الخزانة التيمورية وبها أيضا احدى عشر مقالة ونظم بعض مزامير داود النبي ونسخة أخرى في خزانة الاديب قبلان عبد الله كرامة بالقاهرة وقال الاستاذ هوار في </p></div>
+<div type="entry" change="#d2e171" xml:id="div_20.d2e649"><head change="#d2e171" xml:id="head_20.d2e650"><persName change="#d2e171" xml:id="persName_22.d2e651"><surname change="#d2e171" xml:id="surname_21.d2e652">كتابه</surname> <hi rend="quotation-marks" xml:id="hi_765.d2e23995">الآداب العربية ص 406 </hi></persName></head>
+<p change="#d2e171" xml:id="p_64.d2e658"> أن نقولا فقد البصر في آخر عمره فكانت ابنته ورده تستنسخ له الاشعار وهو يلقنها لها كانت وفاته في دير القمر 1 تملك جمهور الفرنساوية الاقطار المصرية والبلاد الشامية وهو يتضمن ذكر مقتل الملك لويس السادس عشر سنة 1792 (والاصح سنة 1793) ويتلوه حروب نابليون بونابرته مدة ثلاثة أعوام ابتداؤها من شهر محرم الحرام سنة 1213 هـ وآخرها شهر ربيع</p>
             <p xml:id="p_3949.d2e23999">الثاني سنة 1216 هـ وفي آخره ذكر تملك الدولة العثمانية والدولة الانكليزية من بعد خروج الدولة الفرنساوية معه ترجمة إلى اللغة الفرنساوية للموسيو ديغرانج Desgranges Aine جزء أول باريس 1839 ص 230 و 286 أنظر </p></div>
-<div type="entry"><head><persName><surname>الجبرتي</surname> <hi rend="quotation-marks" xml:id="hi_766.d2e24001">عبد الرحمن </hi></persName></head>
-<p> ما ذكرناه عن كتابه مظهر التقديس 
+<div type="entry" change="#d2e171" xml:id="div_21.d2e664"><head change="#d2e171" xml:id="head_21.d2e665"><persName change="#d2e171" xml:id="persName_23.d2e666"><surname change="#d2e171" xml:id="surname_22.d2e667">الجبرتي</surname> <hi rend="quotation-marks" xml:id="hi_766.d2e24001">عبد الرحمن </hi></persName></head>
+<p change="#d2e171" xml:id="p_66.d2e673"> ما ذكرناه عن كتابه مظهر التقديس 
           <note type="footnote" xml:id="note_446.d2e24004">
                   <p xml:id="p_3949.d2e24006">(1) منها قصيدة في تاريخ الامير حيدو الشهابي ص 915</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P638.xhtml" ed="print" n="632" xml:id="cb_316.d2e24010"/>2 مجموع حوادث العرب الواقع بين الفرنساوية والنمساوية في أواخر سنة 1805 الموافق لها سنة 1220 لتاريخ الهجرة وهو ترجمة الوقائع العسكرية باريس 1807 ص 306 (لم يذكر في هذا الكتاب اسم مؤلفه أو معربه بل تبعنا بذلك رأى الاب لويس شيخو الذي نسبه إليه </p></div>
-<div type="entry"><head><persName><surname>الترمذي</surname> <hi rend="quotation-marks" xml:id="hi_767.d2e24012">أبو عيسى </hi></persName></head>
-<p> (279 209 هـ) (الامام) أبو عيسى بن محمد عيسى بن سورة بن الطحال السلمى البوغي الترمذي الضرير احد الائمة الذي يقتدى بهم في علم الحديث.</p>
+<div type="entry" change="#d2e171" xml:id="div_22.d2e684"><head change="#d2e171" xml:id="head_22.d2e685"><persName change="#d2e171" xml:id="persName_24.d2e686"><surname change="#d2e171" xml:id="surname_23.d2e687">الترمذي</surname> <hi rend="quotation-marks" xml:id="hi_767.d2e24012">أبو عيسى </hi></persName></head>
+<p change="#d2e171" xml:id="p_68.d2e693"> (279 209 هـ) (الامام) أبو عيسى بن محمد عيسى بن سورة بن الطحال السلمى البوغي الترمذي الضرير احد الائمة الذي يقتدى بهم في علم الحديث.</p>
             <p xml:id="p_3951.d2e24016">صنف كتاب الجامع تصنيف رجل متقن.</p>
             <p xml:id="p_3952.d2e24019">وبه كان يضرب المثل.</p>
             <p xml:id="p_3953.d2e24022">وهو تلميذ أبي عبد الله محمد بن اسمعيل</p>
@@ -217,11 +217,11 @@
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P639.xhtml" ed="print" n="633" xml:id="pb_323.d2e24050"/>
           (أو) شمائل النبي صلى الله عليه وسلم.</p>
-            <p xml:id="p_3962.d2e24053">وتعرف بشمائل الترمذي أولها بعد البسملة الحمد لله على عباده الذين اصطفى <placeName>أستانة</placeName> 1264 كلكته 1262 فاس 1310 ص 155.</p>
+            <p xml:id="p_3962.d2e24053">وتعرف بشمائل الترمذي أولها بعد البسملة الحمد لله على عباده الذين اصطفى <placeName change="#d2e171" xml:id="placeName_15.d2e735">أستانة</placeName> 1264 كلكته 1262 فاس 1310 ص 155.</p>
             <p xml:id="p_3963.d2e24056">بالاستانة مشكولا دون ذكر تاريخ الطبع</p>
             <p xml:id="p_3964.d2e24059">وبآخر الجامع الصحيح كما في رقم 1 وعليها شروح كثيرة يأتي ذكرها في أماكنها </p></div>
-<div type="entry"><head><persName><surname>الترمذي</surname> <hi rend="quotation-marks" xml:id="hi_768.d2e24061">الحكيم المؤذن أبو عبد الله </hi></persName></head>
-<p> (من علماء القرن الثالث للهجرة) أبو عبد الله محمد بن علي بن حسن (وقيل بن الحسين) ابن شير المؤذن الحكيم الترمذي الصوفي هو من أجل كبار مشايخ خراسان روى عن أبيه وعن قتيبة بن سعيد وصالح بن عبد الله الترمذي ويعقوب الدورقي وعلي بن حجر السعدي وسفيان بن وكيع وغيرهم.</p>
+<div type="entry" change="#d2e171" xml:id="div_23.d2e745"><head change="#d2e171" xml:id="head_23.d2e746"><persName change="#d2e171" xml:id="persName_25.d2e747"><surname change="#d2e171" xml:id="surname_24.d2e748">الترمذي</surname> <hi rend="quotation-marks" xml:id="hi_768.d2e24061">الحكيم المؤذن أبو عبد الله </hi></persName></head>
+<p change="#d2e171" xml:id="p_83.d2e754"> (من علماء القرن الثالث للهجرة) أبو عبد الله محمد بن علي بن حسن (وقيل بن الحسين) ابن شير المؤذن الحكيم الترمذي الصوفي هو من أجل كبار مشايخ خراسان روى عن أبيه وعن قتيبة بن سعيد وصالح بن عبد الله الترمذي ويعقوب الدورقي وعلي بن حجر السعدي وسفيان بن وكيع وغيرهم.</p>
             <p xml:id="p_3965.d2e24065">واسمع الكثير بخراسان والعراق وغيرهما.</p>
             <p xml:id="p_3966.d2e24068">قال أبو عبد الرحمن السلمي نفوه من ترمذ وأخرجوه منها وشهدوا عليه بالكفر وذلك بسبب تصنيفه كتاب ختم الولاية وكتاب علل الشريعة.</p>
             <p xml:id="p_3967.d2e24072">وقالوا أنه يقول أن للاولياء خاتما كما أن للانبياء خاتما..فجاء إلى بلخ فقبلوه بسبب موافقته اياهم على المذهب ومن تصانيف الترمذي كتاب الفروق لا بأس به بل ليس في بابه مثله يفرق فيه بين المداراة والمداهنة والمحاجة والمجادلة والمناظرة والمغالبة والانتصار والانتقام وهلم جرا من أمور متقاربة المعنى وله أيضا كتاب غرس الموحدين غور الامور.</p>
@@ -235,14 +235,14 @@
           اثنى عشر وهو الملقب بسلوة العارفين وبستان الموحدين روى أن (المؤلف) قال: ما وضعت حرفا لينقل عنى ولا لينسب الي شئ منه.</p>
             <p xml:id="p_3973.d2e24093">ولكن كان إذا اشتد على وقتي اتسلى به.</p>
             <p xml:id="p_3974.d2e24096">وله مختصر على قدر ثلثه طبع في الاستانة 1294 ص 432 (1) ويتلوه: <hi rend="quotation-marks" xml:id="hi_769.d2e24098"> مرقاة الوصول حواشي نوادر الاصول في أحاديث الرسول </hi> جمع مصطفى بن الشيخ اسماعيل الامام الدمشقي جردها من حواشي نسخة وجدها وأضاف لها في المناسبات ما تيسر من الاحاديث والعوائد ص 132 (2) </p></div>
-<div type="entry"><head><persName><surname>الترمسي</surname> <hi rend="quotation-marks" xml:id="hi_770.d2e24101">محمد محفوظ بن عبد الله </hi></persName></head>
-<p> منهج ذوي النظر في شرح منظومة علم الاثر (مصطلح الحديث) <placeName>مصر</placeName> 1332 ص 408 ترنبرغ (1878 1807) (3) أحد تلامذة البارون سلوستردي ساسي اعتنى بنشر</p>
+<div type="entry" change="#d2e171" xml:id="div_24.d2e794"><head change="#d2e171" xml:id="head_24.d2e795"><persName change="#d2e171" xml:id="persName_26.d2e796"><surname change="#d2e171" xml:id="surname_25.d2e797">الترمسي</surname> <hi rend="quotation-marks" xml:id="hi_770.d2e24101">محمد محفوظ بن عبد الله </hi></persName></head>
+<p change="#d2e171" xml:id="p_94.d2e803"> منهج ذوي النظر في شرح منظومة علم الاثر (مصطلح الحديث) <placeName change="#d2e171" xml:id="placeName_16.d2e805">مصر</placeName> 1332 ص 408 ترنبرغ (1878 1807) (3) أحد تلامذة البارون سلوستردي ساسي اعتنى بنشر</p>
             <p xml:id="p_3975.d2e24105">الكتب الآتي بيانها: 1 جزء من كتاب المحاضرة للسيوطي 2 فتوح الفرنج لبلاد المسلمين أنظر ابن خلدون 3 الانيس المطرب في أخبار المغرب لابن أبي زرع الفاسي 4 فهرست تاريخ الكامل.</p>
             <p xml:id="p_3976.d2e24108">أنظر ابن الاثير </p></div>
-<div type="entry"><head><persName><surname>الجزري</surname> <hi rend="quotation-marks" xml:id="hi_771.d2e24110">عز الدين </hi></persName></head>
-<p> 5 خريدة العجائب وفريدة الغرائب لابن الوردي (خمسة اجزاء من الكتاب) </p></div>
-<div type="entry"><head><persName><surname>التريمي</surname> <hi rend="quotation-marks" xml:id="hi_772.d2e24113">عبد الله </hi></persName></head>
-<p> * ابن علوي الحدادي 
+<div type="entry" change="#d2e171" xml:id="div_25.d2e815"><head change="#d2e171" xml:id="head_25.d2e816"><persName change="#d2e171" xml:id="persName_27.d2e817"><surname change="#d2e171" xml:id="surname_26.d2e818">الجزري</surname> <hi rend="quotation-marks" xml:id="hi_771.d2e24110">عز الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_97.d2e824"> 5 خريدة العجائب وفريدة الغرائب لابن الوردي (خمسة اجزاء من الكتاب) </p></div>
+<div type="entry" change="#d2e171" xml:id="div_26.d2e827"><head change="#d2e171" xml:id="head_26.d2e828"><persName change="#d2e171" xml:id="persName_28.d2e829"><surname change="#d2e171" xml:id="surname_27.d2e830">التريمي</surname> <hi rend="quotation-marks" xml:id="hi_772.d2e24113">عبد الله </hi></persName></head>
+<p change="#d2e171" xml:id="p_98.d2e836"> * ابن علوي الحدادي 
           <note type="footnote" xml:id="note_447.d2e24116">
                   <p xml:id="p_3976.d2e24118">(1) في الكتاب المطبوع 291 أصل.</p>
                   <p xml:id="p_3977.d2e24121">الاول في الاستعاذة الثاني في كلمة النجوى الثالث في تأثير الغضب في الايمان الرابع في آداب الانتقال بتقديم اليمين على الشمال الخامس في النهى عن الفرع؟ الخ (2) يغلب الظن ان اسم الكتاب حديث الوضع ومنه؟ مورد اسمه في النسخة المطبوعة على ثلاثة أشكال 1 نوادر الاصول في معرفة أخبار الاصول 2 نوادر الاصول الملقب بسلوة العارفين وبستان الموحدين 3 نوادر الاصول في أحاديث الرسول (3) () * (Tornberg ,) Carl John</p>
@@ -255,11 +255,11 @@
                   <abbr xml:id="abbr_666.d2e24142">مط</abbr>
                   <expan xml:id="expan_666.d2e24145">مطبعة</expan>
                </choice> السعادة 1326 - 1908 ص 204 </p></div>
-<div type="entry"><head><persName><surname>التستري</surname> <hi rend="quotation-marks" xml:id="hi_773.d2e24149">(الشيخ) مرتضى الانصاري </hi></persName></head>
-<p> فرائد الاصول أنظر الشيرازي النجفي: حاشية على فرائد الاصول.</p>
-            <p xml:id="p_3983.d2e24153"></p></div>
-<div type="entry"><head><persName><surname>التفتازاني</surname> <hi rend="quotation-marks" xml:id="hi_774.d2e24155">سعد الدين </hi></persName></head>
-<p> (793 722) (..) مسعود بن عمر بن عبد الله (الشيخ) سعد الدين التفتازاني الهروي الشافعي الخراساني التفتازاني نسبة إلى تفتازان بلدة بخراسان ولد فيها.</p>
+<div type="entry" change="#d2e171" xml:id="div_27.d2e871"><head change="#d2e171" xml:id="head_27.d2e872"><persName change="#d2e171" xml:id="persName_29.d2e873"><surname change="#d2e171" xml:id="surname_28.d2e874">التستري</surname> <hi rend="quotation-marks" xml:id="hi_773.d2e24149">(الشيخ) مرتضى الانصاري </hi></persName></head>
+<p change="#d2e171" xml:id="p_105.d2e880"> فرائد الاصول أنظر الشيرازي النجفي: حاشية على فرائد الاصول.</p>
+            <p xml:id="p_3983.d2e24153"/></div>
+<div type="entry" change="#d2e171" xml:id="div_28.d2e885"><head change="#d2e171" xml:id="head_28.d2e886"><persName change="#d2e171" xml:id="persName_30.d2e887"><surname change="#d2e171" xml:id="surname_29.d2e888">التفتازاني</surname> <hi rend="quotation-marks" xml:id="hi_774.d2e24155">سعد الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_107.d2e894"> (793 722) (..) مسعود بن عمر بن عبد الله (الشيخ) سعد الدين التفتازاني الهروي الشافعي الخراساني التفتازاني نسبة إلى تفتازان بلدة بخراسان ولد فيها.</p>
             <p xml:id="p_3984.d2e24159">كان من محاسن الزمان لم تر العيون مثله في الاعلام والاعيان.</p>
             <p xml:id="p_3985.d2e24162">وهو الاستاذ على الاطلاق.</p>
             <p xml:id="p_3986.d2e24165">والمشار إليه بالاتفاق.</p>
@@ -280,94 +280,94 @@
             <p xml:id="p_3998.d2e24208">قال زين الدين بن نجم المصري: مات بسمرقند ونقل إلى سرخس (ملخصا عن الفوائد البهية) قال في الدرر الكامنة: كان مولده سنة 712 على ما وجد بخط ابن الجزري وذكر لي ابن عربشاه الدمشقي الحنفي أن الشيخ علاء الدين كان يذكر أن الشيخ سعد الدين توفي سنة 91 عن نحو ثمانين سنة صح اه وأما في فهرست دار الكتب السلطانية فيذكر وفاته سنة 793 عن الصحيح المنقول عن معاصره السيد الشريف الجرجاني حيث أرخ وفاته في قصيدة رثاه بها بقوله: طيب الله ثراه وجمل هذه الجملة يبلغ عدد 793 1 التلويح في كشف حقائق التنقيح وهو</p>
             <p xml:id="p_3999.d2e24211">شرح على التنقيح لصدر الشريعة عبيد الله بن مسعود ذكر فيه أنه لما كان فحول العلماء مكبين على مباحث كتاب فخر الاسلام البزدوي ووجد بعضهم طاعنين على ظواهر ألفاظه اراد تنقيحه وحاول تبيين مراده وتقسيمه على قواعد المعقول موردا فيه زبدة مباحث كتاب المحصول ومباحث ابن الحاجب مع تحقيقات بديعة وتدقيقات غامضة منيعة.</p>
             <p xml:id="p_4000.d2e24215">قلما توجد في الكتب سالكا فيه مسلك الضبط والايجاز فصنف هذا الشرح ممزوجا وسماه: التوضيح في حل غوامض التنقيح (ملخصا من كشف الظنون) بالهامش التنقيح المذكور (علم الاصول) .</p>
-            <p xml:id="p_4001.d2e24218">جزء 1 استانة 1304 ص 102 جزء 2 ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الميمنية 1327 وفي مجموعة رقم 3 (الهند 1292) 2 - تهذيب المنطق والكلام - هو متن متين ألفه سنة 789 أوله: الحمد لله الذي هدانا سواء الطريق الخ.</p>
+            <p xml:id="p_4001.d2e24218">جزء 1 استانة 1304 ص 102 جزء 2 ال<choice change="#d2e171" xml:id="choice_8.d2e958"><abbr change="#d2e171" xml:id="abbr_8.d2e959">مط</abbr><expan change="#d2e171" xml:id="expan_8.d2e961">مطبعة</expan></choice> الميمنية 1327 وفي مجموعة رقم 3 (الهند 1292) 2 - تهذيب المنطق والكلام - هو متن متين ألفه سنة 789 أوله: الحمد لله الذي هدانا سواء الطريق الخ.</p>
             <p xml:id="p_4002.d2e24221">قال وهذه غاية تهذيب الكلام في تحرير المنطق والكلام.</p>
             <p xml:id="p_4003.d2e24224">جعله على قسمين: الاول في المنطق والثاني في الكلام واختصر المقاصد في كلامه ولما كان منطقه احسن ما صنف فيه اشتهر في الافاق فاكب عليه المحققون
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P643.xhtml" ed="print" n="637" xml:id="pb_325.d2e24226"/>
-          بالدرس والاقراء فصنفوا له شروحا " (كشف الظنون) لكناو 1869 - وطبع ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> السعادة سنة 1330 - 1912 ص 128 وعليه تعليقات للشيخ عبد القادر معروف</p>
-            <p xml:id="p_4004.d2e24229">الكردي جمعها من تحريرات أفاضل المحققين 3 - شرح التصريف العزي - أضاف إليه فوائد شريفة وزوائد لطيفة - وهو أول تصانيفه الفه سنة 737 (صرف) ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الميمنية 1307 ص 46 - <placeName>أستانة</placeName> سنة 4 - شرح الاربعين النووية - (حديث) تونس 1295 ص 137.</p>
-            <p xml:id="p_4005.d2e24232"><placeName>أستانة</placeName> 1316.</p>
+          بالدرس والاقراء فصنفوا له شروحا " (كشف الظنون) لكناو 1869 - وطبع ب<choice change="#d2e171" xml:id="choice_9.d2e972"><abbr change="#d2e171" xml:id="abbr_9.d2e973">مط</abbr><expan change="#d2e171" xml:id="expan_9.d2e975">مطبعة</expan></choice> السعادة سنة 1330 - 1912 ص 128 وعليه تعليقات للشيخ عبد القادر معروف</p>
+            <p xml:id="p_4004.d2e24229">الكردي جمعها من تحريرات أفاضل المحققين 3 - شرح التصريف العزي - أضاف إليه فوائد شريفة وزوائد لطيفة - وهو أول تصانيفه الفه سنة 737 (صرف) ال<choice change="#d2e171" xml:id="choice_10.d2e981"><abbr change="#d2e171" xml:id="abbr_10.d2e982">مط</abbr><expan change="#d2e171" xml:id="expan_10.d2e984">مطبعة</expan></choice> الميمنية 1307 ص 46 - <placeName change="#d2e171" xml:id="placeName_17.d2e987">أستانة</placeName> سنة 4 - شرح الاربعين النووية - (حديث) تونس 1295 ص 137.</p>
+            <p xml:id="p_4005.d2e24232"><placeName change="#d2e171" xml:id="placeName_18.d2e992">أستانة</placeName> 1316.</p>
             <p xml:id="p_4006.d2e24236">
-               <hi style="color:red;" xml:id="hi_775.d2e24238">5 - </hi>شرح على الرسالة الشمسية للكاتبي (أو) سعد الدين على الشمسية (منطق) في مجموعة رقم 91 طبع حجر <placeName>أستانة</placeName> 1312 ص 192.</p>
+               <hi style="color:red;" xml:id="hi_775.d2e24238">5 - </hi>شرح على الرسالة الشمسية للكاتبي (أو) سعد الدين على الشمسية (منطق) في مجموعة رقم 91 طبع حجر <placeName change="#d2e171" xml:id="placeName_19.d2e1001">أستانة</placeName> 1312 ص 192.</p>
             <p xml:id="p_4007.d2e24242">
-               <hi style="color:red;" xml:id="hi_776.d2e24244">6 - </hi>شرح على العقائد النسفية لابي حفص عمر النسفي - (توحيد وعقائد) كلكته 1260 - بهامشه حواش للمولوي خادم حسين العظيم آبادي - لكناهور 1286 - مذيلا بحاشية الخيالي <placeName>مصر</placeName> 1321 ص 148 - <choice xml:id="choice_667.d2e24247">
+               <hi style="color:red;" xml:id="hi_776.d2e24244">6 - </hi>شرح على العقائد النسفية لابي حفص عمر النسفي - (توحيد وعقائد) كلكته 1260 - بهامشه حواش للمولوي خادم حسين العظيم آبادي - لكناهور 1286 - مذيلا بحاشية الخيالي <placeName change="#d2e171" xml:id="placeName_20.d2e1011">مصر</placeName> 1321 ص 148 - <choice xml:id="choice_667.d2e24247">
                   <abbr xml:id="abbr_667.d2e24249">مط</abbr>
                   <expan xml:id="expan_667.d2e24252">مطبعة</expan>
-               </choice> شاكر 1331 - 1913 ص 504 - قازان 1897 - بهامشه شرح العصام ص 252 وقازان 1898 ص 231 بهامشه حاشية المولى مصلح الدين مصطفى الكستلي على شرح العقائد ثم يتلوه حاشية المولى الخيالي على شرح العقائد وبهامشه حاشية الشيخ رمضان بن عبد المحسن المعروف بهشتي وبآخره متن العقائد <placeName>أستانة</placeName> 1313 ص 193 و 106 وسنة 5 / 1323 7 - شرح مقاصد الطالبين في علم أصول الدين (توحيد) - أنظر عدد 11 مقاصد الطالبين 8 - ضابطة انتاج الاشكال - (منطق) أنظر البيان</p>
+               </choice> شاكر 1331 - 1913 ص 504 - قازان 1897 - بهامشه شرح العصام ص 252 وقازان 1898 ص 231 بهامشه حاشية المولى مصلح الدين مصطفى الكستلي على شرح العقائد ثم يتلوه حاشية المولى الخيالي على شرح العقائد وبهامشه حاشية الشيخ رمضان بن عبد المحسن المعروف بهشتي وبآخره متن العقائد <placeName change="#d2e171" xml:id="placeName_21.d2e1023">أستانة</placeName> 1313 ص 193 و 106 وسنة 5 / 1323 7 - شرح مقاصد الطالبين في علم أصول الدين (توحيد) - أنظر عدد 11 مقاصد الطالبين 8 - ضابطة انتاج الاشكال - (منطق) أنظر البيان</p>
             <p xml:id="p_4008.d2e24257">العجيب في شرح ضابطة التقريب لابي الحسن اللكوني 9 - المطول - (على التلخيص) وهو شرح على تلخيص المفتاح للقزويني أوله: الحمد لله الدي ألهمنا حقائق المعاني ودقائق البيان.</p>
             <p xml:id="p_4009.d2e24260">تهيأ الفراغ من تبييضه سنة 748
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P644.xhtml" ed="print" n="638" xml:id="cb_319.d2e24262"/>
-          بمحروسة هراة وكان الافتتاح سنة 742 بجرجانية خوارزم <placeName>أستانة</placeName> 1260 ص 442 و 1286 و 1304 ص 280 - بهامشه حاشية الفناري والسيد الشريف وأبي القاسم السمرقندي ومحمد رضا الكيايكاني طبع حجر العجم 1274 10 - مختصر المطول - (أو) مختصر (العلامة سعد الدين التفتازاني) على تلخيص المفتاح.</p>
-            <p xml:id="p_4010.d2e24265">ومعه مواهب الفتاح لابن يعقوب المغربي وعروس الافراح في شرح تلخيص المفتاح لبهاء الدين السبكي وبهامش الشروح كتاب الايضاح في علم البلاغة لمؤلف التلخيص الخطيب القزويني وحاشية الدسوقي على شرح السعد (بلاغة) - طبع على نفقة الشيخ فرج الله الكردي جزء 4 ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الاهلية ببولاق 9 / 1317 وطبع هذا المختصر لوحده في كلكته 1228 - 1813 وفي مجموعة رقم 92 11 - مقاصد الطالبين في أصول الدين وهو في علم الكلام - أوله: حمدا لمن يفوح نفحات الامكان الخ.</p>
+          بمحروسة هراة وكان الافتتاح سنة 742 بجرجانية خوارزم <placeName change="#d2e171" xml:id="placeName_22.d2e1034">أستانة</placeName> 1260 ص 442 و 1286 و 1304 ص 280 - بهامشه حاشية الفناري والسيد الشريف وأبي القاسم السمرقندي ومحمد رضا الكيايكاني طبع حجر العجم 1274 10 - مختصر المطول - (أو) مختصر (العلامة سعد الدين التفتازاني) على تلخيص المفتاح.</p>
+            <p xml:id="p_4010.d2e24265">ومعه مواهب الفتاح لابن يعقوب المغربي وعروس الافراح في شرح تلخيص المفتاح لبهاء الدين السبكي وبهامش الشروح كتاب الايضاح في علم البلاغة لمؤلف التلخيص الخطيب القزويني وحاشية الدسوقي على شرح السعد (بلاغة) - طبع على نفقة الشيخ فرج الله الكردي جزء 4 ال<choice change="#d2e171" xml:id="choice_12.d2e1040"><abbr change="#d2e171" xml:id="abbr_12.d2e1041">مط</abbr><expan change="#d2e171" xml:id="expan_12.d2e1043">مطبعة</expan></choice> الاهلية ببولاق 9 / 1317 وطبع هذا المختصر لوحده في كلكته 1228 - 1813 وفي مجموعة رقم 92 11 - مقاصد الطالبين في أصول الدين وهو في علم الكلام - أوله: حمدا لمن يفوح نفحات الامكان الخ.</p>
             <p xml:id="p_4011.d2e24268">رتبه على ستة مقاصد وفرغ من تأليفه سنة 784 بسمرقند وله عليه شرح جامع - طبع الشرح في</p>
             <p xml:id="p_4012.d2e24272">الاستانة سنة 1277 جزء 2 وبهامشها متن مقاصد الطالبين وفي سنة 1305 بجزء واحد.</p>
             <p xml:id="p_4013.d2e24275">
                <hi style="color:red;" xml:id="hi_777.d2e24277">12 - </hi>النعم السوابغ في شرح الكلم النوابغ لابي القاسم بن عمر الزمخشري - طبع مع ذيل له في ترجمة جار الله الزمخشري مأخوذة عن ابن خلكان - <choice xml:id="choice_668.d2e24280">
                   <abbr xml:id="abbr_668.d2e24282">مط</abbr>
                   <expan xml:id="expan_668.d2e24285">مطبعة</expan>
-               </choice> وادي النيل 1287 ص 80 - مع حاشية لمحمد البيروتي <placeName>بيروت</placeName> 1306.</p>
-            <p xml:id="p_4014.d2e24290"></p></div>
-<div type="entry"><head><persName><surname>تقلا</surname> <hi rend="quotation-marks" xml:id="hi_778.d2e24292">سليم بك </hi></persName></head>
-<p>.</p>
-            <p xml:id="p_4015.d2e24296"></p></div>
-<div type="entry"><head><persName><surname>تقلا</surname> <hi rend="quotation-marks" xml:id="hi_779.d2e24298">بشارة بك </hi></persName></head>
-<p> (1849 - 1892 م) (1853 - 1901 م) هما أخوان أصلهما من كفر شيما (لبنان) نشأ سليم في حجر والده ثم تخرج في مدرسة عبيه الامريكية وبعد حوادث سنة 1860 جاء <placeName>بيروت</placeName> ودخل المدرسة
+               </choice> وادي النيل 1287 ص 80 - مع حاشية لمحمد البيروتي <placeName change="#d2e171" xml:id="placeName_23.d2e1068">بيروت</placeName> 1306.</p>
+            <p xml:id="p_4014.d2e24290"/></div>
+<div type="entry" change="#d2e171" xml:id="div_29.d2e1074"><head change="#d2e171" xml:id="head_29.d2e1075"><persName change="#d2e171" xml:id="persName_31.d2e1076"><surname change="#d2e171" xml:id="surname_30.d2e1077">تقلا</surname> <hi rend="quotation-marks" xml:id="hi_778.d2e24292">سليم بك </hi></persName></head>
+<p change="#d2e171" xml:id="p_139.d2e1083">.</p>
+            <p xml:id="p_4015.d2e24296"/></div>
+<div type="entry" change="#d2e171" xml:id="div_30.d2e1089"><head change="#d2e171" xml:id="head_30.d2e1090"><persName change="#d2e171" xml:id="persName_32.d2e1091"><surname change="#d2e171" xml:id="surname_31.d2e1092">تقلا</surname> <hi rend="quotation-marks" xml:id="hi_779.d2e24298">بشارة بك </hi></persName></head>
+<p change="#d2e171" xml:id="p_141.d2e1098"> (1849 - 1892 م) (1853 - 1901 م) هما أخوان أصلهما من كفر شيما (لبنان) نشأ سليم في حجر والده ثم تخرج في مدرسة عبيه الامريكية وبعد حوادث سنة 1860 جاء <placeName change="#d2e171" xml:id="placeName_24.d2e1100">بيروت</placeName> ودخل المدرسة
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P645.xhtml" ed="print" n="639" xml:id="pb_326.d2e24301"/>
           الوطنية التي أنشاها المعلم بطرس البستاني فلما أتم دروسه عين أستاذا في المدرسة البطريركية.</p>
             <p xml:id="p_4016.d2e24304">وفي أثناء ذلك سمع على الشيخ ناصيف اليازجي وأتقن علم اللغة وكان الشيخ ناصيف معجبا بذكائه ويفوض إليه شرح بعض الدروس على طلبته.</p>
             <p xml:id="p_4017.d2e24307">ورحل المترجم إلى الاسكندرية ورفع إلى اسماعيل باشا.</p>
-            <p xml:id="p_4018.d2e24311">قصيدة رنانة مهدت له سبيل النجاح فنال الامتياز بانشاء جريدة <title level="j" change="#d2e166">الاهرام</title> سنة 1875 - لكنه لاقى صعوبات شتى</p>
+            <p xml:id="p_4018.d2e24311">قصيدة رنانة مهدت له سبيل النجاح فنال الامتياز بانشاء جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_5.d2e1114">الاهرام</title> سنة 1875 - لكنه لاقى صعوبات شتى</p>
             <p xml:id="p_4019.d2e24314">قبل أن يعم انتشارها ويقبل الناس على مطالعتها (1) .</p>
-            <p xml:id="p_4020.d2e24317">وأصيب سليم تقلا بألم في القلب فأشار عليه الاطباء بالذهاب إلى سوريا لتبديل الهواء فلاقاه القضاء المبرم ومات ببيت موي (احدى قرى لبنان) ودفن بكفر شيما مسقط رأسه وقام شقيقه بشاره باعباء الجريدة وكان غيورا مقداما في العمل وما زال يتعاطى شؤونها إلى أن مات سنة 1901 ولم أجد في فهارس المكاتب من تصانيف هذين الاديبين سوى كتاب واحد تحت عنوان: 1 - بشارة تقلا باشا - 1853 - 1901 أقوال الجرائد - مراثي الشعراء - مختارات من أقوال الفقيد المنشورة في الاهرام - طبع ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الاهرام اسكندرية 1902 2 - مدخل الطلاب إلى فردوس لغة الاعراب (كتاب التصريف وكتاب النحو) أوله: حمدا لمن له العزة والجلال فرغ من تبييضه سنة 1873 - <choice xml:id="choice_669.d2e24319">
+            <p xml:id="p_4020.d2e24317">وأصيب سليم تقلا بألم في القلب فأشار عليه الاطباء بالذهاب إلى سوريا لتبديل الهواء فلاقاه القضاء المبرم ومات ببيت موي (احدى قرى لبنان) ودفن بكفر شيما مسقط رأسه وقام شقيقه بشاره باعباء الجريدة وكان غيورا مقداما في العمل وما زال يتعاطى شؤونها إلى أن مات سنة 1901 ولم أجد في فهارس المكاتب من تصانيف هذين الاديبين سوى كتاب واحد تحت عنوان: 1 - بشارة تقلا باشا - 1853 - 1901 أقوال الجرائد - مراثي الشعراء - مختارات من أقوال الفقيد المنشورة في الاهرام - طبع ب<choice change="#d2e171" xml:id="choice_14.d2e1124"><abbr change="#d2e171" xml:id="abbr_14.d2e1125">مط</abbr><expan change="#d2e171" xml:id="expan_14.d2e1127">مطبعة</expan></choice> الاهرام اسكندرية 1902 2 - مدخل الطلاب إلى فردوس لغة الاعراب (كتاب التصريف وكتاب النحو) أوله: حمدا لمن له العزة والجلال فرغ من تبييضه سنة 1873 - <choice xml:id="choice_669.d2e24319">
                   <abbr xml:id="abbr_669.d2e24321">مط</abbr>
                   <expan xml:id="expan_669.d2e24324">مطبعة</expan>
-               </choice> المعارف <placeName>بيروت</placeName> 1873 ص 272 3 - نبذة من ديوان سليم بك تقلا - ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الاهرام الاسكندرية سنة 1893 م.</p>
-            <p xml:id="p_4021.d2e24329"></p></div>
-<div type="entry"><head><persName><surname>التكريتي</surname> <hi rend="quotation-marks" xml:id="hi_780.d2e24331">يحيى بن عدي </hi></persName></head>
-<p> ابن عدي التكريتي 
+               </choice> المعارف <placeName change="#d2e171" xml:id="placeName_25.d2e1139">بيروت</placeName> 1873 ص 272 3 - نبذة من ديوان سليم بك تقلا - ب<choice change="#d2e171" xml:id="choice_16.d2e1142"><abbr change="#d2e171" xml:id="abbr_16.d2e1143">مط</abbr><expan change="#d2e171" xml:id="expan_16.d2e1145">مطبعة</expan></choice> الاهرام الاسكندرية سنة 1893 م.</p>
+            <p xml:id="p_4021.d2e24329"/></div>
+<div type="entry" change="#d2e171" xml:id="div_31.d2e1151"><head change="#d2e171" xml:id="head_31.d2e1152"><persName change="#d2e171" xml:id="persName_33.d2e1153"><surname change="#d2e171" xml:id="surname_32.d2e1154">التكريتي</surname> <hi rend="quotation-marks" xml:id="hi_780.d2e24331">يحيى بن عدي </hi></persName></head>
+<p change="#d2e171" xml:id="p_148.d2e1160"> ابن عدي التكريتي 
           <note type="footnote" xml:id="note_449.d2e24334">
                   <p xml:id="p_4021.d2e24336">(1) من غريب ما حكي عن انشاء هذه الجريدة أن صاحبها أرسل صدى الاهرام الذي كان يصدر يوميا على سبيل الاشتراك إلى أربعة آلاف وجيه.</p>
                   <p xml:id="p_4022.d2e24339">فردت إليه كلها وانتهى أمر مشتركيها إلى اربعين مشتركا فقط ثم صدر امر الحكومة بالغائها واقفال المطبعه (*)</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P646.xhtml" ed="print" n="640" xml:id="cb_320.d2e24343"/></p></div>
-<div type="entry"><head><persName><surname>التكريتي</surname> <hi rend="quotation-marks" xml:id="hi_781.d2e24345">يحيى بن جرير (أو) ابن حزير </hi></persName></head>
-<p> المصباح المرشد إلى الفلاح والنجاح طبع منه الباب الواحد والثلاثون في الكهنوة (كذا) (1) باعتناء الاستاذ كورتن - وله مقدمة للاستاذ ريط - لندن 1885 ص 2 و 48 </p></div>
-<div type="entry"><head><persName><surname>التكريدلي</surname> <hi rend="quotation-marks" xml:id="hi_782.d2e24348">على يوسف </hi></persName></head>
-<p> معرض السياسة - <placeName>مصر</placeName> 1902 </p></div>
-<div type="entry"><head><persName><surname>تلحوق</surname> <hi rend="quotation-marks" xml:id="hi_783.d2e24352">محمد بك </hi></persName></head>
-<p> الاجوبة الجلية في الاصول الصرفية - طبعة ثانية <choice xml:id="choice_670.d2e24355">
+<div type="entry" change="#d2e171" xml:id="div_32.d2e1173"><head change="#d2e171" xml:id="head_32.d2e1174"><persName change="#d2e171" xml:id="persName_34.d2e1175"><surname change="#d2e171" xml:id="surname_33.d2e1176">التكريتي</surname> <hi rend="quotation-marks" xml:id="hi_781.d2e24345">يحيى بن جرير (أو) ابن حزير </hi></persName></head>
+<p change="#d2e171" xml:id="p_151.d2e1182"> المصباح المرشد إلى الفلاح والنجاح طبع منه الباب الواحد والثلاثون في الكهنوة (كذا) (1) باعتناء الاستاذ كورتن - وله مقدمة للاستاذ ريط - لندن 1885 ص 2 و 48 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_33.d2e1185"><head change="#d2e171" xml:id="head_33.d2e1186"><persName change="#d2e171" xml:id="persName_35.d2e1187"><surname change="#d2e171" xml:id="surname_34.d2e1188">التكريدلي</surname> <hi rend="quotation-marks" xml:id="hi_782.d2e24348">على يوسف </hi></persName></head>
+<p change="#d2e171" xml:id="p_152.d2e1194"> معرض السياسة - <placeName change="#d2e171" xml:id="placeName_26.d2e1196">مصر</placeName> 1902 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_34.d2e1200"><head change="#d2e171" xml:id="head_34.d2e1201"><persName change="#d2e171" xml:id="persName_36.d2e1202"><surname change="#d2e171" xml:id="surname_35.d2e1203">تلحوق</surname> <hi rend="quotation-marks" xml:id="hi_783.d2e24352">محمد بك </hi></persName></head>
+<p change="#d2e171" xml:id="p_153.d2e1209"> الاجوبة الجلية في الاصول الصرفية - طبعة ثانية <choice xml:id="choice_670.d2e24355">
                   <abbr xml:id="abbr_670.d2e24357">مط</abbr>
                   <expan xml:id="expan_670.d2e24360">مطبعة</expan>
-               </choice> الادبية <placeName>بيروت</placeName> 1891 م ص 96 التلعفري (593 - 675) محمد بن يوسف بن مسعود بن بركة شهاب الدين الشيباني التلعفري - الشاعر المشهور ولد بالموصل واشتغل بالادب ومدح الملوك والاعيان - وكان خليعا معاشرا.</p>
+               </choice> الادبية <placeName change="#d2e171" xml:id="placeName_27.d2e1220">بيروت</placeName> 1891 م ص 96 التلعفري (593 - 675) محمد بن يوسف بن مسعود بن بركة شهاب الدين الشيباني التلعفري - الشاعر المشهور ولد بالموصل واشتغل بالادب ومدح الملوك والاعيان - وكان خليعا معاشرا.</p>
             <p xml:id="p_4024.d2e24365">امتحن بالقمار وكلما أعطاه الملك الاشرف شيئا قامر به.</p>
-            <p xml:id="p_4025.d2e24368">فطرده إلى <placeName>حلب</placeName>.</p>
+            <p xml:id="p_4025.d2e24368">فطرده إلى <placeName change="#d2e171" xml:id="placeName_28.d2e1229">حلب</placeName>.</p>
             <p xml:id="p_4026.d2e24372">فمدح (بها صاحبها) العزيز فأحسن إليه وقرر له رسوما فسلك معه ذلك المسلك.</p>
-            <p xml:id="p_4027.d2e24375">فنودي في <placeName>حلب</placeName> أي من قامر مع الشهاب التلعفري قطعت يده.</p>
-            <p xml:id="p_4028.d2e24378">فضاقت عليه الارض فجاء إلى <placeName>دمشق</placeName> يستجدي ويقامر وفي الآخر نادم صاحب حماه</p>
+            <p xml:id="p_4027.d2e24375">فنودي في <placeName change="#d2e171" xml:id="placeName_29.d2e1238">حلب</placeName> أي من قامر مع الشهاب التلعفري قطعت يده.</p>
+            <p xml:id="p_4028.d2e24378">فضاقت عليه الارض فجاء إلى <placeName change="#d2e171" xml:id="placeName_30.d2e1245">دمشق</placeName> يستجدي ويقامر وفي الآخر نادم صاحب حماه</p>
             <p xml:id="p_4029.d2e24381">وبها مات.</p>
-            <p xml:id="p_4030.d2e24384">ديوان (التلعفري) - <placeName>مصر</placeName> 1298 - بتصحيح محمد الانسي <placeName>بيروت</placeName> 1310 ص 54 وبذيله مقامة لشمس الدين المعروف بالشاب الظريف ص 18 
+            <p xml:id="p_4030.d2e24384">ديوان (التلعفري) - <placeName change="#d2e171" xml:id="placeName_31.d2e1254">مصر</placeName> 1298 - بتصحيح محمد الانسي <placeName change="#d2e171" xml:id="placeName_32.d2e1257">بيروت</placeName> 1310 ص 54 وبذيله مقامة لشمس الدين المعروف بالشاب الظريف ص 18 
           <note type="footnote" xml:id="note_450.d2e24386">
                   <p xml:id="p_4030.d2e24388">(1) thirsty first chapter of the book entitled the lamp that guides to salvathion) treating of the Priest hoad (by Yahia ibn Hajirat zakriti وفي عيون الانبا جزء 1 - 213 ترجمة أبي نصر يحيى بن جرير التكريتي كان موجودا سنة 472 هـ لكني لا أظن أنه مؤلف كتاب المصباح المرشد المذكور فوات الوفيات 2 - 277 (*)</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P647.xhtml" ed="print" n="641" xml:id="pb_327.d2e24392"/></p></div>
-<div type="entry"><head><persName><surname>التلمساني</surname> <hi rend="quotation-marks" xml:id="hi_784.d2e24394">ابن أبي حجلة </hi></persName></head>
-<p> * ابن أني حجلة </p></div>
-<div type="entry"><head><persName><surname>التلمساني</surname> <hi rend="quotation-marks" xml:id="hi_785.d2e24397">أبو العباس </hi></persName></head>
-<p> المقري التلمساني </p></div>
-<div type="entry"><head><persName><surname>التلمساني</surname> <hi rend="quotation-marks" xml:id="hi_786.d2e24400">محمد بن محمد بن عبد الرحمن </hi></persName></head>
-<p> (نبغ في حدود سنة 1193) الزهرة النائرة فيما جرى في الجزائر حين أغارت عليها جنود الكافرة - الجزائر 1841 م التلمساني المنداسي أبو عثمان سعيد بن عبد الله التلمساني المنداسي العقيقة - قصيدة في مدح النبي طبعت في الجزائر سنة 1319 ص 57، 65 و 6 باللغة العامية ومعها ترجمة</p>
+<div type="entry" change="#d2e171" xml:id="div_35.d2e1268"><head change="#d2e171" xml:id="head_35.d2e1269"><persName change="#d2e171" xml:id="persName_37.d2e1270"><surname change="#d2e171" xml:id="surname_36.d2e1271">التلمساني</surname> <hi rend="quotation-marks" xml:id="hi_784.d2e24394">ابن أبي حجلة </hi></persName></head>
+<p change="#d2e171" xml:id="p_162.d2e1277"> * ابن أني حجلة </p></div>
+<div type="entry" change="#d2e171" xml:id="div_36.d2e1281"><head change="#d2e171" xml:id="head_36.d2e1282"><persName change="#d2e171" xml:id="persName_38.d2e1283"><surname change="#d2e171" xml:id="surname_37.d2e1284">التلمساني</surname> <hi rend="quotation-marks" xml:id="hi_785.d2e24397">أبو العباس </hi></persName></head>
+<p change="#d2e171" xml:id="p_163.d2e1290"> المقري التلمساني </p></div>
+<div type="entry" change="#d2e171" xml:id="div_37.d2e1293"><head change="#d2e171" xml:id="head_37.d2e1294"><persName change="#d2e171" xml:id="persName_39.d2e1295"><surname change="#d2e171" xml:id="surname_38.d2e1296">التلمساني</surname> <hi rend="quotation-marks" xml:id="hi_786.d2e24400">محمد بن محمد بن عبد الرحمن </hi></persName></head>
+<p change="#d2e171" xml:id="p_164.d2e1302"> (نبغ في حدود سنة 1193) الزهرة النائرة فيما جرى في الجزائر حين أغارت عليها جنود الكافرة - الجزائر 1841 م التلمساني المنداسي أبو عثمان سعيد بن عبد الله التلمساني المنداسي العقيقة - قصيدة في مدح النبي طبعت في الجزائر سنة 1319 ص 57، 65 و 6 باللغة العامية ومعها ترجمة</p>
             <p xml:id="p_4032.d2e24404">إلى اللغة الفرنسية ومقدمة للجنرال فوربيكه (1) </p></div>
-<div type="entry"><head><persName><surname>تماضر</surname> <hi rend="quotation-marks" xml:id="hi_787.d2e24406">بنت عمرو </hi></persName></head>
-<p> الخنساء التمبكتي * احمد بابا التمبكتي </p></div>
-<div type="entry"><head><persName><surname>التمبكتي</surname> <hi rend="quotation-marks" xml:id="hi_788.d2e24409">عبد الرحمن </hi></persName></head>
-<p> * </p></div>
-<div type="entry"><head><persName><surname>السعدى</surname> <hi rend="quotation-marks" xml:id="hi_789.d2e24412">عبد الرحمن </hi></persName></head>
-<p> </p></div>
-<div type="entry"><head><persName><surname>التمرتاشي</surname> <hi rend="quotation-marks" xml:id="hi_790.d2e24415">محمد </hi></persName></head>
-<p> (1004) محمد بن عبد الله بن احمد الخطيب بن محمد الخطيب بن ابراهيم الخطيب بن محمد الخطيب التمرتاشي الغزي الحنفي رأس الفقهاء في عصره - كان اماما فاضلا جميل الطريقة قوي الحافظة كثير الاطلاع أخذ ببلده أنواع الفنون عن شمس محمد بن المشرقي الغزي مفتي الشافعية بغزة.</p>
+<div type="entry" change="#d2e171" xml:id="div_38.d2e1308"><head change="#d2e171" xml:id="head_38.d2e1309"><persName change="#d2e171" xml:id="persName_40.d2e1310"><surname change="#d2e171" xml:id="surname_39.d2e1311">تماضر</surname> <hi rend="quotation-marks" xml:id="hi_787.d2e24406">بنت عمرو </hi></persName></head>
+<p change="#d2e171" xml:id="p_166.d2e1317"> الخنساء التمبكتي * احمد بابا التمبكتي </p></div>
+<div type="entry" change="#d2e171" xml:id="div_39.d2e1320"><head change="#d2e171" xml:id="head_39.d2e1321"><persName change="#d2e171" xml:id="persName_41.d2e1322"><surname change="#d2e171" xml:id="surname_40.d2e1323">التمبكتي</surname> <hi rend="quotation-marks" xml:id="hi_788.d2e24409">عبد الرحمن </hi></persName></head>
+<p change="#d2e171" xml:id="p_167.d2e1329"> * </p></div>
+<div type="entry" change="#d2e171" xml:id="div_40.d2e1332"><head change="#d2e171" xml:id="head_40.d2e1333"><persName change="#d2e171" xml:id="persName_42.d2e1334"><surname change="#d2e171" xml:id="surname_41.d2e1335">السعدى</surname> <hi rend="quotation-marks" xml:id="hi_789.d2e24412">عبد الرحمن </hi></persName></head>
+<p change="#d2e171" xml:id="p_168.d2e1341"> </p></div>
+<div type="entry" change="#d2e171" xml:id="div_41.d2e1344"><head change="#d2e171" xml:id="head_41.d2e1345"><persName change="#d2e171" xml:id="persName_43.d2e1346"><surname change="#d2e171" xml:id="surname_42.d2e1347">التمرتاشي</surname> <hi rend="quotation-marks" xml:id="hi_790.d2e24415">محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_169.d2e1353"> (1004) محمد بن عبد الله بن احمد الخطيب بن محمد الخطيب بن ابراهيم الخطيب بن محمد الخطيب التمرتاشي الغزي الحنفي رأس الفقهاء في عصره - كان اماما فاضلا جميل الطريقة قوي الحافظة كثير الاطلاع أخذ ببلده أنواع الفنون عن شمس محمد بن المشرقي الغزي مفتي الشافعية بغزة.</p>
             <p xml:id="p_4033.d2e24420">ثم رحل إلى القاهرة أربع مرات آخرها سنة 998 هـ 
           <note type="footnote" xml:id="note_451.d2e24422">
                   <p xml:id="p_4033.d2e24424">(1) Faure biguet خلاصة الاثر 4 - 18 وفي نسخة خطية من كتاب تنوير الابصار وجد أن وفاته في أوائل رجب سنة 1006 هـ (*)</p>
@@ -380,13 +380,13 @@
                   <abbr xml:id="abbr_671.d2e24444">مط</abbr>
                   <expan xml:id="expan_671.d2e24447">مطبعة</expan>
                </choice> شرف موسى 1298 </p></div>
-<div type="entry"><head><persName><surname>التميمي</surname> <hi rend="quotation-marks" xml:id="hi_791.d2e24451">علي بن سليمان </hi></persName></head>
-<p>.</p>
+<div type="entry" change="#d2e171" xml:id="div_42.d2e1390"><head change="#d2e171" xml:id="head_42.d2e1391"><persName change="#d2e171" xml:id="persName_44.d2e1392"><surname change="#d2e171" xml:id="surname_43.d2e1393">التميمي</surname> <hi rend="quotation-marks" xml:id="hi_791.d2e24451">علي بن سليمان </hi></persName></head>
+<p change="#d2e171" xml:id="p_176.d2e1399">.</p>
             <p xml:id="p_4039.d2e24455">الداهية الكبرى على الرائية الصغرى - أنظر: </p></div>
-<div type="entry"><head><persName><surname>النجدي</surname> <hi rend="quotation-marks" xml:id="hi_792.d2e24457">سليمان بن سلمان </hi></persName></head>
-<p> </p></div>
-<div type="entry"><head><persName><surname>التميمي</surname> <hi rend="quotation-marks" xml:id="hi_793.d2e24460">محمد </hi></persName></head>
-<p> محمد افندي التميمي نجل المرحوم الاستاذ الشيخ التميمي مفتي الديار المصرية</p>
+<div type="entry" change="#d2e171" xml:id="div_43.d2e1405"><head change="#d2e171" xml:id="head_43.d2e1406"><persName change="#d2e171" xml:id="persName_45.d2e1407"><surname change="#d2e171" xml:id="surname_44.d2e1408">النجدي</surname> <hi rend="quotation-marks" xml:id="hi_792.d2e24457">سليمان بن سلمان </hi></persName></head>
+<p change="#d2e171" xml:id="p_178.d2e1414"> </p></div>
+<div type="entry" change="#d2e171" xml:id="div_44.d2e1417"><head change="#d2e171" xml:id="head_44.d2e1418"><persName change="#d2e171" xml:id="persName_46.d2e1419"><surname change="#d2e171" xml:id="surname_45.d2e1420">التميمي</surname> <hi rend="quotation-marks" xml:id="hi_793.d2e24460">محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_179.d2e1426"> محمد افندي التميمي نجل المرحوم الاستاذ الشيخ التميمي مفتي الديار المصرية</p>
             <p xml:id="p_4040.d2e24465">الدر النظيم في أم حكيم - هي رواية أدبية
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P649.xhtml" ed="print" n="643" xml:id="pb_328.d2e24467"/>
@@ -395,47 +395,47 @@
                   <expan xml:id="expan_672.d2e24474">مطبعة</expan>
                </choice> المقتطف 1318 ص 150 قال ناشر الكتاب: وللمؤلف ديوان شعر موسوما بديوان الصفا عسى تسعفنا العناية بطبعه.</p>
             <p xml:id="p_4041.d2e24479">التميمي المراكشي * </p></div>
-<div type="entry"><head><persName><surname>المراكشي</surname> <hi rend="quotation-marks" xml:id="hi_794.d2e24481">عبد الواحد </hi></persName></head>
-<p> التمبكتي * احمد بابا التمبكتي </p></div>
-<div type="entry"><head><persName><surname>التنسي</surname> <hi rend="quotation-marks" xml:id="hi_795.d2e24484">محمد بن عبد الله عبد الجليل </hi></persName></head>
-<p> (899) نظم الدر والعقيان في بيان شرف بني زيان (ملوك تلمسان) طبع ترجمة القسم الاول منه في باريس سنة 1852 باعتناء الموسيو بارجس (1) </p></div>
-<div type="entry"><head><persName><surname>التنوخي</surname> <hi rend="quotation-marks" xml:id="hi_796.d2e24487">ابن سعيد </hi></persName></head>
-<p> * سحنون بن سعيد </p></div>
-<div type="entry"><head><persName><surname>التنوخي</surname> <hi rend="quotation-marks" xml:id="hi_797.d2e24490">القاضي </hi></persName></head>
-<p> أبو علي " (327 أو 329 - 384) (القاضي) أبو علي المحسن بن أبي القاسم علي بن محمد بن أبي الفهم داود بن ابراهيم بن تميم التنوخي سمع بالبصرة من أبي العباس الاثرم وأبي بكر الصوري</p>
-            <p xml:id="p_4042.d2e24494">والحسين بن محمد بن عثمان النسوي وطبقتهم ونزل <placeName>بغداد</placeName> وأقام بها وحدث إلى حين وفاته.</p>
+<div type="entry" change="#d2e171" xml:id="div_45.d2e1446"><head change="#d2e171" xml:id="head_45.d2e1447"><persName change="#d2e171" xml:id="persName_47.d2e1448"><surname change="#d2e171" xml:id="surname_46.d2e1449">المراكشي</surname> <hi rend="quotation-marks" xml:id="hi_794.d2e24481">عبد الواحد </hi></persName></head>
+<p change="#d2e171" xml:id="p_182.d2e1455"> التمبكتي * احمد بابا التمبكتي </p></div>
+<div type="entry" change="#d2e171" xml:id="div_46.d2e1458"><head change="#d2e171" xml:id="head_46.d2e1459"><persName change="#d2e171" xml:id="persName_48.d2e1460"><surname change="#d2e171" xml:id="surname_47.d2e1461">التنسي</surname> <hi rend="quotation-marks" xml:id="hi_795.d2e24484">محمد بن عبد الله عبد الجليل </hi></persName></head>
+<p change="#d2e171" xml:id="p_183.d2e1467"> (899) نظم الدر والعقيان في بيان شرف بني زيان (ملوك تلمسان) طبع ترجمة القسم الاول منه في باريس سنة 1852 باعتناء الموسيو بارجس (1) </p></div>
+<div type="entry" change="#d2e171" xml:id="div_47.d2e1470"><head change="#d2e171" xml:id="head_47.d2e1471"><persName change="#d2e171" xml:id="persName_49.d2e1472"><surname change="#d2e171" xml:id="surname_48.d2e1473">التنوخي</surname> <hi rend="quotation-marks" xml:id="hi_796.d2e24487">ابن سعيد </hi></persName></head>
+<p change="#d2e171" xml:id="p_184.d2e1479"> * سحنون بن سعيد </p></div>
+<div type="entry" change="#d2e171" xml:id="div_48.d2e1483"><head change="#d2e171" xml:id="head_48.d2e1484"><persName change="#d2e171" xml:id="persName_50.d2e1485"><surname change="#d2e171" xml:id="surname_49.d2e1486">التنوخي</surname> <hi rend="quotation-marks" xml:id="hi_797.d2e24490">القاضي </hi></persName></head>
+<p change="#d2e171" xml:id="p_185.d2e1492"> أبو علي " (327 أو 329 - 384) (القاضي) أبو علي المحسن بن أبي القاسم علي بن محمد بن أبي الفهم داود بن ابراهيم بن تميم التنوخي سمع بالبصرة من أبي العباس الاثرم وأبي بكر الصوري</p>
+            <p xml:id="p_4042.d2e24494">والحسين بن محمد بن عثمان النسوي وطبقتهم ونزل <placeName change="#d2e171" xml:id="placeName_33.d2e1497">بغداد</placeName> وأقام بها وحدث إلى حين وفاته.</p>
             <p xml:id="p_4043.d2e24497">وكان سماعه صحيحا وكان أديبا شاعرا اخباريا.</p>
             <p xml:id="p_4044.d2e24500">ولي القضاء بعكر مكرم وايدج ورامهرمز.</p>
             <p xml:id="p_4045.d2e24503">وتقلد بعد ذلك أعمالا كثيرة في 
           <note type="footnote" xml:id="note_452.d2e24505">
                   <p xml:id="p_4045.d2e24507">(1) S.</p>
                   <p xml:id="p_4046.d2e24510">J.</p>
-                  <p xml:id="p_4047.d2e24513">Barjes كان الموسيو بارجس كاهنا فرنساويا علم العربية في مرسليا واشتغل في باريس في جريدة <title level="j" change="#d2e166">البرجيس</title> فترجم تاريخ بني زيان النسي وتاريخ بني جلاب للسيد حاج محمد الادريسي ونشر منتخبات من كتب عربية نادرة كالفيض المديد من اخبار النيل السعيد للمنوفى وغير ذلك) اليتيمة 2 - 110 ابن خلكان 1 - 445 معجم الادباء 60 - 251 (*)</p>
+                  <p xml:id="p_4047.d2e24513">Barjes كان الموسيو بارجس كاهنا فرنساويا علم العربية في مرسليا واشتغل في باريس في جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_6.d2e1519">البرجيس</title> فترجم تاريخ بني زيان النسي وتاريخ بني جلاب للسيد حاج محمد الادريسي ونشر منتخبات من كتب عربية نادرة كالفيض المديد من اخبار النيل السعيد للمنوفى وغير ذلك) اليتيمة 2 - 110 ابن خلكان 1 - 445 معجم الادباء 60 - 251 (*)</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P650.xhtml" ed="print" n="644" xml:id="cb_322.d2e24517"/>نواح مختلفة.</p>
             <p xml:id="p_4049.d2e24521">وفي سنة 363 كان متولي القضاء بواسط.</p>
-            <p xml:id="p_4050.d2e24524">له ديوان شعر وكتاب نشوار المحاضرة وكتاب المستجاد من فعلات الاجداد والفرج بعد الشدة توفي ببغداد 1 - الفرج بعد الشدة - (تصوف) - جزء 2 <placeName>مصر</placeName> 1903 م 2 - جامع التواريخ المسمى بكتاب نشوار المحاضرة وأخبار المذاكرة - طبع الجزء الاول منه بتصحيح مرجليوث ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> هندية على نفقة - Oriental Transla 1921 - lation fund ولم يعثر الناشر على أجزاء غير هذا </p></div>
-<div type="entry"><head><persName><surname>التنوخي</surname> <hi rend="quotation-marks" xml:id="hi_798.d2e24526">زين الدين </hi></persName></head>
-<p> (الامام) زين الدين أبو عبد الله محمد بن محمد</p>
-            <p xml:id="p_4051.d2e24530">ابن عمرو التنوخي (أحد أعيان المائة السابعة للهجرة) الاقصى القريب في علم البيان - <placeName>مصر</placeName> 1327 ص 120 التنوخي القروي قاسم بن عيسى بن ناجي التنوخي القروي شرح على رسالة الامام عبد الله بن أبي زيد القيرواني - طبع مع كتاب شروح على الرسالة المذكورة للبرنسي الفاسي المعروف بزروق <placeName>مصر</placeName> 1332 </p></div>
-<div type="entry"><head><persName><surname>التنيري</surname> <hi rend="quotation-marks" xml:id="hi_799.d2e24532">عبد الكريم </hi></persName></head>
-<p> تاريخ الفحشاء - <placeName>مصر</placeName> 
+            <p xml:id="p_4050.d2e24524">له ديوان شعر وكتاب نشوار المحاضرة وكتاب المستجاد من فعلات الاجداد والفرج بعد الشدة توفي ببغداد 1 - الفرج بعد الشدة - (تصوف) - جزء 2 <placeName change="#d2e171" xml:id="placeName_34.d2e1533">مصر</placeName> 1903 م 2 - جامع التواريخ المسمى بكتاب نشوار المحاضرة وأخبار المذاكرة - طبع الجزء الاول منه بتصحيح مرجليوث ب<choice change="#d2e171" xml:id="choice_20.d2e1536"><abbr change="#d2e171" xml:id="abbr_20.d2e1537">مط</abbr><expan change="#d2e171" xml:id="expan_20.d2e1539">مطبعة</expan></choice> هندية على نفقة - Oriental Transla 1921 - lation fund ولم يعثر الناشر على أجزاء غير هذا </p></div>
+<div type="entry" change="#d2e171" xml:id="div_49.d2e1543"><head change="#d2e171" xml:id="head_49.d2e1544"><persName change="#d2e171" xml:id="persName_51.d2e1545"><surname change="#d2e171" xml:id="surname_50.d2e1546">التنوخي</surname> <hi rend="quotation-marks" xml:id="hi_798.d2e24526">زين الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_195.d2e1552"> (الامام) زين الدين أبو عبد الله محمد بن محمد</p>
+            <p xml:id="p_4051.d2e24530">ابن عمرو التنوخي (أحد أعيان المائة السابعة للهجرة) الاقصى القريب في علم البيان - <placeName change="#d2e171" xml:id="placeName_35.d2e1557">مصر</placeName> 1327 ص 120 التنوخي القروي قاسم بن عيسى بن ناجي التنوخي القروي شرح على رسالة الامام عبد الله بن أبي زيد القيرواني - طبع مع كتاب شروح على الرسالة المذكورة للبرنسي الفاسي المعروف بزروق <placeName change="#d2e171" xml:id="placeName_36.d2e1560">مصر</placeName> 1332 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_50.d2e1564"><head change="#d2e171" xml:id="head_50.d2e1565"><persName change="#d2e171" xml:id="persName_52.d2e1566"><surname change="#d2e171" xml:id="surname_51.d2e1567">التنيري</surname> <hi rend="quotation-marks" xml:id="hi_799.d2e24532">عبد الكريم </hi></persName></head>
+<p change="#d2e171" xml:id="p_197.d2e1573"> تاريخ الفحشاء - <placeName change="#d2e171" xml:id="placeName_37.d2e1575">مصر</placeName> 
           <gap resp="#org_MS" xml:id="gap_17.d2e24535"/>
           </p></div>
-<div type="entry"><head><persName><surname>تنير</surname> <hi rend="quotation-marks" xml:id="hi_800.d2e24537">عبد الوهاب سليم </hi></persName></head>
-<p> الاسلام حافظ الذمم فيما بين الامم <choice xml:id="choice_673.d2e24540">
+<div type="entry" change="#d2e171" xml:id="div_51.d2e1581"><head change="#d2e171" xml:id="head_51.d2e1582"><persName change="#d2e171" xml:id="persName_53.d2e1583"><surname change="#d2e171" xml:id="surname_52.d2e1584">تنير</surname> <hi rend="quotation-marks" xml:id="hi_800.d2e24537">عبد الوهاب سليم </hi></persName></head>
+<p change="#d2e171" xml:id="p_198.d2e1590"> الاسلام حافظ الذمم فيما بين الامم <choice xml:id="choice_673.d2e24540">
                   <abbr xml:id="abbr_673.d2e24542">مط</abbr>
                   <expan xml:id="expan_673.d2e24545">مطبعة</expan>
-               </choice> الاقتصاد <placeName>بيروت</placeName> 1328 - 1910 ص 41 </p></div>
-<div type="entry"><head><persName><surname>التنير</surname> <hi rend="quotation-marks" xml:id="hi_801.d2e24549">محمد </hi></persName></head>
-<p> * محمد طاهر التنير
+               </choice> الاقتصاد <placeName change="#d2e171" xml:id="placeName_38.d2e1601">بيروت</placeName> 1328 - 1910 ص 41 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_52.d2e1605"><head change="#d2e171" xml:id="head_52.d2e1606"><persName change="#d2e171" xml:id="persName_54.d2e1607"><surname change="#d2e171" xml:id="surname_53.d2e1608">التنير</surname> <hi rend="quotation-marks" xml:id="hi_801.d2e24549">محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_199.d2e1614"> * محمد طاهر التنير
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P651.xhtml" ed="print" n="645" xml:id="pb_329.d2e24553"/>
           </p></div>
-<div type="entry"><head><persName><surname>التهامي</surname> <hi rend="quotation-marks" xml:id="hi_802.d2e24555">أبو الحسن علي بن محمد </hi></persName></head>
-<p> (416) الشاعر المشهور.</p>
-            <p xml:id="p_4052.d2e24559">كان مشتهر الاحسان ذرب اللسان مخلي بينه وبين ضروب البيان يدل شعره على فوز القدح دلالة برد النسيم على الصبح قال ناشر ديوانه: أن أبا الحسن قدم إلى <placeName>مصر</placeName> مستخفيا ومعه كتب كبيرة من حسان بن مفرج ابن</p>
-            <p xml:id="p_4053.d2e24562">دغفل البدوي وهو متوجه إلى بني قرة وهي بلدة في صعيد <placeName>مصر</placeName> بالقرب من أسيوط.</p>
+<div type="entry" change="#d2e171" xml:id="div_53.d2e1619"><head change="#d2e171" xml:id="head_53.d2e1620"><persName change="#d2e171" xml:id="persName_55.d2e1621"><surname change="#d2e171" xml:id="surname_54.d2e1622">التهامي</surname> <hi rend="quotation-marks" xml:id="hi_802.d2e24555">أبو الحسن علي بن محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_200.d2e1628"> (416) الشاعر المشهور.</p>
+            <p xml:id="p_4052.d2e24559">كان مشتهر الاحسان ذرب اللسان مخلي بينه وبين ضروب البيان يدل شعره على فوز القدح دلالة برد النسيم على الصبح قال ناشر ديوانه: أن أبا الحسن قدم إلى <placeName change="#d2e171" xml:id="placeName_39.d2e1633">مصر</placeName> مستخفيا ومعه كتب كبيرة من حسان بن مفرج ابن</p>
+            <p xml:id="p_4053.d2e24562">دغفل البدوي وهو متوجه إلى بني قرة وهي بلدة في صعيد <placeName change="#d2e171" xml:id="placeName_40.d2e1639">مصر</placeName> بالقرب من أسيوط.</p>
             <p xml:id="p_4054.d2e24565">فقال أنا من بني تميم.</p>
             <p xml:id="p_4055.d2e24569">فلما انكشفت حاله عرف أنه التهامي الشاعر.</p>
             <p xml:id="p_4056.d2e24572">اعتقل في خزانة البنود وهو سجن بالقاهرة.</p>
@@ -447,20 +447,20 @@
           <note type="footnote" xml:id="note_453.d2e24585">
                   <p xml:id="p_4059.d2e24587">ابن خلكان 1 - 451 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P652.xhtml" ed="print" n="646" xml:id="cb_323.d2e24591"/>جزء 17 باعتناء سپرنغر وويليام ليس ناسو على نفقة جمعية بنغال الاسيوية كلكته 61 / 1848 - وطبع منه جزء واحد ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الاقدام في الاستانة سنة 8 / 1317 ص 955 </p></div>
-<div type="entry"><head><persName><surname>التواقي</surname> <hi rend="quotation-marks" xml:id="hi_803.d2e24593">الشيخ محمد البشير </hi></persName></head>
-<p> مجموع الافادة في علم الشهادة - (فقه مالك) تونس 1282 و 1314 ص 162 </p></div>
-<div type="entry"><head><persName><surname>توتنجي</surname> <hi rend="quotation-marks" xml:id="hi_804.d2e24596">كامل افندي </hi></persName></head>
-<p> خواطر في الحب والزواج - <placeName>حلب</placeName> 1910 ص 61 التوحيدي * أبو حيان التوحيدي </p></div>
-<div type="entry"><head><persName><surname>التوزري</surname> <hi rend="quotation-marks" xml:id="hi_805.d2e24599">أبو الفضل </hi></persName></head>
-<p> ابن النحوي التوزري توفيق اسكاروس * اسكاروس توفيق حبيب 1 - الفتيان الكشافة - ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> العصرية 1921 ص 284 2 - الفجالة قديما وحديثا - <choice xml:id="choice_674.d2e24603">
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P652.xhtml" ed="print" n="646" xml:id="cb_323.d2e24591"/>جزء 17 باعتناء سپرنغر وويليام ليس ناسو على نفقة جمعية بنغال الاسيوية كلكته 61 / 1848 - وطبع منه جزء واحد ب<choice change="#d2e171" xml:id="choice_22.d2e1671"><abbr change="#d2e171" xml:id="abbr_22.d2e1672">مط</abbr><expan change="#d2e171" xml:id="expan_22.d2e1674">مطبعة</expan></choice> الاقدام في الاستانة سنة 8 / 1317 ص 955 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_54.d2e1679"><head change="#d2e171" xml:id="head_54.d2e1680"><persName change="#d2e171" xml:id="persName_56.d2e1681"><surname change="#d2e171" xml:id="surname_55.d2e1682">التواقي</surname> <hi rend="quotation-marks" xml:id="hi_803.d2e24593">الشيخ محمد البشير </hi></persName></head>
+<p change="#d2e171" xml:id="p_210.d2e1688"> مجموع الافادة في علم الشهادة - (فقه مالك) تونس 1282 و 1314 ص 162 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_55.d2e1691"><head change="#d2e171" xml:id="head_55.d2e1692"><persName change="#d2e171" xml:id="persName_57.d2e1693"><surname change="#d2e171" xml:id="surname_56.d2e1694">توتنجي</surname> <hi rend="quotation-marks" xml:id="hi_804.d2e24596">كامل افندي </hi></persName></head>
+<p change="#d2e171" xml:id="p_211.d2e1700"> خواطر في الحب والزواج - <placeName change="#d2e171" xml:id="placeName_41.d2e1702">حلب</placeName> 1910 ص 61 التوحيدي * أبو حيان التوحيدي </p></div>
+<div type="entry" change="#d2e171" xml:id="div_56.d2e1706"><head change="#d2e171" xml:id="head_56.d2e1707"><persName change="#d2e171" xml:id="persName_58.d2e1708"><surname change="#d2e171" xml:id="surname_57.d2e1709">التوزري</surname> <hi rend="quotation-marks" xml:id="hi_805.d2e24599">أبو الفضل </hi></persName></head>
+<p change="#d2e171" xml:id="p_212.d2e1715"> ابن النحوي التوزري توفيق اسكاروس * اسكاروس توفيق حبيب 1 - الفتيان الكشافة - ال<choice change="#d2e171" xml:id="choice_23.d2e1717"><abbr change="#d2e171" xml:id="abbr_23.d2e1718">مط</abbr><expan change="#d2e171" xml:id="expan_23.d2e1720">مطبعة</expan></choice> العصرية 1921 ص 284 2 - الفجالة قديما وحديثا - <choice xml:id="choice_674.d2e24603">
                   <abbr xml:id="abbr_674.d2e24605">مط</abbr>
                   <expan xml:id="expan_674.d2e24608">مطبعة</expan>
                </choice> المعارف 1919 ص 94</p>
-            <p xml:id="p_4061.d2e24613">توفيق دوس أسرار الارتقاء - <placeName>مصر</placeName> 1286 توفيق افندي زيبق ميزان النفس - عربه عن الانكليزية وهو بمثابة دليل للانسان يرشده إلى الطرق التي يجب أن يسير فيها في عمله وبينه وبين الناس - <placeName>مصر</placeName> 1915 ص 40
+            <p xml:id="p_4061.d2e24613">توفيق دوس أسرار الارتقاء - <placeName change="#d2e171" xml:id="placeName_42.d2e1735">مصر</placeName> 1286 توفيق افندي زيبق ميزان النفس - عربه عن الانكليزية وهو بمثابة دليل للانسان يرشده إلى الطرق التي يجب أن يسير فيها في عمله وبينه وبين الناس - <placeName change="#d2e171" xml:id="placeName_43.d2e1738">مصر</placeName> 1915 ص 40
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P653.xhtml" ed="print" n="647" xml:id="pb_330.d2e24615"/>
-          توفيق افندي طنوس أحد محرري جريدة <title level="j" change="#d2e166">البصير</title> تاريخ الحرب البلقانية ووصف وقائعها الشهيرة مجموعة من أوثق المصادر - <placeName>مصر</placeName> 1913 م توفيق عزوز صاحب جريدة <title level="j" change="#d2e166">الكمال</title> وخوجه مدرسة الاقتصاد الهدية التوفيقية في تاريخ الامة القبطية أهدى كتابه إلى بطرس باشا غالي ناظر المالية سابقا بمصر جزء 2 <choice xml:id="choice_675.d2e24617">
+          توفيق افندي طنوس أحد محرري جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_7.d2e1743">البصير</title> تاريخ الحرب البلقانية ووصف وقائعها الشهيرة مجموعة من أوثق المصادر - <placeName change="#d2e171" xml:id="placeName_44.d2e1746">مصر</placeName> 1913 م توفيق عزوز صاحب جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_8.d2e1750">الكمال</title> وخوجه مدرسة الاقتصاد الهدية التوفيقية في تاريخ الامة القبطية أهدى كتابه إلى بطرس باشا غالي ناظر المالية سابقا بمصر جزء 2 <choice xml:id="choice_675.d2e24617">
                   <abbr xml:id="abbr_675.d2e24619">مط</abbr>
                   <expan xml:id="expan_675.d2e24622">مطبعة</expan>
                </choice> العصر التاسع عشر 1893 م توفيق ميخائيل غرائب الاخبار عن شرق افريقيا وزنجبار وهي رحلة وصف بها المؤلف عوائد أهل جيبوتي وأخلاقهم ومعيشتهم وكذلك بلاد مدغسكر الفرنساوية وموزامبيق وكفروريا البرتغالية وعدن الانكليزية وزنجبار العربية.</p>
@@ -478,32 +478,32 @@
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P654.xhtml" ed="print" n="648" xml:id="cb_324.d2e24657"/>موضوعات العلوم ألفه للسلطان بايزيد جمع فيه نبذا من العلوم ثم شرحه وسماه المطالب الالهية وله مراتب الموجودات ومباحث البرهان وغير ذلك رسالة في تضعيف المذبح - (علم الحساب) باعتناء الاستاذ جليدرس ليدن 1827 (1) التوقادي (الحافظ السيد) محمد الشريف بن مصطفى التوقادي</p>
             <p xml:id="p_4068.d2e24660">المدرس بجامع السلطان محمد الفاتح 1 - مفتاح صحيح البخاري - وهو فهرس للاحاديث التي وردت في الجامع الصحيح للبخاري.</p>
-            <p xml:id="p_4069.d2e24664">مرتب على حروف الهجاء ضمن مجموعة الاستانة 1312 2 - مفتاح صحيح مسلم - طبع بالمجموعة المذكورة بالاستانة 1313 (القس) توما أيوب السرياني الكاثوليكي المولود في <placeName>حلب</placeName> الشهباء.</p>
-            <p xml:id="p_4070.d2e24667">درس العلوم في مدرسة الآباء اليسوعيين ثم بدير الشرفة بلبنان وانقطع بعد كهنوته في وطنه للتدريس والتأليف وكان مولعا بدرس العربية وتخرج عليه كثيرون من الشبان رواية فبيولا - أو الدياميس في روما معربة عن الفرنسية تتضمن حوادث النصرانية بأوائل نشأتها - <placeName>القدس</placeName> 1908؟ (السيد) توما أودو مطران أورومية (1915) كنز اللغة الآرامية - جزء 2 الموصل 1897 </p></div>
-<div type="entry"><head><persName><surname>التونسي</surname> <hi rend="quotation-marks" xml:id="hi_806.d2e24669">أبو عبد الله </hi></persName></head>
-<p> ابن سعيد التونسي 
+            <p xml:id="p_4069.d2e24664">مرتب على حروف الهجاء ضمن مجموعة الاستانة 1312 2 - مفتاح صحيح مسلم - طبع بالمجموعة المذكورة بالاستانة 1313 (القس) توما أيوب السرياني الكاثوليكي المولود في <placeName change="#d2e171" xml:id="placeName_45.d2e1801">حلب</placeName> الشهباء.</p>
+            <p xml:id="p_4070.d2e24667">درس العلوم في مدرسة الآباء اليسوعيين ثم بدير الشرفة بلبنان وانقطع بعد كهنوته في وطنه للتدريس والتأليف وكان مولعا بدرس العربية وتخرج عليه كثيرون من الشبان رواية فبيولا - أو الدياميس في روما معربة عن الفرنسية تتضمن حوادث النصرانية بأوائل نشأتها - <placeName change="#d2e171" xml:id="placeName_46.d2e1807">القدس</placeName> 1908؟ (السيد) توما أودو مطران أورومية (1915) كنز اللغة الآرامية - جزء 2 الموصل 1897 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_57.d2e1811"><head change="#d2e171" xml:id="head_57.d2e1812"><persName change="#d2e171" xml:id="persName_59.d2e1813"><surname change="#d2e171" xml:id="surname_58.d2e1814">التونسي</surname> <hi rend="quotation-marks" xml:id="hi_806.d2e24669">أبو عبد الله </hi></persName></head>
+<p change="#d2e171" xml:id="p_223.d2e1820"> ابن سعيد التونسي 
           <note type="footnote" xml:id="note_455.d2e24672">
                   <p xml:id="p_4070.d2e24674">(1) Die Geschichte von plato) them smyrnaens 1827 arithmetica (ed Gildus - Ludg Bat تاريخ الموصل 2 - 276 (*)</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P655.xhtml" ed="print" n="649" xml:id="pb_331.d2e24678"/></p></div>
-<div type="entry"><head><persName><surname>التونسي</surname> <hi rend="quotation-marks" xml:id="hi_807.d2e24680">احمد جمال الدين </hi></persName></head>
-<p> مختصر مولد البرزنجي - تونس 1302 </p></div>
-<div type="entry"><head><persName><surname>التونسي</surname> <hi rend="quotation-marks" xml:id="hi_808.d2e24683">خير الدين </hi></persName></head>
-<p> خير الدين باشا التونسي الشاذلي محمد بن احمد التونسي الشاذلي الوفائي المدعو بأبي المواهب قوانين حكم الاشراق إلى كل الصوفية بجميع الآفاق - (تصوف) ويليه الرائية الشريشية المسماة بأنوار السرائر لابي العباس احمد بن خلف البكري المعروف بالشريشي - <choice xml:id="choice_677.d2e24687">
+<div type="entry" change="#d2e171" xml:id="div_58.d2e1830"><head change="#d2e171" xml:id="head_58.d2e1831"><persName change="#d2e171" xml:id="persName_60.d2e1832"><surname change="#d2e171" xml:id="surname_59.d2e1833">التونسي</surname> <hi rend="quotation-marks" xml:id="hi_807.d2e24680">احمد جمال الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_225.d2e1839"> مختصر مولد البرزنجي - تونس 1302 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_59.d2e1842"><head change="#d2e171" xml:id="head_59.d2e1843"><persName change="#d2e171" xml:id="persName_61.d2e1844"><surname change="#d2e171" xml:id="surname_60.d2e1845">التونسي</surname> <hi rend="quotation-marks" xml:id="hi_808.d2e24683">خير الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_226.d2e1851"> خير الدين باشا التونسي الشاذلي محمد بن احمد التونسي الشاذلي الوفائي المدعو بأبي المواهب قوانين حكم الاشراق إلى كل الصوفية بجميع الآفاق - (تصوف) ويليه الرائية الشريشية المسماة بأنوار السرائر لابي العباس احمد بن خلف البكري المعروف بالشريشي - <choice xml:id="choice_677.d2e24687">
                   <abbr xml:id="abbr_677.d2e24689">مط</abbr>
                   <expan xml:id="expan_677.d2e24692">مطبعة</expan>
-               </choice> ولاية سورية <placeName>دمشق</placeName> 1309 ص 108 - 12 </p></div>
-<div type="entry"><head><persName><surname>التونسي</surname> <hi rend="quotation-marks" xml:id="hi_809.d2e24696">محمد عمر </hi></persName></head>
-<p> محمد عمر التونسي التويني الياس افندي خليل التويني من أدباء <placeName>بيروت</placeName> فلسفة الزواج - <choice xml:id="choice_678.d2e24699">
+               </choice> ولاية سورية <placeName change="#d2e171" xml:id="placeName_47.d2e1862">دمشق</placeName> 1309 ص 108 - 12 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_60.d2e1867"><head change="#d2e171" xml:id="head_60.d2e1868"><persName change="#d2e171" xml:id="persName_62.d2e1869"><surname change="#d2e171" xml:id="surname_61.d2e1870">التونسي</surname> <hi rend="quotation-marks" xml:id="hi_809.d2e24696">محمد عمر </hi></persName></head>
+<p change="#d2e171" xml:id="p_227.d2e1876"> محمد عمر التونسي التويني الياس افندي خليل التويني من أدباء <placeName change="#d2e171" xml:id="placeName_48.d2e1878">بيروت</placeName> فلسفة الزواج - <choice xml:id="choice_678.d2e24699">
                   <abbr xml:id="abbr_678.d2e24701">مط</abbr>
                   <expan xml:id="expan_678.d2e24704">مطبعة</expan>
                </choice> العثمانية (لبنان) 1895 ص 131 تيتلر </p></div>
-<div type="entry"><head><persName><surname>الاسطلندي</surname> <hi rend="quotation-marks" xml:id="hi_810.d2e24708">الدكتور جان </hi></persName></head>
-<p> (1) أنيس المشرحين - معرب عن الدكتور هوپر وهو دليل الجراح.</p>
+<div type="entry" change="#d2e171" xml:id="div_61.d2e1891"><head change="#d2e171" xml:id="head_61.d2e1892"><persName change="#d2e171" xml:id="persName_63.d2e1893"><surname change="#d2e171" xml:id="surname_62.d2e1894">الاسطلندي</surname> <hi rend="quotation-marks" xml:id="hi_810.d2e24708">الدكتور جان </hi></persName></head>
+<p change="#d2e171" xml:id="p_228.d2e1900"> (1) أنيس المشرحين - معرب عن الدكتور هوپر وهو دليل الجراح.</p>
             <p xml:id="p_4072.d2e24712">وله ذيل في الالفاظ الانكليزية مع ترجمتها إلى اللغة العربية على ترتيب الحروف الافرنكية كلكته 1836 ص 310 و 108 تيتلر هتون * هتون</p>
             <p xml:id="p_4073.d2e24715">التيجاني (أو) </p></div>
-<div type="entry"><head><persName><surname>التجاني</surname> <hi rend="quotation-marks" xml:id="hi_811.d2e24717">احمد </hi></persName></head>
-<p> الشيخ احمد التجاني بن باب (أو) بابا بن احمد 
+<div type="entry" change="#d2e171" xml:id="div_62.d2e1909"><head change="#d2e171" xml:id="head_62.d2e1910"><persName change="#d2e171" xml:id="persName_64.d2e1911"><surname change="#d2e171" xml:id="surname_63.d2e1912">التجاني</surname> <hi rend="quotation-marks" xml:id="hi_811.d2e24717">احمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_231.d2e1918"> الشيخ احمد التجاني بن باب (أو) بابا بن احمد 
           <note type="footnote" xml:id="note_456.d2e24720">
                   <p xml:id="p_4073.d2e24722">(1)) * (J.</p>
                   <p xml:id="p_4074.d2e24725">Tytler</p>
@@ -515,14 +515,14 @@
             <p xml:id="p_4079.d2e24742">فتوجه إلى مكناسه ومنها دخل بلاد الواسطة والجريد وتونس والبلاد المشرقية وكان من أعاجيب الدهر في الذكاء والفطنة ومكارم الاخلاق.</p>
             <p xml:id="p_4080.d2e24745">وكان له اليد الطولى في العلم وخصوصا في فن السير والفقه والاصول واللغة والمنطق والعروض.</p>
             <p xml:id="p_4081.d2e24748">له من التأليف منية المريد - منظومة شرحها سيدي العربي بن السائح ومطلعها: قال ابن باب العلوي نسبه * المغربي المالكي مذهبه انظر شرح المنظومة الموسومة ببغية المستفيد بشرح منية المريد لمحمد العربي بن السائح العمري الشرقي التيجاني (أو) </p></div>
-<div type="entry"><head><persName><surname>التجاني</surname> <hi rend="quotation-marks" xml:id="hi_812.d2e24750">احمد </hi></persName></head>
-<p> 1 - احزاب واوراد (القطب الرباني سيدنا</p>
+<div type="entry" change="#d2e171" xml:id="div_63.d2e1951"><head change="#d2e171" xml:id="head_63.d2e1952"><persName change="#d2e171" xml:id="persName_65.d2e1953"><surname change="#d2e171" xml:id="surname_64.d2e1954">التجاني</surname> <hi rend="quotation-marks" xml:id="hi_812.d2e24750">احمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_240.d2e1960"> 1 - احزاب واوراد (القطب الرباني سيدنا</p>
             <p xml:id="p_4082.d2e24754">ومولانا الشيخ احمد التجاني - الميمنية 1333 ص 128 2 - السر الابهر في أوراد القطب الاكبر - (سيدي الشيخ احمد التجاني) تأليف خادمه محمد علوان الجوسقي - <choice xml:id="choice_679.d2e24756">
                   <abbr xml:id="abbr_679.d2e24758">مط</abbr>
                   <expan xml:id="expan_679.d2e24761">مطبعة</expan>
                </choice> العمومية 1328 ص 30 صغير </p></div>
-<div type="entry"><head><persName><surname>التيجاني</surname> <hi rend="quotation-marks" xml:id="hi_813.d2e24765">محمد </hi></persName></head>
-<p> أبو عبد الله محمد بن احمد بن محمد بن أبي القاسم التيجاني (كان موجودا سنة 710) تحفة العروس ونزهة النفوس - ذكره صاحب كشف الظنون وقال هو لابي عبد الله محمد بن احمد 
+<div type="entry" change="#d2e171" xml:id="div_64.d2e1975"><head change="#d2e171" xml:id="head_64.d2e1976"><persName change="#d2e171" xml:id="persName_66.d2e1977"><surname change="#d2e171" xml:id="surname_65.d2e1978">التيجاني</surname> <hi rend="quotation-marks" xml:id="hi_813.d2e24765">محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_242.d2e1984"> أبو عبد الله محمد بن احمد بن محمد بن أبي القاسم التيجاني (كان موجودا سنة 710) تحفة العروس ونزهة النفوس - ذكره صاحب كشف الظنون وقال هو لابي عبد الله محمد بن احمد 
           <note type="footnote" xml:id="note_457.d2e24768">
                   <p xml:id="p_4082.d2e24770">أنظر مناقب احمد التيجاني في كتاب بلوغ الاماني للشيخ احمد بن عبد الله المكي (*)</p>
                </note>
@@ -533,8 +533,8 @@
             <p xml:id="p_4084.d2e24786">ابن يوسف التيفاشي القيسي وفي الديباج المذهب: احمد بن يوسف بن احمد بن أبي بكر بن حمدون بن حجاج بن ميمون بن سليمان ابن سعد القيسي - الامام العلامة شرف الدين القفصي التيفاشي سمع ببلده من أبي العياش احمد بن أبي بكر بن جعفر المقدسي.</p>
             <p xml:id="p_4085.d2e24790">واشتغل بالادب وعلوم الاوائل وبرع في ذلك كله.</p>
             <p xml:id="p_4086.d2e24793">وقدم الديار المصرية وهو صغير.</p>
-            <p xml:id="p_4087.d2e24796">فقرأ بها وتفنن على العلامة موفق الدين عبد اللطيف البغدادي ورحل إلى <placeName>دمشق</placeName> واشتغل بها على العلامة تاج الدين الكندي ثم رجع إلى بلاده وولي قضاها.</p>
-            <p xml:id="p_4088.d2e24799">ثم بعد ذلك رجع إلى ديار <placeName>مصر</placeName> والشام وكان فاضلا بارعا له شعر حسن ونثر جيد ومصنفات عديدة في فنون - مولده بتيفاش وتوفى بالقاهرة ودفن بمقبرة باب النصر.</p>
+            <p xml:id="p_4087.d2e24796">فقرأ بها وتفنن على العلامة موفق الدين عبد اللطيف البغدادي ورحل إلى <placeName change="#d2e171" xml:id="placeName_49.d2e2015">دمشق</placeName> واشتغل بها على العلامة تاج الدين الكندي ثم رجع إلى بلاده وولي قضاها.</p>
+            <p xml:id="p_4088.d2e24799">ثم بعد ذلك رجع إلى ديار <placeName change="#d2e171" xml:id="placeName_50.d2e2022">مصر</placeName> والشام وكان فاضلا بارعا له شعر حسن ونثر جيد ومصنفات عديدة في فنون - مولده بتيفاش وتوفى بالقاهرة ودفن بمقبرة باب النصر.</p>
             <p xml:id="p_4089.d2e24802">أزهار الافكار في جواهر الاحجار - طبع مع ترجمة ايطالية في فيورنسا 1818 م ص 55 (1) انما هذه الطبعة هي ناقصة عن النسخ الخطية الموجودة من هذا الكتاب في خزائن أوروبا (صح من هذا الكتاب نسخ خطية في خزائن مختلفة 
           <note type="footnote" xml:id="note_458.d2e24804">
                   <p xml:id="p_4089.d2e24806">الديباج المذهب ص 74 - أنظر أيضا المجلة الاسيوية في باريس سنة 1868 ص 5 وصاعدا (1)) * (Fiori di pensieri sulli pietre preciose</p>
@@ -548,12 +548,12 @@
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P659.xhtml" ed="print" n="653" xml:id="pb_333.d2e24828"/>
           تأليف ابن الزيات وطبع بذيله سنة 1325 - 1907 ولاحمد باشا تيمور مقالات عديدة علمية وأدبية وتاريخية في أكثر المجلات العربية وعنى بنشر رسالة رشيد الدين الوطواط فيما جرى بينه وبين الامام الزمخشري من المحاورات - طبعت ضمن رسائل البلغاء لمحمد كرد علي (أنظر كرد </p></div>
-<div type="entry"><head><persName><surname>علي</surname> <hi rend="quotation-marks" xml:id="hi_814.d2e24830">محمد </hi></persName></head>
-<p>: رسالة البلغاء وله تآليف حديثة سيأتي ذكرها في جامع التصانيف الحديثة </p></div>
-<div type="entry"><head><persName><surname>تيمور</surname> <hi rend="quotation-marks" xml:id="hi_815.d2e24833">عائشة </hi></persName></head>
-<p> عائشة عصمت (خانم) </p></div>
-<div type="entry"><head><persName><surname>تيمور</surname> <hi rend="quotation-marks" xml:id="hi_816.d2e24836">محمد بك </hi></persName></head>
-<p> هو ابن احمد باشا تيمور المتوفي سنة 1921 وله</p>
+<div type="entry" change="#d2e171" xml:id="div_65.d2e2054"><head change="#d2e171" xml:id="head_65.d2e2055"><persName change="#d2e171" xml:id="persName_67.d2e2056"><surname change="#d2e171" xml:id="surname_66.d2e2057">علي</surname> <hi rend="quotation-marks" xml:id="hi_814.d2e24830">محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_253.d2e2063">: رسالة البلغاء وله تآليف حديثة سيأتي ذكرها في جامع التصانيف الحديثة </p></div>
+<div type="entry" change="#d2e171" xml:id="div_66.d2e2067"><head change="#d2e171" xml:id="head_66.d2e2068"><persName change="#d2e171" xml:id="persName_68.d2e2069"><surname change="#d2e171" xml:id="surname_67.d2e2070">تيمور</surname> <hi rend="quotation-marks" xml:id="hi_815.d2e24833">عائشة </hi></persName></head>
+<p change="#d2e171" xml:id="p_254.d2e2076"> عائشة عصمت (خانم) </p></div>
+<div type="entry" change="#d2e171" xml:id="div_67.d2e2079"><head change="#d2e171" xml:id="head_67.d2e2080"><persName change="#d2e171" xml:id="persName_69.d2e2081"><surname change="#d2e171" xml:id="surname_68.d2e2082">تيمور</surname> <hi rend="quotation-marks" xml:id="hi_816.d2e24836">محمد بك </hi></persName></head>
+<p change="#d2e171" xml:id="p_255.d2e2088"> هو ابن احمد باشا تيمور المتوفي سنة 1921 وله</p>
             <p xml:id="p_4093.d2e24840">مؤلفات ترى وصفها في ذيل هذا المعجم: جامع التصانيف الحديثة</p>
          </div>
       </body>

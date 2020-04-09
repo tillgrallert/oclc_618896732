@@ -70,12 +70,12 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>title level="j"</tag>.</change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2020-04-09" who="#pers_TG" xml:id="d2e171" xml:lang="en">Added automated <tei:att xml:lang="en">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en">tei:text</tei:gi> and had no existing <tei:att xml:lang="en">xml:id</tei:att> following the pattern "name()_generate-id()".</change><change when="2019-04-02" who="#pers_TG" xml:lang="en" change="#d2e171" xml:id="change_1.d2e165">Automatically marked up references to periodicals with <tag change="#d2e171" xml:id="tag_2.d2e167">title level="j"</tag>.</change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
-   <text xml:lang="ar">
-      <body>
+   <text xml:lang="ar" change="#d2e171" xml:id="text_1.d2e176">
+      <body change="#d2e171" xml:id="body_1.d2e178">
          <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="div_33.d2e47569" type="section">
             <head xml:id="head_29.d2e47571">حرف الظاء</head>
             <p xml:id="p_7034.d2e47574">ظافر المالكي الازهري محمد البشير اليواقيت الثمينة في أعيان مذهب عالم المدينة وهو في تراجم المتأخرين من علماء المالكية - أوله: الحمد لمن جعل العلماء هداة الامم الخ - الجزء الاول فقط</p>
@@ -84,7 +84,7 @@
           - مات المؤلف قبل اتمامه - <choice xml:id="choice_1528.d2e47582">
                   <abbr xml:id="abbr_1528.d2e47584">مط</abbr>
                   <expan xml:id="expan_1528.d2e47587">مطبعة</expan>
-               </choice> الملاجئ العباسية 5 / 1324 ص 261 ظافر المدني محمد بن الاستاذ محمد بن حمزه ظافر المدني النور الساطع والبرهان القاطع - (في الطريقة الشاذلية) <placeName>مصر</placeName> 1310 ص 62 ظافر الياس وكيل مجلة <title level="j" change="#d2e166">المقتطف</title> في الدقهلية 
+               </choice> الملاجئ العباسية 5 / 1324 ص 261 ظافر المدني محمد بن الاستاذ محمد بن حمزه ظافر المدني النور الساطع والبرهان القاطع - (في الطريقة الشاذلية) <placeName change="#d2e171" xml:id="placeName_2.d2e202">مصر</placeName> 1310 ص 62 ظافر الياس وكيل مجلة <title level="j" change="#d2e166 #d2e171" xml:id="title_5.d2e205">المقتطف</title> في الدقهلية 
           <note type="footnote" xml:id="note_829.d2e47591">
                   <p xml:id="p_7035.d2e47593">(1) , La litterature Syriaque par Rubens Duval 200.</p>
                   <p xml:id="p_7036.d2e47596">1907) * (me ed 3.</p>
@@ -94,11 +94,11 @@
                   <abbr xml:id="abbr_1529.d2e47607">مط</abbr>
                   <expan xml:id="expan_1529.d2e47610">مطبعة</expan>
                </choice> المقتطف 1912 ص 165 ظاهر خير الله * امين ظاهر خير الله ظاهر خير الله * </p></div>
-<div type="entry"><head><persName><surname>الشويري</surname> <hi rend="quotation-marks" xml:id="hi_1890.d2e47615">ظاهر خير الله </hi></persName></head>
-<p> الظاهري * ابن شاهين </p></div>
-<div type="entry"><head><persName><surname>ظريفه</surname> <hi rend="quotation-marks" xml:id="hi_1891.d2e47618">مشيل افندي </hi></persName></head>
-<p> مدرس الرياضة والطبيعة في المدرسة السعيدية الثانوية ومن خريجي جامعة برستول بانكلترا 1 - التمرينات الهندسية - لطلاب المدارس الثانوية</p>
-            <p xml:id="p_7039.d2e47622">وفيه 870 مسألة ليتمرن بها تلامذة السنة الاولى والثانية في القسم الثانوي - <placeName>مصر</placeName> 1915 2 - الهندسة الفراغية - <placeName>مصر</placeName>..ظهير العمري اسعد بن مسعود بن عيسى الملقب بزهير العمري (نبغ سنة 812 هـ) شرح الاربعين النووية - (حديث) تونس 1299</p>
+<div type="entry" change="#d2e171" xml:id="div_2.d2e233"><head change="#d2e171" xml:id="head_2.d2e234"><persName change="#d2e171" xml:id="persName_4.d2e235"><surname change="#d2e171" xml:id="surname_3.d2e236">الشويري</surname> <hi rend="quotation-marks" xml:id="hi_1890.d2e47615">ظاهر خير الله </hi></persName></head>
+<p change="#d2e171" xml:id="p_9.d2e242"> الظاهري * ابن شاهين </p></div>
+<div type="entry" change="#d2e171" xml:id="div_3.d2e245"><head change="#d2e171" xml:id="head_3.d2e246"><persName change="#d2e171" xml:id="persName_5.d2e247"><surname change="#d2e171" xml:id="surname_4.d2e248">ظريفه</surname> <hi rend="quotation-marks" xml:id="hi_1891.d2e47618">مشيل افندي </hi></persName></head>
+<p change="#d2e171" xml:id="p_10.d2e254"> مدرس الرياضة والطبيعة في المدرسة السعيدية الثانوية ومن خريجي جامعة برستول بانكلترا 1 - التمرينات الهندسية - لطلاب المدارس الثانوية</p>
+            <p xml:id="p_7039.d2e47622">وفيه 870 مسألة ليتمرن بها تلامذة السنة الاولى والثانية في القسم الثانوي - <placeName change="#d2e171" xml:id="placeName_3.d2e259">مصر</placeName> 1915 2 - الهندسة الفراغية - <placeName change="#d2e171" xml:id="placeName_4.d2e262">مصر</placeName>..ظهير العمري اسعد بن مسعود بن عيسى الملقب بزهير العمري (نبغ سنة 812 هـ) شرح الاربعين النووية - (حديث) تونس 1299</p>
          </div>
       </body>
    </text>

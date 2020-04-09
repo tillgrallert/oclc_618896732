@@ -70,60 +70,60 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>title level="j"</tag>.</change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2020-04-09" who="#pers_TG" xml:id="d2e171" xml:lang="en">Added automated <tei:att xml:lang="en">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en">tei:text</tei:gi> and had no existing <tei:att xml:lang="en">xml:id</tei:att> following the pattern "name()_generate-id()".</change><change when="2019-04-02" who="#pers_TG" xml:lang="en" change="#d2e171" xml:id="change_1.d2e165">Automatically marked up references to periodicals with <tag change="#d2e171" xml:id="tag_2.d2e167">title level="j"</tag>.</change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
-   <text xml:lang="ar">
-      <body>
+   <text xml:lang="ar" change="#d2e171" xml:id="text_1.d2e176">
+      <body change="#d2e171" xml:id="body_1.d2e178">
          <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="div_40.d2e58157" type="section">
             <head xml:id="head_36.d2e58159">حرف الكاف</head>
             <p xml:id="p_8269.d2e58162">الكاتب الاصبهاني * عماد الدين الكاتب الكاتب </p></div>
-<div type="entry"><head><persName><surname>الدمشقي</surname> <hi rend="quotation-marks" xml:id="hi_2402.d2e58164">أبو عبد الله </hi></persName></head>
-<p> نبذة من تاريخ آل الزبير - (من كتاب الموفقيات) أنظر الزبير بن بكار: الموفقيات
+<div type="entry" change="#d2e171" xml:id="div_2.d2e188"><head change="#d2e171" xml:id="head_2.d2e189"><persName change="#d2e171" xml:id="persName_4.d2e190"><surname change="#d2e171" xml:id="surname_3.d2e191">الدمشقي</surname> <hi rend="quotation-marks" xml:id="hi_2402.d2e58164">أبو عبد الله </hi></persName></head>
+<p change="#d2e171" xml:id="p_5.d2e197"> نبذة من تاريخ آل الزبير - (من كتاب الموفقيات) أنظر الزبير بن بكار: الموفقيات
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1544.xhtml" ed="print" n="1538" xml:id="cb_769.d2e58167"/>
           الكاتب المحجوب * يني الطرابلسي </p></div>
-<div type="entry"><head><persName><surname>كاتبه</surname> <hi rend="quotation-marks" xml:id="hi_2403.d2e58169">نجيب </hi></persName></head>
-<p> علم قراءة اليد - <placeName>مصر</placeName> 1904 ص 200 الكاتبي القزويني (675) نجم الدين أبو الحسين على بن عمر (محمد) القزويني الكاتبى ويعرف بدبيران أو ديبران وهو تلميذ نصير الطوسي 1 - حكمة العين - وهو متن متين مختصر أوله: سبحانك اللهم واجب الوجود..ذكر فيه أن جماعة من الطلبة لما فرغوا من بحت الرسالة المسماة بالعين في المنطق من تأليفاته التمسوا منه أن يضيف إليها رسالة في الالهى والطبيعي.</p>
+<div type="entry" change="#d2e171" xml:id="div_3.d2e202"><head change="#d2e171" xml:id="head_3.d2e203"><persName change="#d2e171" xml:id="persName_5.d2e204"><surname change="#d2e171" xml:id="surname_4.d2e205">كاتبه</surname> <hi rend="quotation-marks" xml:id="hi_2403.d2e58169">نجيب </hi></persName></head>
+<p change="#d2e171" xml:id="p_6.d2e211"> علم قراءة اليد - <placeName change="#d2e171" xml:id="placeName_2.d2e213">مصر</placeName> 1904 ص 200 الكاتبي القزويني (675) نجم الدين أبو الحسين على بن عمر (محمد) القزويني الكاتبى ويعرف بدبيران أو ديبران وهو تلميذ نصير الطوسي 1 - حكمة العين - وهو متن متين مختصر أوله: سبحانك اللهم واجب الوجود..ذكر فيه أن جماعة من الطلبة لما فرغوا من بحت الرسالة المسماة بالعين في المنطق من تأليفاته التمسوا منه أن يضيف إليها رسالة في الالهى والطبيعي.</p>
             <p xml:id="p_8270.d2e58173">فأجاب (كشف الظنون) أنظر شرح حكمة العين لمحمد بن مبارك شاه 2 - الرسالة الشمسية في القواعد المنطقية - (أو) الشمسية.</p>
-            <p xml:id="p_8271.d2e58176">متن مختصر في المنطق - <placeName>أستانة</placeName> 1263 كلكته 1815 - وطبع في تشكند على الحجر 1894 ص 264 " شرح الرسالة الشمسية للكاتبي (كذا) كاتريني أودواكر (1) حكم عربية - ومعها ترجمة إلى اللغة اللاتينية - رومية 1901 م</p>
+            <p xml:id="p_8271.d2e58176">متن مختصر في المنطق - <placeName change="#d2e171" xml:id="placeName_3.d2e222">أستانة</placeName> 1263 كلكته 1815 - وطبع في تشكند على الحجر 1894 ص 264 " شرح الرسالة الشمسية للكاتبي (كذا) كاتريني أودواكر (1) حكم عربية - ومعها ترجمة إلى اللغة اللاتينية - رومية 1901 م</p>
             <p xml:id="p_8272.d2e58179">الكاخيا * احمد بن حمدان الكازراني (الشيخ) عبد اللطيف الكلزراني مولدا والنجفي مسكنا مقدمة مرآة الانوار ومشكوة الاسرار - 
           <note type="footnote" xml:id="note_981.d2e58181">
                   <p xml:id="p_8272.d2e58183">فوات الوفيات 2 - 66 (كتب غلطا نجم الدين الكاشي) (1)) * (Odoacre Catirini</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1545.xhtml" ed="print" n="1539" xml:id="pb_776.d2e58187"/>وهو مصباح لانظار الابرار ومقدمة للتفسير الذى صنفه الشيخ عبد اللطيف الكازراني.</p>
             <p xml:id="p_8274.d2e58191">وهي مشتملة على الاحاديث النبوية والاخبار الامامية في تفسير القرآن وتأويل رموز الفرقان - العجم 1295 ص ص 239 </p></div>
-<div type="entry"><head><persName><surname>كازروني</surname> <hi rend="quotation-marks" xml:id="hi_2404.d2e58193">سديد الدين </hi></persName></head>
-<p> (من علماء القرن الثامن للهجرة) الشرح المغني - المعروف بالسديدي - في شرح الموجز من تصنيف علاء الدين بن أبي الحزم القرشي المعروف بابن نفيس في الكليات الطبية والعلمية والعملية والادوية والاغذية المفردة والمركبة والامراض المختصة وغير المختصة وعلاماتها وأسبابها ومعالجاتها.</p>
+<div type="entry" change="#d2e171" xml:id="div_4.d2e240"><head change="#d2e171" xml:id="head_4.d2e241"><persName change="#d2e171" xml:id="persName_6.d2e242"><surname change="#d2e171" xml:id="surname_5.d2e243">كازروني</surname> <hi rend="quotation-marks" xml:id="hi_2404.d2e58193">سديد الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_12.d2e249"> (من علماء القرن الثامن للهجرة) الشرح المغني - المعروف بالسديدي - في شرح الموجز من تصنيف علاء الدين بن أبي الحزم القرشي المعروف بابن نفيس في الكليات الطبية والعلمية والعملية والادوية والاغذية المفردة والمركبة والامراض المختصة وغير المختصة وعلاماتها وأسبابها ومعالجاتها.</p>
             <p xml:id="p_8275.d2e58197">طبع بحكم رؤساء الشورى العلمية بتصحيح المولوي عبد الحميد والمولوى غلام مخدوم والمولوي عبد الله - كلكته 1249 1832 ص 836</p>
-            <p xml:id="p_8276.d2e58200"></p></div>
-<div type="entry"><head><persName><surname>كازيمرسكي</surname> <hi rend="quotation-marks" xml:id="hi_2405.d2e58202">بيبرشتين </hi></persName></head>
-<p> (توفي نحو سنة 1870 م) ولد في پولونيا واستوطن فرنسا ونشر فيها مطبوعات شرقية مفيدة لاسيما معجمه الكبير العربي الفرنساوى وقد نقل القرآن الشريف إلى الفرنسية وترجمته معروفة بدقتها وسلاسنها 1 - حكاية أنيس الجليس - منتخبة من كتاب الف ليلة وليلة - طبعت مع ترجمتها إلى اللغة الفرنسية وبعض ملحوظات للاستاذ كازيمرسكي - باريس 1846 ص 176 2 - كتاب اللغتين العربية والفرنساوية - ويعرف بقاموس كازيمرسكي وهو معجم مطول عربي فرنساوي.</p>
-            <p xml:id="p_8277.d2e58206">جزء 2 باريس 60 / 1848 ثم أعاد طبعه في <placeName>مصر</placeName> عبيد غلاب أحد المترجمين في دار الطباعة الخديوية بأربعة مجلدات سنة 1875
+            <p xml:id="p_8276.d2e58200"/></div>
+<div type="entry" change="#d2e171" xml:id="div_5.d2e257"><head change="#d2e171" xml:id="head_5.d2e258"><persName change="#d2e171" xml:id="persName_7.d2e259"><surname change="#d2e171" xml:id="surname_6.d2e260">كازيمرسكي</surname> <hi rend="quotation-marks" xml:id="hi_2405.d2e58202">بيبرشتين </hi></persName></head>
+<p change="#d2e171" xml:id="p_15.d2e266"> (توفي نحو سنة 1870 م) ولد في پولونيا واستوطن فرنسا ونشر فيها مطبوعات شرقية مفيدة لاسيما معجمه الكبير العربي الفرنساوى وقد نقل القرآن الشريف إلى الفرنسية وترجمته معروفة بدقتها وسلاسنها 1 - حكاية أنيس الجليس - منتخبة من كتاب الف ليلة وليلة - طبعت مع ترجمتها إلى اللغة الفرنسية وبعض ملحوظات للاستاذ كازيمرسكي - باريس 1846 ص 176 2 - كتاب اللغتين العربية والفرنساوية - ويعرف بقاموس كازيمرسكي وهو معجم مطول عربي فرنساوي.</p>
+            <p xml:id="p_8277.d2e58206">جزء 2 باريس 60 / 1848 ثم أعاد طبعه في <placeName change="#d2e171" xml:id="placeName_4.d2e271">مصر</placeName> عبيد غلاب أحد المترجمين في دار الطباعة الخديوية بأربعة مجلدات سنة 1875
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1546.xhtml" ed="print" n="1540" xml:id="cb_770.d2e58208"/>
           الكاساني (أو) الكاشاني (587) علاء الدين أبو بكر بن مسعود بن احمد الكاساني أو الكاشاني الملقب بملك العلماء تفقه على محمد السمرقندى وقرأ عليه معظم مصنفاته وزوجه شيخه ابنته فاطمة.</p>
             <p xml:id="p_8278.d2e58211">وقيل أن سبب تزويجها أنها</p>
             <p xml:id="p_8279.d2e58214">كانت حفظت التحفة تصنيف والدها.</p>
             <p xml:id="p_8280.d2e58218">فلما صنف صاحب الترجمة البدائع وهو شرح التحفة وعرضه علي شيخه ازداد به فرحا وزوجه ابنته وجعل مهرها منذ ذلك.</p>
-            <p xml:id="p_8281.d2e58221">فقالوا في عصره: شرح تحفته وتزويج ابنته مات الكاساني بحلب عند زوجته ويعرف قبرهما عند الزوار في <placeName>حلب</placeName> بقبر المرأة وزوجها بدائع الصنائع في ترتيب الشرائع - (فقه حنفى) اقنبسه من كتاب تحفة الفقهاء لشيخه الامام علاء الدين محمد بن احمد السمرقندي - جزء 7 الجزء الاول والثاني ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> شركة المطبوعات العلمية 1327 والجزء الثالث إلى السابع ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الجمالية 1328 - 1910 </p></div>
-<div type="entry"><head><persName><surname>الكاشاني</surname> <hi rend="quotation-marks" xml:id="hi_2406.d2e58223">الفيض </hi></persName></head>
-<p> (1091) ملا محسن الملقب بالفيض محمد بن مرتضي الصافي في تفسير كلام الله الوافي الكافي الشافي بهامشه الت فسير الاصفى له أيضا - طبع العجم 1274 و 1310 </p></div>
-<div type="entry"><head><persName><surname>الكاشاني</surname> <hi rend="quotation-marks" xml:id="hi_2407.d2e58226">عبد الرازق </hi></persName></head>
-<p> * القاشاني كاظم (الشيخ) محمد كاظم الازري البغدادي (كان موجودا سنة 1194 هـ) 1 - ديوان - بمبئ 1320 ص 192 
+            <p xml:id="p_8281.d2e58221">فقالوا في عصره: شرح تحفته وتزويج ابنته مات الكاساني بحلب عند زوجته ويعرف قبرهما عند الزوار في <placeName change="#d2e171" xml:id="placeName_5.d2e289">حلب</placeName> بقبر المرأة وزوجها بدائع الصنائع في ترتيب الشرائع - (فقه حنفى) اقنبسه من كتاب تحفة الفقهاء لشيخه الامام علاء الدين محمد بن احمد السمرقندي - جزء 7 الجزء الاول والثاني ب<choice change="#d2e171" xml:id="choice_1.d2e292"><abbr change="#d2e171" xml:id="abbr_1.d2e293">مط</abbr><expan change="#d2e171" xml:id="expan_1.d2e295">مطبعة</expan></choice> شركة المطبوعات العلمية 1327 والجزء الثالث إلى السابع ب<choice change="#d2e171" xml:id="choice_2.d2e298"><abbr change="#d2e171" xml:id="abbr_2.d2e299">مط</abbr><expan change="#d2e171" xml:id="expan_2.d2e301">مطبعة</expan></choice> الجمالية 1328 - 1910 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_6.d2e306"><head change="#d2e171" xml:id="head_6.d2e307"><persName change="#d2e171" xml:id="persName_8.d2e308"><surname change="#d2e171" xml:id="surname_7.d2e309">الكاشاني</surname> <hi rend="quotation-marks" xml:id="hi_2406.d2e58223">الفيض </hi></persName></head>
+<p change="#d2e171" xml:id="p_21.d2e315"> (1091) ملا محسن الملقب بالفيض محمد بن مرتضي الصافي في تفسير كلام الله الوافي الكافي الشافي بهامشه الت فسير الاصفى له أيضا - طبع العجم 1274 و 1310 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_7.d2e318"><head change="#d2e171" xml:id="head_7.d2e319"><persName change="#d2e171" xml:id="persName_9.d2e320"><surname change="#d2e171" xml:id="surname_8.d2e321">الكاشاني</surname> <hi rend="quotation-marks" xml:id="hi_2407.d2e58226">عبد الرازق </hi></persName></head>
+<p change="#d2e171" xml:id="p_22.d2e327"> * القاشاني كاظم (الشيخ) محمد كاظم الازري البغدادي (كان موجودا سنة 1194 هـ) 1 - ديوان - بمبئ 1320 ص 192 
           <note type="footnote" xml:id="note_982.d2e58229">
                   <p xml:id="p_8281.d2e58231">مفتاح السعادة 2 - 176 - اعلام النبلاء 4 - 305 (*)</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1547.xhtml" ed="print" n="1541" xml:id="pb_777.d2e58235"/>
                <hi style="color:red;" xml:id="hi_2408.d2e58237">2 - </hi>قران الشعر الاكبر وفرقان الفصل الازهر وهي قصيدة في مدح الرسول وتخميسها للشيخ جابر بن عبد الحسين الربعي الكاظمي - بمبئ 1300 ص 104 كاظم بك ميرزا * ميرزا كاظم بك </p></div>
-<div type="entry"><head><persName><surname>الكاشغري</surname> <hi rend="quotation-marks" xml:id="hi_2409.d2e58241">سديد الدين </hi></persName></head>
-<p> (من أبناء القرن السابع للهجرة) منية المصلي وغنية المبتدي - وهو مختصر في الصلاة معروف متداول بين الحنفية..بمبى 1303 ص 132 قازان 1889 م - وطبع معه التعليق المجلى للمولوي وصي احمد - لكناو 1315 ص 452 </p></div>
-<div type="entry"><head><persName><surname>الكاشف</surname> <hi rend="quotation-marks" xml:id="hi_2410.d2e58244">احمد (افندي) </hi></persName></head>
-<p> هو احمد بن ذي الفقار بن عمر الكاشف جاء أبوه من بلاد القوقاز وتوطن <placeName>مصر</placeName> وولد احمد في قرية القرشية من قرى مديرية الغربية بمصر سنة 1295 وهو الان متوظف في ديوان الاوقاف بالقاهرة ديوان (الكاشف) في المدائح والتهاني - وتواريخ الوفيات وغيرها وفي السياسة والوطنيات والشكوى والعتاب وحوادث الغرام وغير ذلك جزء 2 الاول ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> جريدة <title level="j" change="#d2e166">الراوي</title> 1321 - 1903 والثاني ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الجريدة 1331 - 1913 وفي أول الجزء الاول منه مقدمة تشتمل</p>
+<div type="entry" change="#d2e171" xml:id="div_8.d2e341"><head change="#d2e171" xml:id="head_8.d2e342"><persName change="#d2e171" xml:id="persName_10.d2e343"><surname change="#d2e171" xml:id="surname_9.d2e344">الكاشغري</surname> <hi rend="quotation-marks" xml:id="hi_2409.d2e58241">سديد الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_24.d2e350"> (من أبناء القرن السابع للهجرة) منية المصلي وغنية المبتدي - وهو مختصر في الصلاة معروف متداول بين الحنفية..بمبى 1303 ص 132 قازان 1889 م - وطبع معه التعليق المجلى للمولوي وصي احمد - لكناو 1315 ص 452 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_9.d2e353"><head change="#d2e171" xml:id="head_9.d2e354"><persName change="#d2e171" xml:id="persName_11.d2e355"><surname change="#d2e171" xml:id="surname_10.d2e356">الكاشف</surname> <hi rend="quotation-marks" xml:id="hi_2410.d2e58244">احمد (افندي) </hi></persName></head>
+<p change="#d2e171" xml:id="p_25.d2e362"> هو احمد بن ذي الفقار بن عمر الكاشف جاء أبوه من بلاد القوقاز وتوطن <placeName change="#d2e171" xml:id="placeName_6.d2e364">مصر</placeName> وولد احمد في قرية القرشية من قرى مديرية الغربية بمصر سنة 1295 وهو الان متوظف في ديوان الاوقاف بالقاهرة ديوان (الكاشف) في المدائح والتهاني - وتواريخ الوفيات وغيرها وفي السياسة والوطنيات والشكوى والعتاب وحوادث الغرام وغير ذلك جزء 2 الاول ب<choice change="#d2e171" xml:id="choice_3.d2e367"><abbr change="#d2e171" xml:id="abbr_3.d2e368">مط</abbr><expan change="#d2e171" xml:id="expan_3.d2e370">مطبعة</expan></choice> جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_5.d2e373">الراوي</title> 1321 - 1903 والثاني ب<choice change="#d2e171" xml:id="choice_4.d2e376"><abbr change="#d2e171" xml:id="abbr_4.d2e377">مط</abbr><expan change="#d2e171" xml:id="expan_4.d2e379">مطبعة</expan></choice> الجريدة 1331 - 1913 وفي أول الجزء الاول منه مقدمة تشتمل</p>
             <p xml:id="p_8283.d2e58248">على نبذة من تاريخ المؤلف ثم فهرس لشعراء العصر مرتب على حروف الهجاء </p></div>
-<div type="entry"><head><persName><surname>كاشفي</surname> <hi rend="quotation-marks" xml:id="hi_2411.d2e58250">حسين واعظ </hi></persName></head>
-<p> * حسين واعظ الكاشي (730) (الشيخ) كمال الدين أبو الغنائم عبد الرازق بن جمال 
+<div type="entry" change="#d2e171" xml:id="div_10.d2e386"><head change="#d2e171" xml:id="head_10.d2e387"><persName change="#d2e171" xml:id="persName_12.d2e388"><surname change="#d2e171" xml:id="surname_11.d2e389">كاشفي</surname> <hi rend="quotation-marks" xml:id="hi_2411.d2e58250">حسين واعظ </hi></persName></head>
+<p change="#d2e171" xml:id="p_27.d2e395"> * حسين واعظ الكاشي (730) (الشيخ) كمال الدين أبو الغنائم عبد الرازق بن جمال 
           <note type="footnote" xml:id="note_983.d2e58253">
                   <p xml:id="p_8283.d2e58255">كشف الظنون في اسم اصطلاحات الصوفية وفى فهرست الكتبخانة المصرية بذكر وفاته سنة 877 هـ (*)</p>
                </note>
@@ -132,8 +132,8 @@
                   <abbr xml:id="abbr_1968.d2e58266">مط</abbr>
                   <expan xml:id="expan_1968.d2e58269">مطبعة</expan>
                </choice> النيل 1324 ص 128 و 32 </p></div>
-<div type="entry"><head><persName><surname>كاليقاريس</surname> <hi rend="quotation-marks" xml:id="hi_2412.d2e58273">لويس </hi></persName></head>
-<p> سيرة نبليون الاول - وكتب - سيرة (البطل) المعظم المرفع الكبير نپليون الاول امپراطور الفرنساوية قال الامير الوالير لويس كاليقاريس أني من صغري.</p>
+<div type="entry" change="#d2e171" xml:id="div_11.d2e418"><head change="#d2e171" xml:id="head_11.d2e419"><persName change="#d2e171" xml:id="persName_13.d2e420"><surname change="#d2e171" xml:id="surname_12.d2e421">كاليقاريس</surname> <hi rend="quotation-marks" xml:id="hi_2412.d2e58273">لويس </hi></persName></head>
+<p change="#d2e171" xml:id="p_30.d2e427"> سيرة نبليون الاول - وكتب - سيرة (البطل) المعظم المرفع الكبير نپليون الاول امپراطور الفرنساوية قال الامير الوالير لويس كاليقاريس أني من صغري.</p>
             <p xml:id="p_8286.d2e58277">كنت قد خمنت على زمان هذا البطل الغريب الدى هو موضوع هاذا الكتاب - وحقا أن أهل الحرب كلهم قد اكرموه جدا لصيته.</p>
             <p xml:id="p_8287.d2e58280">ولما كان المقصد من تأليفي هذا لخصوص بلدان المشرق كان من أجل أسباب كثيرة يطول ذكرها.</p>
             <p xml:id="p_8288.d2e58284">من المستحيل ترجمتها تفصيلا من الفرنساوي 
@@ -150,11 +150,11 @@
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1549.xhtml" ed="print" n="1543" xml:id="pb_778.d2e58317"/>فاشتغلت بعد طول وتعب في اجرايه علي الاسلوب العربي</p>
             <p xml:id="p_8298.d2e58320">وصرفت مع ذالك القصد جميع أوقات فراغي من خدمتي في مكتب العسكر المقام هنا منذ خمس عشرة سنة في الاشتغال بذالك مع الانبه المعارف باللسان العربي الا كتب محمد التطاونى.</p>
-            <p xml:id="p_8299.d2e58323">وبعد شدة مواظبة كمل..رتب هذه السيرة إلى أربعة أقسام 1 في وصف مملكة فرنسا وصغر نپليون بنپارتا 2 أفخر واعظم زمان عمر نپليون 3 من بعد الصلح في تلسيت إلى تسليم نپليون وسفره إلى جزيرة البا 4 في أقامة نپليون بجزيرة البا ورجوعه إلى الملك وعزله ونفيه إلى سنتا الينا - باريس 1856 ص 584 - <placeName>بيروت</placeName> 1868 ص 437 وطبع ثانية بعياية أمين الحوري (بدون تاريخ) ص 487 كامل زكي سكرتير (كاتب سر) المستر هورنبلور المفتش بنظارة الداخلية بمصر سابقا قانون الصحة - <choice xml:id="choice_1969.d2e58325">
+            <p xml:id="p_8299.d2e58323">وبعد شدة مواظبة كمل..رتب هذه السيرة إلى أربعة أقسام 1 في وصف مملكة فرنسا وصغر نپليون بنپارتا 2 أفخر واعظم زمان عمر نپليون 3 من بعد الصلح في تلسيت إلى تسليم نپليون وسفره إلى جزيرة البا 4 في أقامة نپليون بجزيرة البا ورجوعه إلى الملك وعزله ونفيه إلى سنتا الينا - باريس 1856 ص 584 - <placeName change="#d2e171" xml:id="placeName_7.d2e478">بيروت</placeName> 1868 ص 437 وطبع ثانية بعياية أمين الحوري (بدون تاريخ) ص 487 كامل زكي سكرتير (كاتب سر) المستر هورنبلور المفتش بنظارة الداخلية بمصر سابقا قانون الصحة - <choice xml:id="choice_1969.d2e58325">
                   <abbr xml:id="abbr_1969.d2e58327">مط</abbr>
                   <expan xml:id="expan_1969.d2e58330">مطبعة</expan>
                </choice> التوفيق (دون تاريخ) ص 79 كامل سليمان الخوري عيسى الحاجيات والكماليات - خطاب ألقاه في حمص سنة 1908 على اعلان الدستور العثماني للمرة الثانية كامل (افندي) صدقي النبذ العلمية والفكاهات الادبية - جمعها بمعاونة عبد الواحد افندي حمدي - وهي مفتتحة بمعاهدة برلين تليها نبذ كثيرة علمية وأدبية وفكاهية -</p>
-            <p xml:id="p_8300.d2e58335"><placeName>مصر</placeName> 1317 كامل غالي الحاوي على وسام فضة من جمعية الزراعة الوطنية بفرنسا تحفة العصر في الزراعة بمصر - <choice xml:id="choice_1970.d2e58337">
+            <p xml:id="p_8300.d2e58335"><placeName change="#d2e171" xml:id="placeName_8.d2e492">مصر</placeName> 1317 كامل غالي الحاوي على وسام فضة من جمعية الزراعة الوطنية بفرنسا تحفة العصر في الزراعة بمصر - <choice xml:id="choice_1970.d2e58337">
                   <abbr xml:id="abbr_1970.d2e58339">مط</abbr>
                   <expan xml:id="expan_1970.d2e58342">مطبعة</expan>
                </choice> العاصمة 1312 ص 248 قال فيه أنه درس فن الزراعة بمدرسة بوفيه فرنسا
@@ -164,86 +164,86 @@
                   <abbr xml:id="abbr_1971.d2e58350">مط</abbr>
                   <expan xml:id="expan_1971.d2e58353">مطبعة</expan>
                </choice> الوطن 1883 - 1300 كامل مصطفى * مصطفى كامل </p></div>
-<div type="entry"><head><persName><surname>الكامل</surname> <hi rend="quotation-marks" xml:id="hi_2413.d2e58357">الملك </hi></persName></head>
-<p> (856) (0) الملك الكامل سيف الدين خليل بن احمد بن سليمان ابن غازى بن الاشرف بن العادل الايوبي صاحب حصن كيفا كان استقراره بحصن كيفا بعد قتل والده سنة 836 واستمر إلى أن وثب عليه ولده فقتله.</p>
-            <p xml:id="p_8301.d2e58361">كان من أهل الفضل وأرسل بديوان من شعره على عادة أبيه إلى الديار المصرية فقرظه له الادباء القصد الجليل من نظم السلطان خليل - طبع في <placeName>بيروت</placeName> سنة 1866 ب<orgName xml:id="orgName_105.d2e58363">ال<choice xml:id="choice_1972.d2e58365">
+<div type="entry" change="#d2e171" xml:id="div_12.d2e517"><head change="#d2e171" xml:id="head_12.d2e518"><persName change="#d2e171" xml:id="persName_14.d2e519"><surname change="#d2e171" xml:id="surname_13.d2e520">الكامل</surname> <hi rend="quotation-marks" xml:id="hi_2413.d2e58357">الملك </hi></persName></head>
+<p change="#d2e171" xml:id="p_46.d2e526"> (856) (0) الملك الكامل سيف الدين خليل بن احمد بن سليمان ابن غازى بن الاشرف بن العادل الايوبي صاحب حصن كيفا كان استقراره بحصن كيفا بعد قتل والده سنة 836 واستمر إلى أن وثب عليه ولده فقتله.</p>
+            <p xml:id="p_8301.d2e58361">كان من أهل الفضل وأرسل بديوان من شعره على عادة أبيه إلى الديار المصرية فقرظه له الادباء القصد الجليل من نظم السلطان خليل - طبع في <placeName change="#d2e171" xml:id="placeName_9.d2e531">بيروت</placeName> سنة 1866 ب<orgName xml:id="orgName_105.d2e58363">ال<choice xml:id="choice_1972.d2e58365">
                      <abbr xml:id="abbr_1972.d2e58367">مط</abbr>
                      <expan xml:id="expan_1972.d2e58370">المطبعة</expan>
                   </choice> العمومية</orgName> ويليه ثلاث</p>
             <p xml:id="p_8302.d2e58376">قصائد لغيره من الشعراء ص 34 </p></div>
-<div type="entry"><head><persName><surname>الكانبوري</surname> <hi rend="quotation-marks" xml:id="hi_2414.d2e58378">محمود </hi></persName></head>
-<p> * محمود الجونفوري الكانيمشكاني * محيى الدين صبري كبه جرجس بن حنا كبه اللاذقاني (1) روضة العزبان وتنبيه الغفلان - أولها الحمد لله الذي وهبنا العقل الرائق..وصف فيه حال العزبان والمزوجين - فرغ من تأليفه في <placeName>القدس</placeName> الشريف سنة 
+<div type="entry" change="#d2e171" xml:id="div_13.d2e550"><head change="#d2e171" xml:id="head_13.d2e551"><persName change="#d2e171" xml:id="persName_15.d2e552"><surname change="#d2e171" xml:id="surname_14.d2e553">الكانبوري</surname> <hi rend="quotation-marks" xml:id="hi_2414.d2e58378">محمود </hi></persName></head>
+<p change="#d2e171" xml:id="p_49.d2e559"> * محمود الجونفوري الكانيمشكاني * محيى الدين صبري كبه جرجس بن حنا كبه اللاذقاني (1) روضة العزبان وتنبيه الغفلان - أولها الحمد لله الذي وهبنا العقل الرائق..وصف فيه حال العزبان والمزوجين - فرغ من تأليفه في <placeName change="#d2e171" xml:id="placeName_10.d2e561">القدس</placeName> الشريف سنة 
           <note type="footnote" xml:id="note_985.d2e58381">
-                  <p xml:id="p_8302.d2e58383">(1) (0) التبر المسبوك ص 399 (1) لا ذكر لاسم المؤلف في النسخ المطبوعة من كتابه روضة العزبان الا اني وجدت هذا الاسم في نسخة خطية وقعت بيدى وفيه كتب أنه ألفها في <placeName>القدس</placeName> الشريف.</p>
+                  <p xml:id="p_8302.d2e58383">(1) (0) التبر المسبوك ص 399 (1) لا ذكر لاسم المؤلف في النسخ المطبوعة من كتابه روضة العزبان الا اني وجدت هذا الاسم في نسخة خطية وقعت بيدى وفيه كتب أنه ألفها في <placeName change="#d2e171" xml:id="placeName_11.d2e568">القدس</placeName> الشريف.</p>
                   <p xml:id="p_8303.d2e58386">(*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1551.xhtml" ed="print" n="1545" xml:id="pb_779.d2e58390"/>1824 م طبع حجر <placeName>مصر</placeName> 1291 - <choice xml:id="choice_1973.d2e58392">
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1551.xhtml" ed="print" n="1545" xml:id="pb_779.d2e58390"/>1824 م طبع حجر <placeName change="#d2e171" xml:id="placeName_12.d2e578">مصر</placeName> 1291 - <choice xml:id="choice_1973.d2e58392">
                   <abbr xml:id="abbr_1973.d2e58394">مط</abbr>
                   <expan xml:id="expan_1973.d2e58397">مطبعة</expan>
                </choice> شرف 1302 و 1307 </p></div>
-<div type="entry"><head><persName><surname>كبريت</surname> <hi rend="quotation-marks" xml:id="hi_2415.d2e58401">محمد </hi></persName></head>
-<p> * محمد بن عبد الله الحسني </p></div>
-<div type="entry"><head><persName><surname>الكتاني</surname> <hi rend="quotation-marks" xml:id="hi_2416.d2e58405">أبو محمد عبد الله </hi></persName></head>
-<p> * ابن سلمون الكتاني </p></div>
-<div type="entry"><head><persName><surname>الكتاني</surname> <hi rend="quotation-marks" xml:id="hi_2417.d2e58408">جعفر </hi></persName></head>
-<p> (1323) جعفر بن ادريس الحسني الادريسي 1 - رسالة في احكام أهل الذمة - (فقه مالك) وهي جواب لسؤال ورد عليه من مولاى حسن سلطان</p>
+<div type="entry" change="#d2e171" xml:id="div_14.d2e591"><head change="#d2e171" xml:id="head_14.d2e592"><persName change="#d2e171" xml:id="persName_16.d2e593"><surname change="#d2e171" xml:id="surname_15.d2e594">كبريت</surname> <hi rend="quotation-marks" xml:id="hi_2415.d2e58401">محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_52.d2e600"> * محمد بن عبد الله الحسني </p></div>
+<div type="entry" change="#d2e171" xml:id="div_15.d2e603"><head change="#d2e171" xml:id="head_15.d2e604"><persName change="#d2e171" xml:id="persName_17.d2e605"><surname change="#d2e171" xml:id="surname_16.d2e606">الكتاني</surname> <hi rend="quotation-marks" xml:id="hi_2416.d2e58405">أبو محمد عبد الله </hi></persName></head>
+<p change="#d2e171" xml:id="p_53.d2e612"> * ابن سلمون الكتاني </p></div>
+<div type="entry" change="#d2e171" xml:id="div_16.d2e615"><head change="#d2e171" xml:id="head_16.d2e616"><persName change="#d2e171" xml:id="persName_18.d2e617"><surname change="#d2e171" xml:id="surname_17.d2e618">الكتاني</surname> <hi rend="quotation-marks" xml:id="hi_2417.d2e58408">جعفر </hi></persName></head>
+<p change="#d2e171" xml:id="p_54.d2e624"> (1323) جعفر بن ادريس الحسني الادريسي 1 - رسالة في احكام أهل الذمة - (فقه مالك) وهي جواب لسؤال ورد عليه من مولاى حسن سلطان</p>
             <p xml:id="p_8305.d2e58413">المغرب ضمن مجموعة بفاس 1316 (1) 2 - الشرب المختصر والسر المنتظر من معين بعض أهل القرن الثالث عشر - (علماء مراكش) فاس 1309 ص 42 3 - منتخب الاقاويل في ما يتعلق بالسراويل فاس 1316 (؟) </p></div>
-<div type="entry"><head><persName><surname>الكتاني</surname> <hi rend="quotation-marks" xml:id="hi_2418.d2e58415">محمد بن جعفر </hi></persName></head>
-<p> هو ابن جعفر الادريسي الكتاني المتوفي سنة 45 1 - الازهار العاطرة الانفاس بذكر بعض محاسن قطب المغرب وتاج مدينة فاس - فاس 1307 ص 320 و 1314 ص 342 2 - بلوغ القصد والمرام ببيان ما تنفر منه الملائكة الكرام - طبع مع كتاب شفاء الاسقام الآتي ذكره 
+<div type="entry" change="#d2e171" xml:id="div_17.d2e630"><head change="#d2e171" xml:id="head_17.d2e631"><persName change="#d2e171" xml:id="persName_19.d2e632"><surname change="#d2e171" xml:id="surname_18.d2e633">الكتاني</surname> <hi rend="quotation-marks" xml:id="hi_2418.d2e58415">محمد بن جعفر </hi></persName></head>
+<p change="#d2e171" xml:id="p_56.d2e639"> هو ابن جعفر الادريسي الكتاني المتوفي سنة 45 1 - الازهار العاطرة الانفاس بذكر بعض محاسن قطب المغرب وتاج مدينة فاس - فاس 1307 ص 320 و 1314 ص 342 2 - بلوغ القصد والمرام ببيان ما تنفر منه الملائكة الكرام - طبع مع كتاب شفاء الاسقام الآتي ذكره 
           <note type="footnote" xml:id="note_986.d2e58418">
                   <p xml:id="p_8305.d2e58420">(1) في هذه المجموعة أيضا: نصح ملوك الاسلام بالتصريف بما يجب عليهم من حقوق آل البيت الكرام لمحمد بن أبي غالب المكناسي المعروف بابن السكك - ورسالة في الامامة العظمى لعبد القادر بن على بن يوسف الفاسي (*)</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1552.xhtml" ed="print" n="1546" xml:id="cb_773.d2e58424"/>
-               <hi style="color:red;" xml:id="hi_2419.d2e58426">3 - </hi>الرسالة المستطردة لبيان مشهور كتب السنة المشرفة - (مصطلح الحديث) <placeName>بيروت</placeName> 1332 ص 180 4 - سلوة الانفاس ومحادثة الاكياس بمن أقبر من العلماء والصلحاء بفاس - فاس جزء 3 سنة 1316</p>
+               <hi style="color:red;" xml:id="hi_2419.d2e58426">3 - </hi>الرسالة المستطردة لبيان مشهور كتب السنة المشرفة - (مصطلح الحديث) <placeName change="#d2e171" xml:id="placeName_13.d2e652">بيروت</placeName> 1332 ص 180 4 - سلوة الانفاس ومحادثة الاكياس بمن أقبر من العلماء والصلحاء بفاس - فاس جزء 3 سنة 1316</p>
             <p xml:id="p_8307.d2e58430">
                <hi style="color:red;" xml:id="hi_2420.d2e58432">5 - </hi>شفاء الاسقام والالام بما يكفر ما تقدم وما تأخر من الذنوب والاثام - ويليه بلوغ القصد والمرام المذكور اعلاه رقم 2 فاس 1321 ص 75 6 - نظم المتناثر من الحديث المتواتر - فاس طبع حروف 1328 ص 157 </p></div>
-<div type="entry"><head><persName><surname>الكتاني</surname> <hi rend="quotation-marks" xml:id="hi_2421.d2e58435">علي بن سلمون </hi></persName></head>
-<p> * ابن سلمون الكتاني </p></div>
-<div type="entry"><head><persName><surname>الكتاني</surname> <hi rend="quotation-marks" xml:id="hi_2422.d2e58438">محمد بن عبد الكبير </hi></persName></head>
-<p> محمد عبد الحي بن عبد الكبير الكتاني الحسني الادريسي الفاسي 1 - حكم - فاس 1321 ص 95 2 - خبئة الكون - أو النواشي الاختصاصية شرح الصلاة الانموذجية وهي شرح على الصلاة الانموذجية المعدودة من ايراد الطائفة الكتانية (فوائد) طبع حجر فاس 1318 3 - الرحمة المرسلة في شأن حديث البسملة - بولاق 1323 4 - السر الخفي الامتناني الواصل إلى ذكر الراتب الكتاني - فاس 1325 ص 287 5 - فنية السائل في اختصار الشمائل - فاس 1331 ص 40 6 - الكمال المتلالي والاستدلالات العوالي - في محاجة أهل التفريط والتالي وان فيضان الربوبية</p>
+<div type="entry" change="#d2e171" xml:id="div_18.d2e663"><head change="#d2e171" xml:id="head_18.d2e664"><persName change="#d2e171" xml:id="persName_20.d2e665"><surname change="#d2e171" xml:id="surname_19.d2e666">الكتاني</surname> <hi rend="quotation-marks" xml:id="hi_2421.d2e58435">علي بن سلمون </hi></persName></head>
+<p change="#d2e171" xml:id="p_59.d2e672"> * ابن سلمون الكتاني </p></div>
+<div type="entry" change="#d2e171" xml:id="div_19.d2e675"><head change="#d2e171" xml:id="head_19.d2e676"><persName change="#d2e171" xml:id="persName_21.d2e677"><surname change="#d2e171" xml:id="surname_20.d2e678">الكتاني</surname> <hi rend="quotation-marks" xml:id="hi_2422.d2e58438">محمد بن عبد الكبير </hi></persName></head>
+<p change="#d2e171" xml:id="p_60.d2e684"> محمد عبد الحي بن عبد الكبير الكتاني الحسني الادريسي الفاسي 1 - حكم - فاس 1321 ص 95 2 - خبئة الكون - أو النواشي الاختصاصية شرح الصلاة الانموذجية وهي شرح على الصلاة الانموذجية المعدودة من ايراد الطائفة الكتانية (فوائد) طبع حجر فاس 1318 3 - الرحمة المرسلة في شأن حديث البسملة - بولاق 1323 4 - السر الخفي الامتناني الواصل إلى ذكر الراتب الكتاني - فاس 1325 ص 287 5 - فنية السائل في اختصار الشمائل - فاس 1331 ص 40 6 - الكمال المتلالي والاستدلالات العوالي - في محاجة أهل التفريط والتالي وان فيضان الربوبية</p>
             <p xml:id="p_8308.d2e58442">م.</p>
             <p xml:id="p_8309.d2e58445">98
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1553.xhtml" ed="print" n="1547" xml:id="pb_780.d2e58447"/>
-          المحمدية لا ينقطع بل متلالي طبع بفاس ومعه الكتاب الآتي: 7 - لسان الحجة البرهانية في الذب عن شعائر الطريقة الاحمدية الكتانية - (تصوف) فاس 1319 ص 356 ودون تاريخ ص 324 8 - لقطة العجلان بشرح الصلاة الانموذجية فاس 1314 ص 26 9 - مفاكهة ذوي النيل والاجادة في الرد على مدير جريدة <title level="j" change="#d2e166">السعادة</title> - فاس 1326 ص 40 </p></div>
-<div type="entry"><head><persName><surname>الكتبي</surname> <hi rend="quotation-marks" xml:id="hi_2423.d2e58449">ابن شاكر </hi></persName></head>
-<p> (686 - 764) محمد بن شاكر بن احمد بن عبد الرحمن صلاح الدين أو فخر الدين الحلبي الداراني ثم الدمشقي الكتبي سمع من ابن الشحنة والمزي وغيرهما وكان فقيرا.</p>
+          المحمدية لا ينقطع بل متلالي طبع بفاس ومعه الكتاب الآتي: 7 - لسان الحجة البرهانية في الذب عن شعائر الطريقة الاحمدية الكتانية - (تصوف) فاس 1319 ص 356 ودون تاريخ ص 324 8 - لقطة العجلان بشرح الصلاة الانموذجية فاس 1314 ص 26 9 - مفاكهة ذوي النيل والاجادة في الرد على مدير جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_6.d2e694">السعادة</title> - فاس 1326 ص 40 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_20.d2e698"><head change="#d2e171" xml:id="head_20.d2e699"><persName change="#d2e171" xml:id="persName_22.d2e700"><surname change="#d2e171" xml:id="surname_21.d2e701">الكتبي</surname> <hi rend="quotation-marks" xml:id="hi_2423.d2e58449">ابن شاكر </hi></persName></head>
+<p change="#d2e171" xml:id="p_63.d2e707"> (686 - 764) محمد بن شاكر بن احمد بن عبد الرحمن صلاح الدين أو فخر الدين الحلبي الداراني ثم الدمشقي الكتبي سمع من ابن الشحنة والمزي وغيرهما وكان فقيرا.</p>
             <p xml:id="p_8310.d2e58453">تعانى التجارة في الكتب فرزق منها مالا طايلا - وقال ابن كثير تفرد في صناعته وجمع تاريخا وكان يذاكر ويفيد وقال ابن رافع كانت له مرؤة له فوات الوفيات المطبوع وعيون التواريخ (1) مرتب على السنين في ستة مجلدات وله روضة الازهار وحديقة الاشعار</p>
             <p xml:id="p_8311.d2e58456">فوات الوفيات - جعله ذيلا لوفيات الاعيان تأليف ابن خلكان وهو يشتمل على 572 ترجمة منها نحو ست تراجم أو سبعة مذكورة في الوفيات - جزء 2 بولاق 1283 ص 380 و 412 وبولاق 1299 
           <note type="footnote" xml:id="note_987.d2e58458">
-                  <p xml:id="p_8311.d2e58460">الدرر الكامنة باسم محمد بن شاكر (1) من هذا التاريخ النفيس نسخة خطية بعدة اجزاء غير كاملة في الخزانة الظاهر ومنه اجزاء في غوطا وباريس والمتحف البريطاني والمكتبة الواتيكانية بروما أنظر خزائن الكتب في <placeName>دمشق</placeName> وضواحيها ص 77 (*)</p>
+                  <p xml:id="p_8311.d2e58460">الدرر الكامنة باسم محمد بن شاكر (1) من هذا التاريخ النفيس نسخة خطية بعدة اجزاء غير كاملة في الخزانة الظاهر ومنه اجزاء في غوطا وباريس والمتحف البريطاني والمكتبة الواتيكانية بروما أنظر خزائن الكتب في <placeName change="#d2e171" xml:id="placeName_14.d2e719">دمشق</placeName> وضواحيها ص 77 (*)</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1554.xhtml" ed="print" n="1548" xml:id="cb_774.d2e58464"/>كجادور (بك) (المحامي بالحقانية) القانون المدني - تأليف متولى الاوكاتو الفرنساوي بولاق 1290 وطبع منه قانون التجارة البحرية في بولاق 1290.</p>
             <p xml:id="p_8313.d2e58468">الكحلاني محمد بن اسمعيل الامير بن صلاح الكحلاني ثم الصغاني سبل السلام شرح بلوغ المرام - (حديث) اختصره من شرح شرف الدين المغربي - ويليه فض الوعاء في أحاديث رفع اليدين في الدعاه له أيضا ثم عقود الجمان في جواز تعليم الكتابة للنسوان - دهلي 1302 و 1311 - جزء 2 </p></div>
-<div type="entry"><head><persName><surname>كحيل</surname> <hi rend="quotation-marks" xml:id="hi_2424.d2e58470">عزيز (باشا) </hi></persName></head>
-<p>
+<div type="entry" change="#d2e171" xml:id="div_21.d2e730"><head change="#d2e171" xml:id="head_21.d2e731"><persName change="#d2e171" xml:id="persName_23.d2e732"><surname change="#d2e171" xml:id="surname_22.d2e733">كحيل</surname> <hi rend="quotation-marks" xml:id="hi_2424.d2e58470">عزيز (باشا) </hi></persName></head>
+<p change="#d2e171" xml:id="p_68.d2e739">
             </p>
             <p xml:id="p_8314.d2e58474">أو عبد العزيز باشا كحيل - من أسرة كحيل الدمشقية المولود في القاهرة سنة 1856 وكان وكيل النائب العمومي عن الحضرة الخديوية بمحكمة الاستئناف الاهلية بمصر نزيل الاسكندرية الآن (1928 م) 1 - اثبات الحقوق المدنية واثبات التخلص منها <choice xml:id="choice_1974.d2e58476">
                   <abbr xml:id="abbr_1974.d2e58478">مط</abbr>
                   <expan xml:id="expan_1974.d2e58481">مطبعة</expan>
-               </choice> الاهرام اسكندرية 1899 ص 296 2 - رسالة في اليمين - فيها شرح عن اليمين المفروضة على القضاة وأعضاء قلم النائب العمومي وموظفي المحاكم والشهود الخ - <placeName>مصر</placeName> 1885 3 - شرح قانون التجارة المصري - بمساعدة يوسف بك وهبه - أوله يا مبدئ الشرائع والاحكام روحا للاصلاح وأحكاما للنظام - <choice xml:id="choice_1975.d2e58485">
+               </choice> الاهرام اسكندرية 1899 ص 296 2 - رسالة في اليمين - فيها شرح عن اليمين المفروضة على القضاة وأعضاء قلم النائب العمومي وموظفي المحاكم والشهود الخ - <placeName change="#d2e171" xml:id="placeName_15.d2e753">مصر</placeName> 1885 3 - شرح قانون التجارة المصري - بمساعدة يوسف بك وهبه - أوله يا مبدئ الشرائع والاحكام روحا للاصلاح وأحكاما للنظام - <choice xml:id="choice_1975.d2e58485">
                   <abbr xml:id="abbr_1975.d2e58487">مط</abbr>
                   <expan xml:id="expan_1975.d2e58490">مطبعة</expan>
                </choice> المقتطف 1885 ص 439 وله ترجمة تاريخ الجبرتي إلى اللغة الفرنسية أنظر </p></div>
-<div type="entry"><head><persName><surname>الجبرتى</surname> <hi rend="quotation-marks" xml:id="hi_2425.d2e58494">عبد الرحمن </hi></persName></head>
-<p> </p></div>
-<div type="entry"><head><persName><surname>كحيل</surname> <hi rend="quotation-marks" xml:id="hi_2426.d2e58497">نجيب (بك) </hi></persName></head>
-<p> طبيب العيون بمصر
+<div type="entry" change="#d2e171" xml:id="div_22.d2e766"><head change="#d2e171" xml:id="head_22.d2e767"><persName change="#d2e171" xml:id="persName_24.d2e768"><surname change="#d2e171" xml:id="surname_23.d2e769">الجبرتى</surname> <hi rend="quotation-marks" xml:id="hi_2425.d2e58494">عبد الرحمن </hi></persName></head>
+<p change="#d2e171" xml:id="p_70.d2e775"> </p></div>
+<div type="entry" change="#d2e171" xml:id="div_23.d2e778"><head change="#d2e171" xml:id="head_23.d2e779"><persName change="#d2e171" xml:id="persName_25.d2e780"><surname change="#d2e171" xml:id="surname_24.d2e781">كحيل</surname> <hi rend="quotation-marks" xml:id="hi_2426.d2e58497">نجيب (بك) </hi></persName></head>
+<p change="#d2e171" xml:id="p_71.d2e787"> طبيب العيون بمصر
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1555.xhtml" ed="print" n="1549" xml:id="pb_781.d2e58500"/>
-          رحلة إلى معاهد العميان في أوربا - وبحث في تحسين حالة عميان <placeName>مصر</placeName>؟ - <choice xml:id="choice_1976.d2e58503">
+          رحلة إلى معاهد العميان في أوربا - وبحث في تحسين حالة عميان <placeName change="#d2e171" xml:id="placeName_16.d2e791">مصر</placeName>؟ - <choice xml:id="choice_1976.d2e58503">
                   <abbr xml:id="abbr_1976.d2e58505">مط</abbr>
                   <expan xml:id="expan_1976.d2e58508">مطبعة</expan>
                </choice> الاهرام 1912 ص 84 </p></div>
-<div type="entry"><head><persName><surname>كراتشقوفسكي</surname> <hi rend="quotation-marks" xml:id="hi_2427.d2e58512">أغناطيوس </hi></persName></head>
-<p> المستشرق الروسى المولود في 17 آدار سنة 1883 يقيم</p>
+<div type="entry" change="#d2e171" xml:id="div_24.d2e805"><head change="#d2e171" xml:id="head_24.d2e806"><persName change="#d2e171" xml:id="persName_26.d2e807"><surname change="#d2e171" xml:id="surname_25.d2e808">كراتشقوفسكي</surname> <hi rend="quotation-marks" xml:id="hi_2427.d2e58512">أغناطيوس </hi></persName></head>
+<p change="#d2e171" xml:id="p_72.d2e814"> المستشرق الروسى المولود في 17 آدار سنة 1883 يقيم</p>
             <p xml:id="p_8315.d2e58516">الآن في لنين غراد وهو أحد أعضاء المجمع العلمي الروسي ومدرس الآداب العربية في كلية لنين غراد اعتنى هذا الفاضل بنشر الآداب العربية وما زال يتحفنا بمصنفات ورسائل ذات شأن باللغات الروسية والفرنسية والالمانية والعربية ومما يذكر له خصوصا نشره ديوان الواوا - الدمشقي بالعربي مع ترجمته إلى اللغة الروسية - وله المقالات والرسائل الآتي ذكرها نشرها باللغة العربية: (1) ترجمة الشاعر العربي أبي دحبل الجمحي - طبعت سنة 1912 ص 14 (2) نظرة في وصف مخطوطات ابن طيفور والاوراق للصولي 1912 (3) حماسة البحتري وأول من اكتشفها في أوروبا - 1912 ص 12 (4) المخطوطات العربية في خزانة البلدية الاسكندرية ووصف ديوان عمر المختار الكلبي الكناني المشهور في القرنين السابع والثامن للهجرة - 1914 ص 30 (5) مخطوطة جديدة للمجلد الخامس من تاريخ ابن مسكويه - 1916 ص 8 (6) التعاويذ عند عرب الجنوب - 1917 ص 8 (7) مخطوطة جديدة لديوان ذي الرمة مع شرحه للاصمعي 1918 ص 10</p>
             <p xml:id="p_8316.d2e58519">(8) الرواية التاريخية وكتبة العرب - 1911 ص 32 (9) المخطوطات العربية التي ضمت إلى القسم الاسيوي من متحف المجمع العلمي الروسي وأصلها من القوفاز - 1917 ص 38 وقد ترجم إلى اللغة الروسية كتاب الريحانيات وبعض مقامات مجمع البحرين اليازجية والمرأة الجديدة لقاسم أمين
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1556.xhtml" ed="print" n="1550" xml:id="cb_775.d2e58521"/>
           </p></div>
-<div type="entry"><head><persName><surname>كرامه</surname> <hi rend="quotation-marks" xml:id="hi_2428.d2e58523">بطرس </hi></persName></head>
-<p> (1774 - 1851 م) (0) (المعلم) بطرس بن ابراهيم كرامه من أعيان حمص خرج ابراهيم مع ابنه بطرس إلى عكار (ونزل في بيت الاسعد حكام البلاد بوقته) .</p>
+<div type="entry" change="#d2e171" xml:id="div_25.d2e825"><head change="#d2e171" xml:id="head_25.d2e826"><persName change="#d2e171" xml:id="persName_27.d2e827"><surname change="#d2e171" xml:id="surname_26.d2e828">كرامه</surname> <hi rend="quotation-marks" xml:id="hi_2428.d2e58523">بطرس </hi></persName></head>
+<p change="#d2e171" xml:id="p_75.d2e834"> (1774 - 1851 م) (0) (المعلم) بطرس بن ابراهيم كرامه من أعيان حمص خرج ابراهيم مع ابنه بطرس إلى عكار (ونزل في بيت الاسعد حكام البلاد بوقته) .</p>
             <p xml:id="p_8317.d2e58527">ومنها إلى لبنان من جور كان يتهدده - وكان بطرس ذكيا يقول الشعر ويحسن اللغة التركيه.</p>
             <p xml:id="p_8318.d2e58530">فاتفق أن الامير بشير الشهابي احتاج إلى معلم يدرس ولديه خليل وأمين فاستقدم بطرس سنة 1810 وقربه إليه واتخذه كاتبا للامور الاجنبية لجودة انشائه.</p>
             <p xml:id="p_8319.d2e58534">وجعله معتمدا من قبله في المسير إلى عكا إذا اقتضت الحالة مخابرة واليها.</p>
@@ -251,19 +251,19 @@
             <p xml:id="p_8321.d2e58540">وما زال يدير أعمال لبنان بحكمة وسياسة حتى قضت الاحوال بنفي الامير بشير سنة 1840</p>
             <p xml:id="p_8322.d2e58543">إلى مالطه ثم إلى القسطنطينية.</p>
             <p xml:id="p_8323.d2e58546">فرافقه المعلم بطرس وتقرب هناك من رجال الدولة وتعين مترجما في المابين الهمايوني وما زال في ذلك المنصب إلى أن قضى نحبه.</p>
-            <p xml:id="p_8324.d2e58549">وكان شاعرا مجيدا فصيح اللسان مهيبا مكرم الجانب وقد أرخ وفاته الشيخ ناصيف اليازجي فقال: مضى من كان أذكى من اياس * بحكمته وأشهر من زهير فقل يا ابن الكرامة قر عينا * لبطرس أرخوه ختام خير 1 - الدراري السبع - وهي الموشحات الاندلسية جمعها بطرس كرامه مع موشحات غيرها - <placeName>بيروت</placeName> 1864 و 1876 م 2 - ديوان (بطرس كرامه) - المسمى سجع الحمامه في ديوان المعلم بطرس كرامه - عدد أبياته نحو سبعة آلاف بيت أكثرها في مدح بشير الشهابي ووصف 
+            <p xml:id="p_8324.d2e58549">وكان شاعرا مجيدا فصيح اللسان مهيبا مكرم الجانب وقد أرخ وفاته الشيخ ناصيف اليازجي فقال: مضى من كان أذكى من اياس * بحكمته وأشهر من زهير فقل يا ابن الكرامة قر عينا * لبطرس أرخوه ختام خير 1 - الدراري السبع - وهي الموشحات الاندلسية جمعها بطرس كرامه مع موشحات غيرها - <placeName change="#d2e171" xml:id="placeName_17.d2e861">بيروت</placeName> 1864 و 1876 م 2 - ديوان (بطرس كرامه) - المسمى سجع الحمامه في ديوان المعلم بطرس كرامه - عدد أبياته نحو سبعة آلاف بيت أكثرها في مدح بشير الشهابي ووصف 
           <note type="footnote" xml:id="note_988.d2e58551">
                   <p xml:id="p_8324.d2e58553">(0) تراجم مشاهير الشرق 2 - 278 تاريخ سوريا للمطران يوسف الدبس عدد 1110 تاريخ الآداب العربية للاب لويس شيخو 1 - 54.</p>
                   <p xml:id="p_8325.d2e58556">(*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1557.xhtml" ed="print" n="1551" xml:id="pb_782.d2e58560"/>أعماله ومدح من عاصره من الامراء وغير ذلك - ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الادبية <placeName>بيروت</placeName> 1898 ص 400 بعناية سليم بك ناصيف جعله تقدمة إلى نعوم باشا متصرف جبل لبنان</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1557.xhtml" ed="print" n="1551" xml:id="pb_782.d2e58560"/>أعماله ومدح من عاصره من الامراء وغير ذلك - ال<choice change="#d2e171" xml:id="choice_14.d2e875"><abbr change="#d2e171" xml:id="abbr_14.d2e876">مط</abbr><expan change="#d2e171" xml:id="expan_14.d2e878">مطبعة</expan></choice> الادبية <placeName change="#d2e171" xml:id="placeName_18.d2e881">بيروت</placeName> 1898 ص 400 بعناية سليم بك ناصيف جعله تقدمة إلى نعوم باشا متصرف جبل لبنان</p>
             <p xml:id="p_8327.d2e58564">الكرباسي (الشيخ) محمد ابراهيم بن محمد حسن الكرباسي (من أبناء القرن الثالث عشر للهجرة) اشارات الاصول - رتبها على مقدمة ومناهج وخاتمة - العجم 1245 </p></div>
-<div type="entry"><head><persName><surname>الكرخي</surname> <hi rend="quotation-marks" xml:id="hi_2429.d2e58566">أبو بكر </hi></persName></head>
-<p> (407) أبو بكر محمد بن الحسين الكرخي المسكني فخر الملوك 1 - الفخري في الجبر والمقابلة - باعتناء الاستاذ فرانتس وابكي (1) وله مقدمة باللغة الفرنسية في علم الجبر عند العرب - باريس 1853 ص 8 و 152 2 - الكافي في الحساب - باعتناء العلامة هو خهايم جزء 3 دهلى 80 / 1878 </p></div>
-<div type="entry"><head><persName><surname>الكرخي</surname> <hi rend="quotation-marks" xml:id="hi_2430.d2e58569">(الامام) أبو الحسن </hi></persName></head>
-<p> رسالة في الاصول - طبعت مع كتاب تأسيس النظر لابي زيد عبيد الله الدبوسي الحنفي الكردري البزازي * البزازي كرد </p></div>
-<div type="entry"><head><persName><surname>علي</surname> <hi rend="quotation-marks" xml:id="hi_2431.d2e58572">محمد </hi></persName></head>
-<p> صاحب مجلة <title level="j" change="#d2e166">المقتبس</title> ورئيس المجمع العلمي العربي بدمشق 1 - تاريخ الحضارة - تأليف شارل سنيوبوس أحد أساتذة كلية السربون بباريس معرب جزء 2 <choice xml:id="choice_1977.d2e58575">
+<div type="entry" change="#d2e171" xml:id="div_26.d2e888"><head change="#d2e171" xml:id="head_26.d2e889"><persName change="#d2e171" xml:id="persName_28.d2e890"><surname change="#d2e171" xml:id="surname_27.d2e891">الكرخي</surname> <hi rend="quotation-marks" xml:id="hi_2429.d2e58566">أبو بكر </hi></persName></head>
+<p change="#d2e171" xml:id="p_87.d2e897"> (407) أبو بكر محمد بن الحسين الكرخي المسكني فخر الملوك 1 - الفخري في الجبر والمقابلة - باعتناء الاستاذ فرانتس وابكي (1) وله مقدمة باللغة الفرنسية في علم الجبر عند العرب - باريس 1853 ص 8 و 152 2 - الكافي في الحساب - باعتناء العلامة هو خهايم جزء 3 دهلى 80 / 1878 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_27.d2e900"><head change="#d2e171" xml:id="head_27.d2e901"><persName change="#d2e171" xml:id="persName_29.d2e902"><surname change="#d2e171" xml:id="surname_28.d2e903">الكرخي</surname> <hi rend="quotation-marks" xml:id="hi_2430.d2e58569">(الامام) أبو الحسن </hi></persName></head>
+<p change="#d2e171" xml:id="p_88.d2e909"> رسالة في الاصول - طبعت مع كتاب تأسيس النظر لابي زيد عبيد الله الدبوسي الحنفي الكردري البزازي * البزازي كرد </p></div>
+<div type="entry" change="#d2e171" xml:id="div_28.d2e912"><head change="#d2e171" xml:id="head_28.d2e913"><persName change="#d2e171" xml:id="persName_30.d2e914"><surname change="#d2e171" xml:id="surname_29.d2e915">علي</surname> <hi rend="quotation-marks" xml:id="hi_2431.d2e58572">محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_89.d2e921"> صاحب مجلة <title level="j" change="#d2e166 #d2e171" xml:id="title_7.d2e923">المقتبس</title> ورئيس المجمع العلمي العربي بدمشق 1 - تاريخ الحضارة - تأليف شارل سنيوبوس أحد أساتذة كلية السربون بباريس معرب جزء 2 <choice xml:id="choice_1977.d2e58575">
                   <abbr xml:id="abbr_1977.d2e58577">مط</abbr>
                   <expan xml:id="expan_1977.d2e58580">مطبعة</expan>
                </choice> الظاهر 1908 م 
@@ -275,7 +275,7 @@
                <hi style="color:red;" xml:id="hi_2432.d2e58596">2 - </hi>الرحلة الا نورية إلى الاصقاع الحجازية والشامية وهي صفحات تشمل ما تفرق من سياحة رجل العثمانيين أنور باشا وكيل الفائد الاعظم وناظر الحربية الجديدة <choice xml:id="choice_1978.d2e58599">
                   <abbr xml:id="abbr_1978.d2e58601">مط</abbr>
                   <expan xml:id="expan_1978.d2e58604">مطبعة</expan>
-               </choice> العلمية <placeName>بيروت</placeName> 1334 - 1916 ص 300 3 - رسائل البلغاء - فيها قسم من رسائل <persName ref="viaf:89743196" xml:lang="ar" xml:id="persName_45.d2e58608">ابن المقفع</persName> وأربع رسائل لعبد الحميد بن يحيى الكاتب باعتناء الشيخ طاهر الجرائري ومحمد افندي كرد علي - <choice xml:id="choice_1979.d2e58611">
+               </choice> العلمية <placeName change="#d2e171" xml:id="placeName_19.d2e959">بيروت</placeName> 1334 - 1916 ص 300 3 - رسائل البلغاء - فيها قسم من رسائل <persName ref="viaf:89743196" xml:lang="ar" xml:id="persName_45.d2e58608">ابن المقفع</persName> وأربع رسائل لعبد الحميد بن يحيى الكاتب باعتناء الشيخ طاهر الجرائري ومحمد افندي كرد علي - <choice xml:id="choice_1979.d2e58611">
                   <abbr xml:id="abbr_1979.d2e58613">مط</abbr>
                   <expan xml:id="expan_1979.d2e58616">مطبعة</expan>
                </choice> الظاهر 1326 ص 100 وجدد محمد كرد علي طبع الرسائل المذكورة وأضاف إليها: 1 الرسالة العذراء في موارين البلاغة وادوات الكتابة لابي اليسر ابراهيم محمد بن المدبر 2 رسالة أبي حسن على بن منصور الحلبي المعروف بابن القارح إلى أبي العلاء المعري (راجع ارشاد الاريب لياقوت) .</p>
@@ -286,35 +286,35 @@
                </choice> مصطفى البابى الحلبي 1331 - 1913 ص 320 4 - غرائب الغرب - سياحة لاوروبا والاستانة ومصر سنة 1327 وصف فيها ما شاهده في أوروبا من الارتقاء والعمران - <choice xml:id="choice_1981.d2e58635">
                   <abbr xml:id="abbr_1981.d2e58637">مط</abbr>
                   <expan xml:id="expan_1981.d2e58640">مطبعة</expan>
-               </choice> المقتبس <placeName>دمشق</placeName> 1328 - 1910 ص 204 وللمترجم كتاب خطط الشام في ستة مجلدات كبيرة طبع حديثا (أنظر جامع التصانيف الحديثة) 
+               </choice> المقتبس <placeName change="#d2e171" xml:id="placeName_20.d2e998">دمشق</placeName> 1328 - 1910 ص 204 وللمترجم كتاب خطط الشام في ستة مجلدات كبيرة طبع حديثا (أنظر جامع التصانيف الحديثة) 
           <note type="footnote" xml:id="note_990.d2e58644">
                   <p xml:id="p_8331.d2e58646">(1) عني بنشرها احمد باشا تيمور (*)</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1559.xhtml" ed="print" n="1553" xml:id="pb_783.d2e58650"/>الكردي </p></div>
-<div type="entry"><head><persName><surname>البيتوشي</surname> <hi rend="quotation-marks" xml:id="hi_2433.d2e58652">عبد الله بن محمد </hi></persName></head>
-<p> منظومة المكفرات لكل ذنب سابق وآت ويليها منظومة له نظم بها رسالة السيوطي في الادعية المستجابة - <choice xml:id="choice_1982.d2e58656">
+<div type="entry" change="#d2e171" xml:id="div_29.d2e1010"><head change="#d2e171" xml:id="head_29.d2e1011"><persName change="#d2e171" xml:id="persName_32.d2e1012"><surname change="#d2e171" xml:id="surname_30.d2e1013">البيتوشي</surname> <hi rend="quotation-marks" xml:id="hi_2433.d2e58652">عبد الله بن محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_95.d2e1019"> منظومة المكفرات لكل ذنب سابق وآت ويليها منظومة له نظم بها رسالة السيوطي في الادعية المستجابة - <choice xml:id="choice_1982.d2e58656">
                   <abbr xml:id="abbr_1982.d2e58658">مط</abbr>
                   <expan xml:id="expan_1982.d2e58661">مطبعة</expan>
                </choice> الجمالية 1332 </p></div>
-<div type="entry"><head><persName><surname>الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2434.d2e58665">محمود </hi></persName></head>
-<p> حكم - شرحها تلميذه الشيخ عبد القادر الرافعي الفاروقي الطرابلسي - أنظر </p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_2435.d2e58668">عبد القادر </hi></persName></head>
-<p>: احياء القلوب الكردي </p></div>
-<div type="entry"><head><persName><surname>الساوجيلاغي</surname> <hi rend="quotation-marks" xml:id="hi_2436.d2e58671">كمال الدين </hi></persName></head>
-<p> ميزان الاسلام في جميع الاحكام -</p>
+<div type="entry" change="#d2e171" xml:id="div_30.d2e1032"><head change="#d2e171" xml:id="head_30.d2e1033"><persName change="#d2e171" xml:id="persName_33.d2e1034"><surname change="#d2e171" xml:id="surname_31.d2e1035">الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2434.d2e58665">محمود </hi></persName></head>
+<p change="#d2e171" xml:id="p_96.d2e1041"> حكم - شرحها تلميذه الشيخ عبد القادر الرافعي الفاروقي الطرابلسي - أنظر </p></div>
+<div type="entry" change="#d2e171" xml:id="div_31.d2e1044"><head change="#d2e171" xml:id="head_31.d2e1045"><persName change="#d2e171" xml:id="persName_34.d2e1046"><surname change="#d2e171" xml:id="surname_32.d2e1047">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_2435.d2e58668">عبد القادر </hi></persName></head>
+<p change="#d2e171" xml:id="p_97.d2e1053">: احياء القلوب الكردي </p></div>
+<div type="entry" change="#d2e171" xml:id="div_32.d2e1056"><head change="#d2e171" xml:id="head_32.d2e1057"><persName change="#d2e171" xml:id="persName_35.d2e1058"><surname change="#d2e171" xml:id="surname_33.d2e1059">الساوجيلاغي</surname> <hi rend="quotation-marks" xml:id="hi_2436.d2e58671">كمال الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_98.d2e1065"> ميزان الاسلام في جميع الاحكام -</p>
             <p xml:id="p_8333.d2e58675">حوى من حكم الاحاديث النبوية المشروحة ركنا قويما ومن الآيات الفرقانية والابيات اللقمانية جانبا عظيما ومن بدائع الصحابة والخلفاء والملوك القدماء نبذا لطيفة <choice xml:id="choice_1983.d2e58677">
                   <abbr xml:id="abbr_1983.d2e58679">مط</abbr>
                   <expan xml:id="expan_1983.d2e58682">مطبعة</expan>
                </choice> السعادة 1334 ص 176 (صغير) </p></div>
-<div type="entry"><head><persName><surname>الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2437.d2e58686">(الشيخ) سليمان بن محمد </hi></persName></head>
-<p> فتاوى - وبهامشها فتاوى الشيخ محمد صالح الرئيس الزبيري - مكه 1307 ص 304 </p></div>
-<div type="entry"><head><persName><surname>الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2438.d2e58689">عبد الرحمن </hi></persName></head>
-<p> عبد الرحمن بن الملا حسن الكردي المعروف بابن عصبة شرح صلاة ابن مشيش - (فوائد) <placeName>دمشق</placeName> 1300.</p>
-            <p xml:id="p_8334.d2e58693"></p></div>
-<div type="entry"><head><persName><surname>الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2439.d2e58695">عبد القادر </hi></persName></head>
-<p> (الشيخ) عبد القادر معروف الكردي السنندجى 1 - تنوير المشرق شرح تهذيب المنطق - ألفه بمعاونة احمد المحلي (أنظر احمد المحلي) 2 - تعليقات على متن تهذيب المنطق والكلام للسعد التفتازاني انظر </p></div>
-<div type="entry"><head><persName><surname>التفتازاني</surname> <hi rend="quotation-marks" xml:id="hi_2440.d2e58698">سعد الدين </hi></persName></head>
-<p>
+<div type="entry" change="#d2e171" xml:id="div_33.d2e1080"><head change="#d2e171" xml:id="head_33.d2e1081"><persName change="#d2e171" xml:id="persName_36.d2e1082"><surname change="#d2e171" xml:id="surname_34.d2e1083">الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2437.d2e58686">(الشيخ) سليمان بن محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_100.d2e1089"> فتاوى - وبهامشها فتاوى الشيخ محمد صالح الرئيس الزبيري - مكه 1307 ص 304 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_34.d2e1092"><head change="#d2e171" xml:id="head_34.d2e1093"><persName change="#d2e171" xml:id="persName_37.d2e1094"><surname change="#d2e171" xml:id="surname_35.d2e1095">الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2438.d2e58689">عبد الرحمن </hi></persName></head>
+<p change="#d2e171" xml:id="p_101.d2e1101"> عبد الرحمن بن الملا حسن الكردي المعروف بابن عصبة شرح صلاة ابن مشيش - (فوائد) <placeName change="#d2e171" xml:id="placeName_21.d2e1103">دمشق</placeName> 1300.</p>
+            <p xml:id="p_8334.d2e58693"/></div>
+<div type="entry" change="#d2e171" xml:id="div_35.d2e1109"><head change="#d2e171" xml:id="head_35.d2e1110"><persName change="#d2e171" xml:id="persName_38.d2e1111"><surname change="#d2e171" xml:id="surname_36.d2e1112">الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2439.d2e58695">عبد القادر </hi></persName></head>
+<p change="#d2e171" xml:id="p_103.d2e1118"> (الشيخ) عبد القادر معروف الكردي السنندجى 1 - تنوير المشرق شرح تهذيب المنطق - ألفه بمعاونة احمد المحلي (أنظر احمد المحلي) 2 - تعليقات على متن تهذيب المنطق والكلام للسعد التفتازاني انظر </p></div>
+<div type="entry" change="#d2e171" xml:id="div_36.d2e1122"><head change="#d2e171" xml:id="head_36.d2e1123"><persName change="#d2e171" xml:id="persName_39.d2e1124"><surname change="#d2e171" xml:id="surname_37.d2e1125">التفتازاني</surname> <hi rend="quotation-marks" xml:id="hi_2440.d2e58698">سعد الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_104.d2e1131">
 
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1560.xhtml" ed="print" n="1554" xml:id="cb_777.d2e58701"/>
                <hi style="color:red;" xml:id="hi_2441.d2e58703">3 - </hi>
@@ -322,15 +322,15 @@
                   <abbr xml:id="abbr_1984.d2e58708">مط</abbr>
                   <expan xml:id="expan_1984.d2e58711">مطبعة</expan>
                </choice> كردستان 1329 ص 64 </p></div>
-<div type="entry"><head><persName><surname>الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2442.d2e58716">(الشيخ) فرج الله زكي </hi></persName></head>
-<p>
+<div type="entry" change="#d2e171" xml:id="div_37.d2e1148"><head change="#d2e171" xml:id="head_37.d2e1149"><persName change="#d2e171" xml:id="persName_40.d2e1150"><surname change="#d2e171" xml:id="surname_38.d2e1151">الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2442.d2e58716">(الشيخ) فرج الله زكي </hi></persName></head>
+<p change="#d2e171" xml:id="p_105.d2e1157">
             </p>
             <p xml:id="p_8335.d2e58720">كتبي في القاهرة وهو أحد أركان البابية نزيل القاهرة بشرى العالم تبرك المحاربات واتفاق الامم - يتضمن البشارات الالهية والبراهين العقلية بقرب حصول السلام بين الانام - بمطبعته سنة 1329 - 1911 (1) وقد عني المترجم بنشر كتب كثيرة دينية وأدبية وتاريخية أتينا على ذكرها بمحلاتها </p></div>
-<div type="entry"><head><persName><surname>الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2443.d2e58722">محمد أمين </hi></persName></head>
-<p> (1332) (الشيخ) محمد أمين الكردي النقشبندي بن الشيخ فتح الله زاده الاربلي بلدة الازهري اقامة 1 - ارشاد المحتاج إلى حقوق الازواج - (فقه مالك) <placeName>مصر</placeName> 1332 2 - تنوير القلوب في معاملة علام الغيوب - (تصوف) <placeName>مصر</placeName> 1322 و 1328 3 - خلاصة التصانيف - تأليف أبى حامد الغزالي باللغة الفارسية تعريب محمد أمين الكردي (تصوف) <choice xml:id="choice_1985.d2e58725">
+<div type="entry" change="#d2e171" xml:id="div_38.d2e1163"><head change="#d2e171" xml:id="head_38.d2e1164"><persName change="#d2e171" xml:id="persName_41.d2e1165"><surname change="#d2e171" xml:id="surname_39.d2e1166">الكردي</surname> <hi rend="quotation-marks" xml:id="hi_2443.d2e58722">محمد أمين </hi></persName></head>
+<p change="#d2e171" xml:id="p_107.d2e1172"> (1332) (الشيخ) محمد أمين الكردي النقشبندي بن الشيخ فتح الله زاده الاربلي بلدة الازهري اقامة 1 - ارشاد المحتاج إلى حقوق الازواج - (فقه مالك) <placeName change="#d2e171" xml:id="placeName_22.d2e1174">مصر</placeName> 1332 2 - تنوير القلوب في معاملة علام الغيوب - (تصوف) <placeName change="#d2e171" xml:id="placeName_23.d2e1177">مصر</placeName> 1322 و 1328 3 - خلاصة التصانيف - تأليف أبى حامد الغزالي باللغة الفارسية تعريب محمد أمين الكردي (تصوف) <choice xml:id="choice_1985.d2e58725">
                   <abbr xml:id="abbr_1985.d2e58727">مط</abbr>
                   <expan xml:id="expan_1985.d2e58730">مطبعة</expan>
-               </choice> السعادة 1327 4 - ديوان خطب لنصيحة البرية في الخطب المنبرية (مواعظ) <placeName>مصر</placeName>..5 - سعادة المبتدئين في علم الدين - (مذهب الامام الشافعي) <choice xml:id="choice_1986.d2e58734">
+               </choice> السعادة 1327 4 - ديوان خطب لنصيحة البرية في الخطب المنبرية (مواعظ) <placeName change="#d2e171" xml:id="placeName_24.d2e1189">مصر</placeName>..5 - سعادة المبتدئين في علم الدين - (مذهب الامام الشافعي) <choice xml:id="choice_1986.d2e58734">
                   <abbr xml:id="abbr_1986.d2e58736">مط</abbr>
                   <expan xml:id="expan_1986.d2e58739">مطبعة</expan>
                </choice> السعادة 1330 
@@ -338,26 +338,26 @@
                   <p xml:id="p_8335.d2e58745">(1) لم يمض زمن طويل من ظهور هذا الكتاب حتى شبت الحرب الكونية فأخطأ المؤلف مرماه ولا يعرف الغيب الا المولى سبحانه وتعالى وكان المؤلف زعم ان انتشار البابية في الكون سيؤول إلى اتفاق الامم (*)</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1561.xhtml" ed="print" n="1555" xml:id="pb_784.d2e58749"/>
-               <hi style="color:red;" xml:id="hi_2444.d2e58752">6 - </hi>ضوء السراج في فضل رجب وقصة المعراج (صوف) <placeName>مصر</placeName> 1327 7 - مرشد العوام لاحكام الصيام - (المذاهب الاربعة) <placeName>مصر</placeName> 1331 8 - هداية الطالبين لاحكام الدين - (مذهب الامام مالك) <placeName>مصر</placeName> 1330 الكردي المدني (1127 - 1194) (الشيخ) محمد بن سليمان الكردي المدني الشافعي ولد بدمشق وحمل إلى المدينة الشريفة وهو ابن سنة ونشأ بها وأخذ عن أفاضلها وتولي بالمدينة افتاء السادة الشافعية وقدم إلى <placeName>دمشق</placeName> قاصدا إلى بلاد الروم عام 1172 وروى عن الاستاذ البكري والشمس محمد الدمياطي والشهاب احمد الجوهري وغيرهم.</p>
+               <hi style="color:red;" xml:id="hi_2444.d2e58752">6 - </hi>ضوء السراج في فضل رجب وقصة المعراج (صوف) <placeName change="#d2e171" xml:id="placeName_25.d2e1213">مصر</placeName> 1327 7 - مرشد العوام لاحكام الصيام - (المذاهب الاربعة) <placeName change="#d2e171" xml:id="placeName_26.d2e1216">مصر</placeName> 1331 8 - هداية الطالبين لاحكام الدين - (مذهب الامام مالك) <placeName change="#d2e171" xml:id="placeName_27.d2e1219">مصر</placeName> 1330 الكردي المدني (1127 - 1194) (الشيخ) محمد بن سليمان الكردي المدني الشافعي ولد بدمشق وحمل إلى المدينة الشريفة وهو ابن سنة ونشأ بها وأخذ عن أفاضلها وتولي بالمدينة افتاء السادة الشافعية وقدم إلى <placeName change="#d2e171" xml:id="placeName_28.d2e1223">دمشق</placeName> قاصدا إلى بلاد الروم عام 1172 وروى عن الاستاذ البكري والشمس محمد الدمياطي والشهاب احمد الجوهري وغيرهم.</p>
             <p xml:id="p_8337.d2e58757">وكان فردا من أفراد العالم في سعة الاطلاع واستحضار الفقه.</p>
             <p xml:id="p_8338.d2e58760">مات بالمدينة ودفن بجوار قبة العباس في البقيع بالقرب من قبة آل</p>
             <p xml:id="p_8339.d2e58763">البيت النبوي 1 - الحواشي المدنية على شرح ابن حجر (الهيتمي) للمقدمة الحضرمية - وهي الحاشية الصغرى وبالهامش الشرح المذكور مع بعض تقريزات من الحاشية الكبرى وغيرها (فقه شافعي) جزء 2 بولاق 1288 الوهبية 1284 الخيرية 1304 الميمنية 1307 2 - فتح القدير باختصار متعلقات نسك الاجير (فقه شافعي) <choice xml:id="choice_1987.d2e58765">
                   <abbr xml:id="abbr_1987.d2e58767">مط</abbr>
                   <expan xml:id="expan_1987.d2e58770">مطبعة</expan>
                </choice> الوهبية 1296 مكه 1300 ص 12 </p></div>
-<div type="entry"><head><persName><surname>كرشه</surname> <hi rend="quotation-marks" xml:id="hi_2445.d2e58774">(الشماس) اندراوس </hi></persName></head>
-<p> الثمار الشهية في جغرافية المملكة العثمانية - ألفه بمعاونة يورغاني أبيض - وفيه خرائط - ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> 
+<div type="entry" change="#d2e171" xml:id="div_39.d2e1245"><head change="#d2e171" xml:id="head_39.d2e1246"><persName change="#d2e171" xml:id="persName_42.d2e1247"><surname change="#d2e171" xml:id="surname_40.d2e1248">كرشه</surname> <hi rend="quotation-marks" xml:id="hi_2445.d2e58774">(الشماس) اندراوس </hi></persName></head>
+<p change="#d2e171" xml:id="p_112.d2e1254"> الثمار الشهية في جغرافية المملكة العثمانية - ألفه بمعاونة يورغاني أبيض - وفيه خرائط - ال<choice change="#d2e171" xml:id="choice_26.d2e1256"><abbr change="#d2e171" xml:id="abbr_26.d2e1257">مط</abbr><expan change="#d2e171" xml:id="expan_26.d2e1259">مطبعة</expan></choice> 
           <note type="footnote" xml:id="note_992.d2e58777">
                   <p xml:id="p_8339.d2e58779">سلك الدرر 4 - 111 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1562.xhtml" ed="print" n="1556" xml:id="cb_778.d2e58783"/>الوطنية ب<placeName>طرابلس شام</placeName> 1912 ص 364 الكردلاني الخوارزمي * </p></div>
-<div type="entry"><head><persName><surname>الخوارزمي</surname> <hi rend="quotation-marks" xml:id="hi_2446.d2e58785">جلال الدين </hi></persName></head>
-<p> </p></div>
-<div type="entry"><head><persName><surname>الكرماني</surname> <hi rend="quotation-marks" xml:id="hi_2447.d2e58789">ابن ابراهيم </hi></persName></head>
-<p> * محمد الكريم الكرماني (الحالج) محمد كريم خان الحكيم من فضلاء فارس دقائق العلاج - في الطب البدني - العجم 1315 ص 551 الكرماني نفيسي * نفيس بن عوض الكرملي * انستاس ماري</p>
-            <p xml:id="p_8341.d2e58793"></p></div>
-<div type="entry"><head><persName><surname>كرنكو</surname> <hi rend="quotation-marks" xml:id="hi_2448.d2e58795">فريتس </hi></persName></head>
-<p> مستشرق ألماني يقيم الآن في بكنهام (بانكلتره) ناشرا كتبا شعرية لغوية تاريخية (باللغة العربية) لقدماء السلف مصححا اياها مما أوقعه فيها النساخ من الاغلاط والاوهام ولد فريتس في شنبرج (ألمانيا) سنة 1872 وأول لغة شرقية باشر دراستها كانت اللغة الفارسية ثم حثه على اللغة العربية واتقانها السر جارلس ليال وهو من كبار مستشرقي الانكليز فبذل جده لمعاناة درس لغة العرب ومطالعة الكتب المطبوعة والمخطوطة فنشر وهذب عدة كتب نادرة كانت مدفونة في زوايا الاهمال.</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1562.xhtml" ed="print" n="1556" xml:id="cb_778.d2e58783"/>الوطنية ب<placeName change="#d2e171" xml:id="placeName_29.d2e1270">طرابلس شام</placeName> 1912 ص 364 الكردلاني الخوارزمي * </p></div>
+<div type="entry" change="#d2e171" xml:id="div_40.d2e1274"><head change="#d2e171" xml:id="head_40.d2e1275"><persName change="#d2e171" xml:id="persName_43.d2e1276"><surname change="#d2e171" xml:id="surname_41.d2e1277">الخوارزمي</surname> <hi rend="quotation-marks" xml:id="hi_2446.d2e58785">جلال الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_114.d2e1283"> </p></div>
+<div type="entry" change="#d2e171" xml:id="div_41.d2e1286"><head change="#d2e171" xml:id="head_41.d2e1287"><persName change="#d2e171" xml:id="persName_44.d2e1288"><surname change="#d2e171" xml:id="surname_42.d2e1289">الكرماني</surname> <hi rend="quotation-marks" xml:id="hi_2447.d2e58789">ابن ابراهيم </hi></persName></head>
+<p change="#d2e171" xml:id="p_115.d2e1295"> * محمد الكريم الكرماني (الحالج) محمد كريم خان الحكيم من فضلاء فارس دقائق العلاج - في الطب البدني - العجم 1315 ص 551 الكرماني نفيسي * نفيس بن عوض الكرملي * انستاس ماري</p>
+            <p xml:id="p_8341.d2e58793"/></div>
+<div type="entry" change="#d2e171" xml:id="div_42.d2e1301"><head change="#d2e171" xml:id="head_42.d2e1302"><persName change="#d2e171" xml:id="persName_45.d2e1303"><surname change="#d2e171" xml:id="surname_43.d2e1304">كرنكو</surname> <hi rend="quotation-marks" xml:id="hi_2448.d2e58795">فريتس </hi></persName></head>
+<p change="#d2e171" xml:id="p_117.d2e1310"> مستشرق ألماني يقيم الآن في بكنهام (بانكلتره) ناشرا كتبا شعرية لغوية تاريخية (باللغة العربية) لقدماء السلف مصححا اياها مما أوقعه فيها النساخ من الاغلاط والاوهام ولد فريتس في شنبرج (ألمانيا) سنة 1872 وأول لغة شرقية باشر دراستها كانت اللغة الفارسية ثم حثه على اللغة العربية واتقانها السر جارلس ليال وهو من كبار مستشرقي الانكليز فبذل جده لمعاناة درس لغة العرب ومطالعة الكتب المطبوعة والمخطوطة فنشر وهذب عدة كتب نادرة كانت مدفونة في زوايا الاهمال.</p>
             <p xml:id="p_8342.d2e58799">من ذلك: 1 - ديوان أبي دهل الجماحى 2 - ديوان بكر بن عبد للعزيز العجلى 3 - ديوان النعمان بن بشير الانصاري 4 - طبقات النحاه للزبيدي 5 - الجمهرة لابن دريد 6 - تنقيح المناظر لابن هيثم البصري 7 - الكتاب المأثور عن أبي العميثل الاعرابي
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1563.xhtml" ed="print" n="1557" xml:id="pb_785.d2e58801"/>
@@ -365,19 +365,19 @@
           الارض التي أقطعها النبي الحنيف لتميم الداري 9 - مرثية المغيرة ابن المهلب بن أبي صفرة التي يعزوها بعضهم الي زياد الاعجم والبعض إلى سلطان العبدي</p>
             <p xml:id="p_8343.d2e58807">
                <hi style="color:red;" xml:id="hi_2450.d2e58809">10 - </hi>المجتنى لابن دريد 11 - الحماسة لابن الشجري </p></div>
-<div type="entry"><head><persName><surname>الكريدلي</surname> <hi rend="quotation-marks" xml:id="hi_2451.d2e58812">علي يوسف </hi></persName></head>
-<p> الايام الثلاثة - مقالات وقصائد وأحكام شرعية نشرت في الصحف العربية المصرية بشأن قضية الزوجية بين المرحوم السيد السادات وصاحب امتياز المؤيد - <choice xml:id="choice_1988.d2e58815">
+<div type="entry" change="#d2e171" xml:id="div_43.d2e1327"><head change="#d2e171" xml:id="head_43.d2e1328"><persName change="#d2e171" xml:id="persName_46.d2e1329"><surname change="#d2e171" xml:id="surname_44.d2e1330">الكريدلي</surname> <hi rend="quotation-marks" xml:id="hi_2451.d2e58812">علي يوسف </hi></persName></head>
+<p change="#d2e171" xml:id="p_120.d2e1336"> الايام الثلاثة - مقالات وقصائد وأحكام شرعية نشرت في الصحف العربية المصرية بشأن قضية الزوجية بين المرحوم السيد السادات وصاحب امتياز المؤيد - <choice xml:id="choice_1988.d2e58815">
                   <abbr xml:id="abbr_1988.d2e58817">مط</abbr>
                   <expan xml:id="expan_1988.d2e58820">مطبعة</expan>
                </choice> أبي الهول 1330 - 1912 ص 208 الكريدي </p></div>
-<div type="entry"><head><persName><surname>الحانوي</surname> <hi rend="quotation-marks" xml:id="hi_2452.d2e58824">ابراهيم أدهم بن محمد </hi></persName></head>
-<p> شرح الالهامي من الفيض الهامي - (مؤلف الالهامي الامام علي الحربي) (تصوف) بولاق 1304 كريسطيان بن دانيال فرين * فراين كريم بن ابراهيم رجوم الشياطين - قال في أوله: هذه رسالة كتبتها في رجوم الشياطين وطرد الابالسة عن قلوب المؤمنين - كتبها مؤلفها في قرية لنجر (كذا) سنة 1268 وطبعت على الحجر (في بلاد العجم) ص 185 بتصحيح محمد الموسوي القراباغى والحاج ملا محمد (الحاج) كريم خان فصل الخطاب من الكتب والابواب - (فقه الشيعه) العجم 1320 جزء 2 (البارون فون) كريمر Baron Alf.</p>
+<div type="entry" change="#d2e171" xml:id="div_44.d2e1348"><head change="#d2e171" xml:id="head_44.d2e1349"><persName change="#d2e171" xml:id="persName_47.d2e1350"><surname change="#d2e171" xml:id="surname_45.d2e1351">الحانوي</surname> <hi rend="quotation-marks" xml:id="hi_2452.d2e58824">ابراهيم أدهم بن محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_121.d2e1357"> شرح الالهامي من الفيض الهامي - (مؤلف الالهامي الامام علي الحربي) (تصوف) بولاق 1304 كريسطيان بن دانيال فرين * فراين كريم بن ابراهيم رجوم الشياطين - قال في أوله: هذه رسالة كتبتها في رجوم الشياطين وطرد الابالسة عن قلوب المؤمنين - كتبها مؤلفها في قرية لنجر (كذا) سنة 1268 وطبعت على الحجر (في بلاد العجم) ص 185 بتصحيح محمد الموسوي القراباغى والحاج ملا محمد (الحاج) كريم خان فصل الخطاب من الكتب والابواب - (فقه الشيعه) العجم 1320 جزء 2 (البارون فون) كريمر Baron Alf.</p>
             <p xml:id="p_8344.d2e58829">Von Kremer</p>
             <p xml:id="p_8345.d2e58832">(1828 - 1889 م) أحد علماء الشرقيات النمسويين.</p>
-            <p xml:id="p_8346.d2e58835">ولد في ويانا وتجول في <placeName>مصر</placeName> والشام وعلم العربية في حاضرة بلاده إلى أن
+            <p xml:id="p_8346.d2e58835">ولد في ويانا وتجول في <placeName change="#d2e171" xml:id="placeName_30.d2e1368">مصر</placeName> والشام وعلم العربية في حاضرة بلاده إلى أن
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1564.xhtml" ed="print" n="1558" xml:id="cb_779.d2e58837"/>
-          أرسل إلى <placeName>مصر</placeName> بصفة قنصل لدولته ثم تعين قنصلا لها في <placeName>بيروت</placeName> سنة 1870 حتى عهدت إليه حكومته وزارة الخارجية ووزارات غيرها إلى سنة وفاته الاستبصار في عجائب الامصار - قطعة من هذا الكتاب تشتمل على ذكر المغرب تأليف أحد أفاضل القرن السادس للهجرة وكلامه في هذا الكتاب يميل إلى العامة - ويانا 1852 ص 3 و 82 وعني هذا المستشرق بنشر الكتب الآتية: 1 - كتاب المغازي للواقدي 2 - الاحكام السلطانية للماوردى 3 - القصيدة الحميرية لنشوان بن سعيد الحميرى 4 - مقالات في شعراء الاسلام كأبي علاء المعري وأبي نواس وعبد الغني النابلسي كزيمير سكى * كازيمرسكي الكسائي (189) أبو الحسن علي بن حمزه بن عبد الله بن عثمان بن فيروز مولى بني أسد</p>
+          أرسل إلى <placeName change="#d2e171" xml:id="placeName_31.d2e1373">مصر</placeName> بصفة قنصل لدولته ثم تعين قنصلا لها في <placeName change="#d2e171" xml:id="placeName_32.d2e1376">بيروت</placeName> سنة 1870 حتى عهدت إليه حكومته وزارة الخارجية ووزارات غيرها إلى سنة وفاته الاستبصار في عجائب الامصار - قطعة من هذا الكتاب تشتمل على ذكر المغرب تأليف أحد أفاضل القرن السادس للهجرة وكلامه في هذا الكتاب يميل إلى العامة - ويانا 1852 ص 3 و 82 وعني هذا المستشرق بنشر الكتب الآتية: 1 - كتاب المغازي للواقدي 2 - الاحكام السلطانية للماوردى 3 - القصيدة الحميرية لنشوان بن سعيد الحميرى 4 - مقالات في شعراء الاسلام كأبي علاء المعري وأبي نواس وعبد الغني النابلسي كزيمير سكى * كازيمرسكي الكسائي (189) أبو الحسن علي بن حمزه بن عبد الله بن عثمان بن فيروز مولى بني أسد</p>
             <p xml:id="p_8347.d2e58840">امام الكوفيين في النحو واللغة وهو من القراء السبعة المقرر على قرآنهم القرآن المجيد.</p>
             <p xml:id="p_8348.d2e58843">نشأ في الكوفة وقيل أنه لم يتعلم النحو الا على الكبر وسببه أنه قد جاء إلى قوم وقد أعيى.</p>
             <p xml:id="p_8349.d2e58846">فقال عييت بالتشديد بغير الهمزة فقالوا له تجالسنا وأنت تلحن.</p>
@@ -393,33 +393,33 @@
             <p xml:id="p_8356.d2e58873">ومات أيضا محمد بن الحسن الفقيه الحنفي.</p>
             <p xml:id="p_8357.d2e58876">فدفنهما الرشيد بقرية يقال لها زنبوية وقال: اليوم دفنت الفقه واللغة كتاب ما تلحن فيه العوام - مما وضعه علي بن حمزه الكسائي لهرون الرشيد - رسالة طبعت باعتناء الاستاذ بروكلمان ذيلها بشروح وفوائد - برسلو 1898 ص 18 الكستلي</p>
             <p xml:id="p_8358.d2e58880">(901) (المولي) مصلح الدين مصطفى الكستلي حاشية (الكستلي) على شرح العقائد - أنظر </p></div>
-<div type="entry"><head><persName><surname>التفتازاني</surname> <hi rend="quotation-marks" xml:id="hi_2453.d2e58882">سعد الدين </hi></persName></head>
-<p>: شرح على العقائد النسفية.</p>
-            <p xml:id="p_8359.d2e58886">الكستي (1324) (الشيخ) أبو الحسن قاسم بن محمد الكستي البيروتي أصله من <placeName>بيروت</placeName> وفيها اشتهر نحو اربعين سنة.</p>
+<div type="entry" change="#d2e171" xml:id="div_45.d2e1423"><head change="#d2e171" xml:id="head_45.d2e1424"><persName change="#d2e171" xml:id="persName_48.d2e1425"><surname change="#d2e171" xml:id="surname_46.d2e1426">التفتازاني</surname> <hi rend="quotation-marks" xml:id="hi_2453.d2e58882">سعد الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_137.d2e1432">: شرح على العقائد النسفية.</p>
+            <p xml:id="p_8359.d2e58886">الكستي (1324) (الشيخ) أبو الحسن قاسم بن محمد الكستي البيروتي أصله من <placeName change="#d2e171" xml:id="placeName_33.d2e1437">بيروت</placeName> وفيها اشتهر نحو اربعين سنة.</p>
             <p xml:id="p_8360.d2e58889">أخذ الآداب عن أئمة زمانه.</p>
             <p xml:id="p_8361.d2e58892">فلما رسخت فيها قدمه صار مرشدا لغيره وتعاطى التدريس مدة بين مواطينه من أهل ملته.</p>
             <p xml:id="p_8362.d2e58895">مات ببيروت 1 - ارجوزة في مدح القرآن الشريف - <choice xml:id="choice_1989.d2e58897">
                   <abbr xml:id="abbr_1989.d2e58899">مط</abbr>
                   <expan xml:id="expan_1989.d2e58902">مطبعة</expan>
-               </choice> الادبية <placeName>بيروت</placeName> 1315 ص 10 2 - ترجمان الافكار - ديوان شعر - قال ناظمه أن علة تسمية هذا الديوان ترجمان الافكار كونه باعتبار موضوعه ينقل ما هو في الضمير إلى حيز الاظهار الح <placeName>بيروت</placeName> 1299 ص 224 3 - المرأة الغريبة - ديوان طبع على نفقة السيد سليم رمضان - <placeName>بيروت</placeName> 1279 - 1880 
+               </choice> الادبية <placeName change="#d2e171" xml:id="placeName_34.d2e1458">بيروت</placeName> 1315 ص 10 2 - ترجمان الافكار - ديوان شعر - قال ناظمه أن علة تسمية هذا الديوان ترجمان الافكار كونه باعتبار موضوعه ينقل ما هو في الضمير إلى حيز الاظهار الح <placeName change="#d2e171" xml:id="placeName_35.d2e1461">بيروت</placeName> 1299 ص 224 3 - المرأة الغريبة - ديوان طبع على نفقة السيد سليم رمضان - <placeName change="#d2e171" xml:id="placeName_36.d2e1464">بيروت</placeName> 1279 - 1880 
           <note type="footnote" xml:id="note_994.d2e58906">
                   <p xml:id="p_8362.d2e58908">الاداب العربية للاب لويس شيخو الجزء الثاني ص 79 (*)</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1566.xhtml" ed="print" n="1560" xml:id="cb_780.d2e58912"/></p></div>
-<div type="entry"><head><persName><surname>كساب</surname> <hi rend="quotation-marks" xml:id="hi_2454.d2e58914">أميل </hi></persName></head>
-<p> من موظفي نظارة الداخلية بمصر قاموس الحساب - في تحويل العملة المصرية إلى فرنساوية وانكليزية وتركية - ومعه ترجمة فرنسية <placeName>مصر</placeName> 1896 ص 58 </p></div>
-<div type="entry"><head><persName><surname>كساب</surname> <hi rend="quotation-marks" xml:id="hi_2455.d2e58917">سليم الياس </hi></persName></head>
-<p> (1841 - 1907 م) ولد في <placeName>دمشق</placeName> وأخذ العلم عن الخوري يوسف الحداد ثم انتدبته المرسلون الانكليز والامر كان إلى التعليم في مدارسهم 1 - الدرة الفريدة في الدروس المفيدة - جزء 3 صغار - <choice xml:id="choice_1990.d2e58921">
+<div type="entry" change="#d2e171" xml:id="div_46.d2e1476"><head change="#d2e171" xml:id="head_46.d2e1477"><persName change="#d2e171" xml:id="persName_49.d2e1478"><surname change="#d2e171" xml:id="surname_47.d2e1479">كساب</surname> <hi rend="quotation-marks" xml:id="hi_2454.d2e58914">أميل </hi></persName></head>
+<p change="#d2e171" xml:id="p_143.d2e1485"> من موظفي نظارة الداخلية بمصر قاموس الحساب - في تحويل العملة المصرية إلى فرنساوية وانكليزية وتركية - ومعه ترجمة فرنسية <placeName change="#d2e171" xml:id="placeName_37.d2e1487">مصر</placeName> 1896 ص 58 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_47.d2e1491"><head change="#d2e171" xml:id="head_47.d2e1492"><persName change="#d2e171" xml:id="persName_50.d2e1493"><surname change="#d2e171" xml:id="surname_48.d2e1494">كساب</surname> <hi rend="quotation-marks" xml:id="hi_2455.d2e58917">سليم الياس </hi></persName></head>
+<p change="#d2e171" xml:id="p_144.d2e1500"> (1841 - 1907 م) ولد في <placeName change="#d2e171" xml:id="placeName_38.d2e1502">دمشق</placeName> وأخذ العلم عن الخوري يوسف الحداد ثم انتدبته المرسلون الانكليز والامر كان إلى التعليم في مدارسهم 1 - الدرة الفريدة في الدروس المفيدة - جزء 3 صغار - <choice xml:id="choice_1990.d2e58921">
                   <abbr xml:id="abbr_1990.d2e58923">مط</abbr>
                   <expan xml:id="expan_1990.d2e58926">مطبعة</expan>
-               </choice> الادبية <placeName>بيروت</placeName> 1883 و 1889 2 - الغنائم بالعزائم - وهو تراجم اشهر المكتشفين والمخترعين - معرب - <placeName>بيروت</placeName> 1890 3 - قلادة النحر في غرائب البر والبحر - جزء 2 الاول في غرائب البر ص 275 والثاني في غرائب البحر ص 143 وبآخره خلاصة رحلة ستانلي الافريقية <choice xml:id="choice_1991.d2e58930">
+               </choice> الادبية <placeName change="#d2e171" xml:id="placeName_39.d2e1514">بيروت</placeName> 1883 و 1889 2 - الغنائم بالعزائم - وهو تراجم اشهر المكتشفين والمخترعين - معرب - <placeName change="#d2e171" xml:id="placeName_40.d2e1517">بيروت</placeName> 1890 3 - قلادة النحر في غرائب البر والبحر - جزء 2 الاول في غرائب البر ص 275 والثاني في غرائب البحر ص 143 وبآخره خلاصة رحلة ستانلي الافريقية <choice xml:id="choice_1991.d2e58930">
                   <abbr xml:id="abbr_1991.d2e58932">مط</abbr>
                   <expan xml:id="expan_1991.d2e58935">مطبعة</expan>
-               </choice> الاميركان <placeName>بيروت</placeName> 1892 4 - منهج الطلاب في مبادئ الآداب - <placeName>بيروت</placeName> 1891 ص 163 </p></div>
-<div type="entry"><head><persName><surname>كساب</surname> <hi rend="quotation-marks" xml:id="hi_2456.d2e58939">مصطفى حسن </hi></persName></head>
-<p> * مصطفى حسن كساب </p></div>
-<div type="entry"><head><persName><surname>الكسم</surname> <hi rend="quotation-marks" xml:id="hi_2457.d2e58942">(الشيخ) محمد عطا بن ابراهيم </hi></persName></head>
-<p>
+               </choice> الاميركان <placeName change="#d2e171" xml:id="placeName_41.d2e1530">بيروت</placeName> 1892 4 - منهج الطلاب في مبادئ الآداب - <placeName change="#d2e171" xml:id="placeName_42.d2e1533">بيروت</placeName> 1891 ص 163 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_48.d2e1538"><head change="#d2e171" xml:id="head_48.d2e1539"><persName change="#d2e171" xml:id="persName_51.d2e1540"><surname change="#d2e171" xml:id="surname_49.d2e1541">كساب</surname> <hi rend="quotation-marks" xml:id="hi_2456.d2e58939">مصطفى حسن </hi></persName></head>
+<p change="#d2e171" xml:id="p_145.d2e1547"> * مصطفى حسن كساب </p></div>
+<div type="entry" change="#d2e171" xml:id="div_49.d2e1550"><head change="#d2e171" xml:id="head_49.d2e1551"><persName change="#d2e171" xml:id="persName_52.d2e1552"><surname change="#d2e171" xml:id="surname_50.d2e1553">الكسم</surname> <hi rend="quotation-marks" xml:id="hi_2457.d2e58942">(الشيخ) محمد عطا بن ابراهيم </hi></persName></head>
+<p change="#d2e171" xml:id="p_146.d2e1559">
             </p>
             <p xml:id="p_8364.d2e58946">
                <hi style="color:red;" xml:id="hi_2458.d2e58948">1 - </hi>الاقوال المرضية في الرد على الوهابية - ويليه 2 - الدرة المنثورة في الاوراد المأثورة - <choice xml:id="choice_1992.d2e58951">
@@ -429,12 +429,12 @@
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1567.xhtml" ed="print" n="1561" xml:id="pb_787.d2e58960"/>
           كشاجم (350 أو 360) أبو الفتح محمود بن الحسين بن شاهق أو شاهك الكاتب المعروف بكشاجم ويكنى أبا نصر - هندي الاصل كان أقام بمصر فاستطابها.</p>
-            <p xml:id="p_8365.d2e58964">ثم رحل عنها فكان يتشوق إليها ثم عاد إليها فقال: قد كان شوقي إلى <placeName>مصر</placeName> يورقني * فعدت إليها وعادت <placeName>مصر</placeName> لي دارا 1 - ادب النديم - بولاق 1299 ص 112 وطبع بالاسكندرية سنة 1329 </p></div>
-<div type="entry"><head><persName><surname>كتاب</surname> <hi rend="quotation-marks" xml:id="hi_2459.d2e58966">أدب الندماء ولطائف الظرفاء </hi></persName></head>
-<p> ويليه شرح وتشطير قصيدة أبي فراس الحمداني 2 - ديوان كشاجم - جمعه أبو بكر محمد بن عبد الله الحمدوني ورتبه على حروف المعجم ثم الحق به زيادات أخذها عن أبي الفرج بن كشاجم بعدما أتم جمع الديوان.</p>
+            <p xml:id="p_8365.d2e58964">ثم رحل عنها فكان يتشوق إليها ثم عاد إليها فقال: قد كان شوقي إلى <placeName change="#d2e171" xml:id="placeName_43.d2e1581">مصر</placeName> يورقني * فعدت إليها وعادت <placeName change="#d2e171" xml:id="placeName_44.d2e1584">مصر</placeName> لي دارا 1 - ادب النديم - بولاق 1299 ص 112 وطبع بالاسكندرية سنة 1329 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_50.d2e1588"><head change="#d2e171" xml:id="head_50.d2e1589"><persName change="#d2e171" xml:id="persName_53.d2e1590"><surname change="#d2e171" xml:id="surname_51.d2e1591">كتاب</surname> <hi rend="quotation-marks" xml:id="hi_2459.d2e58966">أدب الندماء ولطائف الظرفاء </hi></persName></head>
+<p change="#d2e171" xml:id="p_149.d2e1597"> ويليه شرح وتشطير قصيدة أبي فراس الحمداني 2 - ديوان كشاجم - جمعه أبو بكر محمد بن عبد الله الحمدوني ورتبه على حروف المعجم ثم الحق به زيادات أخذها عن أبي الفرج بن كشاجم بعدما أتم جمع الديوان.</p>
             <p xml:id="p_8366.d2e58970">قال ابن خلكان في ترجمة السري الرفا (جزء 1 - 251) <hi rend="quotation-marks" xml:id="hi_2460.d2e58972"> وكان السري مغرى بنسخ ديوان أبي الفتح كشاجم الشاعر المشهور وهو إذ ذاك ريحان الادب بتلك البلاد </hi>
             </p>
-            <p xml:id="p_8367.d2e58976">ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الانسية <placeName>بيروت</placeName> 1313 ص 188 الكشي (الشيخ) أبو عمرو محمد بن عمر بن عبد العزيز الكشي معرفة أخبار الرجال (رجال الشيعة) - طبع حروف بمبئ 1317 ص 391 وفي آخره ترجمة المؤلف ولم يذكر في الترجمة تاريخ ولادته أو وفاته بل قال انه كان بصيرا بالاخبار والرجال حسن الاعتقاد وكان ثقة عينا روى عن الضعفاء وصحب العياشي وأخذ عنه وتخرج عليه - له كتاب الرجال كثير العلم الا أن فيه أغلاطا كثيرة.. 
+            <p xml:id="p_8367.d2e58976">ال<choice change="#d2e171" xml:id="choice_32.d2e1608"><abbr change="#d2e171" xml:id="abbr_32.d2e1609">مط</abbr><expan change="#d2e171" xml:id="expan_32.d2e1611">مطبعة</expan></choice> الانسية <placeName change="#d2e171" xml:id="placeName_45.d2e1614">بيروت</placeName> 1313 ص 188 الكشي (الشيخ) أبو عمرو محمد بن عمر بن عبد العزيز الكشي معرفة أخبار الرجال (رجال الشيعة) - طبع حروف بمبئ 1317 ص 391 وفي آخره ترجمة المؤلف ولم يذكر في الترجمة تاريخ ولادته أو وفاته بل قال انه كان بصيرا بالاخبار والرجال حسن الاعتقاد وكان ثقة عينا روى عن الضعفاء وصحب العياشي وأخذ عنه وتخرج عليه - له كتاب الرجال كثير العلم الا أن فيه أغلاطا كثيرة.. 
           <note type="footnote" xml:id="note_995.d2e58978">
                   <p xml:id="p_8367.d2e58980">الفهرست 139 - حسن المحاضرة 1 - 268 (*)</p>
                </note>
@@ -449,7 +449,7 @@
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1569.xhtml" ed="print" n="1563" xml:id="pb_788.d2e59007"/>الكفراوي (1202) (الشيخ) حسن بن علي الكفراوي الشافعي الازهري ولد ببلدة كفر الشيخ بالقرب من المحلة الكبرى فقرأ القرآن وحفظ المتون بالمحلة.</p>
             <p xml:id="p_8375.d2e59011">ثم جاء إلى القاهرة وحضر شيوخ الوقت مثل الشيخ احمد السجاعي والشيخ عمر الطحلاوي والشيخ محمد الحفني والشيخ علي الصعيدي ومهر في الفقه والمعقول وتصدر ودرس وأفتى واشتهر ذكره ولازم الاستاذ الحفني وتداخل في القضايا والدعاوى وفصل الخصومات بين المتنازعين وأقبل عليه الناس بالهدايا والجعالات ونما أمره وراش جناحه وتجمل بالملابس وركوب البغال..وتردد إلى الامير محمد بك أبي الذهب قبل استقلاله بالامارة وأحبه وحضر مجالس دروسه في شهر رمضان بالمشهد الحسيني - ولما بنى محمد بك جامعه كان هو المتعين فيه بوظيفة رئاسة التدريس والافتاء ومشيخة الشافعية وثالث ثلثة المفتين الذين قررهم المذكور وقصر عليهم الافتاء وهم: الشيخ احمد الدردير المالكي والشيخ عبد الرحمن العريشي الحنفي والمترجم - مات بالقاهرة وصلى عليه بالازهر في مجلس حافل ودفن بتربة المجاورين شرح الاجرومية - بولاق 1242 و 1248 ص 166 - بهامشه منحة الكريم الوهاب وفتح أبواب</p>
-            <p xml:id="p_8376.d2e59014">النحو للطلاب وهي حاشية للشيخ احمد النجاري الدمياطي على الشرح المذكور بولاق 1282 و 1291 - بهامشه حاشية الشيخ اسماعيل بن موسى الحامدي بولاق 1290 ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الكاستلية 1280 و 1298 - <choice xml:id="choice_1993.d2e59016">
+            <p xml:id="p_8376.d2e59014">النحو للطلاب وهي حاشية للشيخ احمد النجاري الدمياطي على الشرح المذكور بولاق 1282 و 1291 - بهامشه حاشية الشيخ اسماعيل بن موسى الحامدي بولاق 1290 ال<choice change="#d2e171" xml:id="choice_33.d2e1655"><abbr change="#d2e171" xml:id="abbr_33.d2e1656">مط</abbr><expan change="#d2e171" xml:id="expan_33.d2e1658">مطبعة</expan></choice> الكاستلية 1280 و 1298 - <choice xml:id="choice_1993.d2e59016">
                   <abbr xml:id="abbr_1993.d2e59018">مط</abbr>
                   <expan xml:id="expan_1993.d2e59021">مطبعة</expan>
                </choice> محمد مصطفى 1299 - <choice xml:id="choice_1994.d2e59025">
@@ -461,11 +461,11 @@
                </choice> عثمان عبد الرازق 1301 وبهامشه الاجرومية وطبع ب<orgName xml:id="orgName_106.d2e59043">ال<choice xml:id="choice_1996.d2e59045">
                      <abbr xml:id="abbr_1996.d2e59047">مط</abbr>
                      <expan xml:id="expan_1996.d2e59050">المطبعة</expan>
-                  </choice> الشرفية</orgName> والازهرية والخيرية والميمنبة 1301 و 1302 و 1303 و 1305 - بهامشه الفصول الفكرية للمكانب المصرية للمرحوم عبد الله باشا فكري - ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الحسينية 1296 وبولاق 1299 
+                  </choice> الشرفية</orgName> والازهرية والخيرية والميمنبة 1301 و 1302 و 1303 و 1305 - بهامشه الفصول الفكرية للمكانب المصرية للمرحوم عبد الله باشا فكري - ال<choice change="#d2e171" xml:id="choice_38.d2e1701"><abbr change="#d2e171" xml:id="abbr_38.d2e1702">مط</abbr><expan change="#d2e171" xml:id="expan_38.d2e1704">مطبعة</expan></choice> الحسينية 1296 وبولاق 1299 
           <note type="footnote" xml:id="note_997.d2e59055">
                   <p xml:id="p_8376.d2e59057">الجبرتى 2 - 165 الخطط الجديدة 15 - 7 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1570.xhtml" ed="print" n="1564" xml:id="cb_782.d2e59062"/>الكفراوي (الدكتور) محمد افندي كامل مدرس علمي الطبيعة والكيميا بمدرسة الطب سابقا 1 - ارشاد المرضى والاصحاء إلى معرفة احتياجات الصحة - (معرب) - بولاق 1892 ص 212 2 - ارشادات عامة صحية وأدبية - جزء أول - طبع باعتناء جمعية تأليف الكتب - <placeName>مصر</placeName>..3 - الجواهر البديعة في علم الطبيعة - أوله الحمد لله الذي جعل هذه الكائنات الخ - جزء 2 بولاق 1305 - 1889.</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1570.xhtml" ed="print" n="1564" xml:id="cb_782.d2e59062"/>الكفراوي (الدكتور) محمد افندي كامل مدرس علمي الطبيعة والكيميا بمدرسة الطب سابقا 1 - ارشاد المرضى والاصحاء إلى معرفة احتياجات الصحة - (معرب) - بولاق 1892 ص 212 2 - ارشادات عامة صحية وأدبية - جزء أول - طبع باعتناء جمعية تأليف الكتب - <placeName change="#d2e171" xml:id="placeName_46.d2e1715">مصر</placeName>..3 - الجواهر البديعة في علم الطبيعة - أوله الحمد لله الذي جعل هذه الكائنات الخ - جزء 2 بولاق 1305 - 1889.</p>
             <p xml:id="p_8378.d2e59065">
                <hi style="color:red;" xml:id="hi_2461.d2e59067">4 - </hi>خلاصة الظنون في أحوال الطاعون -</p>
             <p xml:id="p_8379.d2e59071">
@@ -476,35 +476,35 @@
                   <abbr xml:id="abbr_1998.d2e59084">مط</abbr>
                   <expan xml:id="expan_1998.d2e59087">مطبعة</expan>
                </choice> المؤيد 1320 ص 2 7 - النزهة العقلية في الطبيعة الطبية - جزء 3 بولاق 6 / 1895 </p></div>
-<div type="entry"><head><persName><surname>الكنعمي</surname> <hi rend="quotation-marks" xml:id="hi_2462.d2e59091">ابراهيم بن علي </hi></persName></head>
-<p> (الشيخ) تقى الدين ابراهيم بن على الحسن بن محمد ابن صالح العاملي الكنعمي نخبة الامان الواقية وجنة الايمان الباقية - ويعرف بمصباح الكنعمي - طهران..</p></div>
-<div type="entry"><head><persName><surname>الكفوري</surname> <hi rend="quotation-marks" xml:id="hi_2463.d2e59094">محمد بن سليمان </hi></persName></head>
-<p> محمد بن سليمان بن محمد بن زايد الكفوري المالكي (من علماء القرن الثاني عشر للهجرة)
+<div type="entry" change="#d2e171" xml:id="div_51.d2e1746"><head change="#d2e171" xml:id="head_51.d2e1747"><persName change="#d2e171" xml:id="persName_54.d2e1748"><surname change="#d2e171" xml:id="surname_52.d2e1749">الكنعمي</surname> <hi rend="quotation-marks" xml:id="hi_2462.d2e59091">ابراهيم بن علي </hi></persName></head>
+<p change="#d2e171" xml:id="p_164.d2e1755"> (الشيخ) تقى الدين ابراهيم بن على الحسن بن محمد ابن صالح العاملي الكنعمي نخبة الامان الواقية وجنة الايمان الباقية - ويعرف بمصباح الكنعمي - طهران..</p></div>
+<div type="entry" change="#d2e171" xml:id="div_52.d2e1758"><head change="#d2e171" xml:id="head_52.d2e1759"><persName change="#d2e171" xml:id="persName_55.d2e1760"><surname change="#d2e171" xml:id="surname_53.d2e1761">الكفوري</surname> <hi rend="quotation-marks" xml:id="hi_2463.d2e59094">محمد بن سليمان </hi></persName></head>
+<p change="#d2e171" xml:id="p_165.d2e1767"> محمد بن سليمان بن محمد بن زايد الكفوري المالكي (من علماء القرن الثاني عشر للهجرة)
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1571.xhtml" ed="print" n="1565" xml:id="pb_789.d2e59097"/>
           فتاوى الكفوري - (فقه مالك) فرغ من تأليفها سنة 1170 - ضمن مجموعة رقم 77 </p></div>
-<div type="entry"><head><persName><surname>الكفوري</surname> <hi rend="quotation-marks" xml:id="hi_2464.d2e59100">أبو البقاء </hi></persName></head>
-<p> * أبو البقاء الحسيني </p></div>
-<div type="entry"><head><persName><surname>الكفوي</surname> <hi rend="quotation-marks" xml:id="hi_2465.d2e59103">محمد بن الحاج حميد </hi></persName></head>
-<p>
+<div type="entry" change="#d2e171" xml:id="div_53.d2e1772"><head change="#d2e171" xml:id="head_53.d2e1773"><persName change="#d2e171" xml:id="persName_56.d2e1774"><surname change="#d2e171" xml:id="surname_54.d2e1775">الكفوري</surname> <hi rend="quotation-marks" xml:id="hi_2464.d2e59100">أبو البقاء </hi></persName></head>
+<p change="#d2e171" xml:id="p_166.d2e1781"> * أبو البقاء الحسيني </p></div>
+<div type="entry" change="#d2e171" xml:id="div_54.d2e1785"><head change="#d2e171" xml:id="head_54.d2e1786"><persName change="#d2e171" xml:id="persName_57.d2e1787"><surname change="#d2e171" xml:id="surname_55.d2e1788">الكفوي</surname> <hi rend="quotation-marks" xml:id="hi_2465.d2e59103">محمد بن الحاج حميد </hi></persName></head>
+<p change="#d2e171" xml:id="p_167.d2e1794">
             </p>
-            <p xml:id="p_8380.d2e59107">من أبناء القرن التاسع أو العاشر للهجرة 1 - حاشية الكفوي على اللاري على شرح قاضمير - (حكمة وفلسفة) - طبع حجر استانة 1265 وطبع حروف 1309 2 - حاشية الكفوي وحاشية ولي الدين - على حاشية العصام على حاشية عصام الدين على شرح العقائد النسفية - <placeName>أستانة</placeName> 1274 ص 184 و 47 3 - شرح البناء - أو شرح الكفوي على الامثلة والبناء (صرف) - <placeName>أستانة</placeName> 1274 ص 79 </p></div>
-<div type="entry"><head><persName><surname>الكلنبوي</surname> <hi rend="quotation-marks" xml:id="hi_2466.d2e59109">اسماعيل </hi></persName></head>
-<p> المعروف بشيخ زاده محيي الدين ذكر في صفحة 1166 في هذا المعجم وله غير ما ذكر هناك حاشية (الشيخ اسماعيل الكلنبوي) - على شرح الدواني على العقائد العضدية وبهامشه حاشيتي المرجاني والخلخالي - <placeName>أستانة</placeName> 1316 جزء 2 الكلنبوي (المولوي) <hi rend="quotation-marks" xml:id="hi_2467.d2e59112"> عبد الحليم </hi> شرح الملخص في الهيئة - أنظر الجغميني الخوارزمي </p></div>
-<div type="entry"><head><persName><surname>الكلنبوي</surname> <hi rend="quotation-marks" xml:id="hi_2468.d2e59115">ميرزا أبو الفتح </hi></persName></head>
-<p> (1205 هـ) 1 - تعليقات على ميزان الادب - وهي حاشية
+            <p xml:id="p_8380.d2e59107">من أبناء القرن التاسع أو العاشر للهجرة 1 - حاشية الكفوي على اللاري على شرح قاضمير - (حكمة وفلسفة) - طبع حجر استانة 1265 وطبع حروف 1309 2 - حاشية الكفوي وحاشية ولي الدين - على حاشية العصام على حاشية عصام الدين على شرح العقائد النسفية - <placeName change="#d2e171" xml:id="placeName_47.d2e1799">أستانة</placeName> 1274 ص 184 و 47 3 - شرح البناء - أو شرح الكفوي على الامثلة والبناء (صرف) - <placeName change="#d2e171" xml:id="placeName_48.d2e1802">أستانة</placeName> 1274 ص 79 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_55.d2e1806"><head change="#d2e171" xml:id="head_55.d2e1807"><persName change="#d2e171" xml:id="persName_58.d2e1808"><surname change="#d2e171" xml:id="surname_56.d2e1809">الكلنبوي</surname> <hi rend="quotation-marks" xml:id="hi_2466.d2e59109">اسماعيل </hi></persName></head>
+<p change="#d2e171" xml:id="p_169.d2e1815"> المعروف بشيخ زاده محيي الدين ذكر في صفحة 1166 في هذا المعجم وله غير ما ذكر هناك حاشية (الشيخ اسماعيل الكلنبوي) - على شرح الدواني على العقائد العضدية وبهامشه حاشيتي المرجاني والخلخالي - <placeName change="#d2e171" xml:id="placeName_49.d2e1817">أستانة</placeName> 1316 جزء 2 الكلنبوي (المولوي) <hi rend="quotation-marks" xml:id="hi_2467.d2e59112"> عبد الحليم </hi> شرح الملخص في الهيئة - أنظر الجغميني الخوارزمي </p></div>
+<div type="entry" change="#d2e171" xml:id="div_56.d2e1824"><head change="#d2e171" xml:id="head_56.d2e1825"><persName change="#d2e171" xml:id="persName_59.d2e1826"><surname change="#d2e171" xml:id="surname_57.d2e1827">الكلنبوي</surname> <hi rend="quotation-marks" xml:id="hi_2468.d2e59115">ميرزا أبو الفتح </hi></persName></head>
+<p change="#d2e171" xml:id="p_170.d2e1833"> (1205 هـ) 1 - تعليقات على ميزان الادب - وهي حاشية
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1572.xhtml" ed="print" n="1566" xml:id="cb_783.d2e59118"/>
-          الكلنبوي على ميزان الادب لمحمد التبريزي وهو شرح آداب البحث للايجي - <placeName>أستانة</placeName> 1234 2 - شرح ايساغوجى (1) أوله الحمد لله الذي خصص نوع الانسان من جنس الحيوان..<choice xml:id="choice_1999.d2e59120">
+          الكلنبوي على ميزان الادب لمحمد التبريزي وهو شرح آداب البحث للايجي - <placeName change="#d2e171" xml:id="placeName_50.d2e1837">أستانة</placeName> 1234 2 - شرح ايساغوجى (1) أوله الحمد لله الذي خصص نوع الانسان من جنس الحيوان..<choice xml:id="choice_1999.d2e59120">
                   <abbr xml:id="abbr_1999.d2e59122">مط</abbr>
                   <expan xml:id="expan_1999.d2e59125">مطبعة</expan>
-               </choice> العامرة <placeName>أستانة</placeName> 1275 ص 52 (الدكتور) كلوت بك (1793 - 1868) مؤسس الاصلاحات الطبية في الديار المصرية استقدمه محمد على باشا من فرنسا بقصد تطبيب الجيش فأسس أولا مجلسا صحيا على مثال المجالس الصحية الفرنساوية ثم أنشأ المستشفيات العسكرية ومصلحة الصحة البحرية.</p>
+               </choice> العامرة <placeName change="#d2e171" xml:id="placeName_51.d2e1849">أستانة</placeName> 1275 ص 52 (الدكتور) كلوت بك (1793 - 1868) مؤسس الاصلاحات الطبية في الديار المصرية استقدمه محمد على باشا من فرنسا بقصد تطبيب الجيش فأسس أولا مجلسا صحيا على مثال المجالس الصحية الفرنساوية ثم أنشأ المستشفيات العسكرية ومصلحة الصحة البحرية.</p>
             <p xml:id="p_8381.d2e59130">وفي سنة 8؟ 18 أسس المدرسة الطبية في قرية أبي زعبل وهي على أربع فراسخ من القاهرة ثم نقلت إلى القصر العيني.</p>
             <p xml:id="p_8382.d2e59134">وفى سنة 1832 سار الدكتور كلوت بك في اثنى عشر تلميذا من تلامذته وقدموا امتحانهم في باريس في الجمعية العلمية الطبية فحازوا استحسانها وأظهروا كل نجابة وبراعة وأظهر المترجم سنة 1830 من الهمة في دفع الكولرا ومعالجة المصابين ما يشهد له به التاريخ.</p>
             <p xml:id="p_8383.d2e59137">ورافق حملة ابراهيم باشا إلى الديار الشامية كان يعالج بها الجرحى والمرضى من الجنود المصرية وفي سنة 1835 ظهر الطاعون بالقاهرة فخاف الاطباء</p>
-            <p xml:id="p_8384.d2e59140">واعتزلوا في بيوتهم الاكلوت بك وثلاثة من زملائه ثابروا على خدمة المرضى ومعالجتهم وقد انعمت عليه أكثر دول أوروبا بالوسامات الفخرية لما بذله من الغيرة في معالجة رعاياها أثناء ذلك الوباء وفي سنة 1837 توجه إلى جبل لبنان واستحضر منه بعض اللبنانيين إلى <placeName>مصر</placeName> ليدرسوا فيها علوم الطب والطبيعيات 
+            <p xml:id="p_8384.d2e59140">واعتزلوا في بيوتهم الاكلوت بك وثلاثة من زملائه ثابروا على خدمة المرضى ومعالجتهم وقد انعمت عليه أكثر دول أوروبا بالوسامات الفخرية لما بذله من الغيرة في معالجة رعاياها أثناء ذلك الوباء وفي سنة 1837 توجه إلى جبل لبنان واستحضر منه بعض اللبنانيين إلى <placeName change="#d2e171" xml:id="placeName_52.d2e1864">مصر</placeName> ليدرسوا فيها علوم الطب والطبيعيات 
           <note type="footnote" xml:id="note_998.d2e59142">
-                  <p xml:id="p_8384.d2e59144">(1) كتب في النسخة المطبوعة اسم <persName><surname>المؤلف</surname> <hi rend="quotation-marks" xml:id="hi_2469.d2e59146">المرحوم كلنبوي </hi></persName> فلم أتحقق هل هو ميرزا أبو الفتح الكلنبوي أو اسماعيل الكلنبوي المعروف باسم شيخ زاده تراجم مشاهير الشرق جزء 2 ص 1 - أنظر أيضا ترجمة تاريخ كلوت بك لمحمد لبيب (*)</p>
+                  <p xml:id="p_8384.d2e59144">(1) كتب في النسخة المطبوعة اسم <persName change="#d2e171" xml:id="persName_60.d2e1871"><surname change="#d2e171" xml:id="surname_58.d2e1872">المؤلف</surname> <hi rend="quotation-marks" xml:id="hi_2469.d2e59146">المرحوم كلنبوي </hi></persName> فلم أتحقق هل هو ميرزا أبو الفتح الكلنبوي أو اسماعيل الكلنبوي المعروف باسم شيخ زاده تراجم مشاهير الشرق جزء 2 ص 1 - أنظر أيضا ترجمة تاريخ كلوت بك لمحمد لبيب (*)</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1573.xhtml" ed="print" n="1567" xml:id="pb_790.d2e59151"/>ولكلوت بك عدة تآليف مترجمة إلى اللغة العربية منها (1) تطعيم الجدرى.</p>
             <p xml:id="p_8386.d2e59154">أنظر نبذة لطيفة من تطعيم الجدرى (2) الدرر الغوال في معالجة أمراض الاطفال - أنظر محمد افندي الشافعي 1 - رسالة في الطاعون - بولاق 1851 2 - رسالة في علاج الطاعون - اطلع عليها أرباب المشورة الطبية - <choice xml:id="choice_2000.d2e59156">
@@ -514,45 +514,45 @@
             <p xml:id="p_8387.d2e59166">لمنع الجرب والافرنجى من عساكر الجهادية ونسائهم ترتيب كلوت بك - <choice xml:id="choice_2001.d2e59168">
                   <abbr xml:id="abbr_2001.d2e59170">مط</abbr>
                   <expan xml:id="expan_2001.d2e59173">مطبعة</expan>
-               </choice> ديوان الجهادية 1251 4 - رسالة نافعة في علاج أمراض الحمى - بولاق 1259 (3) رسالة العجالة الطبية فيما لابد منه لحكماء الجهادية <hi rend="quotation-marks" xml:id="hi_2470.d2e59177"> ترجمة أغسط سكاكيني (<placeName>مصر</placeName> 1848) (4) رسالة القول الصريح في علم </hi> التشريح ترجمة يوحنا عنحوري (<placeName>مصر</placeName> 1248 و 1283 ص 460) (5) رسالة كنوز الصحة ويواقيت المنجة " املاه على الدكتور محمد الشافعي فترجمه إلى العربية.</p>
+               </choice> ديوان الجهادية 1251 4 - رسالة نافعة في علاج أمراض الحمى - بولاق 1259 (3) رسالة العجالة الطبية فيما لابد منه لحكماء الجهادية <hi rend="quotation-marks" xml:id="hi_2470.d2e59177"> ترجمة أغسط سكاكيني (<placeName change="#d2e171" xml:id="placeName_53.d2e1909">مصر</placeName> 1848) (4) رسالة القول الصريح في علم </hi> التشريح ترجمة يوحنا عنحوري (<placeName change="#d2e171" xml:id="placeName_54.d2e1913">مصر</placeName> 1248 و 1283 ص 460) (5) رسالة كنوز الصحة ويواقيت المنجة " املاه على الدكتور محمد الشافعي فترجمه إلى العربية.</p>
             <p xml:id="p_8388.d2e59181">أنظر </p></div>
-<div type="entry"><head><persName><surname>الشافعي</surname> <hi rend="quotation-marks" xml:id="hi_2471.d2e59183">محمد بك </hi></persName></head>
-<p> (6) رسالة مبلغ البراح في علم </p></div>
-<div type="entry"><head><persName><surname>الجراح</surname> <hi rend="quotation-marks" xml:id="hi_2472.d2e59186">ترجمه يوحنا عنحوري (بولاق 1251) (7) رسالة نبذة في أصول الفلسفة الطبيعية </hi></persName></head>
-<p> أنظر: </p></div>
-<div type="entry"><head><persName><surname>النبراوي</surname> <hi rend="quotation-marks" xml:id="hi_2473.d2e59189">ابراهيم </hi></persName></head>
-<p> (8) نبذة لطيفة في تطعيم الجدرى ترجمها احمد بن حسن الرشيدي (<placeName>مصر</placeName> 1252 و 1259) 5 - نبذة في تشريح المرضى - <placeName>مصر</placeName> 1253 ولكلوت بك كتاب: لمحة عامة إلى <placeName>مصر</placeName> - ترجمة محمد افندي مسعود - جزء 2 (<placeName>مصر</placeName> 1923) أنظر محمد مسعود.
+<div type="entry" change="#d2e171" xml:id="div_57.d2e1920"><head change="#d2e171" xml:id="head_57.d2e1921"><persName change="#d2e171" xml:id="persName_61.d2e1922"><surname change="#d2e171" xml:id="surname_59.d2e1923">الشافعي</surname> <hi rend="quotation-marks" xml:id="hi_2471.d2e59183">محمد بك </hi></persName></head>
+<p change="#d2e171" xml:id="p_179.d2e1929"> (6) رسالة مبلغ البراح في علم </p></div>
+<div type="entry" change="#d2e171" xml:id="div_58.d2e1932"><head change="#d2e171" xml:id="head_58.d2e1933"><persName change="#d2e171" xml:id="persName_62.d2e1934"><surname change="#d2e171" xml:id="surname_60.d2e1935">الجراح</surname> <hi rend="quotation-marks" xml:id="hi_2472.d2e59186">ترجمه يوحنا عنحوري (بولاق 1251) (7) رسالة نبذة في أصول الفلسفة الطبيعية </hi></persName></head>
+<p change="#d2e171" xml:id="p_180.d2e1941"> أنظر: </p></div>
+<div type="entry" change="#d2e171" xml:id="div_59.d2e1944"><head change="#d2e171" xml:id="head_59.d2e1945"><persName change="#d2e171" xml:id="persName_63.d2e1946"><surname change="#d2e171" xml:id="surname_61.d2e1947">النبراوي</surname> <hi rend="quotation-marks" xml:id="hi_2473.d2e59189">ابراهيم </hi></persName></head>
+<p change="#d2e171" xml:id="p_181.d2e1953"> (8) نبذة لطيفة في تطعيم الجدرى ترجمها احمد بن حسن الرشيدي (<placeName change="#d2e171" xml:id="placeName_55.d2e1955">مصر</placeName> 1252 و 1259) 5 - نبذة في تشريح المرضى - <placeName change="#d2e171" xml:id="placeName_56.d2e1958">مصر</placeName> 1253 ولكلوت بك كتاب: لمحة عامة إلى <placeName change="#d2e171" xml:id="placeName_57.d2e1961">مصر</placeName> - ترجمة محمد افندي مسعود - جزء 2 (<placeName change="#d2e171" xml:id="placeName_58.d2e1964">مصر</placeName> 1923) أنظر محمد مسعود.
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1574.xhtml" ed="print" n="1568" xml:id="cb_784.d2e59192"/>
           الكمال بن أبي شريف (822 - 905) كمال الدين أبو المعالى محمد بن الامير ناصر الدين محمد ابن أبى بكر بن أبي على بن أبي شريف المقدسي المري الشافعي ولد بالقدس ونشأ بها وحفظ القرآن وعدة فنون وقرأ القرآات بالروايات على أبي القاسم النويري وسمع عليه.</p>
             <p xml:id="p_8389.d2e59196">وقرأ عليه العربية والاصول والمنطق والعروض واصطلاح أهل الحديث.</p>
             <p xml:id="p_8390.d2e59199">ورحل إلى القاهرة فأخذ عن علمائها ودرس وافتى.</p>
-            <p xml:id="p_8391.d2e59202">ثم عاد إلى <placeName>القدس</placeName> وثولي بها عدة مدارس له مصنفات منها الاسعاد بشرح الارشاد والفرائد في حل شرح العقائد وغير ذلك.</p>
+            <p xml:id="p_8391.d2e59202">ثم عاد إلى <placeName change="#d2e171" xml:id="placeName_59.d2e1978">القدس</placeName> وثولي بها عدة مدارس له مصنفات منها الاسعاد بشرح الارشاد والفرائد في حل شرح العقائد وغير ذلك.</p>
             <p xml:id="p_8392.d2e59205">وله: 1 - الدرر اللوامع بتحرير جمع الجوامع - وهي حاشية على شرح الجلال المحلي على جمع الجوامع للسبكي (أصول) - فاس 1312 ص 280 و 288 2 - المسامرة على المسايرة - للكمال بن همام الحنفي (المتوفي سنة 861) وعلى المسايرة حاشية للشيخ زين الدين قاسم الحنفي وضعت في صلب الصحيفة عقب المسامرة مفصولا بينهما بجدول (في العقيدة الماتريدية) - بولاق 1317 ص 284 كمال بن محمد شريف 1 - المظاهر الكمالية - (تصوف) - <choice xml:id="choice_2002.d2e59207">
                   <abbr xml:id="abbr_2002.d2e59209">مط</abbr>
                   <expan xml:id="expan_2002.d2e59212">مطبعة</expan>
                </choice> الادبية</p>
-            <p xml:id="p_8393.d2e59217"><placeName>بيروت</placeName> 1305 ص 100 2 - وظيفة الفنوك في نظم السلوك - وهو تشطير تائية عمر بن الفارض التزم فيه حل ما تضمنته من المعاني فرغ من نظمها في 14 رجب سنة 1307 - <choice xml:id="choice_2003.d2e59219">
+            <p xml:id="p_8393.d2e59217"><placeName change="#d2e171" xml:id="placeName_60.d2e1996">بيروت</placeName> 1305 ص 100 2 - وظيفة الفنوك في نظم السلوك - وهو تشطير تائية عمر بن الفارض التزم فيه حل ما تضمنته من المعاني فرغ من نظمها في 14 رجب سنة 1307 - <choice xml:id="choice_2003.d2e59219">
                   <abbr xml:id="abbr_2003.d2e59221">مط</abbr>
                   <expan xml:id="expan_2003.d2e59224">مطبعة</expan>
-               </choice> جريدة <placeName>بيروت</placeName> 1309 ص 93 كمال </p></div>
-<div type="entry"><head><persName><surname>باشا</surname> <hi rend="quotation-marks" xml:id="hi_2474.d2e59228">احمد </hi></persName></head>
-<p> * احمد باشا كمال
+               </choice> جريدة <placeName change="#d2e171" xml:id="placeName_61.d2e2008">بيروت</placeName> 1309 ص 93 كمال </p></div>
+<div type="entry" change="#d2e171" xml:id="div_60.d2e2013"><head change="#d2e171" xml:id="head_60.d2e2014"><persName change="#d2e171" xml:id="persName_64.d2e2015"><surname change="#d2e171" xml:id="surname_62.d2e2016">باشا</surname> <hi rend="quotation-marks" xml:id="hi_2474.d2e59228">احمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_187.d2e2022"> * احمد باشا كمال
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1575.xhtml" ed="print" n="1569" xml:id="pb_791.d2e59231"/>
           كمشخانه لي (أو) كمشخانلى أو كمشخانوي) الشيخ احمد بن مصطفى الملقب بضياء الدين الكمشخانه لي النقشبندي المجدوي الخالدي (كان بمصر سنة 1293) 1 - جامع الاصول - في الاولياء وأنواعهم - أوصافهم وأصول كل طريق ومهمات المريد وشروط الشيخ وكلمات الصوفية واصطلاحاتهم وأنواع التصوف ومقاماتهم.</p>
             <p xml:id="p_8394.d2e59234">انتهى تأليفا سنة 1276 - <choice xml:id="choice_2004.d2e59236">
                   <abbr xml:id="abbr_2004.d2e59238">مط</abbr>
                   <expan xml:id="expan_2004.d2e59241">مطبعة</expan>
-               </choice> الوهبية سنة 1287 - بهامشه متممات للكتاب بدأ المتممات المذكورة بكلمات الصوفية وجمع اصطلاحاتهم مرتبة على حروف المعجم - <placeName>أستانة</placeName> 1276 - ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الوهبية 1298 ص 304 - <choice xml:id="choice_2005.d2e59245">
+               </choice> الوهبية سنة 1287 - بهامشه متممات للكتاب بدأ المتممات المذكورة بكلمات الصوفية وجمع اصطلاحاتهم مرتبة على حروف المعجم - <placeName change="#d2e171" xml:id="placeName_62.d2e2038">أستانة</placeName> 1276 - ال<choice change="#d2e171" xml:id="choice_47.d2e2041"><abbr change="#d2e171" xml:id="abbr_47.d2e2042">مط</abbr><expan change="#d2e171" xml:id="expan_47.d2e2044">مطبعة</expan></choice> الوهبية 1298 ص 304 - <choice xml:id="choice_2005.d2e59245">
                   <abbr xml:id="abbr_2005.d2e59247">مط</abbr>
                   <expan xml:id="expan_2005.d2e59250">مطبعة</expan>
-               </choice> الجمالية 1328 ص 384 - وذكر له في فهرس دار الكتب المصرية: طبع <placeName>مصر</placeName> 1319 - وطبع ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> دار الكتب الكبرى 1331 ص 217 2 - راموز الاحاديث المشتمل على أنواع الاحاديث</p>
-            <p xml:id="p_8395.d2e59256">وهو سبعة أقسام على ترتيب الهجاء بهامشه شروح كثيرة وبآخره تقاريظ - طبع حجر ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> قشله همايون بك أو إلى (استانة) 1275 ص 566 - وله شرح عليه سماه لوامع العقول - جزء 5 استانة 1294 3 - روح العارفين ورشاد الطالبين - رسالة في محبة الله تعالى وحقيقة المحبة وما يترتب عليها ضمن مجموعة رقم 31 4 - العابر في الانصار والمهاجر - وهو في الجهاد والغزو والشهداء مع أحكامها وحقائقها ودقائقها وتفسيرها وأنواعها وفضائلها - رسالة على هامشها شروح بالعربي والتركي لانتفاع العوام والخواص (كذا) استانة 1276 ص 52 5 - لوامع المعقول - وهو شرح راموز الاحاديث أنظر أعلاه رقم 2 6 - مجموعة - فيها (1) أربعون حديثا في قواعد الدين محذوفه الاسانيد (2) وفاء المسلمين.</p>
+               </choice> الجمالية 1328 ص 384 - وذكر له في فهرس دار الكتب المصرية: طبع <placeName change="#d2e171" xml:id="placeName_63.d2e2056">مصر</placeName> 1319 - وطبع ب<choice change="#d2e171" xml:id="choice_49.d2e2060"><abbr change="#d2e171" xml:id="abbr_49.d2e2061">مط</abbr><expan change="#d2e171" xml:id="expan_49.d2e2063">مطبعة</expan></choice> دار الكتب الكبرى 1331 ص 217 2 - راموز الاحاديث المشتمل على أنواع الاحاديث</p>
+            <p xml:id="p_8395.d2e59256">وهو سبعة أقسام على ترتيب الهجاء بهامشه شروح كثيرة وبآخره تقاريظ - طبع حجر ب<choice change="#d2e171" xml:id="choice_50.d2e2069"><abbr change="#d2e171" xml:id="abbr_50.d2e2070">مط</abbr><expan change="#d2e171" xml:id="expan_50.d2e2072">مطبعة</expan></choice> قشله همايون بك أو إلى (استانة) 1275 ص 566 - وله شرح عليه سماه لوامع العقول - جزء 5 استانة 1294 3 - روح العارفين ورشاد الطالبين - رسالة في محبة الله تعالى وحقيقة المحبة وما يترتب عليها ضمن مجموعة رقم 31 4 - العابر في الانصار والمهاجر - وهو في الجهاد والغزو والشهداء مع أحكامها وحقائقها ودقائقها وتفسيرها وأنواعها وفضائلها - رسالة على هامشها شروح بالعربي والتركي لانتفاع العوام والخواص (كذا) استانة 1276 ص 52 5 - لوامع المعقول - وهو شرح راموز الاحاديث أنظر أعلاه رقم 2 6 - مجموعة - فيها (1) أربعون حديثا في قواعد الدين محذوفه الاسانيد (2) وفاء المسلمين.</p>
             <p xml:id="p_8396.d2e59259">رسالة في ضرر المعاصي وتأثيراتها وعقوباتها وسبب النجاة منها في
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1576.xhtml" ed="print" n="1570" xml:id="cb_785.d2e59261"/>
-          الدارين (3) نتائج الاخلاص في حق الدعا ومعرفته وأركانه وشروطه وآدابه - طبع حجر <placeName>مصر</placeName> (دون تاريخ) ص 47 7 - نجاة الغافلين وتحفة الطالبين - (تصوف) طبع حجر استانة 1268 الكميت بن زيد الاسدي</p>
+          الدارين (3) نتائج الاخلاص في حق الدعا ومعرفته وأركانه وشروطه وآدابه - طبع حجر <placeName change="#d2e171" xml:id="placeName_64.d2e2080">مصر</placeName> (دون تاريخ) ص 47 7 - نجاة الغافلين وتحفة الطالبين - (تصوف) طبع حجر استانة 1268 الكميت بن زيد الاسدي</p>
             <p xml:id="p_8397.d2e59264">(60 - 126) هو كوفي شاعر مقدم عالم بلغات العرب خبير بأيامها من شعراء مضر.</p>
             <p xml:id="p_8398.d2e59267">كان مشهورا بالتشيع لبني هاشم وقصائده فيها تسمى الهاشميات وهي من جيد شعره ومختاره وكانت أول منظوماته.</p>
             <p xml:id="p_8399.d2e59270">يقال ما جمع أحد من علم العرب ومناقبها ومعرفة أنسابها ما جمع الكميت وكان في أيام بني أمية ولم يدرك الدولة العباسية قتله جند يوسف بن عمر الثقفى القصائد الهاشميات - (أو) الهاشميات - أولها من لقلب متيم مستهام غير ما صبوة ولا أحلام وهو يشتمل على جملة قصائد في مدح بني هاشم وآل البيت النبوي عليهم السلام - <choice xml:id="choice_2006.d2e59272">
@@ -562,57 +562,57 @@
                   <abbr xml:id="abbr_2007.d2e59283">مط</abbr>
                   <expan xml:id="expan_2007.d2e59286">مطبعة</expan>
                </choice> شركة التمدن الصناعية 1329 وبأسفل صفحاتها شرح عليها للشيخ محمد محمود الرافعى وفي أولها مقدمة في الشعر العربي وتاريخ الشيعة وأصل التشيع وأخباره وحوادثه - باعتناء الاستاذ هورويتس (1) ليدن 1904 ص 158 المتن العربي ص 109 ترجمتها باللغة الالمانية الكناني </p></div>
-<div type="entry"><head><persName><surname>الابياري</surname> <hi rend="quotation-marks" xml:id="hi_2475.d2e59290">احمد محمد </hi></persName></head>
-<p> مدرس اللغة العربية بالمدارس الاميرية سابقا (كان موجودا سنة 1345) إيناس الجلاس بتشطير وشرح قصيدة أبي فراس بولاق 1896 م</p>
-            <p xml:id="p_8400.d2e59294"></p></div>
-<div type="entry"><head><persName><surname>الكناني</surname> <hi rend="quotation-marks" xml:id="hi_2476.d2e59296">أبو الحسن محمد بن احمد </hi></persName></head>
-<p> رحلة - ليدن 1852 
+<div type="entry" change="#d2e171" xml:id="div_61.d2e2112"><head change="#d2e171" xml:id="head_61.d2e2113"><persName change="#d2e171" xml:id="persName_65.d2e2114"><surname change="#d2e171" xml:id="surname_63.d2e2115">الابياري</surname> <hi rend="quotation-marks" xml:id="hi_2475.d2e59290">احمد محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_194.d2e2121"> مدرس اللغة العربية بالمدارس الاميرية سابقا (كان موجودا سنة 1345) إيناس الجلاس بتشطير وشرح قصيدة أبي فراس بولاق 1896 م</p>
+            <p xml:id="p_8400.d2e59294"/></div>
+<div type="entry" change="#d2e171" xml:id="div_62.d2e2126"><head change="#d2e171" xml:id="head_62.d2e2127"><persName change="#d2e171" xml:id="persName_66.d2e2128"><surname change="#d2e171" xml:id="surname_64.d2e2129">الكناني</surname> <hi rend="quotation-marks" xml:id="hi_2476.d2e59296">أبو الحسن محمد بن احمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_196.d2e2135"> رحلة - ليدن 1852 
           <note type="footnote" xml:id="note_999.d2e59299">
                   <p xml:id="p_8400.d2e59301">الاغاني جزء 15 خزانة الادب 1 - 69 (1)) * (I.</p>
                   <p xml:id="p_8401.d2e59304">Horowitz</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1577.xhtml" ed="print" n="1571" xml:id="pb_792.d2e59308"/></p></div>
-<div type="entry"><head><persName><surname>الكناني</surname> <hi rend="quotation-marks" xml:id="hi_2477.d2e59310">عبد العزيز </hi></persName></head>
-<p> (الامام) عبد العزيز بن يحيى بن مسلم بن ميمون الكناني المكي الحيدة - أو كتاب الحيدة - في الرد على من يقول بخلق القرآن وهي مناظرة جليلة - <choice xml:id="choice_2008.d2e59313">
+<div type="entry" change="#d2e171" xml:id="div_63.d2e2148"><head change="#d2e171" xml:id="head_63.d2e2149"><persName change="#d2e171" xml:id="persName_67.d2e2150"><surname change="#d2e171" xml:id="surname_65.d2e2151">الكناني</surname> <hi rend="quotation-marks" xml:id="hi_2477.d2e59310">عبد العزيز </hi></persName></head>
+<p change="#d2e171" xml:id="p_199.d2e2157"> (الامام) عبد العزيز بن يحيى بن مسلم بن ميمون الكناني المكي الحيدة - أو كتاب الحيدة - في الرد على من يقول بخلق القرآن وهي مناظرة جليلة - <choice xml:id="choice_2008.d2e59313">
                   <abbr xml:id="abbr_2008.d2e59315">مط</abbr>
                   <expan xml:id="expan_2008.d2e59318">مطبعة</expan>
                </choice> السعادة ص 58 وضمن مجموعة رقم 51 موسومة بالحيدة الكبرى </p></div>
-<div type="entry"><head><persName><surname>الكنتوري</surname> <hi rend="quotation-marks" xml:id="hi_2478.d2e59323">اعجاز حسين </hi></persName></head>
-<p> هو اعجاز حسين بن المفتي محمد قلي النيسابوري الكنتوري الشيعي (1) المولود في ميرتهه - وقد تعلم العلوم على والده وجمع الكتب الكثيرة.</p>
+<div type="entry" change="#d2e171" xml:id="div_64.d2e2169"><head change="#d2e171" xml:id="head_64.d2e2170"><persName change="#d2e171" xml:id="persName_68.d2e2171"><surname change="#d2e171" xml:id="surname_66.d2e2172">الكنتوري</surname> <hi rend="quotation-marks" xml:id="hi_2478.d2e59323">اعجاز حسين </hi></persName></head>
+<p change="#d2e171" xml:id="p_200.d2e2178"> هو اعجاز حسين بن المفتي محمد قلي النيسابوري الكنتوري الشيعي (1) المولود في ميرتهه - وقد تعلم العلوم على والده وجمع الكتب الكثيرة.</p>
             <p xml:id="p_8403.d2e59328">ومن تآليفه شذور العقيان في تراجم الاعيان ورسالة مناظرة مع المولوي محمد جان اللاهوري وكتاب القول السديد وغير ذلك كشف الحجب والاستار عن أسماء الكتب والاسفار - ذكر فيه الكتب التي صنفها الامامية - طبع بتصحيح هدايت حسين بن شمس العلماء ولاية حسين طبع حروف كلكته 1330 ص 607</p>
-            <p xml:id="p_8404.d2e59331"></p></div>
-<div type="entry"><head><persName><surname>الكنتوري</surname> <hi rend="quotation-marks" xml:id="hi_2479.d2e59333">(المولوي) كرامت حسين </hi></persName></head>
-<p> أستاذ مدرسة العلوم سابقا في عليكدة فقه اللسان - ابتداه بمقدمة في بيان حدوث المصادر الاصلية من اللسان العربي بحكاية الاصوات وفيه نبذ في بيان الكون والفساد وشيوعه في الحيوانات والنباتات والمخترعات الانسانية وغير ذلك - جزء 3 طبع حجر لكناو 1915 وفي أول كل جزء فهرس المواد.</p>
-            <p xml:id="p_8405.d2e59337"></p></div>
-<div type="entry"><head><persName><surname>الكندي</surname> <hi rend="quotation-marks" xml:id="hi_2480.d2e59339">أبو عمر </hi></persName></head>
-<p> (280 - 350) أبو عمر محمد بن يوسف بن يعقوب الكندي المصري التجيبي 
+            <p xml:id="p_8404.d2e59331"/></div>
+<div type="entry" change="#d2e171" xml:id="div_65.d2e2186"><head change="#d2e171" xml:id="head_65.d2e2187"><persName change="#d2e171" xml:id="persName_69.d2e2188"><surname change="#d2e171" xml:id="surname_67.d2e2189">الكنتوري</surname> <hi rend="quotation-marks" xml:id="hi_2479.d2e59333">(المولوي) كرامت حسين </hi></persName></head>
+<p change="#d2e171" xml:id="p_203.d2e2195"> أستاذ مدرسة العلوم سابقا في عليكدة فقه اللسان - ابتداه بمقدمة في بيان حدوث المصادر الاصلية من اللسان العربي بحكاية الاصوات وفيه نبذ في بيان الكون والفساد وشيوعه في الحيوانات والنباتات والمخترعات الانسانية وغير ذلك - جزء 3 طبع حجر لكناو 1915 وفي أول كل جزء فهرس المواد.</p>
+            <p xml:id="p_8405.d2e59337"/></div>
+<div type="entry" change="#d2e171" xml:id="div_66.d2e2201"><head change="#d2e171" xml:id="head_66.d2e2202"><persName change="#d2e171" xml:id="persName_70.d2e2203"><surname change="#d2e171" xml:id="surname_68.d2e2204">الكندي</surname> <hi rend="quotation-marks" xml:id="hi_2480.d2e59339">أبو عمر </hi></persName></head>
+<p change="#d2e171" xml:id="p_205.d2e2210"> (280 - 350) أبو عمر محمد بن يوسف بن يعقوب الكندي المصري التجيبي 
           <note type="footnote" xml:id="note_1000.d2e59342">
                   <p xml:id="p_8405.d2e59344">(1) ترجمته في مقدمة كتابه: كشف الحجب والاستار حسن المحاضرة 1 - 265 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1578.xhtml" ed="print" n="1572" xml:id="cb_786.d2e59348"/>له مصنفات كثيرة في تاريخ <placeName>مصر</placeName> وأحوالها ككتاب الخطط وكتاب الموالي وكتاب الاجناد العربية وسيرة مروان بن الجعد وأخبار قضاة <placeName>مصر</placeName> وغير ذلك.</p>
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1578.xhtml" ed="print" n="1572" xml:id="cb_786.d2e59348"/>له مصنفات كثيرة في تاريخ <placeName change="#d2e171" xml:id="placeName_65.d2e2220">مصر</placeName> وأحوالها ككتاب الخطط وكتاب الموالي وكتاب الاجناد العربية وسيرة مروان بن الجعد وأخبار قضاة <placeName change="#d2e171" xml:id="placeName_66.d2e2223">مصر</placeName> وغير ذلك.</p>
             <p xml:id="p_8407.d2e59351">ولابي الحسن بن زولاق عليه ذيل كان عارفا بأحوال الناس وسير الملوك ومولده سنة 283 وتوفي في 8 رمضان سنة 350 هكذا ذكر ابن ميسر في تاريخه وفيه نظر.</p>
-            <p xml:id="p_8408.d2e59354">فانه قطع كتابه في <placeName>مصر</placeName> وولاتها على دخول المعز القاهرة سنة 362.</p>
+            <p xml:id="p_8408.d2e59354">فانه قطع كتابه في <placeName change="#d2e171" xml:id="placeName_67.d2e2232">مصر</placeName> وولاتها على دخول المعز القاهرة سنة 362.</p>
             <p xml:id="p_8409.d2e59357">فكيف يكون وفاته كما ذكر</p>
             <p xml:id="p_8410.d2e59361">قال أبو محمد عبد الله بن احمد الفرغاني في ذيل تاريخ شيخه محمد بن جرير الطبري في ترجمة أبي عمر الكندي: كان من أعلم الناس بالبلد وأهله وأعماله وثغوره وله مصنفات فيه وفي غيره من صنوف الاخبار والانساب.</p>
             <p xml:id="p_8411.d2e59364">وكان من جملة أهلى العلم بالحديث والنسب عالما بكتب الحديث صحيح الكتابة نسابا عالما بعلوم العرب.</p>
             <p xml:id="p_8412.d2e59367">وسمع من النسائي وغيره وحدث في آخر عمره وسمع منه.</p>
-            <p xml:id="p_8413.d2e59370">وكان يتفقه على مذهب العراقيين ومولده في سنة 283 وتوفى في رمضان سنة 350 وصلى عليه في مصلى عبسون ودفن في مقابر غافق وكنده..وذيل ابن زولاق على كتابه أمراء <placeName>مصر</placeName> وذكر في أوله أنه قطع على ما تقدم (استخلصت ترجمته عن هامش النسخة الخطية المنقول منها كتابه الاتي والمحفوظة في المتحف البريطاني) كتاب الولاة وكتاب القضاة - (ولاة وقضاة <placeName>مصر</placeName>) واسم الكتاب في النسخة المذكورة كتاب فيه تاريخ <placeName>مصر</placeName> وولاتها برسم سعد الدين أبي عبد الله محمد بن الامير حسام الدين سنقر بن عبد الله الملكي المعظمي - طبع على نفقة تذكار لجنة جيب باعتناء الاستاذ ريهون غست (1) ليدن - لندن (والطبع ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> اليسوعيين ببيروت) 12 / 1908 وله مقدمة باللغة الانكليزية وفهرست عام لاسماء الاعلام ص 686 و 72 وطبع في رومية سنة 1908 ص 213</p>
+            <p xml:id="p_8413.d2e59370">وكان يتفقه على مذهب العراقيين ومولده في سنة 283 وتوفى في رمضان سنة 350 وصلى عليه في مصلى عبسون ودفن في مقابر غافق وكنده..وذيل ابن زولاق على كتابه أمراء <placeName change="#d2e171" xml:id="placeName_68.d2e2251">مصر</placeName> وذكر في أوله أنه قطع على ما تقدم (استخلصت ترجمته عن هامش النسخة الخطية المنقول منها كتابه الاتي والمحفوظة في المتحف البريطاني) كتاب الولاة وكتاب القضاة - (ولاة وقضاة <placeName change="#d2e171" xml:id="placeName_69.d2e2254">مصر</placeName>) واسم الكتاب في النسخة المذكورة كتاب فيه تاريخ <placeName change="#d2e171" xml:id="placeName_70.d2e2257">مصر</placeName> وولاتها برسم سعد الدين أبي عبد الله محمد بن الامير حسام الدين سنقر بن عبد الله الملكي المعظمي - طبع على نفقة تذكار لجنة جيب باعتناء الاستاذ ريهون غست (1) ليدن - لندن (والطبع ب<choice change="#d2e171" xml:id="choice_54.d2e2260"><abbr change="#d2e171" xml:id="abbr_54.d2e2261">مط</abbr><expan change="#d2e171" xml:id="expan_54.d2e2263">مطبعة</expan></choice> اليسوعيين ببيروت) 12 / 1908 وله مقدمة باللغة الانكليزية وفهرست عام لاسماء الاعلام ص 686 و 72 وطبع في رومية سنة 1908 ص 213</p>
             <p xml:id="p_8414.d2e59373">
-               <hi rend="quotation-marks" xml:id="hi_2481.d2e59375"> كتاب القضاة الذين ولوا قضاء <placeName>مصر</placeName> </hi> مع ذيله على يد أبي الحسن احمد بن عبد الرحمن بن برد وله 
+               <hi rend="quotation-marks" xml:id="hi_2481.d2e59375"> كتاب القضاة الذين ولوا قضاء <placeName change="#d2e171" xml:id="placeName_71.d2e2271">مصر</placeName> </hi> مع ذيله على يد أبي الحسن احمد بن عبد الرحمن بن برد وله 
           <note type="footnote" xml:id="note_1001.d2e59378">
                   <p xml:id="p_8414.d2e59380">(1) (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1579.xhtml" ed="print" n="1573" xml:id="pb_793.d2e59384"/>مقدمة باللغة الانجليزية للاستاذ ريشار غوتيل (1) ولابي عمر الكندي كتاب: فضائل <placeName>مصر</placeName> المحروسة.</p>
-            <p xml:id="p_8416.d2e59387">موجود منه نسخة خطية في دار الكتب المصرية كتب عليها انها منقولة عن نسخة الاصل المكتتبة لكافور الاخشيدي رحمه الله برسم مولانا قاسم افندي الشعراني قاضي العسكر بمصر وطبع في نيويورك الجزء الاول من كتاب: تسمية ولاة <placeName>مصر</placeName> وكتاب تاريخ القضاة لابي عمر الكندي باعتناء الاستاذ كونيغ (2) 1908 م ص 66 </p></div>
-<div type="entry"><head><persName><surname>الكندي</surname> <hi rend="quotation-marks" xml:id="hi_2482.d2e59389">عبد المسيح بن اسحق </hi></persName></head>
-<p> رسالة رد بها على عبد الله بن اسماعيل الهاشمي ويدعوه إلى النصرانية - أنظر </p></div>
-<div type="entry"><head><persName><surname>الهاشمي</surname> <hi rend="quotation-marks" xml:id="hi_2483.d2e59392">عبد الله بن اسماعيل </hi></persName></head>
-<p> </p></div>
-<div type="entry"><head><persName><surname>الكندي</surname> <hi rend="quotation-marks" xml:id="hi_2484.d2e59395">يعقوب بن اسحق </hi></persName></head>
-<p> (246) أبو يوسف يعقوب بن اسحق بن الصباح الكندي فيلسوف العرب وأحد أبناء ملوكها.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1579.xhtml" ed="print" n="1573" xml:id="pb_793.d2e59384"/>مقدمة باللغة الانجليزية للاستاذ ريشار غوتيل (1) ولابي عمر الكندي كتاب: فضائل <placeName change="#d2e171" xml:id="placeName_72.d2e2283">مصر</placeName> المحروسة.</p>
+            <p xml:id="p_8416.d2e59387">موجود منه نسخة خطية في دار الكتب المصرية كتب عليها انها منقولة عن نسخة الاصل المكتتبة لكافور الاخشيدي رحمه الله برسم مولانا قاسم افندي الشعراني قاضي العسكر بمصر وطبع في نيويورك الجزء الاول من كتاب: تسمية ولاة <placeName change="#d2e171" xml:id="placeName_73.d2e2289">مصر</placeName> وكتاب تاريخ القضاة لابي عمر الكندي باعتناء الاستاذ كونيغ (2) 1908 م ص 66 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_67.d2e2293"><head change="#d2e171" xml:id="head_67.d2e2294"><persName change="#d2e171" xml:id="persName_71.d2e2295"><surname change="#d2e171" xml:id="surname_69.d2e2296">الكندي</surname> <hi rend="quotation-marks" xml:id="hi_2482.d2e59389">عبد المسيح بن اسحق </hi></persName></head>
+<p change="#d2e171" xml:id="p_217.d2e2302"> رسالة رد بها على عبد الله بن اسماعيل الهاشمي ويدعوه إلى النصرانية - أنظر </p></div>
+<div type="entry" change="#d2e171" xml:id="div_68.d2e2305"><head change="#d2e171" xml:id="head_68.d2e2306"><persName change="#d2e171" xml:id="persName_72.d2e2307"><surname change="#d2e171" xml:id="surname_70.d2e2308">الهاشمي</surname> <hi rend="quotation-marks" xml:id="hi_2483.d2e59392">عبد الله بن اسماعيل </hi></persName></head>
+<p change="#d2e171" xml:id="p_218.d2e2314"> </p></div>
+<div type="entry" change="#d2e171" xml:id="div_69.d2e2317"><head change="#d2e171" xml:id="head_69.d2e2318"><persName change="#d2e171" xml:id="persName_73.d2e2319"><surname change="#d2e171" xml:id="surname_71.d2e2320">الكندي</surname> <hi rend="quotation-marks" xml:id="hi_2484.d2e59395">يعقوب بن اسحق </hi></persName></head>
+<p change="#d2e171" xml:id="p_219.d2e2326"> (246) أبو يوسف يعقوب بن اسحق بن الصباح الكندي فيلسوف العرب وأحد أبناء ملوكها.</p>
             <p xml:id="p_8417.d2e59400">وكان أبوه قيس ابن معدي كرب ملكا على جميع كنده عظيم الشأن</p>
             <p xml:id="p_8418.d2e59403">وهو الذي مدحه الاعشى بقصائده الاربع الطوال.</p>
-            <p xml:id="p_8419.d2e59406">قال ابن جلجل الاندلسي: يعقوب بن صباح الكندى كان شريف الاصل بصريا وكان جده ولي الولايات لبني هاشم ونزل البصرة وضيعته هناك وانتقل إلى <placeName>بغداد</placeName>.</p>
+            <p xml:id="p_8419.d2e59406">قال ابن جلجل الاندلسي: يعقوب بن صباح الكندى كان شريف الاصل بصريا وكان جده ولي الولايات لبني هاشم ونزل البصرة وضيعته هناك وانتقل إلى <placeName change="#d2e171" xml:id="placeName_74.d2e2337">بغداد</placeName>.</p>
             <p xml:id="p_8420.d2e59409">وهناك تأدب.</p>
             <p xml:id="p_8421.d2e59412">وكان عالما بالطب والفلسفة وعلم الحساب والمنطق وتأليف اللحون والهندسة وطبائع الاعداد وعلم النجوم وخدم الملوك مباشرة بالادب.</p>
             <p xml:id="p_8422.d2e59415">وترجم من كتب الفلسفة الكثير وأوضح منها المشكل ولخص المنتصب العويص.</p>
@@ -624,35 +624,35 @@
                   <p xml:id="p_8426.d2e59432">de Koenig الفهرست 255 اخبار الحكماء 240 عيون الانبا 1 - 206 (*)</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1580.xhtml" ed="print" n="1574" xml:id="cb_787.d2e59436"/>العربي باعتناء الاستاذ فون لت (1) في ص 261 إلى 309 من كتاب الابحاث الشرقية (2) المطبوع في ليبسيك سنة 1857 وعدد صفحاته 309 </p></div>
-<div type="entry"><head><persName><surname>كنعان</surname> <hi rend="quotation-marks" xml:id="hi_2485.d2e59438">بشاره </hi></persName></head>
-<p> تاريخ انكلتره - (أو) العالم الانكليزي - جزء 2 <placeName>مصر</placeName> 1892 م كنعان </p></div>
-<div type="entry"><head><persName><surname>ناصيف</surname> <hi rend="quotation-marks" xml:id="hi_2486.d2e59441">(الدكتور) أمين </hi></persName></head>
-<p>
+<div type="entry" change="#d2e171" xml:id="div_70.d2e2371"><head change="#d2e171" xml:id="head_70.d2e2372"><persName change="#d2e171" xml:id="persName_74.d2e2373"><surname change="#d2e171" xml:id="surname_72.d2e2374">كنعان</surname> <hi rend="quotation-marks" xml:id="hi_2485.d2e59438">بشاره </hi></persName></head>
+<p change="#d2e171" xml:id="p_231.d2e2380"> تاريخ انكلتره - (أو) العالم الانكليزي - جزء 2 <placeName change="#d2e171" xml:id="placeName_75.d2e2382">مصر</placeName> 1892 م كنعان </p></div>
+<div type="entry" change="#d2e171" xml:id="div_71.d2e2386"><head change="#d2e171" xml:id="head_71.d2e2387"><persName change="#d2e171" xml:id="persName_75.d2e2388"><surname change="#d2e171" xml:id="surname_73.d2e2389">ناصيف</surname> <hi rend="quotation-marks" xml:id="hi_2486.d2e59441">(الدكتور) أمين </hi></persName></head>
+<p change="#d2e171" xml:id="p_232.d2e2395">
             </p>
-            <p xml:id="p_8428.d2e59445">منتهى الافادة في أسرار الجمال والصحة والسعادة - أهداه إلى شقيقه اليوزباشي فريد كنعان ناصيف الذي كان من ضباط القسم الطبي في الجيش المصري - <placeName>بيروت</placeName> 1910 </p></div>
-<div type="entry"><head><persName><surname>كنعان</surname> <hi rend="quotation-marks" xml:id="hi_2487.d2e59447">يوسف حنا </hi></persName></head>
-<p> فضائح لبنان - طبعته وعلقت حواشيه ادارة جريدة <title level="j" change="#d2e166">السيار</title> بالاسكندرية لمديرها يوسف حنا كنعان ورئيس تحريرها الياس حنا كنعان.</p>
+            <p xml:id="p_8428.d2e59445">منتهى الافادة في أسرار الجمال والصحة والسعادة - أهداه إلى شقيقه اليوزباشي فريد كنعان ناصيف الذي كان من ضباط القسم الطبي في الجيش المصري - <placeName change="#d2e171" xml:id="placeName_76.d2e2400">بيروت</placeName> 1910 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_72.d2e2405"><head change="#d2e171" xml:id="head_72.d2e2406"><persName change="#d2e171" xml:id="persName_76.d2e2407"><surname change="#d2e171" xml:id="surname_74.d2e2408">كنعان</surname> <hi rend="quotation-marks" xml:id="hi_2487.d2e59447">يوسف حنا </hi></persName></head>
+<p change="#d2e171" xml:id="p_234.d2e2414"> فضائح لبنان - طبعته وعلقت حواشيه ادارة جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_8.d2e2416">السيار</title> بالاسكندرية لمديرها يوسف حنا كنعان ورئيس تحريرها الياس حنا كنعان.</p>
             <p xml:id="p_8429.d2e59451">وفيه ذكر الفضائح والفظائع التي ألمت بلبنان على عهد نعوم باشا متصرف جبل لبنان وانتقاد على الامير قبلان واسكندر بك التويني - اسكندرية 1901 ص 65 الكنفراوي * </p></div>
-<div type="entry"><head><persName><surname>الانقروي</surname> <hi rend="quotation-marks" xml:id="hi_2488.d2e59453">اسماعيل </hi></persName></head>
-<p> (الدكتور) كنيب تنشئة الصغير - <choice xml:id="choice_2009.d2e59456">
+<div type="entry" change="#d2e171" xml:id="div_73.d2e2423"><head change="#d2e171" xml:id="head_73.d2e2424"><persName change="#d2e171" xml:id="persName_77.d2e2425"><surname change="#d2e171" xml:id="surname_75.d2e2426">الانقروي</surname> <hi rend="quotation-marks" xml:id="hi_2488.d2e59453">اسماعيل </hi></persName></head>
+<p change="#d2e171" xml:id="p_236.d2e2432"> (الدكتور) كنيب تنشئة الصغير - <choice xml:id="choice_2009.d2e59456">
                   <abbr xml:id="abbr_2009.d2e59458">مط</abbr>
                   <expan xml:id="expan_2009.d2e59461">مطبعة</expan>
                </choice> الارزبجونيه (لبنان) 1899 م </p></div>
-<div type="entry"><head><persName><surname>الكواكبي</surname> <hi rend="quotation-marks" xml:id="hi_2489.d2e59465">عبد الرحمن </hi></persName></head>
-<p> (1265 - 1320) عبد الرحمن بن الشيخ احمد الكواكبي الحلبي 
+<div type="entry" change="#d2e171" xml:id="div_74.d2e2444"><head change="#d2e171" xml:id="head_74.d2e2445"><persName change="#d2e171" xml:id="persName_78.d2e2446"><surname change="#d2e171" xml:id="surname_76.d2e2447">الكواكبي</surname> <hi rend="quotation-marks" xml:id="hi_2489.d2e59465">عبد الرحمن </hi></persName></head>
+<p change="#d2e171" xml:id="p_237.d2e2453"> (1265 - 1320) عبد الرحمن بن الشيخ احمد الكواكبي الحلبي 
           <note type="footnote" xml:id="note_1003.d2e59468">
                   <p xml:id="p_8429.d2e59470">(1) Von o.</p>
                   <p xml:id="p_8430.d2e59473">Loth (2) Oriental Researches ترجمته في كتابه أم القرى طبعة رابعة.</p>
                   <p xml:id="p_8431.d2e59476">أعلام النبلاء جزء 7 ص 507 (*)</p>
                </note>
-               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1581.xhtml" ed="print" n="1575" xml:id="pb_794.d2e59480"/>آل الكواكبي أسرة قديمة في <placeName>حلب</placeName> هاجر إليها أجدادهم منذ أربعة قرون ولهم شهرة واسعة ومقام رفيع في <placeName>حلب</placeName> والقسطنطينية يرجعون بأنسابهم إلى السيد ابراهيم الصفوي أحد أمراء أردبيل.</p>
+               <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1581.xhtml" ed="print" n="1575" xml:id="pb_794.d2e59480"/>آل الكواكبي أسرة قديمة في <placeName change="#d2e171" xml:id="placeName_77.d2e2469">حلب</placeName> هاجر إليها أجدادهم منذ أربعة قرون ولهم شهرة واسعة ومقام رفيع في <placeName change="#d2e171" xml:id="placeName_78.d2e2472">حلب</placeName> والقسطنطينية يرجعون بأنسابهم إلى السيد ابراهيم الصفوي أحد أمراء أردبيل.</p>
             <p xml:id="p_8433.d2e59483">ولهم آثار مشهورة منها المدرسة الكواكبية بحلب ونبغ منهم جماعة كبيرة من العلماء ورجال الادارة ومنهم عبد الرحمن المولود بحلب وأبوه الشيخ احمد الكواكبي أحد مدرسي الجامع الاموي بدمشق تلقى المترجم مبادئ في بعض المدارس الاهلية ودرس العلوم الشرعية في المدرسة الكواكبية وأتقن العربية والتركية.</p>
             <p xml:id="p_8434.d2e59486">ووقف على العلوم الرياضية والطبيعية وغيرها من العلوم الحديثة.</p>
             <p xml:id="p_8435.d2e59489">وكان ميالا منذ حداثته إلى صناعة القلم واشتغل في تحرير جريدة فرات التي كانت تصدر بحلب باسم الحكومة وأنشأ في أثناء ذلك جريدة سماها الشهباء واشتغل بخدمة الحكومة فتقلب في عدة مناصب وكان حب الاصلاح وحرية القول باديتين في كل عمل من أعماله.</p>
             <p xml:id="p_8436.d2e59493">فلم يرق ذلك لبعض أرباب المناصب العليا.</p>
             <p xml:id="p_8437.d2e59496">فوشوا به.</p>
-            <p xml:id="p_8438.d2e59499">فتعمدت الحكومة حبسه ثم جردوه من أملاكه فغادر الوطن وجاء <placeName>مصر</placeName> ثم خرج منها سائحا وطاف زنجبار والحبشة وأكثر شطوط شرق آسيا وغربيها.</p>
-            <p xml:id="p_8439.d2e59502">ثم رجع إلى <placeName>مصر</placeName>.</p>
+            <p xml:id="p_8438.d2e59499">فتعمدت الحكومة حبسه ثم جردوه من أملاكه فغادر الوطن وجاء <placeName change="#d2e171" xml:id="placeName_79.d2e2494">مصر</placeName> ثم خرج منها سائحا وطاف زنجبار والحبشة وأكثر شطوط شرق آسيا وغربيها.</p>
+            <p xml:id="p_8439.d2e59502">ثم رجع إلى <placeName change="#d2e171" xml:id="placeName_80.d2e2500">مصر</placeName>.</p>
             <p xml:id="p_8440.d2e59505">له تآليف كثيرة لم ينشر منها الا كتاب طبائع الاستبداد وكتاب أم القرى ومع تمسكه بالاسلامية والمطالبة بحقوقها</p>
             <p xml:id="p_8441.d2e59508">والاستهلاك في سبيل نصرتها فقد كان بعيدا عن التعصب يستأنس بمجلسه المسلم والمسيحي واليهودي على السواء لانه كان يرى رابطة الوطن فوق كل رابطة.</p>
             <p xml:id="p_8442.d2e59512">كانت وفاته بمصر 1 - أم القرى - أي ضبط مفاوضات ومقررات مؤتمر النهضة الاسلامية انعقد في مكه سنة 1316 - <choice xml:id="choice_2010.d2e59514">
@@ -670,12 +670,12 @@
                   <abbr xml:id="abbr_2012.d2e59542">مط</abbr>
                   <expan xml:id="expan_2012.d2e59545">مطبعة</expan>
                </choice> الامة (دون تاريخ) ص 127 </p></div>
-<div type="entry"><head><persName><surname>الكواكبي</surname> <hi rend="quotation-marks" xml:id="hi_2491.d2e59549">محمد </hi></persName></head>
-<p> (1018 - 1096) محمد بن حسن بن احمد بن أبي يحيى الكواكبي الحلبي مفتى <placeName>حلب</placeName> الشهباء كان أعظم رجل جمع كل صفة حميدة وألم بكل منقبة</p>
+<div type="entry" change="#d2e171" xml:id="div_75.d2e2549"><head change="#d2e171" xml:id="head_75.d2e2550"><persName change="#d2e171" xml:id="persName_79.d2e2551"><surname change="#d2e171" xml:id="surname_77.d2e2552">الكواكبي</surname> <hi rend="quotation-marks" xml:id="hi_2491.d2e59549">محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_252.d2e2558"> (1018 - 1096) محمد بن حسن بن احمد بن أبي يحيى الكواكبي الحلبي مفتى <placeName change="#d2e171" xml:id="placeName_81.d2e2560">حلب</placeName> الشهباء كان أعظم رجل جمع كل صفة حميدة وألم بكل منقبة</p>
             <p xml:id="p_8444.d2e59553">سامية.</p>
             <p xml:id="p_8445.d2e59556">انتهت إليه مكارم الاخلاق والبشاشة وصدق الوعد.</p>
             <p xml:id="p_8446.d2e59559">وكان مع علمه الزاخر وعلو سنه وقدره لين قشر المعاشرة مخالطا يحضر مجالس المداعبة والغناء ويقول رب معصية أورثت ذلا وافتخارا خير من طاعة أورثت عزا واستكبارا نشأ بحلب وأخذ بها عن جمع من محققي عصره وجد كثيرا حتى نال الرتبة العظيمة وكان حديد الفهم سريع الاخذ للاشياء الغامضة.</p>
-            <p xml:id="p_8447.d2e59562">ولي افتاء <placeName>حلب</placeName> وتصدر بها وأفاد ودرس وألقت إليه علماؤها اعنة التسليم.</p>
+            <p xml:id="p_8447.d2e59562">ولي افتاء <placeName change="#d2e171" xml:id="placeName_82.d2e2575">حلب</placeName> وتصدر بها وأفاد ودرس وألقت إليه علماؤها اعنة التسليم.</p>
             <p xml:id="p_8448.d2e59566">وبقيت عليه الفتوي إلى أن مات.</p>
             <p xml:id="p_8449.d2e59569">
                <hi style="color:red;" xml:id="hi_2492.d2e59571">1 - </hi>ارشاد الطالب إلى منظومة الكواكب - (في علم الاصول) - طبع بهامش الفوائد السمية الآتي 2 - الفوائد السمية في شرح النظم المسمى بالفرائد السنية - (على مذهب الامام أبى حنيفة) يليه شرح منظومة الفرائد المسماة باللوامع الضيائية نظم السراجية للشيخ عبد الله بن عبد الرحمن الحنبلي وبهامشه ارشاد الطالب إلى منظومة الكواكب في علم الاصول المذكور قبلا - طبع بمعرفة الشيخ فرج الله الكردي جزء 2 بولاق 4 / 1322 3 - نظم المنار - مع الزيادات عليه (أصول) .. 
@@ -683,33 +683,33 @@
                   <p xml:id="p_8449.d2e59576">خلاصة الاثر 3 - 437 (*)</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1583.xhtml" ed="print" n="1577" xml:id="pb_795.d2e59580"/></p></div>
-<div type="entry"><head><persName><surname>الكوراني</surname> <hi rend="quotation-marks" xml:id="hi_2493.d2e59582">ابراهيم </hi></persName></head>
-<p> (1025 - 1101) أبو إسحق ابراهيم بن حسن بن شهاب الدين الكردي الكوراني الشهرزوري ثم الشهداني النافعي - نزيل المدينة المنورة ولد بشهدان من جبال الكرد وأخذ العلم عن محمد شريف الكوراني الصديقي ثم ارتحل إلى <placeName>بغداد</placeName> وأقام بها مدة ثم دخل <placeName>دمشق</placeName>.</p>
-            <p xml:id="p_8451.d2e59586">ثم إلى <placeName>مصر</placeName> ثم إلى الحرمين وألقى عصا تسياره بالمدينة المنورة.</p>
+<div type="entry" change="#d2e171" xml:id="div_76.d2e2596"><head change="#d2e171" xml:id="head_76.d2e2597"><persName change="#d2e171" xml:id="persName_80.d2e2598"><surname change="#d2e171" xml:id="surname_78.d2e2599">الكوراني</surname> <hi rend="quotation-marks" xml:id="hi_2493.d2e59582">ابراهيم </hi></persName></head>
+<p change="#d2e171" xml:id="p_260.d2e2605"> (1025 - 1101) أبو إسحق ابراهيم بن حسن بن شهاب الدين الكردي الكوراني الشهرزوري ثم الشهداني النافعي - نزيل المدينة المنورة ولد بشهدان من جبال الكرد وأخذ العلم عن محمد شريف الكوراني الصديقي ثم ارتحل إلى <placeName change="#d2e171" xml:id="placeName_83.d2e2607">بغداد</placeName> وأقام بها مدة ثم دخل <placeName change="#d2e171" xml:id="placeName_84.d2e2610">دمشق</placeName>.</p>
+            <p xml:id="p_8451.d2e59586">ثم إلى <placeName change="#d2e171" xml:id="placeName_85.d2e2616">مصر</placeName> ثم إلى الحرمين وألقى عصا تسياره بالمدينة المنورة.</p>
             <p xml:id="p_8452.d2e59589">ولازم الصيفي القشاشي وبه تخرج وأجازه الشهاب الخفاجي والشيخ سلطان والشمس البابلي وعبد الله بن سعيد اللاهوري وأبو الحسين علي بن مطبير الحكمي.</p>
             <p xml:id="p_8453.d2e59592">وقد أجار لمن أدرك عصره وألف مؤلفات نافعة عديدة منها شرحان على عقيدة شيخه القشاشي احمد ومسلك الاعتدال إلى آية خلق الافعال وأتحاف الخلف بعقيدة السلف وغير ذلك الامم لايقاظ الهمم - (مصطلح الحديث) فرغ من تأليفه سنة 1086 - حيدر آباد ص 134 </p></div>
-<div type="entry"><head><persName><surname>كورتن</surname> <hi rend="quotation-marks" xml:id="hi_2494.d2e59594">ويليام </hi></persName></head>
-<p> (1808 - 1864) (..) كان من خدمة الدين البروتستاني وتخرج في كلية أوكسفرد وكان جل اهتمامه باللغة السريانية وآدابها.</p>
+<div type="entry" change="#d2e171" xml:id="div_77.d2e2626"><head change="#d2e171" xml:id="head_77.d2e2627"><persName change="#d2e171" xml:id="persName_81.d2e2628"><surname change="#d2e171" xml:id="surname_79.d2e2629">كورتن</surname> <hi rend="quotation-marks" xml:id="hi_2494.d2e59594">ويليام </hi></persName></head>
+<p change="#d2e171" xml:id="p_264.d2e2635"> (1808 - 1864) (..) كان من خدمة الدين البروتستاني وتخرج في كلية أوكسفرد وكان جل اهتمامه باللغة السريانية وآدابها.</p>
             <p xml:id="p_8454.d2e59598">وقد خدم الآداب العربية ببعض المصنفات العربية ومن آثاره</p>
             <p xml:id="p_8455.d2e59602">الباقية التي أتقن طبعها كتاب الملل والنحل للشهرستاني طبعه في لندن سنة 1842 وله أيضا فهرست كتب الخط الشرقية المحفوظة في المتحف البريطاني - لندن 1842 وعنى أيضا بنشر عمدة عقيدة أهل السنة لعبد الله بن احمد حافظ الدين </p></div>
-<div type="entry"><head><persName><surname>النسفي</surname> <hi rend="quotation-marks" xml:id="hi_2495.d2e59604">أبو البركات </hi></persName></head>
-<p> 
+<div type="entry" change="#d2e171" xml:id="div_78.d2e2645"><head change="#d2e171" xml:id="head_78.d2e2646"><persName change="#d2e171" xml:id="persName_82.d2e2647"><surname change="#d2e171" xml:id="surname_80.d2e2648">النسفي</surname> <hi rend="quotation-marks" xml:id="hi_2495.d2e59604">أبو البركات </hi></persName></head>
+<p change="#d2e171" xml:id="p_267.d2e2654"> 
           <note type="footnote" xml:id="note_1005.d2e59607">
                   <p xml:id="p_8455.d2e59609">سلك الدرر 1 - 5 الحبرتي 1 - 67 جلاء العينين ص 26 (..) W.</p>
                   <p xml:id="p_8456.d2e59612">Cureton الآداب العربية في القرن التاسع عشر 1 - 124 (*)</p>
                </note>
-               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1584.xhtml" ed="print" n="1578" xml:id="cb_789.d2e59616"/>والباب الواحد والثلاثين في الكهنوة - أنظر: التكريتي يحيى بن جزير (أو) ابن جرير كوزل حصاري (الشيخ) مصطفى بن محمد بن مصطفى كوزل حصاري الحنفي (البدلداني مولدا) خادم النقشبند بين 1 - حلية الناجي - وهي حاشية على الشرح الصغير لابرهيم الحلبي على منية المصلى وغنية المبتدي لسديد الدين الكاشغري - (فقه حنفي) <placeName>أستانة</placeName> 1244 و 1306 ص 562 - بولاق 1251 2 - شرح الحقائق من الاصول لابي الخادمي - أتم الشرح سنة 1246 - <placeName>أستانة</placeName> 1308 ص 336 كوزاليشي ولاغومينا</p>
-            <p xml:id="p_8458.d2e59619">الصكوك العربية المعينة على تاريخ استيلاء العرب على جزيرة صقلية - وهو ملحق للمكتبة الصقلية - بالرما 1890 م كوزي بيوك زاده (الشيخ) ابراهيم بن محمد وهو ابن معيد افندي من أعلام علماء قيصرية كان تلميذا لعمدة الاساتيذ شارح الطريقة المحمدية أبو سعيد محمد افندي وحصل العلوم العقلية النقلية على حسين افندي الكبير من مشاهير علماء القضاء المذكور وكانت وفاته سنة 1250 رسالة في حق البسملة - <placeName>أستانة</placeName> 1259 ص 56 </p></div>
-<div type="entry"><head><persName><surname>كوسا</surname> <hi rend="quotation-marks" xml:id="hi_2496.d2e59621">سلفاتور </hi></persName></head>
-<p> جمع تواريخ مدينة فاس - مع مقدمة باللغة الايتالية - بالرما 1878 ص 71 و 8
+               <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1584.xhtml" ed="print" n="1578" xml:id="cb_789.d2e59616"/>والباب الواحد والثلاثين في الكهنوة - أنظر: التكريتي يحيى بن جزير (أو) ابن جرير كوزل حصاري (الشيخ) مصطفى بن محمد بن مصطفى كوزل حصاري الحنفي (البدلداني مولدا) خادم النقشبند بين 1 - حلية الناجي - وهي حاشية على الشرح الصغير لابرهيم الحلبي على منية المصلى وغنية المبتدي لسديد الدين الكاشغري - (فقه حنفي) <placeName change="#d2e171" xml:id="placeName_86.d2e2667">أستانة</placeName> 1244 و 1306 ص 562 - بولاق 1251 2 - شرح الحقائق من الاصول لابي الخادمي - أتم الشرح سنة 1246 - <placeName change="#d2e171" xml:id="placeName_87.d2e2670">أستانة</placeName> 1308 ص 336 كوزاليشي ولاغومينا</p>
+            <p xml:id="p_8458.d2e59619">الصكوك العربية المعينة على تاريخ استيلاء العرب على جزيرة صقلية - وهو ملحق للمكتبة الصقلية - بالرما 1890 م كوزي بيوك زاده (الشيخ) ابراهيم بن محمد وهو ابن معيد افندي من أعلام علماء قيصرية كان تلميذا لعمدة الاساتيذ شارح الطريقة المحمدية أبو سعيد محمد افندي وحصل العلوم العقلية النقلية على حسين افندي الكبير من مشاهير علماء القضاء المذكور وكانت وفاته سنة 1250 رسالة في حق البسملة - <placeName change="#d2e171" xml:id="placeName_88.d2e2676">أستانة</placeName> 1259 ص 56 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_79.d2e2680"><head change="#d2e171" xml:id="head_79.d2e2681"><persName change="#d2e171" xml:id="persName_83.d2e2682"><surname change="#d2e171" xml:id="surname_81.d2e2683">كوسا</surname> <hi rend="quotation-marks" xml:id="hi_2496.d2e59621">سلفاتور </hi></persName></head>
+<p change="#d2e171" xml:id="p_271.d2e2689"> جمع تواريخ مدينة فاس - مع مقدمة باللغة الايتالية - بالرما 1878 ص 71 و 8
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1585.xhtml" ed="print" n="1579" xml:id="pb_796.d2e59624"/>
           كوسان دى برسفال (1759 - 1835) تولى نظارة المخطوطات الشرقية في باريس وعلم اللغة العربية في مكتبها الملكي وألف كتبا عديدة في آداب العرب واشتهر خصوصا بتاريخ العرب الذي ألفه باللغة الفرنسية وتكرر طبعه في باريس وله من الكتب العربية ما يأتي:</p>
             <p xml:id="p_8459.d2e59627">
                <hi style="color:red;" xml:id="hi_2497.d2e59629">1 - </hi>حكايات المسلمين - وهي مجموع حكايات منتخبة من كتب الادباء المسلمين وألحقه بمعجم الالفاظ العربية مع ترجمتها بالفرنسية وذلك تنشيطا لطلاب اللغة العربية بباريس 1847 2 - مجموع مكاتيب وتمسكات وحجج - وغير ذلك - طبع حجر باريس 1825 ص 16 3 - غراماطيق - لعلم اللغة العربية الدارجة وذيله بقصة ابن المغازي وقصة الحكم - مع ترجمة فرنسية باريس 1858 ص 150.</p>
             <p xml:id="p_8460.d2e59633">وعني بنشر: (1) شرح معلقة امرئ القيس للزوزني (2) مقامات الحريري - باريس 1819 (3) سورة فاتحة الكتاب وهي أول سورة من القرآن الكريم - باريس 1820 ص 43 (4) كتاب الزيج الكبير الحاكمى لابي الحسن علي ابن يونس الفلكي (5) كتاب الصور السماوية للشيخ عبد الرحمن الصوفي (6) أمثال لقمان الحكيم وترجم تاريخ صقلية في عهد الاسلام للنويري وغير ذلك </p></div>
-<div type="entry"><head><persName><surname>كوسغارتن</surname> <hi rend="quotation-marks" xml:id="hi_2498.d2e59635">جان غد فريد </hi></persName></head>
-<p> المولود في التنكرخين من أعمال بروسة سنة 1792 درس العلوم في مدرسة غريسفالد الشهيرة ثم تعشق 
+<div type="entry" change="#d2e171" xml:id="div_80.d2e2703"><head change="#d2e171" xml:id="head_80.d2e2704"><persName change="#d2e171" xml:id="persName_84.d2e2705"><surname change="#d2e171" xml:id="surname_82.d2e2706">كوسغارتن</surname> <hi rend="quotation-marks" xml:id="hi_2498.d2e59635">جان غد فريد </hi></persName></head>
+<p change="#d2e171" xml:id="p_274.d2e2712"> المولود في التنكرخين من أعمال بروسة سنة 1792 درس العلوم في مدرسة غريسفالد الشهيرة ثم تعشق 
           <note type="footnote" xml:id="note_1006.d2e59638">
                   <p xml:id="p_8460.d2e59640">.</p>
                   <p xml:id="p_8461.d2e59643">Caussin de Perceval J.</p>
@@ -718,41 +718,41 @@
                   <p xml:id="p_8464.d2e59652">Kosegarten</p>
                </note>
                <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1586.xhtml" ed="print" n="1580" xml:id="cb_790.d2e59656"/>اللغة العربية فأرسله أبوه ليروى عليله منها بالدرس على الاستاذ دي ساسي محور العلوم الشرقية في زمانه فتلقن اللغة العربية ثم درس التركية والفارسية والارمنية واستنسخ قسما من مخطوطات مكتبة باريس ولم يلبث ان نشر في بلاده منها طرفا استوقفت أنظار وطنه فدعاه أصحاب الامر إلى تدريس اللغات الشرقية في غريسفالد وبقى في منصبه إلى وفاته فيها سنة 1850 عنى بنشر: (1) قسما من شعر الهذيليين (2) مجلدا من كتاب الاغاني لابي الفرج (3) مجلدين من تاريخ الطبري مع ترجمتهما (4) معلقة عمرو بن كلثوم وذيلها بالملحوظات </p></div>
-<div type="entry"><head><persName><surname>كوش</surname> <hi rend="quotation-marks" xml:id="hi_2499.d2e59658">(الاب) فيلبس </hi></persName></head>
-<p> (1818 - 1895 م) الراهب اليسوعي الفرنساوي ولد في مقاطعة فرنش كونته بفرنسا وتوفي في بكفيا بعد أن خدم الرسالة في سوريا وغيرها خمسين سنة.</p>
+<div type="entry" change="#d2e171" xml:id="div_81.d2e2735"><head change="#d2e171" xml:id="head_81.d2e2736"><persName change="#d2e171" xml:id="persName_85.d2e2737"><surname change="#d2e171" xml:id="surname_83.d2e2738">كوش</surname> <hi rend="quotation-marks" xml:id="hi_2499.d2e59658">(الاب) فيلبس </hi></persName></head>
+<p change="#d2e171" xml:id="p_280.d2e2744"> (1818 - 1895 م) الراهب اليسوعي الفرنساوي ولد في مقاطعة فرنش كونته بفرنسا وتوفي في بكفيا بعد أن خدم الرسالة في سوريا وغيرها خمسين سنة.</p>
             <p xml:id="p_8466.d2e59662">له: قاموس عربي فرنساوي - طبع بمطبعة الآباء اليسوعيين سنة 1862 و 1888 - ثم جدد طبعه الاب</p>
             <p xml:id="p_8467.d2e59665">بلو وأضاف إليه اضافات عديدة كويليام </p></div>
-<div type="entry"><head><persName><surname>الانكليزي</surname> <hi rend="quotation-marks" xml:id="hi_2500.d2e59667">وليم عبد الله </hi></persName></head>
-<p> المحامي لدى المحكمة العالية بمدينة ليفربول 1 - أحسن الاجوبة عن سؤال أحد علماء أوروبا <placeName>بغداد</placeName> 1330 ص 30 2 - العقيدة الاسلامية - نشره محمد ضياء.</p>
+<div type="entry" change="#d2e171" xml:id="div_82.d2e2753"><head change="#d2e171" xml:id="head_82.d2e2754"><persName change="#d2e171" xml:id="persName_86.d2e2755"><surname change="#d2e171" xml:id="surname_84.d2e2756">الانكليزي</surname> <hi rend="quotation-marks" xml:id="hi_2500.d2e59667">وليم عبد الله </hi></persName></head>
+<p change="#d2e171" xml:id="p_283.d2e2762"> المحامي لدى المحكمة العالية بمدينة ليفربول 1 - أحسن الاجوبة عن سؤال أحد علماء أوروبا <placeName change="#d2e171" xml:id="placeName_89.d2e2764">بغداد</placeName> 1330 ص 30 2 - العقيدة الاسلامية - نشره محمد ضياء.</p>
             <p xml:id="p_8468.d2e59672">أنظر محمد ضياء الكيداني (العلامة) لطف الله النسفي المعروف بالفاضل الكيداني خلاصة فقه الكيداني - مع شروحها الثلاثة وهي
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1587.xhtml" ed="print" n="1581" xml:id="pb_797.d2e59674"/>
-          الشرح المسمى بمعراج المؤمنين في أهل عليين للشيخ بدر الدين بن الشيخ ابراهيم السرهندي وشرح خلاصة الكيداني لمحمد أمين القاسمي وشرح عليها أيضا لم يعلم مؤلفه (فقه حنفى) <placeName>أستانة</placeName> 1327 - دهلى 1300 ص 108 وطبع بالعربي والفارسي في تشكند 1893 ص 24 وكتب اسمه: هذا كتاب فقه كيداني مع مولانا شمس الدين محمد القهستاني.</p>
+          الشرح المسمى بمعراج المؤمنين في أهل عليين للشيخ بدر الدين بن الشيخ ابراهيم السرهندي وشرح خلاصة الكيداني لمحمد أمين القاسمي وشرح عليها أيضا لم يعلم مؤلفه (فقه حنفى) <placeName change="#d2e171" xml:id="placeName_90.d2e2772">أستانة</placeName> 1327 - دهلى 1300 ص 108 وطبع بالعربي والفارسي في تشكند 1893 ص 24 وكتب اسمه: هذا كتاب فقه كيداني مع مولانا شمس الدين محمد القهستاني.</p>
             <p xml:id="p_8469.d2e59677">أنظر القوهستانى: شرح فقه كيداني.</p>
             <p xml:id="p_8470.d2e59680">أنظر أيضا: شرح خلاصة الكيداني تأليف محمد حسن السمهلي في كتاب شرح مختصر الوقاية لابي المكارم ابن عبد الله بن محمد </p></div>
-<div type="entry"><head><persName><surname>الكيلاني</surname> <hi rend="quotation-marks" xml:id="hi_2501.d2e59682">أبو البركات </hi></persName></head>
-<p>
+<div type="entry" change="#d2e171" xml:id="div_83.d2e2782"><head change="#d2e171" xml:id="head_83.d2e2783"><persName change="#d2e171" xml:id="persName_87.d2e2784"><surname change="#d2e171" xml:id="surname_85.d2e2785">الكيلاني</surname> <hi rend="quotation-marks" xml:id="hi_2501.d2e59682">أبو البركات </hi></persName></head>
+<p change="#d2e171" xml:id="p_287.d2e2791">
             </p>
             <p xml:id="p_8471.d2e59686">محمد نجيب الكيلاني القادري الحسنى الحسينى الحموى الاجازة القادرية الرزاقية - حماه 1327 ص 11 </p></div>
-<div type="entry"><head><persName><surname>الكيلاني</surname> <hi rend="quotation-marks" xml:id="hi_2502.d2e59688">أبو الحسن علي بن هشام </hi></persName></head>
-<p> شرح التصريف العزي - (صرف) وبهامشه التصريف المذكور - بولاق 1292 و 1298 ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الميمنية 1305 و 1307 و 1325 مكة 1302 ص 40 <choice xml:id="choice_2013.d2e59691">
+<div type="entry" change="#d2e171" xml:id="div_84.d2e2798"><head change="#d2e171" xml:id="head_84.d2e2799"><persName change="#d2e171" xml:id="persName_88.d2e2800"><surname change="#d2e171" xml:id="surname_86.d2e2801">الكيلاني</surname> <hi rend="quotation-marks" xml:id="hi_2502.d2e59688">أبو الحسن علي بن هشام </hi></persName></head>
+<p change="#d2e171" xml:id="p_289.d2e2807"> شرح التصريف العزي - (صرف) وبهامشه التصريف المذكور - بولاق 1292 و 1298 ال<choice change="#d2e171" xml:id="choice_59.d2e2809"><abbr change="#d2e171" xml:id="abbr_59.d2e2810">مط</abbr><expan change="#d2e171" xml:id="expan_59.d2e2812">مطبعة</expan></choice> الميمنية 1305 و 1307 و 1325 مكة 1302 ص 40 <choice xml:id="choice_2013.d2e59691">
                   <abbr xml:id="abbr_2013.d2e59693">مط</abbr>
                   <expan xml:id="expan_2013.d2e59696">مطبعة</expan>
                </choice> الجمالية 1329 ص 51 </p></div>
-<div type="entry"><head><persName><surname>الكيلاني</surname> <hi rend="quotation-marks" xml:id="hi_2503.d2e59700">اسمعيل </hi></persName></head>
-<p> (الحاج) اسمعيل بن محمد سعيد القادري الكيلاني (أو) الجيلاني البغدادي من أبناء القرن الثالث عشر للهجرة الفيوضات الربانية في المآثر القادرية - طبع حجر <choice xml:id="choice_2014.d2e59703">
+<div type="entry" change="#d2e171" xml:id="div_85.d2e2825"><head change="#d2e171" xml:id="head_85.d2e2826"><persName change="#d2e171" xml:id="persName_89.d2e2827"><surname change="#d2e171" xml:id="surname_87.d2e2828">الكيلاني</surname> <hi rend="quotation-marks" xml:id="hi_2503.d2e59700">اسمعيل </hi></persName></head>
+<p change="#d2e171" xml:id="p_290.d2e2834"> (الحاج) اسمعيل بن محمد سعيد القادري الكيلاني (أو) الجيلاني البغدادي من أبناء القرن الثالث عشر للهجرة الفيوضات الربانية في المآثر القادرية - طبع حجر <choice xml:id="choice_2014.d2e59703">
                   <abbr xml:id="abbr_2014.d2e59705">مط</abbr>
                   <expan xml:id="expan_2014.d2e59708">مطبعة</expan>
-               </choice> محمد أنسى 1283 ومط السيد على 1300 وطبع حروف ب<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الحميدية المصرية 1322 ص 255 </p></div>
-<div type="entry"><head><persName><surname>الكيلاني</surname> <hi rend="quotation-marks" xml:id="hi_2504.d2e59712">قطب الدين </hi></persName></head>
-<p> (نبغ سنة 830)
+               </choice> محمد أنسى 1283 ومط السيد على 1300 وطبع حروف ب<choice change="#d2e171" xml:id="choice_62.d2e2845"><abbr change="#d2e171" xml:id="abbr_62.d2e2846">مط</abbr><expan change="#d2e171" xml:id="expan_62.d2e2848">مطبعة</expan></choice> الحميدية المصرية 1322 ص 255 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_86.d2e2852"><head change="#d2e171" xml:id="head_86.d2e2853"><persName change="#d2e171" xml:id="persName_90.d2e2854"><surname change="#d2e171" xml:id="surname_88.d2e2855">الكيلاني</surname> <hi rend="quotation-marks" xml:id="hi_2504.d2e59712">قطب الدين </hi></persName></head>
+<p change="#d2e171" xml:id="p_291.d2e2861"> (نبغ سنة 830)
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1588.xhtml" ed="print" n="1582" xml:id="cb_791.d2e59716"/>
           شرح على آداب السمرقندي - تشكند 1894 م الكيلاني التونسي (الشيخ) محمد الامين رياض البساتين في أخبار الشيخ عبد القادر الجيلي محيي الدين - طبع بهامش بهجة الاسرار ومعدن الانوار</p>
             <p xml:id="p_8472.d2e59719">للشطوفي.</p>
-            <p xml:id="p_8473.d2e59722"></p></div>
-<div type="entry"><head><persName><surname>الكيواني</surname> <hi rend="quotation-marks" xml:id="hi_2505.d2e59724">احمد </hi></persName></head>
-<p> (1173) احمد بن حسين باشا بن مصطفى بن حسين بن كيوان الشهير بالكيواني الدمشقي ولد بدمشق ونشأ بها ورحل إلى <placeName>مصر</placeName> واستقام بها مدة سنين وطلب العلم على جماعة اجلاء وحضر على الشيخ محمد الدلجي في النحو وعلى احمد الاسقاطي الحنفي بالفقه وغيرهما من العلماء.</p>
+            <p xml:id="p_8473.d2e59722"/></div>
+<div type="entry" change="#d2e171" xml:id="div_87.d2e2871"><head change="#d2e171" xml:id="head_87.d2e2872"><persName change="#d2e171" xml:id="persName_91.d2e2873"><surname change="#d2e171" xml:id="surname_89.d2e2874">الكيواني</surname> <hi rend="quotation-marks" xml:id="hi_2505.d2e59724">احمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_294.d2e2880"> (1173) احمد بن حسين باشا بن مصطفى بن حسين بن كيوان الشهير بالكيواني الدمشقي ولد بدمشق ونشأ بها ورحل إلى <placeName change="#d2e171" xml:id="placeName_91.d2e2882">مصر</placeName> واستقام بها مدة سنين وطلب العلم على جماعة اجلاء وحضر على الشيخ محمد الدلجي في النحو وعلى احمد الاسقاطي الحنفي بالفقه وغيرهما من العلماء.</p>
             <p xml:id="p_8474.d2e59729">ومن مشايخه بدمشق الشمس محمد بن عبد الرحمن الغزي العامري الشافعي الدمشقي.</p>
             <p xml:id="p_8475.d2e59732">وأخذ الخط عن الكاتب الشيخ محمد العمري وأجيز بالكتابة المعروفة عند أرباب الخط.</p>
             <p xml:id="p_8476.d2e59735">وأخذ عنه الناس.</p>
@@ -760,13 +760,13 @@
             <p xml:id="p_8478.d2e59741">وكان بدمشق غالب جلوسه في حانوت بسوق الدرويشية تجتمع عنده زمرة الادباء والكمل على لعب الشطرنج وله فيها ارجوزة عجيبة.</p>
             <p xml:id="p_8479.d2e59744">وكان هو أحد أعيان جند أوجاق اليرلية بدمشق.</p>
             <p xml:id="p_8480.d2e59748">ووالده كان أمير الامراء.</p>
-            <p xml:id="p_8481.d2e59751">تولى حكومة <placeName>القدس</placeName> وعجلون وغيرها.</p>
-            <p xml:id="p_8482.d2e59754">ولما وفد إلى <placeName>دمشق</placeName> المولى السامي عثمان الشهير بالخاصة صاحب الوقف بدمشق وكتخدا الوزير الاعظم أراد الاجتماع برجل من الادباء.</p>
+            <p xml:id="p_8481.d2e59751">تولى حكومة <placeName change="#d2e171" xml:id="placeName_92.d2e2910">القدس</placeName> وعجلون وغيرها.</p>
+            <p xml:id="p_8482.d2e59754">ولما وفد إلى <placeName change="#d2e171" xml:id="placeName_93.d2e2916">دمشق</placeName> المولى السامي عثمان الشهير بالخاصة صاحب الوقف بدمشق وكتخدا الوزير الاعظم أراد الاجتماع برجل من الادباء.</p>
             <p xml:id="p_8483.d2e59757">فجئ له بصاحب الترجمة فرآه مستوفي الشروط وطبق مشربه.</p>
             <p xml:id="p_8484.d2e59760">فلما ذهب إلى الروم اصطحبه معه وحصل له معه غاية الاماني والاكرام.</p>
             <p xml:id="p_8485.d2e59763">فلما</p>
             <p xml:id="p_8486.d2e59767">قتل عاد إلى قسطنطينية ومنها عاد إلى الشام.</p>
-            <p xml:id="p_8487.d2e59770">وكانت وفاته بدمشق ودفن بتربة الباب الصغير 1 - حانات الطرب - وهي أرجوزة في الآداب والمواعظ <placeName>مصر</placeName> 1298 
+            <p xml:id="p_8487.d2e59770">وكانت وفاته بدمشق ودفن بتربة الباب الصغير 1 - حانات الطرب - وهي أرجوزة في الآداب والمواعظ <placeName change="#d2e171" xml:id="placeName_94.d2e2935">مصر</placeName> 1298 
           <note type="footnote" xml:id="note_1007.d2e59772">
                   <p xml:id="p_8487.d2e59774">سلك الدرر 1 - 97 (*)</p>
                </note>
@@ -775,14 +775,14 @@
             <p xml:id="p_8489.d2e59784">وزهير عصره وأوانه.</p>
             <p xml:id="p_8490.d2e59787">الاديب اللبيب الشاعر الماهر احمد بك الكيواني الدمشقي.</p>
             <p xml:id="p_8491.d2e59790">وقد صار مراجعة الديوان على نسخة معتمدة بخط السيد محمد أمين الشهير بابن عابدين.</p>
-            <p xml:id="p_8492.d2e59793">طبع بتصحيح عبد القادر بن الشيخ عمر نبهان وبآخره ترجمة المؤلف - ال<choice><abbr>مط</abbr><expan>مطبعة</expan></choice> الحفنية <placeName>دمشق</placeName> 1301 ص 199 </p></div>
-<div type="entry"><head><persName><surname>كيال</surname> <hi rend="quotation-marks" xml:id="hi_2507.d2e59795">يوسف </hi></persName></head>
-<p> مرشد التاجر والدليل في مسك الدفاتر - <choice xml:id="choice_2015.d2e59798">
+            <p xml:id="p_8492.d2e59793">طبع بتصحيح عبد القادر بن الشيخ عمر نبهان وبآخره ترجمة المؤلف - ال<choice change="#d2e171" xml:id="choice_63.d2e2962"><abbr change="#d2e171" xml:id="abbr_63.d2e2963">مط</abbr><expan change="#d2e171" xml:id="expan_63.d2e2965">مطبعة</expan></choice> الحفنية <placeName change="#d2e171" xml:id="placeName_95.d2e2968">دمشق</placeName> 1301 ص 199 </p></div>
+<div type="entry" change="#d2e171" xml:id="div_88.d2e2972"><head change="#d2e171" xml:id="head_88.d2e2973"><persName change="#d2e171" xml:id="persName_92.d2e2974"><surname change="#d2e171" xml:id="surname_90.d2e2975">كيال</surname> <hi rend="quotation-marks" xml:id="hi_2507.d2e59795">يوسف </hi></persName></head>
+<p change="#d2e171" xml:id="p_314.d2e2981"> مرشد التاجر والدليل في مسك الدفاتر - <choice xml:id="choice_2015.d2e59798">
                   <abbr xml:id="abbr_2015.d2e59800">مط</abbr>
                   <expan xml:id="expan_2015.d2e59803">مطبعة</expan>
                </choice> الاهرام 1903 م ص 464 </p></div>
-<div type="entry"><head><persName><surname>الكيالي</surname> <hi rend="quotation-marks" xml:id="hi_2508.d2e59807">عبد القادر بن محمد </hi></persName></head>
-<p> (نبغ سنة 1268) الفيوضات الاحسانية في شرح الاوراد البهائية اسكندرية 1289 ص 104</p>
+<div type="entry" change="#d2e171" xml:id="div_89.d2e2993"><head change="#d2e171" xml:id="head_89.d2e2994"><persName change="#d2e171" xml:id="persName_93.d2e2995"><surname change="#d2e171" xml:id="surname_91.d2e2996">الكيالي</surname> <hi rend="quotation-marks" xml:id="hi_2508.d2e59807">عبد القادر بن محمد </hi></persName></head>
+<p change="#d2e171" xml:id="p_315.d2e3002"> (نبغ سنة 1268) الفيوضات الاحسانية في شرح الاوراد البهائية اسكندرية 1289 ص 104</p>
          </div>
       </body>
    </text>

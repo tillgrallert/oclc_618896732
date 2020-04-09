@@ -71,22 +71,22 @@
                     .</p>
             </samplingDecl>
         </encodingDesc>
-        <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2020-01-15" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>title level="j"</tag>.</change><change when="2019-04-02" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>title level="j"</tag>.</change>
+        <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2020-04-09" who="#pers_TG" xml:id="d2e174" xml:lang="en">Added automated <tei:att xml:lang="en">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en">tei:text</tei:gi> and had no existing <tei:att xml:lang="en">xml:id</tei:att> following the pattern "name()_generate-id()".</change><change when="2020-01-15" who="#pers_TG" xml:lang="en" change="#d2e174" xml:id="change_1.d2e163">Automatically marked up references to periodicals with <tag change="#d2e174" xml:id="tag_2.d2e165">title level="j"</tag>.</change><change when="2019-04-02" who="#pers_TG" xml:lang="en" change="#d2e174" xml:id="change_2.d2e168">Automatically marked up references to periodicals with <tag change="#d2e174" xml:id="tag_3.d2e170">title level="j"</tag>.</change>
             <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
         </revisionDesc>
     </teiHeader>
-    <text xml:lang="ar">
-        <body>
+    <text xml:lang="ar" change="#d2e174" xml:id="text_1.d2e179">
+        <body change="#d2e174" xml:id="body_1.d2e181">
             <div type="section" xml:id="div_24.d2e34977">
                 <head xml:id="head_22.d2e34979">حرف الراء</head>
-                <div type="entry">
-                    <p xml:id="p_5463.d2e34982"></p></div>
-<div type="entry"><head><persName><surname>الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1288.d2e34984">أبو بكر</hi></persName></head>
-<p>
+                <div type="entry" change="#d2e174" xml:id="div_1.d2e188">
+                    <p xml:id="p_5463.d2e34982"/></div>
+<div type="entry" change="#d2e174" xml:id="div_2.d2e192"><head change="#d2e174" xml:id="head_2.d2e193"><persName change="#d2e174" xml:id="persName_4.d2e194"><surname change="#d2e174" xml:id="surname_3.d2e195">الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1288.d2e34984">أبو بكر</hi></persName></head>
+<p change="#d2e174" xml:id="p_5.d2e201">
                         (320 هـ) (..) أبو بكر محمد بن
                         زكريا الرازي المكنى جالينوس</p>
                     <p xml:id="p_5464.d2e34988">العرب أو طبيب المسلمين مولده ومنشؤه بالرى قدم
-                        <placeName>بغداد</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_2.d2e206">بغداد</placeName>
                         وله من العمر نيف وثلاثون سنة.</p>
                     <p xml:id="p_5465.d2e34991">وكان في ابتداء أمره يضرب بالعود.</p>
                     <p xml:id="p_5466.d2e34994">وفي روضات الجنات: قال شمس الدين الشهرزوري في كتاب
@@ -98,7 +98,7 @@
                         <note type="footnote" xml:id="note_620.d2e35000">
                             <p xml:id="p_5467.d2e35002">
                                 الاغاني 15 - 106 طبعة
-                                <placeName>مصر</placeName>
+                                <placeName change="#d2e174" xml:id="placeName_3.d2e222">مصر</placeName>
                                 (..) أخبار الحكماء 178.</p>
                             <p xml:id="p_5468.d2e35005">ابن العبري 274 عيون الانبا 309 1.</p>
                             <p xml:id="p_5469.d2e35008">ابن خلكان 2 - 103 روضات الجنات 4 - 165
@@ -115,7 +115,7 @@
                     <p xml:id="p_5474.d2e35024">ومنه عالج في أول العلة بما لا تسقط به القوة.</p>
                     <p xml:id="p_5475.d2e35027">وألف كتبا كثيرة في الطب والمعارف الطبيعية ودبر
                         بيمارستان الري ثم بيمارستان 
-                        <placeName>بغداد</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_4.d2e251">بغداد</placeName>
                         زمانا ثم عمي في آخر
                         عمره</p>
                     <p xml:id="p_5476.d2e35031">وفي الفهرست: كان الرازي كريما متفضلا بارا بالناس حسن
@@ -123,12 +123,12 @@
                     <p xml:id="p_5477.d2e35034">اه.</p>
                     <p xml:id="p_5478.d2e35037">توفي قريبا من سنة 320 وقيل سنة 311 1 برء الساعة في
                         الطب عني بنشره الدكتور كيك (أو) جيج مدرس الصيدلة في المكتب الطبي ببيروت
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_5.d2e264">بيروت</placeName>
                         1903 2 الحاوي في الطب فينيزيا (البندقية)
                         1509 و 1542 (1) 3 كتاب الجدري والحصبة معه مقدمة باللغة اللاتينية للاستاد
                         يوهانس شاننج لندن 1766 ص 16 و 276 ثم اعاد طبعه الدكتور فنديك ووسمه برسالة في
                         مرض الجدرى والحصبة 
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_6.d2e267">بيروت</placeName>
                         (2) سنة؟ 4 مقالة في الحصى
                         المتولد في الكلي والمثاني ومعها ترجمة باللغة الفرنسية للدكتور دي كوننج ليدن
                         1896 ص 8 و 285 (3) 5 منافع الاغذية ودفع مضارها قال رأيت أن اؤلف كتابا في دفع
@@ -140,7 +140,7 @@
                             <p xml:id="p_5479.d2e35044">
                                 (2) قال ادوار فنديك أن هذه الرسالة طبعت
                                 بعناية أبيه في لندن سنة 1766 ثم في 
-                                <placeName>بيروت</placeName>
+                                <placeName change="#d2e174" xml:id="placeName_7.d2e277">بيروت</placeName>
                                 عن
                                 نسخة خطية وجدت في المكتبة الاميرية في البندقية (3) Traite sur le
                                 calcul dans les reins et dans Ia.</p>
@@ -152,30 +152,30 @@
                         <choice xml:id="choice_1039.d2e35053">
                             <abbr xml:id="abbr_1039.d2e35055">مط</abbr>
                             <expan xml:id="expan_1039.d2e35058">مطبعة</expan></choice>الخيرية 1305 ص 68 كبير </p></div>
-<div type="entry"><head><persName><surname>الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1289.d2e35062">أبو الفضائل</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_3.d2e296"><head change="#d2e174" xml:id="head_3.d2e297"><persName change="#d2e174" xml:id="persName_5.d2e298"><surname change="#d2e174" xml:id="surname_4.d2e299">الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1289.d2e35062">أبو الفضائل</hi></persName></head>
+<p change="#d2e174" xml:id="p_24.d2e305">
                         أبو الفضائل احمد بن محمد بن
                         المظفر الرازي الحنفي (كان موجودا سنة 631 هـ) حجج القرآن (علم التفسير)
                         <choice xml:id="choice_1040.d2e35065">
                             <abbr xml:id="abbr_1040.d2e35067">مط</abbr>
                             <expan xml:id="expan_1040.d2e35070">مطبعة</expan></choice>الموسوعات 1320 ص 104 </p></div>
-<div type="entry"><head><persName><surname>الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1290.d2e35075">احمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_4.d2e316"><head change="#d2e174" xml:id="head_4.d2e317"><persName change="#d2e174" xml:id="persName_6.d2e318"><surname change="#d2e174" xml:id="surname_5.d2e319">الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1290.d2e35075">احمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_25.d2e325">
                         * ابن فارس </p></div>
-<div type="entry"><head><persName><surname>الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1291.d2e35078">احمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_5.d2e329"><head change="#d2e174" xml:id="head_5.d2e330"><persName change="#d2e174" xml:id="persName_7.d2e331"><surname change="#d2e174" xml:id="surname_6.d2e332">الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1291.d2e35078">احمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_26.d2e338">
                         بن محمد *
                         ابن المعظم </p></div>
-<div type="entry"><head><persName><surname>الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1292.d2e35081">زين
+<div type="entry" change="#d2e174" xml:id="div_6.d2e341"><head change="#d2e174" xml:id="head_6.d2e342"><persName change="#d2e174" xml:id="persName_8.d2e343"><surname change="#d2e174" xml:id="surname_7.d2e344">الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1292.d2e35081">زين
                             الدين محمد</hi></persName></head>
-<p>
+<p change="#d2e174" xml:id="p_27.d2e350">
                         زين الدين محمد بن أبي بكر بن عبد المحسن الرازي الحنفي
                         تحفة الملوك أولها: الحمد لله وسلام على عباد الدين المصطفى وهو مختصر في
                         العبادات جمعه لبعض أخوانه واختصر فيه على عشر كتب وهي أهم كتب الفقه</p>
                     <p xml:id="p_5482.d2e35085">(فقه حنفي) أنظر هدية الصعلوك في شرح تحفة الملوك
                         </p></div>
-<div type="entry"><head><persName><surname>الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1293.d2e35087">فخر الدين</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_7.d2e356"><head change="#d2e174" xml:id="head_7.d2e357"><persName change="#d2e174" xml:id="persName_9.d2e358"><surname change="#d2e174" xml:id="surname_8.d2e359">الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1293.d2e35087">فخر الدين</hi></persName></head>
+<p change="#d2e174" xml:id="p_29.d2e365">
                         (543 أو 606 544 هـ) (الامام) أبو عبد الله محمد بن العمر بن الحسين ابن حسن بن
                         علي التميمي البكري الطبرستاني الرازي المولد الملقب فخر الدين المعروف بابن
                         خطيب الري الفقيه الشافعي أفضل المتأخرين.</p>
@@ -206,8 +206,8 @@
                             <abbr xml:id="abbr_1041.d2e35128">مط</abbr>
                             <expan xml:id="expan_1041.d2e35131">مطبعة</expan></choice>كردستان 1318 ص 296 2 شرح قسم الالهيات من اشارات ابن سينا للنصير
                         الطوسي وشرح آخر للفخر الرازي أنظر </p></div>
-<div type="entry"><head><persName><surname>الطوسي</surname> <hi rend="quotation-marks" xml:id="hi_1294.d2e35135">نصير الدين</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_8.d2e411"><head change="#d2e174" xml:id="head_8.d2e412"><persName change="#d2e174" xml:id="persName_10.d2e413"><surname change="#d2e174" xml:id="surname_9.d2e414">الطوسي</surname> <hi rend="quotation-marks" xml:id="hi_1294.d2e35135">نصير الدين</hi></persName></head>
+<p change="#d2e174" xml:id="p_40.d2e420">
                         شرح قسم الالهيات 3 لباب
                         الاشارات هذب فيه كتاب الاشارات لابن سينا عني بتصحيحه محمد بدر الدين النعساني
                         <choice xml:id="choice_1042.d2e35138">
@@ -220,9 +220,9 @@
                         والحكماء والمتكلمين مذيل بكتاب تلخيص المحصل لنصير الدين الطوسي وبالهامش
                         معالم أصول الدين للفخر الرازي
                             ال
-                        <choice>
-                            <abbr>مط</abbr>
-                            <expan>مطبعة</expan></choice>الحسينية 1323 ص
+                        <choice change="#d2e174" xml:id="choice_6.d2e438">
+                            <abbr change="#d2e174" xml:id="abbr_6.d2e440">مط</abbr>
+                            <expan change="#d2e174" xml:id="expan_6.d2e443">مطبعة</expan></choice>الحسينية 1323 ص
                         183</p>
                     <p xml:id="p_5493.d2e35158">6 المسائل الخمسون في أصول الكلام في مجموعة رقم 94
                         (*) 
@@ -243,18 +243,18 @@
                     <p xml:id="p_5498.d2e35175">وكتب منه الجلال السيوطي من سورة سبح إلى آخر القرآن
                         في مجلد (كشف الظنون) جزء 6 بولاق 1279 إلى 1289 جزء 8 بهامشها التفسير المسمى
                         ارشاد العقل السليم لابي السعود العمادي 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_8.d2e467">مصر</placeName>
                         1309 و 7 -
                         1324 وجزء 8 الحسينية 30 - 1327 9 مناقب الامام الشافعي طبع حجر
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_9.d2e470">مصر</placeName>
                         1279</p>
                     <p xml:id="p_5499.d2e35179">ص 453 10 نهاية الايجاز في دراية الاعجاز (في علوم
                         البلاغة وبيان اعجاز القرآن الشريف) 
                         <choice xml:id="choice_1044.d2e35181">
                             <abbr xml:id="abbr_1044.d2e35183">مط</abbr>
                             <expan xml:id="expan_1044.d2e35186">مطبعة</expan></choice>الآداب 1317 والمؤيد ص 168 </p></div>
-<div type="entry"><head><persName><surname>الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1295.d2e35190">محمد بن أبي بكر</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_9.d2e485"><head change="#d2e174" xml:id="head_9.d2e486"><persName change="#d2e174" xml:id="persName_11.d2e487"><surname change="#d2e174" xml:id="surname_10.d2e488">الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1295.d2e35190">محمد بن أبي بكر</hi></persName></head>
+<p change="#d2e174" xml:id="p_48.d2e494">
                         (الامام) زين الدين محمد
                         بن شمس الدين أبي بكر ابن عبد القادر الحنفي الرازي من علماء القرن الثامن كان
                         موجودا في سنة 768 وهو مؤلف الذهب الابريز في تفسير الكتاب العزيز وروضة
@@ -285,8 +285,8 @@
                     <p xml:id="p_5504.d2e35238">رتبه محمود خاطر بك على حروف المعجم باعتبار أوائل
                         الكلمات.</p>
                     <p xml:id="p_5505.d2e35241">بولاق 1323 وتكرر طبعه مرارا </p></div>
-<div type="entry"><head><persName><surname>الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1296.d2e35243">محمد القطب</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_10.d2e543"><head change="#d2e174" xml:id="head_10.d2e544"><persName change="#d2e174" xml:id="persName_12.d2e545"><surname change="#d2e174" xml:id="surname_11.d2e546">الرازي</surname> <hi rend="quotation-marks" xml:id="hi_1296.d2e35243">محمد القطب</hi></persName></head>
+<p change="#d2e174" xml:id="p_55.d2e552">
                         (766
                         هـ) قطب الدين محمد بن محمد الرازي وقيل محمود ابن محمد الرازي البويهي (1)
                         صاحب المحاكمات قال في كتاب مجالس المؤمنين ما ترجمته بعد أن أثنى عليه جميلا
@@ -310,26 +310,26 @@
                         بالمعارضة في الرسوم.</p>
                     <p xml:id="p_5510.d2e35265">ثم ساق الكلام فيما وقع من النزاع والمعارضة إلى ان
                         قال وكتب الشهيد بخطه على ظهر كتاب القواعد ما معناه: اني تشرفت في
-                        <placeName>دمشق</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_10.d2e573">دمشق</placeName>
                         برؤية العلامة القطبي فوجدته بحرا زاخرا
                         فاستجزت منه فأجاز لي وليس شبهة في كونه من العلماء الامامية وكفى وانقطاعه إلى
                         العلامة الذي هو من فقها أهل البيت وخلوص عقيدته وتشيعه شاهدا.</p>
                     <p xml:id="p_5511.d2e35268">توفي في 
-                        <placeName>دمشق</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_11.d2e579">دمشق</placeName>
                         ودفن في الصالحية
                         (روضات الجنات) 1 تحرير القواعد المنطقية في شرح الرسالة الشمسية ويعرف
                         بالرسالة القطبية شرح الشمسية وهو شرح جيد متداول بين الطلبة ألفه للوزير غياث
                         الدين محمد بن خواجه رشيد من وزراء السلطان خدابنده (كشف الظنون) أوله: ان أبهى
                         درر تنظم ببيان البيان الخ كلكته 1815 - 1230 ص 220 و 1279 لكناو 1283
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_12.d2e582">مصر</placeName>
                         1293 ص 137 و 1307 ص 128 استانة 1288 ص 178 و
                         1313 ص 84</p>
                     <p xml:id="p_5512.d2e35271">و1304 ص 180 (كتب عليها) شرح الشمسية المسمي بالتصورات
                         والتصديقات للقطب الميمنية 1307 بهامشه حاشية السيد علي الشرح المذكور وطبع
                         موسوما بشرح الشمسية ب
-                        <choice>
-                            <abbr>مط</abbr>
-                            <expan>مطبعة</expan></choice>فرج الله الكردي سنة 1325 2 تحقيق معنى التصور والتصديق (أو) رسالة التصورات
+                        <choice change="#d2e174" xml:id="choice_11.d2e589">
+                            <abbr change="#d2e174" xml:id="abbr_11.d2e591">مط</abbr>
+                            <expan change="#d2e174" xml:id="expan_11.d2e594">مطبعة</expan></choice>فرج الله الكردي سنة 1325 2 تحقيق معنى التصور والتصديق (أو) رسالة التصورات
                         والتصديقات تونس 1281 أنظر أيضا شرح الشيخ محمد زاهد الهروي في مجموعة رقم 100
                         3 الرسالة القطبية شرح الشمسية أنظر أعلاه عدد 1 4 لوامع الاسرار شرح مطالع
                         الانوار للارموي أو شرح المطالع في المنطق أوله: الحمد لله فياض ذوارف العوارف
@@ -339,12 +339,12 @@
                         استانة 1303 5 المحاكمات وهو شرح حكم فيه بين الفخر الرازي ونصير الدين الطوسي
                         في شرحيهما على الاشارات بالهامش حاشية ميرزا خان على المحاكمات المذكورة
                         استانة 1290 ص 463 </p></div>
-<div type="entry"><head><persName><surname>رازيس</surname> <hi rend="quotation-marks" xml:id="hi_1297.d2e35275">جورج</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_11.d2e601"><head change="#d2e174" xml:id="head_11.d2e602"><persName change="#d2e174" xml:id="persName_13.d2e603"><surname change="#d2e174" xml:id="surname_12.d2e604">رازيس</surname> <hi rend="quotation-marks" xml:id="hi_1297.d2e35275">جورج</hi></persName></head>
+<p change="#d2e174" xml:id="p_63.d2e610">
                         (1) التقدمة الزكية لتعليم اللغة الفرنساوية والتركية</p>
                     <p xml:id="p_5513.d2e35279">بطرسبرج 1828 - 1829 جزء 2 </p></div>
-<div type="entry"><head><persName><surname>الراسي</surname> <hi rend="quotation-marks" xml:id="hi_1298.d2e35281">سامي افندي يواكيم</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_12.d2e616"><head change="#d2e174" xml:id="head_12.d2e617"><persName change="#d2e174" xml:id="persName_14.d2e618"><surname change="#d2e174" xml:id="surname_13.d2e619">الراسي</surname> <hi rend="quotation-marks" xml:id="hi_1298.d2e35281">سامي افندي يواكيم</hi></persName></head>
+<p change="#d2e174" xml:id="p_65.d2e625">
                         (1927 م) من أدباء سوريا المقيمين في البرازيل الواجبات تهذيبي اجتماعي
                         قدمه هدية معنوية إلى والده يواكيم مسعود الراسي وقسمه إلى بابين الاول
                         الواجبات العامة والثاني الواجبات الافرادية الخاصة ببعض الافراد دون غيرهم سان
@@ -353,7 +353,7 @@
                         الحكماء جامعا للرئاستين حاويا للفضيلتين وله تآليف وابحاث في المعقول والمنقول
                         والفروع والاصول.</p>
                     <p xml:id="p_5514.d2e35285">وهو الذي حضر واليا إلى 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_13.d2e630">مصر</placeName>
                         سنة 1159 ثم رجع إلى الديار الرومية وتولي الصدارة وألف رسالة في العروض غريبة
                         شرحها الشيخ أبو الحسن القلعى المغربي وله ثلاثة دواوين تركي وفارسي وعربي وكان
                         له ذوق صحيح وفهم رجيح يكرم العلماء  
@@ -371,22 +371,22 @@
                         الناس على اختلاف مشاربهم وتباين أذواقهم أوله: الحمد لله الذي بوجوب وجوده
                         انقطع تسلسل سلسلة الحاجات بولاق 1255 و 1282 ص 680 راغب (افندي) بن السادات
                         راغب الدمشقي الحنفي ابن عبد الغني السادات احد علماء
-                        <placeName>دمشق</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_14.d2e649">دمشق</placeName>
                         القول المؤيد المنصور في سماع دعوى النساء بعد
                         الدخول بكل المعجل أو بعضه من المهور (فقه حنفي) 
-                        <placeName>دمشق</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_15.d2e652">دمشق</placeName>
                         1314 راغب ادريس (بك) * ادريس راغب راغب اسكندر المحامي الاثر الذهبي للمرحوم
                         عطيه بك وهبي يشتمل تاريخه ومباحثه من مقالات وخطب في العلم والادب</p>
                     <p xml:id="p_5519.d2e35306">والتاريخ والآثار والتربية النسائية
                                 ال
-                        <choice>
-                            <abbr>مط</abbr>
-                            <expan>مطبعة</expan></choice>المصرية 1915
+                        <choice change="#d2e174" xml:id="choice_12.d2e658">
+                            <abbr change="#d2e174" xml:id="abbr_12.d2e660">مط</abbr>
+                            <expan change="#d2e174" xml:id="expan_12.d2e663">مطبعة</expan></choice>المصرية 1915
                         ص 132 </p></div>
-<div type="entry"><head><persName><surname>راغب</surname> <hi rend="quotation-marks" xml:id="hi_1299.d2e35308">ميخائيل</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_13.d2e667"><head change="#d2e174" xml:id="head_13.d2e668"><persName change="#d2e174" xml:id="persName_15.d2e669"><surname change="#d2e174" xml:id="surname_14.d2e670">راغب</surname> <hi rend="quotation-marks" xml:id="hi_1299.d2e35308">ميخائيل</hi></persName></head>
+<p change="#d2e174" xml:id="p_72.d2e676">
                         العزوبة والزواج 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_16.d2e678">مصر</placeName>
                         الراغب الاصفهاني (502 هـ) 
                         <note type="footnote" xml:id="note_626.d2e35311">
                             <p xml:id="p_5519.d2e35313">بغية الوعاة 396 روضات الجنات 249 (*)</p></note>
@@ -405,8 +405,8 @@
                             <abbr xml:id="abbr_1048.d2e35330">مط</abbr>
                             <expan xml:id="expan_1048.d2e35333">مطبعة</expan></choice>ثمرات الفنون</p>
                     <p xml:id="p_5524.d2e35338">
-                        <placeName>بيروت</placeName>1319 و 1323 ص 112
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_17.d2e708">بيروت</placeName>1319 و 1323 ص 112
+                        <placeName change="#d2e174" xml:id="placeName_18.d2e711">مصر</placeName>
                         ..؟ 2 الذريعة إلى مكارم الشريعة (تصوف) هو على
                         سبعة فصول (1) في أصول الانسان وقواه (2) في العقل والعلم والنطق (3) فيما
                         يتعلق بالقوى الشهوانية (4) فيما يتعلق بالقوى الغضبية (5) في العدالة والظلم
@@ -438,34 +438,34 @@
                             <abbr xml:id="abbr_1052.d2e35390">مط</abbr>
                             <expan xml:id="expan_1052.d2e35393">مطبعة</expan></choice>الميمنية 1324 ص 577 وبهامش النهاية في تفسير غريب الحديث والاثر
                         لابن </p></div>
-<div type="entry"><head><persName><surname>الاثير</surname> <hi rend="quotation-marks" xml:id="hi_1300.d2e35397">أبي
+<div type="entry" change="#d2e174" xml:id="div_14.d2e767"><head change="#d2e174" xml:id="head_14.d2e768"><persName change="#d2e174" xml:id="persName_16.d2e769"><surname change="#d2e174" xml:id="surname_15.d2e770">الاثير</surname> <hi rend="quotation-marks" xml:id="hi_1300.d2e35397">أبي
                             السعادات</hi></persName></head>
-<p>
+<p change="#d2e174" xml:id="p_83.d2e776">
                         5 مقدمة التفسير (تفسير القرآن الكريم) رسالة اولها: الحمد
                         لله على الائه طبعت بذيل كتاب تنزيه القرآن عن المطاعن للقاضي أبي الحسن عبد
                         الجبار ابن احمد (
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_19.d2e778">مصر</placeName>
                         1329) (القس) رافائيل راهب * دون
                         رافائيل </p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1301.d2e35400">عبد
+<div type="entry" change="#d2e174" xml:id="div_15.d2e782"><head change="#d2e174" xml:id="head_15.d2e783"><persName change="#d2e174" xml:id="persName_17.d2e784"><surname change="#d2e174" xml:id="surname_16.d2e785">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1301.d2e35400">عبد
                             الحميد</hi></persName></head>
-<p>
+<p change="#d2e174" xml:id="p_84.d2e791">
                         تقي الدين عبد المجيد بن عبد الغني بن احمد الرافعي الفاروقي
                         1 الافلاذ الزبرجدية في مدائح العترة الطاهرية الاحمدية ديوان شعر
-                        <placeName>طرابلس شام</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_20.d2e793">طرابلس شام</placeName>
                         1906 ص 127 2 الفرائد الرافعية في مدائح
                         الحضرة الرفاعية 
                         <choice xml:id="choice_1053.d2e35403">
                             <abbr xml:id="abbr_1053.d2e35405">مط</abbr>
                             <expan xml:id="expan_1053.d2e35408">مطبعة</expan></choice>العلمية 1313 ص 24 </p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1302.d2e35412">عبد الرحمن (افندي)</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_16.d2e805"><head change="#d2e174" xml:id="head_16.d2e806"><persName change="#d2e174" xml:id="persName_18.d2e807"><surname change="#d2e174" xml:id="surname_17.d2e808">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1302.d2e35412">عبد الرحمن (افندي)</hi></persName></head>
+<p change="#d2e174" xml:id="p_85.d2e814">
                         المحامي نقابات
                         التعاون الزراعية 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_21.d2e816">مصر</placeName>
                         1332 </p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1303.d2e35416">عبد الغني</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_17.d2e821"><head change="#d2e174" xml:id="head_17.d2e822"><persName change="#d2e174" xml:id="persName_19.d2e823"><surname change="#d2e174" xml:id="surname_18.d2e824">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1303.d2e35416">عبد الغني</hi></persName></head>
+<p change="#d2e174" xml:id="p_86.d2e830">
                         (الشيخ) عبد الغني بن احمد بن عبد القادر الرافعي الفاروقي الطرابلسي 
                         <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P930.xhtml" ed="print" n="924" xml:id="cb_462.d2e35419"/>
                         ترصيع الجواهر المكية في
@@ -475,40 +475,40 @@
                         <choice xml:id="choice_1054.d2e35421">
                             <abbr xml:id="abbr_1054.d2e35423">مط</abbr>
                             <expan xml:id="expan_1054.d2e35426">مطبعة</expan></choice>شرف 1301 </p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1304.d2e35430">عبد القادر</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_18.d2e843"><head change="#d2e174" xml:id="head_18.d2e844"><persName change="#d2e174" xml:id="persName_20.d2e845"><surname change="#d2e174" xml:id="surname_19.d2e846">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1304.d2e35430">عبد القادر</hi></persName></head>
+<p change="#d2e174" xml:id="p_87.d2e852">
                         (الشيخ) عبد القادر سعيد بن
                         عبد القادر الرافعي الفاروقي الطرابلسي (هو عم السيد محمد الرافعي الكتبي في
                         القاهرة) 1 احياء القلوب وهو شرح على حكم شيخه الشيخ محمود الكرد الخلوتي
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_22.d2e854">مصر</placeName>
                         1315 2 الزهر النضير في مدح البشير النذير أنظر
                         عدد 3 و 4 الاتيين 3 شفاء العليل في مدح طه الجليل وهو تشطير البردة ويليه
                         الزهر النضير في مدح البشير النذير المذكور قبلا 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_23.d2e857">مصر</placeName>
                         1313 ص 24 4 نيل المراد في تشطير الهمزية وبانت سعاد ويليه القصيدة المسماة
                         بالزهر النضير المذكورة 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_24.d2e860">مصر</placeName>
                         1315 
                         <choice xml:id="choice_1055.d2e35433">
                             <abbr xml:id="abbr_1055.d2e35435">مط</abbr>
                             <expan xml:id="expan_1055.d2e35438">مطبعة</expan></choice>التوفيق 1323 ص 128 </p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1305.d2e35442">عبد القادر بن مصطفى</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_19.d2e872"><head change="#d2e174" xml:id="head_19.d2e873"><persName change="#d2e174" xml:id="persName_21.d2e874"><surname change="#d2e174" xml:id="surname_20.d2e875">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1305.d2e35442">عبد القادر بن مصطفى</hi></persName></head>
+<p change="#d2e174" xml:id="p_88.d2e881">
                         (1323 1248 هـ)</p>
                     <p xml:id="p_5530.d2e35446">(الشيخ) عبد القادر بن مصطفى الرافعي الفاروقي مفتى
                         الديار المصرية وشيخ السادة الحنفية تولى منصب الافتاء ثلاثة أيام واستأثرت به
                         رحمة ربه التحرير المختار لرد المحتار (فقه حنفي) جزء 2
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_25.d2e886">مصر</placeName>
                         1323  
                         <note type="footnote" xml:id="note_628.d2e35448">
                             <p xml:id="p_5530.d2e35450">
                                 انظر ترجمة الرافعي لنجله محمد رشيد الرافعي
-                                في اسم <persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1306.d2e35452">محمد رشيد</hi></persName>
+                                في اسم <persName change="#d2e174" xml:id="persName_22.d2e893"><surname change="#d2e174" xml:id="surname_21.d2e894">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1306.d2e35452">محمد رشيد</hi></persName>
                                 الآتي بعده (*)</p>
                         </note>
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P931.xhtml" ed="print" n="925" xml:id="pb_469.d2e35457"/></p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1307.d2e35459">عبد الكريم بن محمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_20.d2e904"><head change="#d2e174" xml:id="head_20.d2e905"><persName change="#d2e174" xml:id="persName_23.d2e906"><surname change="#d2e174" xml:id="surname_22.d2e907">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1307.d2e35459">عبد الكريم بن محمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_91.d2e913">
                         (623 هـ) سواد العينين في مناقب الغوث أبي العلمين (احمد الرفاعي) بولاق
                         1301 ص 31 تنبيه: في طبقات السبكي جزء 5 ص 119 ذكر ترجمة: أبو القاسم عبد
                         الكريم بن محمد بن عبد الكريم ابن الفضل بن الحسين بن الحسن القزويني
@@ -516,23 +516,23 @@
                     <p xml:id="p_5532.d2e35463">وفي مفتاح السعادة جزء 443 1 وجزء 213 2 ترجمة أبي
                         القاسم غير انه لا ذكر في هاتين الترجمتين لكتاب سواد العينين المنسوب إليه ولم
                         يمكني تحقيق ذلك ولهذا لم أت بترجمته في هذا المحل </p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1308.d2e35465">محمد بدر الدين الخلوتي</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_21.d2e919"><head change="#d2e174" xml:id="head_21.d2e920"><persName change="#d2e174" xml:id="persName_24.d2e921"><surname change="#d2e174" xml:id="surname_23.d2e922">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1308.d2e35465">محمد بدر الدين الخلوتي</hi></persName></head>
+<p change="#d2e174" xml:id="p_93.d2e928">
                         بديع التحبير شرح ترجمان التحبير (بلاغة) 
                         <choice xml:id="choice_1056.d2e35468">
                             <abbr xml:id="abbr_1056.d2e35470">مط</abbr>
                             <expan xml:id="expan_1056.d2e35473">مطبعة</expan></choice>العلمية 1313 ص 107</p>
-                    <p xml:id="p_5533.d2e35479"></p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1309.d2e35481">محمد رشيد بن عبد القادر</hi></persName></head>
-<p>
+                    <p xml:id="p_5533.d2e35479"/></div>
+<div type="entry" change="#d2e174" xml:id="div_22.d2e941"><head change="#d2e174" xml:id="head_22.d2e942"><persName change="#d2e174" xml:id="persName_25.d2e943"><surname change="#d2e174" xml:id="surname_24.d2e944">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1309.d2e35481">محمد رشيد بن عبد القادر</hi></persName></head>
+<p change="#d2e174" xml:id="p_95.d2e950">
                         هو ابن عبد
                         القادر بن مصطفى الرافعي الفاروقي ترجمة الرافعي أو ترجمة الشيخ عبد القادر
                         الرافعي الفاروقي الحنفي (تأليف ولده الشيخ محمد رشيد) 
                         <choice xml:id="choice_1057.d2e35484">
                             <abbr xml:id="abbr_1057.d2e35486">مط</abbr>
                             <expan xml:id="expan_1057.d2e35489">مطبعة</expan></choice>التقدم 1323 </p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1310.d2e35493">محمد افندي محمود</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_23.d2e962"><head change="#d2e174" xml:id="head_23.d2e963"><persName change="#d2e174" xml:id="persName_26.d2e964"><surname change="#d2e174" xml:id="surname_25.d2e965">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1310.d2e35493">محمد افندي محمود</hi></persName></head>
+<p change="#d2e174" xml:id="p_96.d2e971">
                         شرح الهاشميات التي
                         امتدح بها الكميث بن زيد الاسدي الكوفي بني هاشم آل البيت عليهم السلام وذكر
                         فيها ظلم بني أمية وجرمهم تأليف أبي رياش احمد ابن ابراهيم القيسي ليدن 1904
@@ -544,8 +544,8 @@
                             <expan xml:id="expan_1058.d2e35504">مطبعة</expan></choice>شركة التمدن الصناعية 1912 ص 124 
                         <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P932.xhtml" ed="print" n="926" xml:id="cb_463.d2e35508"/>
                         </p></div>
-<div type="entry"><head><persName><surname>الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1311.d2e35510">مصطفى افندي صادق</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_24.d2e987"><head change="#d2e174" xml:id="head_24.d2e988"><persName change="#d2e174" xml:id="persName_27.d2e989"><surname change="#d2e174" xml:id="surname_26.d2e990">الرافعي</surname> <hi rend="quotation-marks" xml:id="hi_1311.d2e35510">مصطفى افندي صادق</hi></persName></head>
+<p change="#d2e174" xml:id="p_98.d2e996">
                         شاعر من شعراء العصر المجيدين.</p>
                     <p xml:id="p_5535.d2e35514">وكاتب من كتابه المتقدمين.</p>
                     <p xml:id="p_5536.d2e35517">ويذهب في شعره مذهب شعراء المعاني كالمتنبي وابن
@@ -553,10 +553,10 @@
                         المنفلوطي) 1 تاريخ آداب العرب هو سفر كبير خالف</p>
                     <p xml:id="p_5537.d2e35520">فيه الذين يقسمون تاريخ آداب اللغة العربية إلى خمسة
                         عصور </p></div>
-<div type="entry"><head><persName><surname>وقال</surname> <hi rend="quotation-marks" xml:id="hi_1312.d2e35522">ان تلك
+<div type="entry" change="#d2e174" xml:id="div_25.d2e1008"><head change="#d2e174" xml:id="head_25.d2e1009"><persName change="#d2e174" xml:id="persName_28.d2e1010"><surname change="#d2e174" xml:id="surname_27.d2e1011">وقال</surname> <hi rend="quotation-marks" xml:id="hi_1312.d2e35522">ان تلك
                             العصور لا تصلح ان تكون أبوابا لتاريخ آداب اللغة التي بلغت بالقرآن الكريم
                             مبلغ الاعجاز على الدهر</hi></persName></head>
-<p>
+<p change="#d2e174" xml:id="p_102.d2e1017">
                         والكتاب حافل بالفوائد اللغوية والادبية
                         والنتائج الفلسفية جزء 2 
                         <choice xml:id="choice_1059.d2e35525">
@@ -582,9 +582,9 @@
                                 <abbr xml:id="abbr_1063.d2e35569">مط</abbr>
                                 <expan xml:id="expan_1063.d2e35572">المطبعة</expan></choice>الجامعة</orgName>بالاسكندرية 1322 ص 125 والثالث
                                 ب
-                        <choice>
-                            <abbr>مط</abbr>
-                            <expan>مطبعة</expan></choice>الاخبار 1322
+                        <choice change="#d2e174" xml:id="choice_29.d2e1066">
+                            <abbr change="#d2e174" xml:id="abbr_29.d2e1068">مط</abbr>
+                            <expan change="#d2e174" xml:id="expan_29.d2e1071">مطبعة</expan></choice>الاخبار 1322
                         الرامغوري (المولى) أبو المفضل محمد فضل الحق الرامغورى مير ايساغوجي وهو شرح
                         على ايساغوجي في المنطق لاثير الدين الابهري ضمن مجموعة طبع الهند 1309 وطبع
                         هذا الكتاب بمصر منسوبا إلى السيد الشريف الجرجاني (أنظر الجرجاني السيد
@@ -593,21 +593,21 @@
                         الراهب البرموسى هو اسقف
                         قبطى اصله سرياني يعقوبي من مدينة أورفا أو ديار بكر 1 حسن السلوك في تاريخ
                         البطاركة والملوك 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_26.d2e1076">مصر</placeName>
                         1613 ش ص 232 الجزء الاول فقط 2
                         الخريدة النفيسة في تاريخ الكنيسة بولاق 1883 جزء 2 </p></div>
-<div type="entry"><head><persName><surname>رباط</surname> <hi rend="quotation-marks" xml:id="hi_1313.d2e35579">أنطون</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_26.d2e1080"><head change="#d2e174" xml:id="head_26.d2e1081"><persName change="#d2e174" xml:id="persName_29.d2e1082"><surname change="#d2e174" xml:id="surname_28.d2e1083">رباط</surname> <hi rend="quotation-marks" xml:id="hi_1313.d2e35579">أنطون</hi></persName></head>
+<p change="#d2e174" xml:id="p_103.d2e1089">
                         (1914 م)
                         الراهب اليسوعي الحلبي الاصل السرياني طائفة رحلة أول شرقي إلى امركا للخوري
                         الياس بن القس حنا الموصلي من عيلة بيت عمون الكلداني 1668 إلى 1683 م 
                         <choice xml:id="choice_1064.d2e35582">
                             <abbr xml:id="abbr_1064.d2e35584">مط</abbr>
                             <expan xml:id="expan_1064.d2e35587">مطبعة</expan></choice>اليسوعيين 
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_27.d2e1099">بيروت</placeName>
                         1906 ص 91 </p></div>
-<div type="entry"><head><persName><surname>الربعي</surname> <hi rend="quotation-marks" xml:id="hi_1314.d2e35591">عيسى</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_27.d2e1103"><head change="#d2e174" xml:id="head_27.d2e1104"><persName change="#d2e174" xml:id="persName_30.d2e1105"><surname change="#d2e174" xml:id="surname_29.d2e1106">الربعي</surname> <hi rend="quotation-marks" xml:id="hi_1314.d2e35591">عيسى</hi></persName></head>
+<p change="#d2e174" xml:id="p_104.d2e1112">
                         (480 هـ)
                         عيسى بن ابراهيم بن محمد الربعي اليمنى قال الخزرجي: كان فقيها فاضلا نحويا
                         لغويا مبرزا.</p>
@@ -623,19 +623,19 @@
                         <note type="footnote" xml:id="note_629.d2e35613">
                             <p xml:id="p_5540.d2e35615">بغية الوعاة 368 (*)</p></note>
                         <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P934.xhtml" ed="print" n="928" xml:id="cb_464.d2e35619"/></p></div>
-<div type="entry"><head><persName><surname>الربعي</surname> <hi rend="quotation-marks" xml:id="hi_1315.d2e35621">محمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_28.d2e1138"><head change="#d2e174" xml:id="head_28.d2e1139"><persName change="#d2e174" xml:id="persName_31.d2e1140"><surname change="#d2e174" xml:id="surname_30.d2e1141">الربعي</surname> <hi rend="quotation-marks" xml:id="hi_1315.d2e35621">محمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_109.d2e1147">
                         * ابن يحيى
                         الربعي رجب بن احمد * المنلى رجب بن احمد رجب (افندي) صديق اللآلي السنية في
                         المناورات الحربية بولاق 1291 رجب محمد جمال الدين البيروتي الاجوبة الجلية في
                         العقائد الدينية ال
-                        <choice>
-                            <abbr>مط</abbr>
-                            <expan>مطبعة</expan></choice>الادبية 
-                        <placeName>بيروت</placeName>
+                        <choice change="#d2e174" xml:id="choice_32.d2e1149">
+                            <abbr change="#d2e174" xml:id="abbr_32.d2e1151">مط</abbr>
+                            <expan change="#d2e174" xml:id="expan_32.d2e1154">مطبعة</expan></choice>الادبية 
+                        <placeName change="#d2e174" xml:id="placeName_28.d2e1157">بيروت</placeName>
                         1300 ص 35 </p></div>
-<div type="entry"><head><persName><surname>رجب</surname> <hi rend="quotation-marks" xml:id="hi_1316.d2e35624">محمد عبد الواحد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_29.d2e1162"><head change="#d2e174" xml:id="head_29.d2e1163"><persName change="#d2e174" xml:id="persName_32.d2e1164"><surname change="#d2e174" xml:id="surname_31.d2e1165">رجب</surname> <hi rend="quotation-marks" xml:id="hi_1316.d2e35624">محمد عبد الواحد</hi></persName></head>
+<p change="#d2e174" xml:id="p_110.d2e1171">
                         تاريخ الامم (للمدارس الثانوية) 
                         <choice xml:id="choice_1066.d2e35628">
                             <abbr xml:id="abbr_1066.d2e35630">مط</abbr>
@@ -652,27 +652,27 @@
                         شرحها محمد سبط المارديني
                         وحشاها عطيه القهوتي بحاشية مطولة ثم اختصرها عمر البقري أو البقروي أنظر
                         البقري: حاشية على شرح السبط الخ.</p>
-                    <p xml:id="p_5543.d2e35643"></p></div>
-<div type="entry"><head><persName><surname>الرحماني</surname> <hi rend="quotation-marks" xml:id="hi_1317.d2e35645">افرام</hi></persName></head>
-<p>
+                    <p xml:id="p_5543.d2e35643"/></div>
+<div type="entry" change="#d2e174" xml:id="div_30.d2e1189"><head change="#d2e174" xml:id="head_30.d2e1190"><persName change="#d2e174" xml:id="persName_33.d2e1191"><surname change="#d2e174" xml:id="surname_32.d2e1192">الرحماني</surname> <hi rend="quotation-marks" xml:id="hi_1317.d2e35645">افرام</hi></persName></head>
+<p change="#d2e174" xml:id="p_113.d2e1198">
                         البطريرك الانطاكي على السريان
                         الكاثليك المولود في الموصل سنة 1848 أحد علماء المشرق المشهور خصوصا في معرفة
                         اللغات الشرقية والاوروبية والتواريخ القديمة نصب مطرانا على
-                        <placeName>حلب</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_29.d2e1200">حلب</placeName>
                         سنة 1894</p>
                     <p xml:id="p_5544.d2e35649">ونودى به بطريركيا انطاكيا سنة 1898 1 تاريخ زبني أو
                         تاريخ الازمنة في اللغة السريانية طبع في 
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_30.d2e1206">بيروت</placeName>
                         سنة
                         1907 2 مختصر تواريخ القرون المتوسطة الموصل 1877 3 مختصر في التواريخ القديمة
                         الموصل 1876 ص 383 (كتب اسم المؤلف في الكتابين المذكورين في عدد 2 و 3: (القس
                         لويس رحماني) وللبطريرك افرام رحماني مقالات وكتب دينية باللغتين السريانية
                         واللاتينية تراها في ترجمته في كتاب السلاسل التاريخية (ص 192) </p></div>
-<div type="entry"><head><persName><surname>الرحماني</surname> <hi rend="quotation-marks" xml:id="hi_1318.d2e35651">عبد الحميد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_31.d2e1210"><head change="#d2e174" xml:id="head_31.d2e1211"><persName change="#d2e174" xml:id="persName_34.d2e1212"><surname change="#d2e174" xml:id="surname_33.d2e1213">الرحماني</surname> <hi rend="quotation-marks" xml:id="hi_1318.d2e35651">عبد الحميد</hi></persName></head>
+<p change="#d2e174" xml:id="p_115.d2e1219">
                         (الشيخ) عبد الحميد بن اسماعيل زائد الرحماني أحد علماء الازهر (كان موجودا سنة
                         1312 هـ) منتهى الارادات لسالك سبيل علم الميقات 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_31.d2e1221">مصر</placeName>
                         1307 رحمة الله بن خليل الرحمن الهندي اظهار الحق في مسئلتي النسخ والتحريف
                         اللتين جرى فيهما المناظرة بينه وبين قسيس انتهى من تأليفه سنة 1280 ومعه أربع
                         رسائل 
@@ -695,8 +695,8 @@
                         <choice xml:id="choice_1069.d2e35677">
                             <abbr xml:id="abbr_1069.d2e35679">مط</abbr>
                             <expan xml:id="expan_1069.d2e35682">مطبعة</expan></choice>الفتوح 1339 ص 32 </p></div>
-<div type="entry"><head><persName><surname>الرخجي</surname> <hi rend="quotation-marks" xml:id="hi_1319.d2e35686">أبو الحسن علي بن الحسين</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_32.d2e1254"><head change="#d2e174" xml:id="head_32.d2e1255"><persName change="#d2e174" xml:id="persName_35.d2e1256"><surname change="#d2e174" xml:id="surname_34.d2e1257">الرخجي</surname> <hi rend="quotation-marks" xml:id="hi_1319.d2e35686">أبو الحسن علي بن الحسين</hi></persName></head>
+<p change="#d2e174" xml:id="p_117.d2e1263">
                         أحاسن المحاسن
                         (1) طبع في مجموعة رقم 12</p>
                     <p xml:id="p_5546.d2e35691">(استانة 1301)  
@@ -708,43 +708,43 @@
                             <p xml:id="p_5547.d2e35698">وكتاب أحاسن المحاسن يسمى أيضا بمنتقى صفوة
                                 الصفوة وهو خط في الخزانة التيمورية (*)</p></note>
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P937.xhtml" ed="print" n="931" xml:id="pb_472.d2e35702"/>رزق </p></div>
-<div type="entry"><head><persName><surname>الله</surname> <hi rend="quotation-marks" xml:id="hi_1320.d2e35704">اسكندر افندي</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_33.d2e1279"><head change="#d2e174" xml:id="head_33.d2e1280"><persName change="#d2e174" xml:id="persName_36.d2e1281"><surname change="#d2e174" xml:id="surname_35.d2e1282">الله</surname> <hi rend="quotation-marks" xml:id="hi_1320.d2e35704">اسكندر افندي</hi></persName></head>
+<p change="#d2e174" xml:id="p_121.d2e1288">
                         رسالة في الدفتيريا أو الخناق والسير وثرابيا أو التداوي بالمصل 
                         <choice xml:id="choice_1070.d2e35707">
                             <abbr xml:id="abbr_1070.d2e35709">مط</abbr>
                             <expan xml:id="expan_1070.d2e35712">مطبعة</expan></choice>اللبنانية 
-                        <placeName>بعبدا</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_32.d2e1298">بعبدا</placeName>
                         1895 ص 33 </p></div>
-<div type="entry"><head><persName><surname>رزق</surname> <hi rend="quotation-marks" xml:id="hi_1321.d2e35716">عبد الله</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_34.d2e1302"><head change="#d2e174" xml:id="head_34.d2e1303"><persName change="#d2e174" xml:id="persName_37.d2e1304"><surname change="#d2e174" xml:id="surname_36.d2e1305">رزق</surname> <hi rend="quotation-marks" xml:id="hi_1321.d2e35716">عبد الله</hi></persName></head>
+<p change="#d2e174" xml:id="p_122.d2e1311">
                         تفصيل
                         وخياطة الملابس للسيدات وبه رسوم 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_33.d2e1313">مصر</placeName>
                         ..رزق الله حسون *
                         </p></div>
-<div type="entry"><head><persName><surname>حسون</surname> <hi rend="quotation-marks" xml:id="hi_1322.d2e35720">رزق الله</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_35.d2e1318"><head change="#d2e174" xml:id="head_35.d2e1319"><persName change="#d2e174" xml:id="persName_38.d2e1320"><surname change="#d2e174" xml:id="surname_37.d2e1321">حسون</surname> <hi rend="quotation-marks" xml:id="hi_1322.d2e35720">رزق الله</hi></persName></head>
+<p change="#d2e174" xml:id="p_123.d2e1327">
                         رزق الله عبود * </p></div>
-<div type="entry"><head><persName><surname>عبود</surname> <hi rend="quotation-marks" xml:id="hi_1323.d2e35723">رزق الله</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_36.d2e1330"><head change="#d2e174" xml:id="head_36.d2e1331"><persName change="#d2e174" xml:id="persName_39.d2e1332"><surname change="#d2e174" xml:id="surname_38.d2e1333">عبود</surname> <hi rend="quotation-marks" xml:id="hi_1323.d2e35723">رزق الله</hi></persName></head>
+<p change="#d2e174" xml:id="p_124.d2e1339">
                         </p></div>
-<div type="entry"><head><persName><surname>الرستاقي</surname> <hi rend="quotation-marks" xml:id="hi_1324.d2e35726">علي بن مسعود</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_37.d2e1342"><head change="#d2e174" xml:id="head_37.d2e1343"><persName change="#d2e174" xml:id="persName_40.d2e1344"><surname change="#d2e174" xml:id="surname_39.d2e1345">الرستاقي</surname> <hi rend="quotation-marks" xml:id="hi_1324.d2e35726">علي بن مسعود</hi></persName></head>
+<p change="#d2e174" xml:id="p_125.d2e1351">
                         حل المشكلات في شرح بعض
                         الابيات (طبيعيات) طبع حجر هند 1288 ص 151 </p></div>
-<div type="entry"><head><persName><surname>رستم</surname> <hi rend="quotation-marks" xml:id="hi_1325.d2e35729">اسعد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_38.d2e1354"><head change="#d2e174" xml:id="head_38.d2e1355"><persName change="#d2e174" xml:id="persName_41.d2e1356"><surname change="#d2e174" xml:id="surname_40.d2e1357">رستم</surname> <hi rend="quotation-marks" xml:id="hi_1325.d2e35729">اسعد</hi></persName></head>
+<p change="#d2e174" xml:id="p_126.d2e1363">
                         ديوان رستم
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_34.d2e1365">بيروت</placeName>
                         1908 ص 400 رستم </p></div>
-<div type="entry"><head><persName><surname>الشويري</surname> <hi rend="quotation-marks" xml:id="hi_1326.d2e35732">ميخائيل</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_39.d2e1369"><head change="#d2e174" xml:id="head_39.d2e1370"><persName change="#d2e174" xml:id="persName_42.d2e1371"><surname change="#d2e174" xml:id="surname_41.d2e1372">الشويري</surname> <hi rend="quotation-marks" xml:id="hi_1326.d2e35732">ميخائيل</hi></persName></head>
+<p change="#d2e174" xml:id="p_127.d2e1378">
                         مدير
-                        جريدة <title level="j" change="#d2e164">المهاجر</title> (العربية) في نيويورك</p>
+                        جريدة <title level="j" change="#d2e164 #d2e174" xml:id="title_5.d2e1380">المهاجر</title> (العربية) في نيويورك</p>
                     <p xml:id="p_5549.d2e35736">ديوان الغريب في الغرب نيويورك 1910 </p></div>
-<div type="entry"><head><persName><surname>رسلان</surname> <hi rend="quotation-marks" xml:id="hi_1327.d2e35738">(الامير) أمين</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_40.d2e1387"><head change="#d2e174" xml:id="head_40.d2e1388"><persName change="#d2e174" xml:id="persName_43.d2e1389"><surname change="#d2e174" xml:id="surname_42.d2e1390">رسلان</surname> <hi rend="quotation-marks" xml:id="hi_1327.d2e35738">(الامير) أمين</hi></persName></head>
+<p change="#d2e174" xml:id="p_129.d2e1396">
                         القنصل العام سابقا للدولة العثمانية في بروكسل وصاحب جريدة كشف النقاب التي
                         كان نشرها في باريس وهو أول صحافي عربي حضر بصفة رسمية المؤتمر المنعقد سنة
                         1897 في استوكلهم عاصمة اسوج حقوق الملل ومعاهدات الدول الجزء الرابع في الحرب
@@ -753,8 +753,8 @@
                             <expan xml:id="expan_1071.d2e35746">مطبعة</expan></choice>الهلال 1900 ص 130 (لم يطبع منه سوى جزء واحد) 
                         <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P938.xhtml" ed="print" n="932" xml:id="cb_466.d2e35750"/>
                         </p></div>
-<div type="entry"><head><persName><surname>رسلان</surname> <hi rend="quotation-marks" xml:id="hi_1328.d2e35752">(الامير) شكيب</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_41.d2e1410"><head change="#d2e174" xml:id="head_41.d2e1411"><persName change="#d2e174" xml:id="persName_44.d2e1412"><surname change="#d2e174" xml:id="surname_43.d2e1413">رسلان</surname> <hi rend="quotation-marks" xml:id="hi_1328.d2e35752">(الامير) شكيب</hi></persName></head>
+<p change="#d2e174" xml:id="p_130.d2e1419">
                         هو
                         أيضا من اسرة الدروز اللبنانيين.</p>
                     <p xml:id="p_5550.d2e35756">كان عضوا في الجمعية الاسيوية الفرنسية.</p>
@@ -763,7 +763,7 @@
                         بسرعة البديهة والذهاب مذهب الطريقة البدويه في الاسلوب وهو أحد علماء الادب
                         الذين لا ينطقون الا عن علم راسخ وأدب مكين ولو كان للادب عنده من الحظ ما
                         للسياسة لرفع من شأنه ما قصرت عنه ايدي سواه باكورة (نظم)
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_35.d2e1427">بيروت</placeName>
                         1887 ص 92</p>
                     <p xml:id="p_5552.d2e35762">وعني بنشر المختار من رسائل أبي اسحق الصابئ أنظر أبو
                         إسحق وله تآليف حديثة تراها في جامع التصانيف الحديثة.</p>
@@ -773,8 +773,8 @@
                         التحفة الناصرية في الفنون الادبية وهو مجموع منتخبات شعرية في المدائح
                         والمراثي والاخلاق والآداب وغير ذلك جمعه للشاه نصر الدين وبين الاسطر ترجمة
                         فارسية طهران 1278 </p></div>
-<div type="entry"><head><persName><surname>الرشتي</surname> <hi rend="quotation-marks" xml:id="hi_1329.d2e35767">كاظم</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_42.d2e1437"><head change="#d2e174" xml:id="head_42.d2e1438"><persName change="#d2e174" xml:id="persName_45.d2e1439"><surname change="#d2e174" xml:id="surname_44.d2e1440">الرشتي</surname> <hi rend="quotation-marks" xml:id="hi_1329.d2e35767">كاظم</hi></persName></head>
+<p change="#d2e174" xml:id="p_135.d2e1446">
                         كاظم بن قاسم الحسيني الموسوي
                         الرشتي 
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P939.xhtml" ed="print" n="933" xml:id="pb_473.d2e35770"/>
@@ -782,31 +782,31 @@
                         على مسائل في أمور الدين والدنيا العجم 1274 ص 475 2 شرح قصيدة عبد الباقي
                         العمري اللامية في مدح سيدنا موسى بن جعفر طبع حجر العجم 1270</p>
                     <p xml:id="p_5554.d2e35774">ص 204 </p></div>
-<div type="entry"><head><persName><surname>رشدي</surname> <hi rend="quotation-marks" xml:id="hi_1330.d2e35776">احمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_43.d2e1454"><head change="#d2e174" xml:id="head_43.d2e1455"><persName change="#d2e174" xml:id="persName_46.d2e1456"><surname change="#d2e174" xml:id="surname_45.d2e1457">رشدي</surname> <hi rend="quotation-marks" xml:id="hi_1330.d2e35776">احمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_137.d2e1463">
                         مفتي قره طاغ أساس البنا وهو شرح
                         على البنا (بناء الافعال) صرف 
-                        <placeName>أستانة</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_36.d2e1465">أستانة</placeName>
                         1290 </p></div>
-<div type="entry"><head><persName><surname>الرشدي</surname> <hi rend="quotation-marks" xml:id="hi_1331.d2e35779">حمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_44.d2e1469"><head change="#d2e174" xml:id="head_44.d2e1470"><persName change="#d2e174" xml:id="persName_47.d2e1471"><surname change="#d2e174" xml:id="surname_46.d2e1472">الرشدي</surname> <hi rend="quotation-marks" xml:id="hi_1331.d2e35779">حمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_138.d2e1478">
                         * محمد
                         الرشدي جلبي رشدي (الدكتور) اسماعيل بك * اسماعيل بك رشدي رشدي (الدكتور) محمد
                         * محمد بك رشدي </p></div>
-<div type="entry"><head><persName><surname>رشدي</surname> <hi rend="quotation-marks" xml:id="hi_1332.d2e35782">محمود</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_45.d2e1481"><head change="#d2e174" xml:id="head_45.d2e1482"><persName change="#d2e174" xml:id="persName_48.d2e1483"><surname change="#d2e174" xml:id="surname_47.d2e1484">رشدي</surname> <hi rend="quotation-marks" xml:id="hi_1332.d2e35782">محمود</hi></persName></head>
+<p change="#d2e174" xml:id="p_139.d2e1490">
                         * </p></div>
-<div type="entry"><head><persName><surname>البقلى</surname> <hi rend="quotation-marks" xml:id="hi_1333.d2e35785">محمود رشدي</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_46.d2e1493"><head change="#d2e174" xml:id="head_46.d2e1494"><persName change="#d2e174" xml:id="persName_49.d2e1495"><surname change="#d2e174" xml:id="surname_48.d2e1496">البقلى</surname> <hi rend="quotation-marks" xml:id="hi_1333.d2e35785">محمود رشدي</hi></persName></head>
+<p change="#d2e174" xml:id="p_140.d2e1502">
                         رشدي </p></div>
-<div type="entry"><head><persName><surname>الدمشقي</surname> <hi rend="quotation-marks" xml:id="hi_1334.d2e35788">(الشيخ) مصطفى</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_47.d2e1506"><head change="#d2e174" xml:id="head_47.d2e1507"><persName change="#d2e174" xml:id="persName_50.d2e1508"><surname change="#d2e174" xml:id="surname_49.d2e1509">الدمشقي</surname> <hi rend="quotation-marks" xml:id="hi_1334.d2e35788">(الشيخ) مصطفى</hi></persName></head>
+<p change="#d2e174" xml:id="p_141.d2e1515">
                         جبر الكسر في نظم أسماء أهل بدر 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_37.d2e1517">مصر</placeName>
                         رشدي (افندي) كمال
                         من موظفي السكة الحديدية المصرية تنوير الاذهان بمعرفة مبادئ تقويم البلدان (في
                         جغرافية 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_38.d2e1520">مصر</placeName>
                         ) القاهرة 1901 رشيد بن داود السعدي غاية
                         المراد في الخيل والجياد 
                         <choice xml:id="choice_1072.d2e35792">
@@ -823,12 +823,12 @@
                             <abbr xml:id="abbr_1073.d2e35808">مط</abbr>
                             <expan xml:id="expan_1073.d2e35811">مطبعة</expan></choice>الخيرية 1310 الرشيد الاسواني (أو) الغساني * الاسواني رشيد دعبول
                         البعبداوي موجز تاريخ السلاطين العثمانين أنظر احمد المكاري الدمشقي رشيد </p></div>
-<div type="entry"><head><persName><surname>رضا</surname> <hi rend="quotation-marks" xml:id="hi_1335.d2e35815">محمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_48.d2e1545"><head change="#d2e174" xml:id="head_48.d2e1546"><persName change="#d2e174" xml:id="persName_51.d2e1547"><surname change="#d2e174" xml:id="surname_50.d2e1548">رضا</surname> <hi rend="quotation-marks" xml:id="hi_1335.d2e35815">محمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_143.d2e1554">
                         صاحب
-                        مجلة <title level="j" change="#d2e164">المنار</title> الاسلامية وناظر مدرسة الدعوة والارشاد الكلية بمصر ووكيل جمعيتها
+                        مجلة <title level="j" change="#d2e164 #d2e174" xml:id="title_6.d2e1556">المنار</title> الاسلامية وناظر مدرسة الدعوة والارشاد الكلية بمصر ووكيل جمعيتها
                         المولود ببلدة القلمون بجوار 
-                        <placeName>طرابلس الشام</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_39.d2e1559">طرابلس الشام</placeName>
                         له المقالات
                         الدينية المحققة في مجلته التي أنشأها بالقاهرة في سنة 1899 1315 وما زالت تصدر
                         إلى السنة الحالية 1928 1346 قال صاحبها: كان الغرض من انشاء المجلة الاصلاح
@@ -841,7 +841,7 @@
                             <abbr xml:id="abbr_1074.d2e35823">مط</abbr>
                             <expan xml:id="expan_1074.d2e35826">مطبعة</expan></choice>المنار 1325 (1)  
                         <note type="footnote" xml:id="note_631.d2e35830">
-                            <p xml:id="p_5556.d2e35832">(1) أنظر انتقاد هذا الانجيل في مجلة <title level="j" change="#d2e164">الشرق والغرب</title> سنة 1907 عدد 40 (*)</p></note>
+                            <p xml:id="p_5556.d2e35832">(1) أنظر انتقاد هذا الانجيل في مجلة <title level="j" change="#d2e164 #d2e174" xml:id="title_7.d2e1577">الشرق والغرب</title> سنة 1907 عدد 40 (*)</p></note>
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P941.xhtml" ed="print" n="935" xml:id="pb_474.d2e35836"/>تاريخ الاستاذ الامام الشيخ
                         محمد عبده جزء 3 صدر من الجزء الثاني والثالث فقط.</p>
                     <p xml:id="p_5558.d2e35839">الجزء الثاني يحتوي على منشئات الشيخ محمد عبده أو بعض
@@ -869,7 +869,7 @@
                         <choice xml:id="choice_1078.d2e35881">
                             <abbr xml:id="abbr_1078.d2e35883">مط</abbr>
                             <expan xml:id="expan_1078.d2e35886">مطبعة</expan></choice>المنار 1335 ص 44 6 شبهات النصارى وحجج الاسلام وهو رد على ابحاث
-                        المجتهدين وبشائر مجلة <title level="j" change="#d2e164">السلام</title> ومجلة <title level="j" change="#d2e169">الجامعة</title> 
+                        المجتهدين وبشائر مجلة <title level="j" change="#d2e164 #d2e174" xml:id="title_8.d2e1631">السلام</title> ومجلة <title level="j" change="#d2e169 #d2e174" xml:id="title_9.d2e1634">الجامعة</title> 
                         <choice xml:id="choice_1079.d2e35890">
                             <abbr xml:id="abbr_1079.d2e35892">مط</abbr>
                             <expan xml:id="expan_1079.d2e35895">مطبعة</expan></choice>المنار 1322 7 عقيدة الصلب والفدا وفيه نظرية الدكتور محمود افندي
@@ -878,7 +878,7 @@
                             <abbr xml:id="abbr_1080.d2e35901">مط</abbr>
                             <expan xml:id="expan_1080.d2e35904">مطبعة</expan></choice>المنار ص 167 8 محاورات المصلح والمقلد وهو مناظرات بين عالم عصري من
                         طلاب الاصلاح وبين عالم أزهري أظهر فيها ضرر التقليد وفائدة الاجتهاد وقد نشرت
-                        قبلا في مجلة <title level="j" change="#d2e164">المنار</title>.</p>
+                        قبلا في مجلة <title level="j" change="#d2e164 #d2e174" xml:id="title_10.d2e1654">المنار</title>.</p>
                     <p xml:id="p_5563.d2e35909">
                         <choice xml:id="choice_1081.d2e35911">
                             <abbr xml:id="abbr_1081.d2e35913">مط</abbr>
@@ -899,26 +899,26 @@
                         <choice xml:id="choice_1083.d2e35934">
                             <abbr xml:id="abbr_1083.d2e35936">مط</abbr>
                             <expan xml:id="expan_1083.d2e35939">مطبعة</expan></choice>الادبية 
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_40.d2e1690">بيروت</placeName>
                         1306 ص 174 2 منتهى المنافع في
                         أنواع الصنائع ال
-                        <choice>
-                            <abbr>مط</abbr>
-                            <expan>مطبعة</expan></choice>الادبية
-                        <placeName>بيروت</placeName>
+                        <choice change="#d2e174" xml:id="choice_51.d2e1693">
+                            <abbr change="#d2e174" xml:id="abbr_51.d2e1695">مط</abbr>
+                            <expan change="#d2e174" xml:id="expan_51.d2e1698">مطبعة</expan></choice>الادبية
+                        <placeName change="#d2e174" xml:id="placeName_41.d2e1701">بيروت</placeName>
                         1896 1313 ص 1104.</p>
                     <p xml:id="p_5565.d2e35944">وقال صاحب المقتطف الجزء 21: ان جانبا كبيرا من هذا
                         الكتاب نقل من مقالات المقتطف 3 النجوم المشرقات في تدبير المسكونات وهو مجموع
                         فوائد عامة تتعلق بتدبير المسكونات والموت الحقيقي والموت الغير الحقيقي وعلله
                         ومداواته والفصول والمياه والهواء ومسكونات الحيوانات الاهلية وغير ذلك
                                 ال
-                        <choice>
-                            <abbr>مط</abbr>
-                            <expan>مطبعة</expan></choice>الادبية
-                        <placeName>بيروت</placeName>
+                        <choice change="#d2e174" xml:id="choice_52.d2e1707">
+                            <abbr change="#d2e174" xml:id="abbr_52.d2e1709">مط</abbr>
+                            <expan change="#d2e174" xml:id="expan_52.d2e1712">مطبعة</expan></choice>الادبية
+                        <placeName change="#d2e174" xml:id="placeName_42.d2e1715">بيروت</placeName>
                         1305 ص 175 </p></div>
-<div type="entry"><head><persName><surname>الرشيدي</surname> <hi rend="quotation-marks" xml:id="hi_1336.d2e35946">احمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_49.d2e1719"><head change="#d2e174" xml:id="head_49.d2e1720"><persName change="#d2e174" xml:id="persName_52.d2e1721"><surname change="#d2e174" xml:id="surname_51.d2e1722">الرشيدي</surname> <hi rend="quotation-marks" xml:id="hi_1336.d2e35946">احمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_154.d2e1728">
                         (1096 هـ)
                         احمد بن عبد الرازق بن محمد بن احمد بن احمد المشهور بالمغربي الرشيدي كان
                         فاضلا كاملا صاحب براعة وفصاحة.</p>
@@ -935,10 +935,10 @@
                         وفاته برشيد ودفن بها حاشية على شرح المنهاج لشمس الدين الرملي (فقه شافعي) فرغ
                         من تأليفها سنة 1086 بولاق 1292 وبهامش نهاية المحتاج شرح على المنهاج لشمس
                         الدين الرملي (
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_43.d2e1744">مصر</placeName>
                         1286) </p></div>
-<div type="entry"><head><persName><surname>الرشيدي</surname> <hi rend="quotation-marks" xml:id="hi_1337.d2e35964">احمد (افندي) الحكيم</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_50.d2e1748"><head change="#d2e174" xml:id="head_50.d2e1749"><persName change="#d2e174" xml:id="persName_53.d2e1750"><surname change="#d2e174" xml:id="surname_52.d2e1751">الرشيدي</surname> <hi rend="quotation-marks" xml:id="hi_1337.d2e35964">احمد (افندي) الحكيم</hi></persName></head>
+<p change="#d2e174" xml:id="p_159.d2e1757">
                         (1282 هـ) ااحمد افندي بن حسن بن علي الرشيدي المصري من نوابغ مدرسة الطب
                         المصرية.</p>
                     <p xml:id="p_5570.d2e35968">كان من جملة الذين سافروا في الارسالية الاولى إلى
@@ -946,14 +946,14 @@
                         الترجمة والتأليف وتمتاز مؤلفاته من غيرها بأنها قلما كانت تحتاج إلى تصحيح أو
                         تحرير وألف في أكثر فنون الطب والطبيعيات والاقرباذين 1 بهجة الرؤساء في أمراض
                         النساء بولاق 1260 ص 651 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_44.d2e1762">مصر</placeName>
                         1304</p>
                     <p xml:id="p_5571.d2e35971">2 الدراسة الاولية في الجغرافية الطبيعية ترجمه من
                         اللغة الفرنسية بتصحيح رفاعة بك وهو يقسم إلى أربعة أجزاء 1 في علم الفلك 2 في
                         شرح الجو الهوائي 3 في شرح المياه 4 في الجيوغنوزيا أو علم الارض بولاق 1254 3
                         رسالة شمس البيان في المناقشات التي جرت بيني وبين الميروثرا الطبيب في داء
                         السرطان طبع حجر 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_45.d2e1768">مصر</placeName>
                         1282 ص 20 4 رسالة في تطعيم الجدري
                         بولاق 1250 و 1252 ص 14 5 الروضة البهية في مداواة الامراض الجلدية 
                         <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P944.xhtml" ed="print" n="938" xml:id="cb_469.d2e35973"/>
@@ -965,12 +965,12 @@
                         الطبية جزء 4 بولاق 1283 (أنظر</p>
                     <p xml:id="p_5572.d2e35976">فهرست المادة الطبية لحسين عوده) 9 نبذة لطيفة في
                         تطعيم الجدري تأليف كلوت بك معربه 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_46.d2e1776">مصر</placeName>
                         1259 10 نخبة
                         الاماثل في علاج تشوهات المفاصل طبع مع كتاب الروضة البهية المذكور رقم 5 11
                         نزهة الاقبال في مداواة الاطفال بولاق 1261 ص 84 </p></div>
-<div type="entry"><head><persName><surname>الرشيدي</surname> <hi rend="quotation-marks" xml:id="hi_1338.d2e35978">حسين بن سليمان</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_51.d2e1780"><head change="#d2e174" xml:id="head_51.d2e1781"><persName change="#d2e174" xml:id="persName_54.d2e1782"><surname change="#d2e174" xml:id="surname_53.d2e1783">الرشيدي</surname> <hi rend="quotation-marks" xml:id="hi_1338.d2e35978">حسين بن سليمان</hi></persName></head>
+<p change="#d2e174" xml:id="p_163.d2e1789">
                         بلوغ المراد بفتح الجواد بشرح منظومة ابن العماد في المعفوات وهي حاشية على فتح
                         الجواد المذكور ويليه فتح الجواد بشرح منظومة ابن العماد لشهاب الدين احمد بن
                         حمزة الرملي وبهامشه تقريرات للشيخ سليمان العجيلي المعروف بالجمل بولاق 1286 و
@@ -978,8 +978,8 @@
                         <choice xml:id="choice_1084.d2e35981">
                             <abbr xml:id="abbr_1084.d2e35983">مط</abbr>
                             <expan xml:id="expan_1084.d2e35986">مطبعة</expan></choice>الوهبية 1299 </p></div>
-<div type="entry"><head><persName><surname>الرشيدي</surname> <hi rend="quotation-marks" xml:id="hi_1339.d2e35990">ملا حسن (افندي) غانم</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_52.d2e1800"><head change="#d2e174" xml:id="head_52.d2e1801"><persName change="#d2e174" xml:id="persName_55.d2e1802"><surname change="#d2e174" xml:id="surname_54.d2e1803">الرشيدي</surname> <hi rend="quotation-marks" xml:id="hi_1339.d2e35990">ملا حسن (افندي) غانم</hi></persName></head>
+<p change="#d2e174" xml:id="p_164.d2e1809">
                         معلم الاقرباذين
                         والمادة الطبية في مدرسة قصر العيني بالقاهرة 
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P945.xhtml" ed="print" n="939" xml:id="pb_476.d2e35993"/>
@@ -989,56 +989,56 @@
                     <p xml:id="p_5573.d2e35997">ويعرف بالهداية الكافية الشافية لبيان حقائق الامام
                         ابن عرفة الوافية (فقه مالك) طبع حجر فاس 1316 ص 400 </p>
                 </div>
-                <div type="entry">
-                    <head>
-                        <persName ref="viaf:14924300">
-                            <surname>الرصافي</surname>
+                <div type="entry" change="#d2e174" xml:id="div_53.d2e1819">
+                    <head change="#d2e174" xml:id="head_53.d2e1821">
+                        <persName ref="viaf:14924300" change="#d2e174" xml:id="persName_56.d2e1823">
+                            <surname change="#d2e174" xml:id="surname_55.d2e1825">الرصافي</surname>
                             <hi rend="quotation-marks" xml:id="hi_1340.d2e35999">
-                                <forename>معروف</forename>
-                                <roleName rend="brackets" type="title">افندي</roleName>
+                                <forename change="#d2e174" xml:id="forename_5.d2e1830">معروف</forename>
+                                <roleName rend="brackets" type="title" change="#d2e174" xml:id="roleName_1.d2e1833">افندي</roleName>
                             </hi>
                         </persName>
                     </head>
-                    <p>الشاعر البغدادي 
-                        <listBibl>
-                            <bibl>
+                    <p change="#d2e174" xml:id="p_166.d2e1839">الشاعر البغدادي 
+                        <listBibl change="#d2e174" xml:id="listBibl_1.d2e1841">
+                            <bibl change="#d2e174" xml:id="bibl_1.d2e1843">
                                 1 دفع الهجنة في ارتضاح اللكنة ذكر فيه الالفاظ العربية التي استعملها الترك في غير معناها 
-                                <placeName>استانة</placeName>
+                                <placeName change="#d2e174" xml:id="placeName_47.d2e1845">استانة</placeName>
                                 1331 ص 111 </bibl>
-                            <bibl>2 
-                                <title level="m">ديوان الرصافي</title>
+                            <bibl change="#d2e174" xml:id="bibl_2.d2e1849">2 
+                                <title level="m" change="#d2e174" xml:id="title_11.d2e1851">ديوان الرصافي</title>
                                 ويعرف ب 
-                                <title level="m">الرصافيات</title>
+                                <title level="m" change="#d2e174" xml:id="title_12.d2e1854">الرصافيات</title>
                                 تولي طبع قصائدها وتبويبها وتفسير ألفاظها 
-                                <editor>
-                                    <persName ref="viaf:4812503">
-                                        <forename>محيي الدين</forename>
-                                        <roleName type="title">افندي</roleName>
-                                        <surname>الخياط</surname></persName>
+                                <editor change="#d2e174" xml:id="editor_1.d2e1857">
+                                    <persName ref="viaf:4812503" change="#d2e174" xml:id="persName_57.d2e1859">
+                                        <forename change="#d2e174" xml:id="forename_6.d2e1861">محيي الدين</forename>
+                                        <roleName type="title" change="#d2e174" xml:id="roleName_2.d2e1864">افندي</roleName>
+                                        <surname change="#d2e174" xml:id="surname_56.d2e1867">الخياط</surname></persName>
                                 </editor>و 
-                                <editor>
-                                    <persName ref="viaf:265101315">
-                                        <roleName type="honorific">الشيخ</roleName>
-                                        <forename>مصطفى</forename>
-                                        <surname>الغلائيني</surname></persName>
+                                <editor change="#d2e174" xml:id="editor_2.d2e1871">
+                                    <persName ref="viaf:265101315" change="#d2e174" xml:id="persName_58.d2e1873">
+                                        <roleName type="honorific" change="#d2e174" xml:id="roleName_3.d2e1875">الشيخ</roleName>
+                                        <forename change="#d2e174" xml:id="forename_7.d2e1878">مصطفى</forename>
+                                        <surname change="#d2e174" xml:id="surname_57.d2e1881">الغلائيني</surname></persName>
                                 </editor>ورتب على أربعة أبواب 1 في الكونيات 2 في الاجتماعيات 3 في التاريخيات 4 في الوصفيات وقدم له مقدمة بليغة في الشعر بنوع عام وشعر الرصافي وشعراء عصره بنوع خاص 
-                                <placeName>بيروت</placeName>
-                                <date when="1910">1910</date>
+                                <placeName change="#d2e174" xml:id="placeName_48.d2e1885">بيروت</placeName>
+                                <date when="1910" change="#d2e174" xml:id="date_2.d2e1889">1910</date>
                                 - 
-                                <date calendar="#cal_islamic" datingMethod="#cal_islamic" when-custom="1328">1328</date>
-                                <biblScope from="1" to="232" unit="page">ص 232</biblScope></bibl>
+                                <date calendar="#cal_islamic" datingMethod="#cal_islamic" when-custom="1328" change="#d2e174" xml:id="date_3.d2e1892">1328</date>
+                                <biblScope from="1" to="232" unit="page" change="#d2e174" xml:id="biblScope_1.d2e1895">ص 232</biblScope></bibl>
                         </listBibl>
                     </p>
                 </div>
-                <div type="entry">
-                    <p>رصد سليمان * سليمان رصد الحنفي رضا وظاهر وزين العراقيات وهو مختار شعر عشرة من
+                <div type="entry" change="#d2e174" xml:id="div_54.d2e1901">
+                    <p change="#d2e174" xml:id="p_167.d2e1903">رصد سليمان * سليمان رصد الحنفي رضا وظاهر وزين العراقيات وهو مختار شعر عشرة من
                         مشاهير شعراء العراق وتراجمهم جمع اصحاب مطبعة العرفان بصيدا.</p>
                     <p xml:id="p_5574.d2e36003">وفي أوله مقدمة في ماهية الشعر ومنزلته لاحمد رضا
                         الجزء الاول 
                         <choice xml:id="choice_1085.d2e36005">
                             <abbr xml:id="abbr_1085.d2e36007">مط</abbr>
                             <expan xml:id="expan_1085.d2e36010">مطبعة</expan></choice>العرفان 
-                        <placeName>صيدا</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_49.d2e1916">صيدا</placeName>
                         1331 ص 209 (الشيخ) رضوان العدل
                         بيبرس</p>
                     <p xml:id="p_5575.d2e36015">من أبناء القرن الرابع عشر للهجرة 
@@ -1047,15 +1047,15 @@
                         على خاتم النبين بولاق 1313 2 خلاصة الكلام في مولد المصطفى عليه الصلاة
                         والسلام بولاق 1313 ص 64 3 روضة المحتاجين لمعرفة قواعد الدين بولاق 1323 4
                         صفوة الخلاصة في مولد مزيل الخصاصة بولاق 1313 </p></div>
-<div type="entry"><head><persName><surname>رضوان</surname> <hi rend="quotation-marks" xml:id="hi_1341.d2e36019">محمد (افندي)</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_55.d2e1925"><head change="#d2e174" xml:id="head_54.d2e1926"><persName change="#d2e174" xml:id="persName_59.d2e1927"><surname change="#d2e174" xml:id="surname_58.d2e1928">رضوان</surname> <hi rend="quotation-marks" xml:id="hi_1341.d2e36019">محمد (افندي)</hi></persName></head>
+<p change="#d2e174" xml:id="p_170.d2e1934">
                         عنوان الرضوان في مدح سيد ولد عدنان بديعية أولها: براعة الشوق من تذكار ذي سلم
                         * قد استهلت دموع العين كالعتم طبعت 
                         <choice xml:id="choice_1086.d2e36022">
                             <abbr xml:id="abbr_1086.d2e36024">مط</abbr>
                             <expan xml:id="expan_1086.d2e36027">مطبعة</expan></choice>المدارس 1288 </p></div>
-<div type="entry"><head><persName><surname>رضوان</surname> <hi rend="quotation-marks" xml:id="hi_1342.d2e36031">مصطفي (افندي)</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_56.d2e1945"><head change="#d2e174" xml:id="head_55.d2e1946"><persName change="#d2e174" xml:id="persName_60.d2e1947"><surname change="#d2e174" xml:id="surname_59.d2e1948">رضوان</surname> <hi rend="quotation-marks" xml:id="hi_1342.d2e36031">مصطفي (افندي)</hi></persName></head>
+<p change="#d2e174" xml:id="p_171.d2e1954">
                         (1305 هـ) شرح مختصر
                         البيان المسفر عن وجوه التبيان (بلاغة) كلاهما له فرغ من تأليفه سنة 1289 بولاق
                         1296 الرضي الاسترابادي</p>
@@ -1086,20 +1086,20 @@
                         <choice xml:id="choice_1087.d2e36055">
                             <abbr xml:id="abbr_1087.d2e36057">مط</abbr>
                             <expan xml:id="expan_1087.d2e36060">مطبعة</expan></choice>شرف 1303 </p></div>
-<div type="entry"><head><persName><surname>الرعامى</surname> <hi rend="quotation-marks" xml:id="hi_1343.d2e36064">عامر بن محمد بن حسن</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_57.d2e1986"><head change="#d2e174" xml:id="head_56.d2e1987"><persName change="#d2e174" xml:id="persName_61.d2e1988"><surname change="#d2e174" xml:id="surname_60.d2e1989">الرعامى</surname> <hi rend="quotation-marks" xml:id="hi_1343.d2e36064">عامر بن محمد بن حسن</hi></persName></head>
+<p change="#d2e174" xml:id="p_178.d2e1995">
                         الروض الحسن في
                         أخبار مولانا صاحب السعادة حسن في أيام ولايته باقليم اليمن " سنة 988 
                         <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P948.xhtml" ed="print" n="942" xml:id="cb_471.d2e36067"/>
                         إلى 992 هـ) (1) ليدن 1838
                         الرعيني الشاطبي * الشاطبي الرعيني </p></div>
-<div type="entry"><head><persName><surname>المالكي</surname> <hi rend="quotation-marks" xml:id="hi_1344.d2e36069">محمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_58.d2e2000"><head change="#d2e174" xml:id="head_57.d2e2001"><persName change="#d2e174" xml:id="persName_62.d2e2002"><surname change="#d2e174" xml:id="surname_61.d2e2003">المالكي</surname> <hi rend="quotation-marks" xml:id="hi_1344.d2e36069">محمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_179.d2e2009">
                         * الحطاب رفاعة بك (1290 1216
                         هـ)</p>
                     <p xml:id="p_5582.d2e36073">(الشيخ) رفاعة بن بدوي بن علي بن محمد بن علي ابن رافع
                         الطهطاوي الحسيني الهاشمي الشافعي ولد في طهطه (من صعيد
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_50.d2e2014">مصر</placeName>
                         ) ثم هاجر والده إلى النيده وهناك حفظ القرآن
                         وتوفي والده السيد بدوي فقام أخواله بتربيته.</p>
                     <p xml:id="p_5583.d2e36076">ولما شب وترعرع قدم القاهرة وانتظم في سلك طلبة
@@ -1115,16 +1115,16 @@
                         المفاخر وكان بينه وبين أكابر علماء الفرنسيس مكاتبات ومراسلات نظير البارون
                         سلوستردي ساسي والعلامة كوسين دي برسوال وغيرهما.</p>
                     <p xml:id="p_5587.d2e36089">ثم استقدمه محمد علي الي 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_51.d2e2033">مصر</placeName>
                         مع رفقته سنة 1246 وعينه مترجما في مدرسة طره وعهد إليه ترتيب مدرسة الالسن
                         وادارتها.</p>
                     <p xml:id="p_5588.d2e36092">فأجاب إلى ذلك ونبغ فيها فحول المترجمين ثم الغيت هذه
                         المدرسة في عهد عباس باشا فاختير ناظرا لمدرسة السودان فأنشأها ورتبها أحسن
                         ترتيب</p>
                     <p xml:id="p_5589.d2e36095">وعاد إلى 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_52.d2e2042">مصر</placeName>
                         فجعل عضوا
-                        ومترجما في مجلس المحافظة ثم ناظرا ثانيا وتولي ادارة جريدة <title level="j" change="#d2e164">الروضة</title> وهو لا
+                        ومترجما في مجلس المحافظة ثم ناظرا ثانيا وتولي ادارة جريدة <title level="j" change="#d2e164 #d2e174" xml:id="title_13.d2e2045">الروضة</title> وهو لا
                         ينفك  
                         <note type="footnote" xml:id="note_632.d2e36097">
                             <p xml:id="p_5589.d2e36099">(1) .</p>
@@ -1139,12 +1139,12 @@
                         الكتب النفيسة فجمعت خزانته نحوا من 4500 كتاب.</p>
                     <p xml:id="p_5596.d2e36122">ويقال أنه ترجم بنفسه وباشرافه ما يربو على الستمائة
                         كتاب 1 أنوار توفيق الجليل في أخبار 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_53.d2e2074">مصر</placeName>
                         وتوثيق بني
                         اسماعيل لم يطبع منه غير الجزء الاول.</p>
                     <p xml:id="p_5597.d2e36126">وهو من أجل الكتب وأمتعها.</p>
                     <p xml:id="p_5598.d2e36129">فصل فبه أخبار من ملك 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_54.d2e2084">مصر</placeName>
                         من
                         الاسر والملوك إلى قدوم عمرو بن العاص ويتلو ذلك فصل في أخبار العرب
                         وأطوارهم.</p>
@@ -1162,9 +1162,9 @@
                         <choice xml:id="choice_1088.d2e36143">
                             <abbr xml:id="abbr_1088.d2e36145">مط</abbr>
                             <expan xml:id="expan_1088.d2e36148">مطبعة</expan></choice>المدارس 1286 5 تخليص الابريز إلى تلخيص باريز </p></div>
-<div type="entry"><head><persName><surname>أو</surname> <hi rend="quotation-marks" xml:id="hi_1345.d2e36152">الديوان النفيس بايوان
+<div type="entry" change="#d2e174" xml:id="div_59.d2e2109"><head change="#d2e174" xml:id="head_58.d2e2110"><persName change="#d2e174" xml:id="persName_63.d2e2111"><surname change="#d2e174" xml:id="surname_62.d2e2112">أو</surname> <hi rend="quotation-marks" xml:id="hi_1345.d2e36152">الديوان النفيس بايوان
                             باريس</hi></persName></head>
-<p>
+<p change="#d2e174" xml:id="p_201.d2e2118">
                         .</p>
                     <p xml:id="p_5603.d2e36157">وتعرف برحلة الشيخ رفاعة وهي رحلة كتبها لما توجه
                         برتبة مبعوث إلى باريس في سنة 1241 صحبة التلاميذ المبعوثين لتعلم العلوم
@@ -1177,9 +1177,9 @@
                         وهجرنا الديارا * وجئناك نطوي اليك القفارا وهي تبلغ 46 بيتا.</p>
                     <p xml:id="p_5604.d2e36162">وأول خطبته: بعد حمد الله ذي</p>
                     <p xml:id="p_5605.d2e36165">الحمد القديم ومستهل </p></div>
-<div type="entry"><head><persName><surname>التخميس</surname> <hi rend="quotation-marks" xml:id="hi_1346.d2e36167">عززنا بحبك دارا وجارا</hi></persName></head>
-<p>
-                        <placeName>مصر</placeName>
+<div type="entry" change="#d2e174" xml:id="div_60.d2e2132"><head change="#d2e174" xml:id="head_59.d2e2133"><persName change="#d2e174" xml:id="persName_64.d2e2134"><surname change="#d2e174" xml:id="surname_63.d2e2135">التخميس</surname> <hi rend="quotation-marks" xml:id="hi_1346.d2e36167">عززنا بحبك دارا وجارا</hi></persName></head>
+<p change="#d2e174" xml:id="p_205.d2e2141">
+                        <placeName change="#d2e174" xml:id="placeName_55.d2e2143">مصر</placeName>
                         1309 7 تعريب قانون التجارة بولاق 1285 8 تعريب
                         القانون المدني الفرنساوي جزء 2 بولاق 1293 9 التعريفات الشافية لمريد
                         الجغرافية مأخوذة عن جغرافية ملطبرون الفرنساوية بولاق 1250 و 1254 ص 303
@@ -1195,22 +1195,22 @@
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P951.xhtml" ed="print" n="945" xml:id="pb_479.d2e36176"/>
                         15 رسالة المعادن مترجمة عن
                         الفرنسية بولاق 1284 16 الرسول الامين للبنات والبنين
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_56.d2e2154">مصر</placeName>
                         1292 17 قصيدة وطنية مصرية في مدح الخديوي محمد
                         سعيد باشا بولاق 1272 ص 19 18 قصيدة وطنية مصرية في مدح اسماعيل باشا خديوي
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_57.d2e2157">مصر</placeName>
                         <choice xml:id="choice_1089.d2e36178">
                             <abbr xml:id="abbr_1089.d2e36180">مط</abbr>
                             <expan xml:id="expan_1089.d2e36183">مطبعة</expan></choice>كاستلي 1281 19 قلائد المفاخر في غريب عوائد الاوائل والاواخر وهو
                         قسمان الاول في أخلاق أهل بلاد أوروبا (1) والثاني معجم الاصطلاحات الجغرافية
                         والتاريخية بولاق 1249 ص 112 و 105 20 القول السديد في الاجتهاد والتقليد
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_58.d2e2168">مصر</placeName>
                         1287 21 الكنز المختار في كشف الاراضي والبحار
                         وهو مختصر في الجغرافيا على السؤال والجواب مصحح بمعرفة رفاعة بك 
                         <choice xml:id="choice_1090.d2e36187">
                             <abbr xml:id="abbr_1090.d2e36189">مط</abbr>
                             <expan xml:id="expan_1090.d2e36192">مطبعة</expan></choice>الطوبجية بناحية طره (
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_59.d2e2180">مصر</placeName>
                         ) 1250 ص 242 (2) 22
                         كتاب قدماء الفلاسفة معرب بولاق</p>
                     <p xml:id="p_5608.d2e36197">1252.</p>
@@ -1223,7 +1223,7 @@
                                 usages des Nations (2) طبع في مالطه سنة 1833
                                 م (1249 هـ) كتاب موسوم بالكنز المختار في اكتشاف الارض والبحار صححه
                                 رفاعة بك وقال بآخر طبعة 
-                                <placeName>مصر</placeName>
+                                <placeName change="#d2e174" xml:id="placeName_60.d2e2196">مصر</placeName>
                                 ما يأتي: " وجاءت
                                 هذه الطبعة الثانية بالنسبة للعبارة أظرف من طبعة مالطه وأجمل.</p>
                             <p xml:id="p_5611.d2e36211">ولكن ينبغي أن نقر بأن الطبعة الاولى بمزية
@@ -1235,8 +1235,8 @@
                             <abbr xml:id="abbr_1091.d2e36219">مط</abbr>
                             <expan xml:id="expan_1091.d2e36222">مطبعة</expan></choice>المعارف 1290 26 المعادن النافعة لتدبير معايش الخلايق في علم
                         المعادن تأليف المعلم فرارد معرب بولاق 1248 ص 47 وكتب في أوله اسم </p></div>
-<div type="entry"><head><persName><surname>المعرب</surname> <hi rend="quotation-marks" xml:id="hi_1347.d2e36226">بدوي رافع الطحطاوي</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_61.d2e2215"><head change="#d2e174" xml:id="head_60.d2e2216"><persName change="#d2e174" xml:id="persName_65.d2e2217"><surname change="#d2e174" xml:id="surname_64.d2e2218">المعرب</surname> <hi rend="quotation-marks" xml:id="hi_1347.d2e36226">بدوي رافع الطحطاوي</hi></persName></head>
+<p change="#d2e174" xml:id="p_213.d2e2224">
                         27 مقدمة وطنية مصريه بولاق 1283 28 مناهج الالباب المصرية في مباهج
                         الآداب العصرية كتاب حوى ضروبا من الآداب وصنوفا</p>
                     <p xml:id="p_5613.d2e36230">من السياسات وفنون الصناعات بولاق 1286 ص 291 
@@ -1245,11 +1245,11 @@
                             <expan xml:id="expan_1092.d2e36237">مطبعة</expan></choice>شركة الرغائب 1330 ص 450 29 المنطق مغرب عن كتاب فرنسي للعلامة
                         دومرسيه Dumarsais بولاق 1254 30 منظومة وطنية مصرية أولها: هيا نتحالف يا
                         أخوان بولاق 1272 منظومة أخرى أولها: يا جند 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_61.d2e2237">مصر</placeName>
                         لكم
                         فخار بولاق 1272 وغيرها: يا حزبنا قم بنا نسود بولاق 1272 وغيرها: يا سعد اتحف
                         مسمعي بصبا الصباح بولاق 1272 31 مواقع الافلاك في أخبار تليماك معرب بتصرف
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_62.d2e2240">بيروت</placeName>
                         1867 ص 792 32 نظم العقود في كسر العود قصيدة
                         معربة عن شعر نظم العلامة أغوب (لعله أغوب باشا) باريس 1827 ص 4 و 38 واسم
                         القصيدة الفرنسية La lyre brisee 33 نهاية الايجاز في سيرة ساكن الحجاز 
@@ -1259,28 +1259,28 @@
                         <choice xml:id="choice_1093.d2e36243">
                             <abbr xml:id="abbr_1093.d2e36245">مط</abbr>
                             <expan xml:id="expan_1093.d2e36248">مطبعة</expan></choice>روضة المدارس 1291 34 هندسة ساسير بولاق </p></div>
-<div type="entry"><head><persName><surname>الرفاعي</surname> <hi rend="quotation-marks" xml:id="hi_1348.d2e36252">احمد</hi></persName></head>
-<p></p>
+<div type="entry" change="#d2e174" xml:id="div_62.d2e2254"><head change="#d2e174" xml:id="head_61.d2e2255"><persName change="#d2e174" xml:id="persName_66.d2e2256"><surname change="#d2e174" xml:id="surname_65.d2e2257">الرفاعي</surname> <hi rend="quotation-marks" xml:id="hi_1348.d2e36252">احمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_215.d2e2263"/>
                     <p xml:id="p_5614.d2e36256">احمد الرفاعي الكبير الحسيني الانصاري البرهان المؤيد
                         لصاحب مد اليد 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_63.d2e2267">مصر</placeName>
                         1322 ص 125 </p></div>
-<div type="entry"><head><persName><surname>لرفاعي</surname> <hi rend="quotation-marks" xml:id="hi_1349.d2e36258">احمد الموصلي</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_63.d2e2271"><head change="#d2e174" xml:id="head_62.d2e2272"><persName change="#d2e174" xml:id="persName_67.d2e2273"><surname change="#d2e174" xml:id="surname_66.d2e2274">لرفاعي</surname> <hi rend="quotation-marks" xml:id="hi_1349.d2e36258">احمد الموصلي</hi></persName></head>
+<p change="#d2e174" xml:id="p_217.d2e2280">
                         *
                         الوتري الموصلي الرفاعي </p></div>
-<div type="entry"><head><persName><surname>الازهري</surname> <hi rend="quotation-marks" xml:id="hi_1350.d2e36261">(الشيخ) احمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_64.d2e2283"><head change="#d2e174" xml:id="head_63.d2e2284"><persName change="#d2e174" xml:id="persName_68.d2e2285"><surname change="#d2e174" xml:id="surname_67.d2e2286">الازهري</surname> <hi rend="quotation-marks" xml:id="hi_1350.d2e36261">(الشيخ) احمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_218.d2e2292">
                         شيخ رواق الفيومية بجامع
                         الازهر سنة 1312 1 حاشية على شرح محمد بحرق على لامية الافعال لابن مالك (صرف)
                                 ال
-                        <choice>
-                            <abbr>مط</abbr>
-                            <expan>مطبعة</expan></choice>الوهبية 1297
+                        <choice change="#d2e174" xml:id="choice_63.d2e2294">
+                            <abbr change="#d2e174" xml:id="abbr_63.d2e2296">مط</abbr>
+                            <expan change="#d2e174" xml:id="expan_63.d2e2299">مطبعة</expan></choice>الوهبية 1297
                                 ال
-                        <choice>
-                            <abbr>مط</abbr>
-                            <expan>مطبعة</expan></choice>الخيرية 1304
+                        <choice change="#d2e174" xml:id="choice_64.d2e2302">
+                            <abbr change="#d2e174" xml:id="abbr_64.d2e2304">مط</abbr>
+                            <expan change="#d2e174" xml:id="expan_64.d2e2307">مطبعة</expan></choice>الخيرية 1304
                         2 الحزب المصون..} 3 خطب..} 4 مجموعة اوارد..} لم اقف على تاريخ طبع هذه الكتب
                         الرفاعي الحسيني (578 511 هـ) (الشيخ احمد بن أبي الحسن علي بن يحيى الشهير
                         بالرفاعي الحسيني الانصاري لامام الزاهد.</p>
@@ -1298,18 +1298,18 @@
                             <abbr xml:id="abbr_1094.d2e36281">مط</abbr>
                             <expan xml:id="expan_1094.d2e36284">مطبعة</expan></choice>شرف 1301 ومعه حزب الوسيلة له أيضا ص 22 2 رحيق الكوثر من كلام الغوث
                         الرفاعي الاكبر 
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_64.d2e2332">بيروت</placeName>
                         1887 م ص 18 3 السر المصون وهو
                         حزب سيدي احمد الرفاعي 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_65.d2e2335">مصر</placeName>
                         1309 4 النظام الخاص لاهل
                         الاختصاص (تصوف) 
                         <choice xml:id="choice_1095.d2e36288">
                             <abbr xml:id="abbr_1095.d2e36290">مط</abbr>
                             <expan xml:id="expan_1095.d2e36293">مطبعة</expan></choice>العلمية 1313 الرفاعي العشماوي * العشماوي الرفاعي المخزومي *
                         </p></div>
-<div type="entry"><head><persName><surname>المخزومي</surname> <hi rend="quotation-marks" xml:id="hi_1351.d2e36297">محمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_65.d2e2348"><head change="#d2e174" xml:id="head_64.d2e2349"><persName change="#d2e174" xml:id="persName_69.d2e2350"><surname change="#d2e174" xml:id="surname_68.d2e2351">المخزومي</surname> <hi rend="quotation-marks" xml:id="hi_1351.d2e36297">محمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_223.d2e2357">
                         (الدكتور السيد) رفعت مدرس علم قواعد الصحة بالجامع الازهر علم قواعد الصحة
                         وفيه مقدمة و 23 درسا 
                         <choice xml:id="choice_1096.d2e36300">
@@ -1322,8 +1322,8 @@
                         <hi rend="quotation-marks" xml:id="hi_1352.d2e36315">العظم رفيق بك</hi>
                         الرقعي * عبد الرحمن
                         الرقعي </p></div>
-<div type="entry"><head><persName><surname>الرقي</surname> <hi rend="quotation-marks" xml:id="hi_1353.d2e36318">ابراهيم</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_66.d2e2377"><head change="#d2e174" xml:id="head_65.d2e2378"><persName change="#d2e174" xml:id="persName_70.d2e2379"><surname change="#d2e174" xml:id="surname_69.d2e2380">الرقي</surname> <hi rend="quotation-marks" xml:id="hi_1353.d2e36318">ابراهيم</hi></persName></head>
+<p change="#d2e174" xml:id="p_226.d2e2386">
                         * الرخجي 
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P955.xhtml" ed="print" n="949" xml:id="pb_481.d2e36321"/>
                         الركالي طاهر ابن الشيخ عبد
@@ -1332,10 +1332,10 @@
                         احمد بن بطال الركبي النظم المستعذب في شرح غريب المهذب (فقه شافعي) طبع بهامش
                         المهذب في المذهب للعلامة أبي اسحق الشيرازي الفيروذبادي
                             (
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_66.d2e2390">مصر</placeName>
                         1333) </p></div>
-<div type="entry"><head><persName><surname>رمزي</surname> <hi rend="quotation-marks" xml:id="hi_1354.d2e36323">ابراهيم افندي</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_67.d2e2394"><head change="#d2e174" xml:id="head_66.d2e2395"><persName change="#d2e174" xml:id="persName_71.d2e2396"><surname change="#d2e174" xml:id="surname_70.d2e2397">رمزي</surname> <hi rend="quotation-marks" xml:id="hi_1354.d2e36323">ابراهيم افندي</hi></persName></head>
+<p change="#d2e174" xml:id="p_227.d2e2403">
                         (..) 1 اياك يشتمل على
                         نصائح تهذيبية (معرب) 
                         <choice xml:id="choice_1097.d2e36326">
@@ -1346,7 +1346,7 @@
                             <abbr xml:id="abbr_1098.d2e36340">مط</abbr>
                             <expan xml:id="expan_1098.d2e36343">مطبعة</expan></choice>محمد محمد مطر 1913 ص 63 3 عليك نصائخ لتبصر الشبان بمقتضيات العيش
                         وأسرار النجاح 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_67.d2e2424">مصر</placeName>
                         ..4 كلمات نابوليون وهي حكم وجوامع
                         الكلم قالها نابوليون وأثبت فيه ترجمة نابوليون من مختصر تاريخه 
                         <choice xml:id="choice_1099.d2e36347">
@@ -1365,14 +1365,14 @@
                     <p xml:id="p_5625.d2e36372">حاشية الخيالي على شرح العقائد النسفية طبعت مع شرح
                         العقائد لسعد الدين التفتازاني رمضان (افندي) عبد القادر قانون السفرية معرب
                         بولاق 1259 </p></div>
-<div type="entry"><head><persName><surname>الرمضانفوري</surname> <hi rend="quotation-marks" xml:id="hi_1355.d2e36374">(الشيخ) محمد عبد الغفور شفا المتملل في مسألة الطهر المتخلل كتبها علي
+<div type="entry" change="#d2e174" xml:id="div_68.d2e2452"><head change="#d2e174" xml:id="head_67.d2e2453"><persName change="#d2e174" xml:id="persName_72.d2e2454"><surname change="#d2e174" xml:id="surname_71.d2e2455">الرمضانفوري</surname> <hi rend="quotation-marks" xml:id="hi_1355.d2e36374">(الشيخ) محمد عبد الغفور شفا المتملل في مسألة الطهر المتخلل كتبها علي
                             مبحث الطهر المتخلل الوارد في شرح الوقاية لصدر الشريعة (فقه حفي) هند 1304
                             ص 24 الرمضانفوري</hi></persName></head>
-<p>
+<p change="#d2e174" xml:id="p_233.d2e2461">
                         محمد عبد </p></div>
-<div type="entry"><head><persName><surname>الغني</surname> <hi rend="quotation-marks" xml:id="hi_1356.d2e36377">كاشف الغوامض عن علاج الزحير بالقوابض هند 1285
+<div type="entry" change="#d2e174" xml:id="div_69.d2e2464"><head change="#d2e174" xml:id="head_68.d2e2465"><persName change="#d2e174" xml:id="persName_73.d2e2466"><surname change="#d2e174" xml:id="surname_72.d2e2467">الغني</surname> <hi rend="quotation-marks" xml:id="hi_1356.d2e36377">كاشف الغوامض عن علاج الزحير بالقوابض هند 1285
                             ص 16 الرملي</hi></persName></head>
-<p>
+<p change="#d2e174" xml:id="p_234.d2e2473">
                         احمد بن حمزه " (957) (1) أبو العباس شهاب الدين احمد بن
                         احمد بن حمزه الرملي المنوفي المصري الانصاري الشافعي أخذ عن القاضي زكريا
                         ولازمه وانتفع به وكان يجله  
@@ -1389,20 +1389,20 @@
                         نفسه ولا يمكن أحدا أن يشتري له حاجة إلى أن كبر سنه وعجز توفي وصلى عليه في
                         الازهر 1 حاشية على شرح روض المطالب طبع بهامش اسنى المطالب في شرح روض الطالب
                         لشيخ الاسلام زكريا الانصاري (فقه شافعي) 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_68.d2e2491">مصر</placeName>
                         1313 2
                         شرح على منظومة الستين مسألة أنظر حاشية الميهي على هذا الشرح (فقه حنفي) 3 فتح
                         الجواد بشرح منظومة ابن العماد في المعفوات أوله الحمد لله الذي بعت محمدا -
                         صلى الله عليه وسلم - رحمة للعالمين فرغ من تأليفه سنة 940 وبالهامش تقريرات
                         للشيخ سليمان الجمل بولاق 1298 وطبع مع كتاب بلوغ المراد بشرح منظومة ابن عماد
                         تأليف حسين بن سليمان الرشيدي </p></div>
-<div type="entry"><head><persName><surname>الرملي</surname> <hi rend="quotation-marks" xml:id="hi_1357.d2e36397">خير الدين</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_70.d2e2495"><head change="#d2e174" xml:id="head_69.d2e2496"><persName change="#d2e174" xml:id="persName_74.d2e2497"><surname change="#d2e174" xml:id="surname_73.d2e2498">الرملي</surname> <hi rend="quotation-marks" xml:id="hi_1357.d2e36397">خير الدين</hi></persName></head>
+<p change="#d2e174" xml:id="p_239.d2e2504">
                         (1081 993) خير الدين بن احمد
                         بن احمد بن نور الدين علي بن زين الدين بن عبد الوهاب الايوبي العليمي الفاروقي
                         الحنفي شيخ الاسلام وفقيه المذهب النعماني صاحب الفتاوى المشهورة.</p>
                     <p xml:id="p_5630.d2e36401">كان مولده بالرملة (فلسطين) ثم رحل إلى
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_69.d2e2509">مصر</placeName>
                         وإقام بها مدة وعاد إلى بلده وقصده الناس من
                         الاقطار الشاسعة للاخذ عنه وطلب الاجازة منه</p>
                     <p xml:id="p_5631.d2e36404">الفتاوي الخيرية لنفع البرية (فقه حنفي) جمعها ولده
@@ -1424,15 +1424,15 @@
                     <p xml:id="p_5635.d2e36422">2 فتاوي (العلامة شمس الدين الرملي) أولها: الحمد لله
                         فاتح أبواب المقال ومانح أسباب النوال (فقه شافعي) طبع بهامش الفتاوي الكبرى
                         الفقهية لابن حجر الهيثمي (
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_70.d2e2532">مصر</placeName>
                         1308) 3 نهاية المحتاج
                         إلى شرح المنهاج (فقه شافعي) شرع في تأليفه سنة 963 واتمه سنة 973 بهامشه حاشية
                         نور الدين علي الشبراملسي وحاشية الشيخ احمد الرشيدي على الشرح المذكور جزء 8
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_71.d2e2535">مصر</placeName>
                         1286 بولاق 1292 جزء 8 </p></div>
-<div type="entry"><head><persName><surname>الرملي</surname> <hi rend="quotation-marks" xml:id="hi_1358.d2e36424">شهاب الدين احمد بن
+<div type="entry" change="#d2e174" xml:id="div_71.d2e2540"><head change="#d2e174" xml:id="head_70.d2e2541"><persName change="#d2e174" xml:id="persName_75.d2e2542"><surname change="#d2e174" xml:id="surname_74.d2e2543">الرملي</surname> <hi rend="quotation-marks" xml:id="hi_1358.d2e36424">شهاب الدين احمد بن
                             حسين</hi></persName></head>
-<p>
+<p change="#d2e174" xml:id="p_246.d2e2549">
                         (844 773) شهاب الدين (شيخ الاسلام) أبو العباس احمد بن حسين 
                         <note type="footnote" xml:id="note_637.d2e36427">
                             <p xml:id="p_5635.d2e36429">خلاصة الاثر 342 3 الخطط الجديدة 119 4 الانس
@@ -1451,7 +1451,7 @@
                         وانتفع به خلق كثير.</p>
                     <p xml:id="p_5643.d2e36455">ثم ترك التدريس والافتاء واقبل على الله تعالى ورحل من
                         الرملة إلى 
-                        <placeName>القدس</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_72.d2e2580">القدس</placeName>
                         .</p>
                     <p xml:id="p_5644.d2e36458">واقام بالزاوية الختنية وراء قبلة المسجد الاقصى وألف
                         كتبا في الفقه والنحو وغير ذلك.</p>
@@ -1461,12 +1461,12 @@
                     <p xml:id="p_5647.d2e36468">توفي بالزاوية الختنية الزبد (أو) متن الزبد في الفقه
                         وهي منظومة في التوحيد والفقه والتصوف (فقه شافعي) أوله: الحمد للاله ذي الجلال
                         * وشارع الحرام والحلال بهامشها تقييدات بولاق 1285 ص 55
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_73.d2e2596">مصر</placeName>
                         1286 بمبي 1312 ص 108 مكة 1316 ص 108 جاوه
                         1318.</p>
-                    <p xml:id="p_5648.d2e36471"></p></div>
-<div type="entry"><head><persName><surname>الرملي</surname> <hi rend="quotation-marks" xml:id="hi_1359.d2e36473">نجم الدين</hi></persName></head>
-<p>
+                    <p xml:id="p_5648.d2e36471"/></div>
+<div type="entry" change="#d2e174" xml:id="div_72.d2e2602"><head change="#d2e174" xml:id="head_71.d2e2603"><persName change="#d2e174" xml:id="persName_76.d2e2604"><surname change="#d2e174" xml:id="surname_75.d2e2605">الرملي</surname> <hi rend="quotation-marks" xml:id="hi_1359.d2e36473">نجم الدين</hi></persName></head>
+<p change="#d2e174" xml:id="p_260.d2e2611">
                         هو ابن خير الدين الرملي
                         المتقدم نزهة النواظر على الاشباه والنظائر وهو شرح على الاشباه والنظائر (في
                         الفقه) لابن نجيم المصري أول الشرح الحمد لله الذي من على من شاء من بريته الخ
@@ -1484,8 +1484,8 @@
                         <choice xml:id="choice_1100.d2e36484">
                             <abbr xml:id="abbr_1100.d2e36486">مط</abbr>
                             <expan xml:id="expan_1100.d2e36489">مطبعة</expan></choice>الموسوعات 1321 ص 48 الرندي النفزي * ابن </p></div>
-<div type="entry"><head><persName><surname>عباد</surname> <hi rend="quotation-marks" xml:id="hi_1360.d2e36493">محمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_73.d2e2630"><head change="#d2e174" xml:id="head_72.d2e2631"><persName change="#d2e174" xml:id="persName_77.d2e2632"><surname change="#d2e174" xml:id="surname_76.d2e2633">عباد</surname> <hi rend="quotation-marks" xml:id="hi_1360.d2e36493">محمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_263.d2e2639">
                         (الاب)
                         رنزفال اليسوعي فرنساوي الاصل ولد في فيلبة سنة 1865 وكان والده فيها قنصلا
                         للدولة الفرنساوية له اطلاع في اللغات السامية وفي العاديات والنقود القديمة
@@ -1493,17 +1493,17 @@
                         <choice xml:id="choice_1101.d2e36496">
                             <abbr xml:id="abbr_1101.d2e36498">مط</abbr>
                             <expan xml:id="expan_1101.d2e36501">مطبعة</expan></choice>اليسوعيين 
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_74.d2e2649">بيروت</placeName>
                         1898 ص 80</p>
                     <p xml:id="p_5651.d2e36506">الرهاوي شرف الدين أبو زكريا يحيى الرهاوي الحنفي
                         حاشية على شرح المنار لابن ملك ومعها حاشية عزمي زاده على شرح رضى الدين الحلبي
                         على شرح المنار (علم الاصول) 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_75.d2e2655">مصر</placeName>
                         .</p>
                     <p xml:id="p_5652.d2e36510">وفي الاستانة 1315 ضمن مجموعة في انصاف الشرح المذكور
                         </p></div>
-<div type="entry"><head><persName><surname>رهبه</surname> <hi rend="quotation-marks" xml:id="hi_1361.d2e36512">جرجى ابراهيم</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_74.d2e2662"><head change="#d2e174" xml:id="head_73.d2e2663"><persName change="#d2e174" xml:id="persName_78.d2e2664"><surname change="#d2e174" xml:id="surname_77.d2e2665">رهبه</surname> <hi rend="quotation-marks" xml:id="hi_1361.d2e36512">جرجى ابراهيم</hi></persName></head>
+<p change="#d2e174" xml:id="p_266.d2e2671">
                         نزهة الطلب في علم المغاني والطرب  
                         <note type="footnote" xml:id="note_638.d2e36515">
                             <p xml:id="p_5652.d2e36517">ابن خلكان 418 1 مفتاح السعادة 142 1 (*)</p></note>
@@ -1519,18 +1519,18 @@
                         مالك) جزء 8 بولاق 1306 7 فاس 1294</p>
                     <p xml:id="p_5654.d2e36533">جزء 8 2 التحصن والمنعة ممن اعتقد أن السنة بدعة (فقه
                         مالك) فاس 1309 ص 21 </p></div>
-<div type="entry"><head><persName><surname>الرهوي</surname> <hi rend="quotation-marks" xml:id="hi_1362.d2e36535">محمد</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_75.d2e2692"><head change="#d2e174" xml:id="head_74.d2e2693"><persName change="#d2e174" xml:id="persName_79.d2e2694"><surname change="#d2e174" xml:id="surname_78.d2e2695">الرهوي</surname> <hi rend="quotation-marks" xml:id="hi_1362.d2e36535">محمد</hi></persName></head>
+<p change="#d2e174" xml:id="p_269.d2e2701">
                         اللؤلؤ المنظوم في علم الطلاسم
                         والنجوم 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_76.d2e2703">مصر</placeName>
                         دون تاريخ ص 102 </p></div>
-<div type="entry"><head><persName><surname>الرهيني</surname> <hi rend="quotation-marks" xml:id="hi_1363.d2e36538">الشيخ علي</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_76.d2e2707"><head change="#d2e174" xml:id="head_75.d2e2708"><persName change="#d2e174" xml:id="persName_80.d2e2709"><surname change="#d2e174" xml:id="surname_79.d2e2710">الرهيني</surname> <hi rend="quotation-marks" xml:id="hi_1363.d2e36538">الشيخ علي</hi></persName></head>
+<p change="#d2e174" xml:id="p_270.d2e2716">
                         1 تحفة
                         الراغبين في حفظ عقائد الدين أنظر ما بعده 2 حاشية على تحفة الراغبين في حفظ
                         عقائد الدين 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_77.d2e2718">مصر</placeName>
                         1287 رؤبة بن العجاج (145) أبو محمد
                         رؤبة بن العجاج هو وأبوه العجاج بن رؤبة راجزان مشهوران كل منهما  
                         <note type="footnote" xml:id="note_639.d2e36541">
@@ -1545,20 +1545,20 @@
                     <p xml:id="p_5658.d2e36556">ديوان رؤبة بن العجاج طبع ضمن مجموع اشعار العرب
                         المطبوع في برلين سنة 1903 في الجزء الثالث الروحي أبو الحسن * أبو الحسن علي
                         روحي بك الخالدي * </p></div>
-<div type="entry"><head><persName><surname>الخالدي</surname> <hi rend="quotation-marks" xml:id="hi_1364.d2e36558">محمد روحي بك</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_77.d2e2739"><head change="#d2e174" xml:id="head_76.d2e2740"><persName change="#d2e174" xml:id="persName_81.d2e2741"><surname change="#d2e174" xml:id="surname_80.d2e2742">الخالدي</surname> <hi rend="quotation-marks" xml:id="hi_1364.d2e36558">محمد روحي بك</hi></persName></head>
+<p change="#d2e174" xml:id="p_275.d2e2748">
                         رؤوف (بك) الجادرجي حقوق
                         الامم مجموعة محاضرات ألقاها رؤوف بك على طلاب الصف الثاني لمدرسة الحقوق قسم
                         الحرب ص 93 قسم الصلح ص 242 
                         <choice xml:id="choice_1103.d2e36561">
                             <abbr xml:id="abbr_1103.d2e36563">مط</abbr>
                             <expan xml:id="expan_1103.d2e36566">مطبعة</expan></choice>دار السلام 
-                        <placeName>بغداد</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_78.d2e2758">بغداد</placeName>
                         1922 1341 (الانسة)
                         روزاصاحب السورية الشامية وقد كتمت اسميها فدونته بحرفي ر.</p>
                     <p xml:id="p_5659.d2e36571">ص.</p>
                     <p xml:id="p_5660.d2e36575">كان وفاتها في سنة 1921 م قطائف اللطائف
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_79.d2e2767">مصر</placeName>
                         96 / 1889 م.</p>
                     <p xml:id="p_5661.d2e36578">جزء 2 ص 248 و 141 روفائيل تاوضروس رئيس قلم ايرادات
                         مديرية الجيرة التعليمات المرعية في أعمال مديرات الحكومة المصرية 
@@ -1573,30 +1573,30 @@
                     <p xml:id="p_5663.d2e36595">ولما بلغ من العمر ثلاث عشرة سنة وقع في ارضهم طاعون
                         عظيم فتوفي أبوه وأحد اخوته فهاجر إلى الحجاز وجاور بمكة سنة وبالمدينة المنورة
                         سنتين ثم جاء 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_80.d2e2790">مصر</placeName>
                         لاستكمال علوم الشريعة ونزلها سنة
                         1238 وتلقى احكام السنة والفنون عن مشايخ الازهر وبقي مقيما في الازهر ثلاث
                         عشرة سنة.</p>
                     <p xml:id="p_5664.d2e36598">وفي سنة 1251 خرج من 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_81.d2e2796">مصر</placeName>
                         قافلا
                         إلى العراق وأخذ هناك الطريقة الرفاعية.</p>
                     <p xml:id="p_5665.d2e36601">وطاف بعدها البلاد ودخل ديار فارس ثم ذهب إلى السند
                         والهند والصين.</p>
                     <p xml:id="p_5666.d2e36605">وعاد إلى العراق وسار في الكردستان والاناطول
                         والقسطنطينية وبلاد الروملي ثم عاد إلى الشام ودخل 
-                        <placeName>دمشق</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_82.d2e2805">دمشق</placeName>
                         وحمص وحماه.</p>
                     <p xml:id="p_5667.d2e36608">وكانت وفاته في 
-                        <placeName>بغداد</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_83.d2e2811">بغداد</placeName>
                         1 الحكم
                         المهدوية الملتقطة من درر الامدادات النبوية (تصوف)
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_84.d2e2814">بيروت</placeName>
                         ص 78 2 رفرف العناية (تصوف) 
                         <choice xml:id="choice_1105.d2e36610">
                             <abbr xml:id="abbr_1105.d2e36612">مط</abbr>
                             <expan xml:id="expan_1105.d2e36615">مطبعة</expan></choice>العمومية 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_85.d2e2825">مصر</placeName>
                         1315 ص 130 2 ديوان مشكاة
                         اليقين ومحجة المتقين بآخره ترجمة المؤلف 
                         <choice xml:id="choice_1106.d2e36619">
@@ -1612,8 +1612,8 @@
                         <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P964.xhtml" ed="print" n="958" xml:id="cb_479.d2e36643"/>وتوفي في تونس وولي رئاسة
                         الفتوى فيها له رسائل جمعها حفيده عمر الرياحي أنظر عمر الرياحي الرياحي * عمر
                         الرياحي رياض حسن * حسن افندي رياض </p></div>
-<div type="entry"><head><persName><surname>رياض</surname> <hi rend="quotation-marks" xml:id="hi_1365.d2e36645">علي بك</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_78.d2e2854"><head change="#d2e174" xml:id="head_77.d2e2855"><persName change="#d2e174" xml:id="persName_82.d2e2856"><surname change="#d2e174" xml:id="surname_81.d2e2857">رياض</surname> <hi rend="quotation-marks" xml:id="hi_1365.d2e36645">علي بك</hi></persName></head>
+<p change="#d2e174" xml:id="p_289.d2e2863">
                         (1317 هـ) كان أجزجي باشى
                         اسبتالية قصر العيني ومعلم فن الاقرباذين والكيميا بالمدرسة الطبية المصرية 1
                         الازهار الرياضية في المادة الطبية 
@@ -1622,34 +1622,34 @@
                             <expan xml:id="expan_1107.d2e36653">مطبعة</expan></choice>وادي النيل 1296 ص 308 و 407 وهو كتاب جامع للمفردات الطبية اجتنب
                         فيه التطويل الممل والنمط المخل جزء 2 2 التوفيقات الالهية في التاريخ الطبيعي
                         طبع بعضه بمصر 1298 3 الحيوان والتاريخ الطبيعي 
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_86.d2e2873">مصر</placeName>
                         4
                         النفحة الرياضية في الاعمال الاقرباذينية بولاق 1289</p>
-                    <p xml:id="p_5672.d2e36658"></p></div>
-<div type="entry"><head><persName><surname>رياص</surname> <hi rend="quotation-marks" xml:id="hi_1366.d2e36660">غبريال</hi></persName></head>
-<p>
+                    <p xml:id="p_5672.d2e36658"/></div>
+<div type="entry" change="#d2e174" xml:id="div_79.d2e2879"><head change="#d2e174" xml:id="head_78.d2e2880"><persName change="#d2e174" xml:id="persName_83.d2e2881"><surname change="#d2e174" xml:id="surname_82.d2e2882">رياص</surname> <hi rend="quotation-marks" xml:id="hi_1366.d2e36660">غبريال</hi></persName></head>
+<p change="#d2e174" xml:id="p_291.d2e2888">
                         نزهة الادباء
-                        <placeName>مصر</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_87.d2e2890">مصر</placeName>
                         </p></div>
-<div type="entry"><head><persName><surname>رياض</surname> <hi rend="quotation-marks" xml:id="hi_1367.d2e36663">محمد افندي</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_80.d2e2894"><head change="#d2e174" xml:id="head_79.d2e2895"><persName change="#d2e174" xml:id="persName_84.d2e2896"><surname change="#d2e174" xml:id="surname_83.d2e2897">رياض</surname> <hi rend="quotation-marks" xml:id="hi_1367.d2e36663">محمد افندي</hi></persName></head>
+<p change="#d2e174" xml:id="p_292.d2e2903">
                         * محمد افندي رياض </p></div>
-<div type="entry"><head><persName><surname>ريحاني</surname> <hi rend="quotation-marks" xml:id="hi_1368.d2e36666">امين افندي</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_81.d2e2906"><head change="#d2e174" xml:id="head_80.d2e2907"><persName change="#d2e174" xml:id="persName_85.d2e2908"><surname change="#d2e174" xml:id="surname_84.d2e2909">ريحاني</surname> <hi rend="quotation-marks" xml:id="hi_1368.d2e36666">امين افندي</hi></persName></head>
+<p change="#d2e174" xml:id="p_293.d2e2915">
                         1
                         الثورة الفرنساوية رسالة الحقها بمقابلة انتقادية جمع فيها الافكار التي تولدت
                         في نفسه حينما قرأ تاريخ الثورة الذي ألفه توماس كارليل نيويورك 1903. 
                         <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P965.xhtml" ed="print" n="959" xml:id="pb_486.d2e36669"/>
                         2 الريحانيات مجموع مقالات
                         وخطب وشعر ومنثور (1) جزء 2 
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_88.d2e2919">بيروت</placeName>
                         1910 3 في نار
                         المراقبة وفي نور الدستور خطابان طبع 
-                        <placeName>بيروت</placeName>
+                        <placeName change="#d2e174" xml:id="placeName_89.d2e2922">بيروت</placeName>
                         ص 22 4
                         المحالفة الثلاثية في المملكة الحيوانية والمكاري والكاهن نيويورك 1903 </p></div>
-<div type="entry"><head><persName><surname>ريط</surname> <hi rend="quotation-marks" xml:id="hi_1369.d2e36671">وليم</hi></persName></head>
-<p>
+<div type="entry" change="#d2e174" xml:id="div_82.d2e2926"><head change="#d2e174" xml:id="head_81.d2e2927"><persName change="#d2e174" xml:id="persName_86.d2e2928"><surname change="#d2e174" xml:id="surname_85.d2e2929">ريط</surname> <hi rend="quotation-marks" xml:id="hi_1369.d2e36671">وليم</hi></persName></head>
+<p change="#d2e174" xml:id="p_294.d2e2935">
                         (1888 1830
                         م) (2) ولد في الهند ودرس في اسكتلنده وتعلم اللغة العربية في ليدن وتولي نظارة
                         المخطوطات الشرقية في خزانة لندن ووصف مخطوطاتها السريانية ودرس العربية في
@@ -1657,8 +1657,8 @@
                         مجموعة</p>
                     <p xml:id="p_5673.d2e36676">رقم 20 وعني بنشر رحلة ابن جبير وكتاب الكامل للمبرد 
                         <note type="footnote" xml:id="note_641.d2e36678">
-                            <p xml:id="p_5673.d2e36680">(1) أنظر نقد الريحانيات في مجلة <title level="j" change="#d2e164">المشرق</title> جزء
-                                13 ص 389 و 703 ووصفها في مجلة <title level="j" change="#d2e164">المقتطف</title> مايو 1910 (2)) * (W.</p>
+                            <p xml:id="p_5673.d2e36680">(1) أنظر نقد الريحانيات في مجلة <title level="j" change="#d2e164 #d2e174" xml:id="title_14.d2e2944">المشرق</title> جزء
+                                13 ص 389 و 703 ووصفها في مجلة <title level="j" change="#d2e164 #d2e174" xml:id="title_15.d2e2947">المقتطف</title> مايو 1910 (2)) * (W.</p>
                             <p xml:id="p_5674.d2e36683">Wright</p></note>
                         <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P966.xhtml" ed="print" n="960" xml:id="cb_480.d2e36687"/>رينو (أو) رينود (1867 م)
                         (1) اقتفى آثار أستاذه دي ساسي في المشرقيات لا سيما العربية وكان أمينا على
