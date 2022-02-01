@@ -51,7 +51,7 @@
                   </author>
                   <imprint xml:id="imprint_1.d2e87">
                      <publisher xml:id="publisher_1.d2e89">
-                        <orgName xml:id="orgName_2.d2e91">مكتبة الثقافة الدينية</orgName>
+                        <orgName xml:id="orgName_2.d2e91" xml:lang="ar">مكتبة الثقافة الدينية</orgName>
                      </publisher>
                      <pubPlace xml:id="pubPlace_1.d2e95">
                         <placeName xml:id="placeName_1.d2e97">القاهرة</placeName>

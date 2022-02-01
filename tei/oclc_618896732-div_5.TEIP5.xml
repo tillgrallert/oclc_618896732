@@ -43,7 +43,7 @@
                   </author>
                   <imprint xml:id="imprint_1.d2e87">
                      <publisher xml:id="publisher_1.d2e89">
-                        <orgName xml:id="orgName_2.d2e91">مكتبة الثقافة الدينية</orgName>
+                        <orgName xml:id="orgName_2.d2e91" xml:lang="ar">مكتبة الثقافة الدينية</orgName>
                      </publisher>
                      <pubPlace xml:id="pubPlace_1.d2e95">
                         <placeName xml:id="placeName_1.d2e97">القاهرة</placeName>
@@ -693,7 +693,7 @@
             <p xml:id="p_4364.d2e26808">ثم جاء <placeName change="#d2e176" xml:id="placeName_117.d2e2716">مصر</placeName> فأقام بها أياما يخالط أهل العلم وارتحل إلى الاستانة ولم يطل مقامه بها حتى تقرب من قلوب الامراء والوزراء.</p>
             <p xml:id="p_4365.d2e26811">فكان ذلك داعيا لنفيه من الاستانة فعاد إلى القاهرة وانتشر صيته في الديار المصرية.</p>
             <p xml:id="p_4366.d2e26814">وتقدم فن الكتابة العربية بسعيه.</p>
-            <p xml:id="p_4367.d2e26817">وفي سنه 1296 أبعد من <placeName change="#d2e176" xml:id="placeName_118.d2e2729">مصر</placeName> فرحل إلى الهند ومنها إلى لندن وباريس وأنشأ جريدة <title level="j" change="#d2e166 #d2e176" xml:id="title_11.d2e2732">العروة</title> الوثقى.</p>
+            <p xml:id="p_4367.d2e26817">وفي سنه 1296 أبعد من <placeName change="#d2e176" xml:id="placeName_118.d2e2729">مصر</placeName> فرحل إلى الهند ومنها إلى لندن وباريس وأنشأ جريدة <title level="j" change="#d2e166 #d2e176" xml:id="title_11.d2e2732">العروة الوثقى</title>.</p>
             <p xml:id="p_4368.d2e26820">وكان يحررها مع صديقه الامام محمد عبده نشر منها ثمانية عشر عددا وهي آية في قوة البلاغة وحسن البيان.</p>
             <p xml:id="p_4369.d2e26823">ثم استدعاه السلطان عبد الحميد فقدم الاستانة سنة 1310 وبقي فيها إلى أن مات (ملخصا عن ترجمته بقلم الامام محمد عبده المدرجة في مجلة <title level="j" change="#d2e166 #d2e176" xml:id="title_12.d2e2741">البيان</title> سنة 1897 م) 1 أبطال مذهب الدهريين وبيان مفاسدهم</p>
             <p xml:id="p_4370.d2e26827">واثبات ان الدين اساس المدنية والكفر فساد العمران رسالة ترجمها من اللغة الفارسية إلى اللغة العربية الشيخ محمد عبده بمساعدة عارف أفندي أبي تراب 
@@ -709,7 +709,7 @@
                   <abbr xml:id="abbr_751.d2e26854">مط</abbr>
                   <expan xml:id="expan_751.d2e26857">مطبعة</expan>
                </choice> الموسوعات 1900 1318 ص 192 3 الرد على الدهريين هو أبطال الدهريين المذكور في عدد 1 4 العروة الوثقى لا انفصام لها وهي متن</p>
-            <p xml:id="p_4374.d2e26862">جريدة <title level="j" change="#d2e171 #d2e176" xml:id="title_15.d2e2792">العروة</title> الوثقى برمتها.</p>
+            <p xml:id="p_4374.d2e26862">جريدة <title level="j" change="#d2e171 #d2e176" xml:id="title_15.d2e2792">العروة الوثقى</title> برمتها.</p>
             <p xml:id="p_4375.d2e26865">أعيد طبعها ب<choice change="#d2e176" xml:id="choice_81.d2e2798"><abbr change="#d2e176" xml:id="abbr_81.d2e2799">مط</abbr><expan change="#d2e176" xml:id="expan_81.d2e2801">مطبعة</expan></choice> التوفيق ببيروت 1328 ص 232 و 227 جمال الدين حسن بن يوسف كشف المراد في التنجيم بمبي 1894 ص 244 جمال القرشي أبو الفضل محمد بن عمر المدعو بجمال القرشي 1 الصراح من الصحاح وهو مختصر صحاح الجوهري مع ترجمته إلى اللغة الفارسية ويليه: 2 القراح بتكمل الصحاح ثم 3 نور الصباح في أغلاط الصحاح هند 1328.
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P714.xhtml" ed="print" n="708" xml:id="cb_354.d2e26867"/>

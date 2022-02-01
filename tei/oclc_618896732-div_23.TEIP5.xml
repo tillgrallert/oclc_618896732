@@ -32,7 +32,7 @@
             <title level="m" type="sub" xml:id="title_4.d2e69">هو شامل لأسماء الكتب المطبوعة في الأقطار الشرقية والغربية مع ذكر أسماء مؤلفيها ولمعة من ترجمتهم وذلك من يوم ظهور الطباعة إلى نهاية السنة الهجرية 1339 الموافقة لسنة 1919 ميلادية </title>
             <author ref="http://viaf.org/viaf/49375370" xml:id="author_2.d2e72"> <persName xml:id="persName_3.d2e74" xml:lang="ar"> <forename xml:id="forename_3.d2e76">يوسف</forename> بن <forename xml:id="forename_4.d2e79">اليان</forename> <surname xml:id="surname_2.d2e82">سركيس</surname> </persName> </author>
             <imprint xml:id="imprint_1.d2e87">
-              <publisher xml:id="publisher_1.d2e89"> <orgName xml:id="orgName_2.d2e91">مكتبة الثقافة الدينية</orgName> </publisher>
+              <publisher xml:id="publisher_1.d2e89"> <orgName xml:id="orgName_2.d2e91" xml:lang="ar">مكتبة الثقافة الدينية</orgName> </publisher>
               <pubPlace xml:id="pubPlace_1.d2e95"> <placeName xml:id="placeName_1.d2e97">القاهرة</placeName> </pubPlace>
               <date when="1928" xml:id="date_1.d2e101">1928</date>
             </imprint>
@@ -2151,7 +2151,7 @@
           <p xml:id="p_9419.d2e68160">وكان المترجم في صباه مولعا بالعلم والادب.</p>
           <p xml:id="p_9420.d2e68163">فاتفق مع عارف باشا لتأسيس شركة من شأنها نشر الكتب العربية المفيدة وأنشأ لذلك في سنة 1285 مطبعة هي من أقدم المطابع المصرية وصحب اسماعيل باشا حين ابعاده إلى ايطاليا وأقام بخدمته بضع سنوات.</p>
           <p xml:id="p_9421.d2e68166">وفي عام 1279 أصدر صحيفة سياسية دينية باللغتين العربية والتركية في مدينة نابولي ولكن لم يصدر منها سوى عددين.</p>
-          <p xml:id="p_9422.d2e68169">ثم اشترك مع جمال الدين الافغاني بتحرير جريدة <title change="#d2e166 #d2e178" level="j" xml:id="title_46.d2e10349">العروة</title> الوثقى.</p>
+          <p xml:id="p_9422.d2e68169">ثم اشترك مع جمال الدين الافغاني بتحرير جريدة <title change="#d2e166 #d2e178" level="j" xml:id="title_46.d2e10349">العروة الوثقى</title>.</p>
           <p xml:id="p_9423.d2e68173">وفي أثناء ذلك</p>
           <p xml:id="p_9424.d2e68176">رحل إلى الاستانة فاكرم السلطان عبد الحميد وفادته وعينه عضوا لمجلس المعارف فاقام بهذه الوظيفة عشر سنوات.</p>
           <p xml:id="p_9425.d2e68179">ثم رجع إلى <placeName change="#d2e178" xml:id="placeName_477.d2e10361">مصر</placeName> وأخذ يراسل بعض الجرائد وألف كتابه ما هنالك وهو أحسن ما حرر في أسرار يلدز بالعهد الحميدي ما هنالك - وفيه وصف حال الاستانة والمابين ورجاله قبل الدستور - نشره غفلا عن اسمه - <choice xml:id="choice_2390.d2e68181">
