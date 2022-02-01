@@ -9,9 +9,13 @@ This repository contains the TEI XML edition of the two volumes of Sarkīs, Yūs
 Following the workflow and using the code of the [OpenArabicPE](https://www.github.com/openarabicpe) project, this edition is based on the digital transcription scraped from [*Maktaba Shamela*](http://shamela.ws/index.php/book/1242). Digital facsimiles are available at 
 - the [Internet Archive](https://www.archive.org)
     + [vol. 1](https://archive.org/details/MUJAAMSARKIS01), [vol. 1](https://archive.org/details/lis00040)
-    + [vol. 2](https://archive.org/details/lis00040)
 - HathTrust: [vol. 1](https://hdl.handle.net/2027/inu.30000011432139), [vol. 2](https://hdl.handle.net/2027/inu.30000124763958)
 
 # current state
 
 Sarkīs' work is sorted alphabetically by "surname" and the repository contains one TEI XML file for each letter of the Arabic alphabet. Mark-up is still rudimentary and only includes a few author headings (the main reason for this state of affairs is the awfully bad quality of the HTML provided by *shamela.ws* that broke the text into random paragraphs). A human readible HTML web display is available [here](https://rawgit.com/tillgrallert/oclc_618896732/master/tei/oclc_618896732-div_1.TEIP5.xml).
+
+- structure of the TEI files
+    + one file per letter (`...-div_{1-27}.TEIP5.xml`)
+    + this overlaps with the original division into volumes with continuous pagination
+    + the the split between vol. 1 and 2 occurs in the middle of the letter [`ش`](tei/oclc_618896732-div_12.TEIP5.xml), between column 1144 and 1137.
