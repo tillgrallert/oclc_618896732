@@ -70,7 +70,7 @@
             <p xml:id="p_3.d2e153">Digital imagery is available at HathiTrust (<ref target="http://hdl.handle.net/2027/inu.30000011432139" xml:id="ref_2.d2e155">vol. 1</ref> and <ref target="http://hdl.handle.net/2027/inu.30000124763958" xml:id="ref_3.d2e158">vol. 2</ref>.</p>
         </samplingDecl>
       </encodingDesc>
-      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2020-04-09" who="#pers_TG" xml:id="d2e171" xml:lang="en">Added automated <tei:att xml:lang="en">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en">tei:text</tei:gi> and had no existing <tei:att xml:lang="en">xml:id</tei:att> following the pattern "name()_generate-id()".</change><change when="2019-04-02" who="#pers_TG" xml:lang="en" change="#d2e171" xml:id="change_1.d2e165">Automatically marked up references to periodicals with <tag change="#d2e171" xml:id="tag_2.d2e167">title level="j"</tag>.</change>
+      <revisionDesc xml:id="revisionDesc_1.d2e164"><change when="2022-02-03" who="#pers_TG" xml:id="d2e188" xml:lang="en">Automatically wrapped all <tag>title level="j"</tag> preceded by مجلة or جريدة in a <tag>bibl type="periodical"</tag></change><tei:change when="2022-02-03" who="#pers_TG" xml:lang="en">Automatically marked up references to periodicals with <tag>bibl type="periodical"</tag> and <tag>title level="j"</tag>.</tei:change><change when="2020-04-09" who="#pers_TG" xml:id="d2e171" xml:lang="en">Added automated <tei:att xml:lang="en">xml:id</tei:att>s for every element that is a descendant of <tei:gi xml:lang="en">tei:text</tei:gi> and had no existing <tei:att xml:lang="en">xml:id</tei:att> following the pattern "name()_generate-id()".</change><change when="2019-04-02" who="#pers_TG" xml:lang="en" change="#d2e171" xml:id="change_1.d2e165">Automatically marked up references to periodicals with <tag change="#d2e171" xml:id="tag_2.d2e167">title level="j"</tag>.</change>
          <change when="2016-10-01" who="#pers_TG" xml:id="change_1.d2e166">Created this TEI P5 file by automatic conversion from ePub.</change>
       </revisionDesc>
   </teiHeader>
@@ -120,7 +120,7 @@
 <div type="entry" change="#d2e171" xml:id="div_9.d2e399"><head change="#d2e171" xml:id="head_9.d2e400"><persName change="#d2e171" xml:id="persName_11.d2e401"><surname change="#d2e171" xml:id="surname_10.d2e402">غرغور</surname> <hi rend="quotation-marks" xml:id="hi_2171.d2e52896">نجيب </hi></persName></head>
 <p change="#d2e171" xml:id="p_21.d2e408"> حديقة الادب - اسكندرية 1888 الغرولي * الغزولي </p></div>
 <div type="entry" change="#d2e171" xml:id="div_10.d2e411"><head change="#d2e171" xml:id="head_10.d2e412"><persName change="#d2e171" xml:id="persName_12.d2e413"><surname change="#d2e171" xml:id="surname_11.d2e414">الغريب</surname> <hi rend="quotation-marks" xml:id="hi_2172.d2e52899">أمين (افندي) </hi></persName></head>
-<p change="#d2e171" xml:id="p_22.d2e420"> صاحب جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_5.d2e422">الحارس</title> البيروتية
+<p change="#d2e171" xml:id="p_22.d2e420"> صاحب <bibl type="periodical" subtype="newspaper" change="#d2e188">جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_5.d2e422">الحارس</title></bibl> البيروتية
 
           <cb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1414.xhtml" ed="print" n="1408" xml:id="cb_704.d2e52902"/>
                <hi style="color:red;" xml:id="hi_2173.d2e52904">1 - </hi>
@@ -150,7 +150,7 @@
                   <p xml:id="p_7596.d2e52968">ابن خلكان 1 - 586 طبقات السبكي 4 - 101 مفتاح السعادة 1 - 191.</p>
                   <p xml:id="p_7597.d2e52971">الفوائد البهية ص 243 بالتعليقات طبقات الاسدي 33 روضات الجنات 4 - 180.</p>
                   <p xml:id="p_7598.d2e52974">جلاء العينين 73.</p>
-                  <p xml:id="p_7599.d2e52977">وللاستاذ محمد الخضرى ترجمة الغزالي نشرت في مجلة <title level="j" change="#d2e166 #d2e171" xml:id="title_6.d2e526">المقتطف</title> جزء 34 ص 478 و 529 - أنظر أيضا الغواص واللآلئ للدكتور زويمر والاخلاق عند الغزالي للدكتور زكي مبارك (*)</p>
+                  <p xml:id="p_7599.d2e52977">وللاستاذ محمد الخضرى ترجمة الغزالي نشرت في <bibl type="periodical" subtype="journal" change="#d2e188">مجلة <title level="j" change="#d2e166 #d2e171" xml:id="title_6.d2e526">المقتطف</title></bibl> جزء 34 ص 478 و 529 - أنظر أيضا الغواص واللآلئ للدكتور زويمر والاخلاق عند الغزالي للدكتور زكي مبارك (*)</p>
                </note>
                <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1415.xhtml" ed="print" n="1409" xml:id="pb_711.d2e52981"/>حجة الاسلام زين الطوسي الفقيه الشافعي أصله من غزالة وهي قرية من أعمال طوس وكان والده يغزل الصوف ويبيعه في دكانه.</p>
             <p xml:id="p_7601.d2e52984">فلما حضرته الوفاة وصى</p>
@@ -173,7 +173,7 @@
                <hi style="color:red;" xml:id="hi_2175.d2e53032">4 - </hi>أربع رسائل للغزالي فيها - (1) الجام العوام عن علم الكلام (2) المنقذ من الضلال (3) المضنون به على غير أهله (4) المضنون الصغير وهو الموسوم بالاجوبة الغزالية في المسائل الاخراوية - <placeName change="#d2e171" xml:id="placeName_29.d2e594">مصر</placeName> 1303 و 1309 بمبئ 1891 ص 144 5 - الاربعين في أصول الدين - وهو القسم الثالث من جواهر القرآن للمؤلف - مكة 1302 ص 108 6 - أسرار الحج - (فقه شافعي) <placeName change="#d2e171" xml:id="placeName_30.d2e597">مصر</placeName> (دون تاريخ) ص 108 صغير 7 - الاقتصاد في الاعتقاد - (توحيد) <placeName change="#d2e171" xml:id="placeName_31.d2e600">مصر</placeName> (دون تاريخ) ص 115 - <choice xml:id="choice_1767.d2e53035">
                   <abbr xml:id="abbr_1767.d2e53037">مط</abbr>
                   <expan xml:id="expan_1767.d2e53040">مطبعة</expan>
-               </choice> جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_7.d2e613">الاسلام</title> 1320 - <choice xml:id="choice_1768.d2e53044">
+               </choice> <bibl type="periodical" subtype="newspaper" change="#d2e188">جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_7.d2e613">الاسلام</title></bibl> 1320 - <choice xml:id="choice_1768.d2e53044">
                   <abbr xml:id="abbr_1768.d2e53046">مط</abbr>
                   <expan xml:id="expan_1768.d2e53049">مطبعة</expan>
                </choice> السعادة 1327 8 - الجام العوام من علم الكلام - (توحيد) استانة 1287 ص 91 - مدراس (هند) 1306 - <choice xml:id="choice_1769.d2e53053">
@@ -239,7 +239,7 @@
                   <abbr xml:id="abbr_1778.d2e53220">مط</abbr>
                   <expan xml:id="expan_1778.d2e53223">مطبعة</expan>
                </choice> الادبية (دون تاريخ) ص 133 35 - مختصر مكاشفة القلوب - أنظر ما بعده مكاشفة القلوب 36 - المرشد الامين إلى موعظة المؤمنين - من احياء علوم الدين.</p>
-            <p xml:id="p_7627.d2e53229">قال في أوله بعد الحمدلة: قد عن لي في بعض أسفاري أن أستخرج من كتاب احياء علوم الدين لبابه لتعذر استصحابه مع كبر حجمه..عني بنشره الاستاذ عبد القوي افندي الحلبي صاحب مجلة <title level="j" change="#d2e166 #d2e171" xml:id="title_8.d2e844">العالمين</title> وهو نجل الشيخ مصطفى البابي الحلبي - بمطبعة مصطفى الحلبي 1341 ص 312 37 - المستضئ (من علم الاصول) - رتبه علي مقدمة وأربعة أقطاب.</p>
+            <p xml:id="p_7627.d2e53229">قال في أوله بعد الحمدلة: قد عن لي في بعض أسفاري أن أستخرج من كتاب احياء علوم الدين لبابه لتعذر استصحابه مع كبر حجمه..عني بنشره الاستاذ عبد القوي افندي الحلبي صاحب <bibl type="periodical" subtype="journal" change="#d2e188">مجلة <title level="j" change="#d2e166 #d2e171" xml:id="title_8.d2e844">العالمين</title></bibl> وهو نجل الشيخ مصطفى البابي الحلبي - بمطبعة مصطفى الحلبي 1341 ص 312 37 - المستضئ (من علم الاصول) - رتبه علي مقدمة وأربعة أقطاب.</p>
             <p xml:id="p_7628.d2e53232">المقدمة لها للتوطئة.</p>
             <p xml:id="p_7629.d2e53235">والتمهيد والاقطاب هي المشتملة على لباب المقصود.</p>
             <p xml:id="p_7630.d2e53238">الاول في الاحكام والثاني في الادلة والثالث في طريقة الاستثمار والرابع في المستثمر - فرغ من تأليفه سنة 503 - معه كتاب فواتح الرحموت لعبد العلي محمد بن نظام الدين الانصاري بشرح مسلم الثبوت في أصول الفقه للشيخ محب</p>
@@ -331,13 +331,13 @@
             <p xml:id="p_7651.d2e53447">وفيه 32 رسما - <choice xml:id="choice_1791.d2e53449">
                   <abbr xml:id="abbr_1791.d2e53451">مط</abbr>
                   <expan xml:id="expan_1791.d2e53454">مطبعة</expan>
-               </choice> الهلال 1913 ص 523 غطاس (افندي) قندلفت مدير المدرسة الاكليريكية في البلمند امتيازات الجماعات المسيحية في المملكة العثمانية تأليف ستافروس فوتيراس محرر جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_9.d2e1163">النيولوغوس</title>
+               </choice> الهلال 1913 ص 523 غطاس (افندي) قندلفت مدير المدرسة الاكليريكية في البلمند امتيازات الجماعات المسيحية في المملكة العثمانية تأليف ستافروس فوتيراس محرر <bibl type="periodical" subtype="newspaper" change="#d2e188">جريدة <title level="j" change="#d2e166 #d2e171" xml:id="title_9.d2e1163">النيولوغوس</title></bibl>
 
           <pb corresp="file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/ArabicTeiEdition/Sarkis1928/1242_epub/OEBPS/xhtml/P1425.xhtml" ed="print" n="1419" xml:id="pb_716.d2e53458"/>
           اليونانية في القسطنطينية (معرب) <placeName change="#d2e171" xml:id="placeName_49.d2e1168">طرابلس شام</placeName> 1912</p>
             <p xml:id="p_7652.d2e53461">ص 57 (الميرزا) غلام احمد 1 - حمامة البشرى إلى أهل مكه وصلحاء أم القرى طبع حجر هند 1311 ص 112 2 - قصائد احمدية - (المسيح الموعود والمهدي المعهود) قاديان الهند 1329 ص 158 3 - مواهب الرحمن - طبع حجر <placeName change="#d2e171" xml:id="placeName_50.d2e1174">مصر</placeName> 1320 غلام علي * آزاد غلام يحيى * </p></div>
 <div type="entry" change="#d2e171" xml:id="div_19.d2e1178"><head change="#d2e171" xml:id="head_19.d2e1179"><persName change="#d2e171" xml:id="persName_21.d2e1180"><surname change="#d2e171" xml:id="surname_20.d2e1181">البهاري</surname> <hi rend="quotation-marks" xml:id="hi_2188.d2e53463">(الشيخ) غلام </hi></persName></head>
-<p change="#d2e171" xml:id="p_90.d2e1187"> الغلائينى (الشيخ) مصطفى بن محمد سليم الغلائينى البيروتي منشئ مجلة <title level="j" change="#d2e166 #d2e171" xml:id="title_10.d2e1189">النبراس</title> ومدرس العربية في المكتب السلطاني والكلية العثمانية ببيروت 1 - أريج الزهر - كتاب اخلاقي اجتماعي أدبي حوى ما كتبه المؤلف من المقالات في الصحف والمجلات <choice xml:id="choice_1792.d2e53466">
+<p change="#d2e171" xml:id="p_90.d2e1187"> الغلائينى (الشيخ) مصطفى بن محمد سليم الغلائينى البيروتي منشئ <bibl type="periodical" subtype="journal" change="#d2e188">مجلة <title level="j" change="#d2e166 #d2e171" xml:id="title_10.d2e1189">النبراس</title></bibl> ومدرس العربية في المكتب السلطاني والكلية العثمانية ببيروت 1 - أريج الزهر - كتاب اخلاقي اجتماعي أدبي حوى ما كتبه المؤلف من المقالات في الصحف والمجلات <choice xml:id="choice_1792.d2e53466">
                   <abbr xml:id="abbr_1792.d2e53468">مط</abbr>
                   <expan xml:id="expan_1792.d2e53471">مطبعة</expan>
                </choice> الاهلية <placeName change="#d2e171" xml:id="placeName_51.d2e1201">بيروت</placeName> 1329 - 1911 ص 240 2 - الاسلام روح المدنية والورد كرومر - <placeName change="#d2e171" xml:id="placeName_52.d2e1204">بيروت</placeName>..3 - الثريا المضيئة في الدروس العروضية - <placeName change="#d2e171" xml:id="placeName_53.d2e1207">بيروت</placeName> 1319 ص 48 4 - الدروس العربية - الحلقة الاولى سلم - الثانية تمهيدي - الثالثة قسم الصرف - الرابعة قسم النحو</p>
