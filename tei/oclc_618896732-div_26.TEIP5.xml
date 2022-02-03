@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../boilerplate/xslt/teibp_parameters.xsl"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-  schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="oclc_618896732-div_26" next="oclc_618896732-div_27" prev="oclc_618896732-div_25">
-   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="teiHeader_1.d2e6">
+  schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:oape="https://openarabicpe.github.io/ns" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="oclc_618896732-div_26" next="oclc_618896732-div_27" prev="oclc_618896732-div_25">
+   <teiHeader xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xml:id="teiHeader_1.d2e6">
       <fileDesc xml:id="fileDesc_1.d2e8">
          <titleStmt xml:id="titleStmt_1.d2e10">
             <title xml:id="title_1.d2e12">معجم المطبوعات العربية والمعربة</title>
@@ -25,11 +25,11 @@
          </publicationStmt>
          <sourceDesc xml:id="sourceDesc_1.d2e58">
         <!--<p>
-          <dc:title xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">معجم المطبوعات العربية والمعربة</dc:title>
-          <dc:creator opf:role="aut" xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">اليان سركيس</dc:creator>
-          <dc:publisher xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">http://shamela.ws</dc:publisher>
-          <dc:language xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">ar</dc:language>
-          <dc:identifier id="BookID" opf:scheme="UUID" xmlns="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/">urn:uuid:b7863ffc9dd21946d047a19af8388308</dc:identifier>
+          <dc:title>معجم المطبوعات العربية والمعربة</dc:title>
+          <dc:creator opf:role="aut">اليان سركيس</dc:creator>
+          <dc:publisher>http://shamela.ws</dc:publisher>
+          <dc:language>ar</dc:language>
+          <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:b7863ffc9dd21946d047a19af8388308</dc:identifier>
         </p>-->
             <biblStruct xml:lang="ar" xml:id="biblStruct_1.d2e62">
                <monogr xml:id="monogr_1.d2e64">
@@ -76,7 +76,7 @@
   </teiHeader>
    <text xml:lang="ar" change="#d2e171" xml:id="text_1.d2e176">
       <body change="#d2e171" xml:id="body_1.d2e178">
-         <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xd="http://www.pnp-software.com/XSLTdoc" xml:id="div_54.d2e71183" type="section">
+         <div xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xml:id="div_54.d2e71183" type="section">
             <head xml:id="head_47.d2e71185">حرف الواو</head>
             <p xml:id="p_9751.d2e71188">وابكي أو وابيك فرانتس (1826 - 1864 م) ولد في بلدة قريبة من ليبسيك (المانيا) ودرس في ويتمبرغ ثم رحل إلى برلين وتفرغ لدرس الرياضيات وفي سنة 1848 التقى بالمستشرق الشهير فريتاغ في بونه فعلمه العربية وفتح له بابا لدرس آثار العرب في الحساب والمقابلة والجبر والهندسة والهيئة.</p>
             <p xml:id="p_9752.d2e71191">فخصص مذ ذاك الحين نفسه لاحياء دفائنها فنشر الكتب الآتية: (1) براهين الجبر والمقابلة لعمر بن ابراهيم الخيام - أنظر الخيام (2) كتاب بلس في الاعظام المنطقة - أنظر أبو</p>
