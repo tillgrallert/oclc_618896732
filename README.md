@@ -13,7 +13,7 @@ Following the workflow and using the code of the [OpenArabicPE](https://www.gith
 
 # current state
 
-Sarkīs' work is sorted alphabetically by "surname" and the repository contains one TEI XML file for each letter of the Arabic alphabet. Mark-up is still rudimentary and only includes a few author headings (the main reason for this state of affairs is the awfully bad quality of the HTML provided by *shamela.ws* that broke the text into random paragraphs). A human readible HTML web display is available [here](https://rawgit.com/tillgrallert/oclc_618896732/master/tei/oclc_618896732-div_1.TEIP5.xml).
+Sarkīs' work is sorted alphabetically by "surname" and the repository contains one TEI XML file for each letter of the Arabic alphabet. Mark-up is still rudimentary and only includes a few author headings (the main reason for this state of affairs is the awfully bad quality of the HTML provided by *shamela.ws* that broke the text into random paragraphs). A human readible HTML web display is available [here](https://tillgrallert.github.io/oclc_618896732/tei/oclc_618896732-div_1.TEIP5.xml).
 
 - structure of the TEI files
     + one file per letter (`...-div_{1-27}.TEIP5.xml`)
